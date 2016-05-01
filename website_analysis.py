@@ -21,8 +21,9 @@ def analyze():
         website = line.strip()
         output_file = website + '.txt'
         os.system("/home/sahil/Desktop/Release/chrome "+website+" 2> " + output_file)
-	time.sleep(10)
+	time.sleep(3)
         os.system("pkill chromium")
+	exit()
 
 #    f.close()
 
