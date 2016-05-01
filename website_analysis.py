@@ -30,8 +30,7 @@ def analyze():
             os.system("/home/sahil/Desktop/Release/chrome "+website+" 2> " + output_file)
     	    time.sleep(2)
             for proc in psutil.process_iter():
-   			  # check whether the process name matches
-  			   if proc.name() == PROCNAME:
+                if proc.name() == PROCNAME:
                     proc.kill()
 
     	# time.sleep(2)
