@@ -2,7 +2,6 @@
 import json
 import sys
 import os
-import time
 
 
 #input_path = '/Users/sahiljain/Google_Drive/SBU/Academics/Spring_16/CSE534/FCN_Project/git_code_self'
@@ -21,8 +20,7 @@ def analyze():
         website = line.strip()
         output_file = website + '.txt'
         os.system("/home/sahil/Desktop/Release/chrome "+website+" 2> " + output_file)
-	time.sleep(10)
-        os.system("pkill chromium")
+        # os.system("pkill chrome")
 
 #    f.close()
 
