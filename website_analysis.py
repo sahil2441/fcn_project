@@ -11,11 +11,14 @@ def analyze():
     file = input_path + '/' + input_file
     f=open(file)
 
+    # Go to Resource directory
+    os.system("cd ~/Desktop/Resource")
+
     for line in f:
         website = line.strip()
         output_file = website + '.txt'
-        os.system("./chromium "+website+" > " + output_file)
-        os.system("pkill chromium")
+        os.system("./chrome "+website+" > " + output_file)
+        # os.system("pkill chrome")
 
     f.close()
 
