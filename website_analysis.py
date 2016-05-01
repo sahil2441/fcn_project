@@ -17,12 +17,15 @@ def analyze():
     os.chdir('/home/sahil/Desktop/git_code/fcn_project')
 	
     # file = ['www.google.com']
-    for line in file:
-        website = line.strip()
-        output_file = website + '.txt'
-        os.system("/home/sahil/Desktop/Release/chrome "+website+" 2> " + output_file)
-    	time.sleep(3)
-        os.system("pkill chromium")
+    # 10 iterations
+    for i in range(1):
+        for line in file:
+            website = line.strip()
+            output_file = website + '.txt'
+            os.system("/home/sahil/Desktop/Release/chrome "+website+" 2> " + output_file)
+    	    time.sleep(3)
+            os.system("pkill chromium")
 	    # exit()
+
 if __name__ == '__main__':
     analyze()
