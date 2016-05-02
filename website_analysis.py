@@ -18,7 +18,7 @@ def analyze():
     # f=open(file)
 
     # Go to Resource directory
-    os.chdir('/home/sahil/Desktop/git_code/fcn_project/result2')
+    os.chdir('/home/sahil/Desktop/git_code/fcn_project/apache_tomcat')
     os.system("sudo chmod -R 777 .")
 	
     # file = [
@@ -35,19 +35,27 @@ def analyze():
     #     ]
 
     # 15 iterations
+    # file = [
+    #     'www.huffingtonpost.com',
+    #     'www.thedailybeast.com',
+    #     'www.lifehacker.com',
+    #     'www.gawker.com',
+    #     'www.techcrunch.com',
+    #     'www.engadget.com',
+    #     'www.cheezburger.com'
+    # ]
+
     file = [
-        'www.huffingtonpost.com',
-        'www.thedailybeast.com',
-        'www.lifehacker.com',
-        'www.gawker.com',
-        'www.techcrunch.com',
-        'www.engadget.com',
-        'www.cheezburger.com'
+            '172.24.17.204:8080/accu',
+            '172.24.17.204:8080/youtube',
+            '172.24.17.204:8080/images'
     ]
-    for i in range(5):
+
+    for i in range(25):
         for line in file:
             website = line.strip()
-            output_file = website + str(i) + '.txt'
+            file_name = website.translate(None, ':/')
+            output_file = file_name + str(i) + '.txt'
             os.system("/home/sahil/Desktop/Release/chrome "+website+" 2> " + output_file)
             
 
