@@ -18,24 +18,33 @@ def analyze():
     # f=open(file)
 
     # Go to Resource directory
-    os.chdir('/home/sahil/Desktop/git_code/fcn_project')
+    os.chdir('/home/sahil/Desktop/git_code/fcn_project/result2')
     os.system("sudo chmod -R 777 .")
 	
-    file = [
-        'http://www.cabotransfers.com',
-        'http://www.ntz-holding.ru',
-        'http://www.mathgameonline.net',
-        'http://www.nanonano.me',
-        'http://www.okcmar.org',
-        'http://www.foodandseek.com.au',
-        'http://www.yogateca.com',
-        'http://www.mtaani.com',
-        'http://www.romafamilywelcome.org',
-        'http://www.magno-pulse.com'
-        ]
+    # file = [
+    #     'www.cabotransfers.com',
+    #     'www.ntz-holding.ru',
+    #     'www.mathgameonline.net',
+    #     'www.nanonano.me',
+    #     'www.okcmar.org',
+    #     'www.foodandseek.com.au',
+    #     'www.yogateca.com',
+    #     'www.mtaani.com',
+    #     'www.romafamilywelcome.org',
+    #     'www.magno-pulse.com',
+    #     ]
 
     # 15 iterations
-    for i in range(10):
+    file = [
+        'www.huffingtonpost.com',
+        'www.thedailybeast.com',
+        'www.lifehacker.com',
+        'www.gawker.com',
+        'www.techcrunch.com',
+        'www.engadget.com',
+        'www.cheezburger.com'
+    ]
+    for i in range(5):
         for line in file:
             website = line.strip()
             output_file = website + str(i) + '.txt'
