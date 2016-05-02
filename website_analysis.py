@@ -21,21 +21,39 @@ def analyze():
     os.chdir('/home/sahil/Desktop/git_code/fcn_project')
     os.system("sudo chmod -R 777 .")
 	
-    file = ['www.google.com', 'www.wikipedia.com']
+    file = ["www.fc2.com",
+                "www.netflix.com",
+                "www.360.cn",
+                "www.googleadservices.com",
+                "www.stackoverflow.com",
+                "www.amazon.de",
+                "www.craigslist.org",
+                "www.google.ca",
+                "www.ok.ru",
+                "www.adcash.com",
+                "www.google.com.mx",
+                "www.diply.com",
+                "www.tianya.cn",
+                "www.google.com.hk",
+                "www.pornhub.com",
+                "www.alibaba.com",
+                "www.rakuten.co.jp",
+                "www.naver.com",
+                "www.amazon.co.uk",
+                "www.google.com.tr",
+                "www.adobe.com",
+                "www.xinhuanet.com",
+                "www.gmail.com",
+                "www.outbrain.com",
+                "www.xhamster.com"
+            ]
     # 10 iterations
     for i in range(1):
         for line in file:
             website = line.strip()
-            output_file = website + '.txt'
+            output_file = website + str(i) + '.txt'
             os.system("/home/sahil/Desktop/Release/chrome "+website+" 2> " + output_file)
-    	    time.sleep(2)
-            for proc in psutil.process_iter():
-                if proc.name() == PROCNAME:
-                    proc.kill()
-
-    	# time.sleep(2)
-	    print i
-	    #exit()
+            
 
 if __name__ == '__main__':
     analyze()
