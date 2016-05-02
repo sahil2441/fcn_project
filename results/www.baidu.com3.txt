@@ -1,0 +1,403 @@
+[31471:31481:8934385916:ERROR:web_data_service.cc(657)] Cannot initialize the web database: 2
+[31471:31471:8935874012:ERROR:CONSOLE(1)] "Uncaught ReferenceError: InspectorFrontendAPI is not defined", source:  (1)
+{"page": "www.baidu.com_"}
+{"DOMLoad": 8936.957666}
+{"Resource": {"id": 1, "url": "http://www.baidu.com/", "sentTime": -1.000000, "len": 99831, "from": "(nil)",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 23, "connReused": 0, "cached": 0,                            "requestTime": 8934.985518, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 16, "connectEnd": 16, "sendStart": 16, "sendEnd": 17, "receiveHeadersEnd": 359, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 8935.367432, "len": 9057}}
+{"ReceivedChunk": {"receivedTime": 8935.410505, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 8935.604406, "len": 56782}}
+{"ReceivedChunk": {"receivedTime": 8936.024458, "len": 1224}}
+{"WprofHTMLTag": {"code": "0xb7ad6cf0", "doc": "http://www.baidu.com/", "row": 0, "column": 37, "tagName": "html", "time": 8935.368966, "url": "", "pos": 37, "chunkLen": 9027, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7ad6d20", "doc": "http://www.baidu.com/", "row": 0, "column": 43, "tagName": "head", "time": 8935.369287, "url": "", "pos": 43, "chunkLen": 9027, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7ad6de0", "doc": "http://www.baidu.com/", "row": 0, "column": 109, "tagName": "meta", "time": 8935.369321, "url": "", "pos": 109, "chunkLen": 9027, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7ad6e40", "doc": "http://www.baidu.com/", "row": 0, "column": 162, "tagName": "meta", "time": 8935.369344, "url": "", "pos": 162, "chunkLen": 9027, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7ad6ea0", "doc": "http://www.baidu.com/", "row": 0, "column": 201, "tagName": "meta", "time": 8935.369352, "url": "", "pos": 201, "chunkLen": 9027, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7ad6f30", "doc": "http://www.baidu.com/", "row": 0, "column": 244, "tagName": "meta", "time": 8935.369359, "url": "", "pos": 244, "chunkLen": 9027, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7ad63f0", "doc": "http://www.baidu.com/", "row": 0, "column": 312, "tagName": "link", "time": 8935.369367, "url": "http://www.baidu.com/favicon.ico", "pos": 312, "chunkLen": 9027, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7ad64b0", "doc": "http://www.baidu.com/", "row": 0, "column": 418, "tagName": "link", "time": 8935.369640, "url": "http://www.baidu.com/content-search.xml", "pos": 418, "chunkLen": 9027, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7ad6510", "doc": "http://www.baidu.com/", "row": 0, "column": 489, "tagName": "link", "time": 8935.369665, "url": "http://www.baidu.com/img/baidu.svg", "pos": 489, "chunkLen": 9027, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7ad6600", "doc": "http://www.baidu.com/", "row": 0, "column": 540, "tagName": "link", "time": 8935.369691, "url": "http://s1.bdstatic.com/", "pos": 540, "chunkLen": 9027, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7ad66c0", "doc": "http://www.baidu.com/", "row": 0, "column": 588, "tagName": "link", "time": 8935.369706, "url": "http://t1.baidu.com/", "pos": 588, "chunkLen": 9027, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7ad6750", "doc": "http://www.baidu.com/", "row": 0, "column": 636, "tagName": "link", "time": 8935.369712, "url": "http://t2.baidu.com/", "pos": 636, "chunkLen": 9027, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7ad67e0", "doc": "http://www.baidu.com/", "row": 0, "column": 684, "tagName": "link", "time": 8935.369717, "url": "http://t3.baidu.com/", "pos": 684, "chunkLen": 9027, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7ad6840", "doc": "http://www.baidu.com/", "row": 0, "column": 733, "tagName": "link", "time": 8935.369723, "url": "http://t10.baidu.com/", "pos": 733, "chunkLen": 9027, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7ad68a0", "doc": "http://www.baidu.com/", "row": 0, "column": 782, "tagName": "link", "time": 8935.369728, "url": "http://t11.baidu.com/", "pos": 782, "chunkLen": 9027, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7ad6900", "doc": "http://www.baidu.com/", "row": 0, "column": 831, "tagName": "link", "time": 8935.369732, "url": "http://t12.baidu.com/", "pos": 831, "chunkLen": 9027, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7ad6960", "doc": "http://www.baidu.com/", "row": 0, "column": 882, "tagName": "link", "time": 8935.369762, "url": "http://b1.bdstatic.com/", "pos": 882, "chunkLen": 9027, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7ad69c0", "doc": "http://www.baidu.com/", "row": 0, "column": 889, "tagName": "title", "time": 8935.369770, "url": "", "pos": 889, "chunkLen": 9027, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7a9f750", "doc": "http://www.baidu.com/", "row": 0, "column": 906, "tagName": "title", "time": 8935.399164, "url": "", "pos": 906, "chunkLen": 9027, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7a9f7e0", "doc": "http://www.baidu.com/", "row": 1, "column": 37, "tagName": "style", "time": 8935.399184, "url": "", "pos": 944, "chunkLen": 9027, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7a9f720", "doc": "http://www.baidu.com/", "row": 14, "column": 900, "tagName": "style", "time": 8935.411000, "url": "", "pos": 15972, "chunkLen": 41548, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7aa33c0", "doc": "http://www.baidu.com/", "row": 14, "column": 1187, "tagName": "style", "time": 8935.441664, "url": "", "pos": 16259, "chunkLen": 41548, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7a9f840", "doc": "http://www.baidu.com/", "row": 14, "column": 1225, "tagName": "style", "time": 8935.441733, "url": "", "pos": 16297, "chunkLen": 41548, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b00a80", "doc": "http://www.baidu.com/", "row": 14, "column": 1273, "tagName": "style", "time": 8935.441896, "url": "", "pos": 16345, "chunkLen": 41548, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b00a20", "doc": "http://www.baidu.com/", "row": 17, "column": 566, "tagName": "style", "time": 8935.441954, "url": "", "pos": 20293, "chunkLen": 41548, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b00f30", "doc": "http://www.baidu.com/", "row": 17, "column": 660, "tagName": "script", "time": 8935.442461, "url": "", "pos": 20387, "chunkLen": 41548, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b00ab0", "doc": "http://www.baidu.com/", "row": 17, "column": 774, "tagName": "script", "time": 8935.442484, "url": "", "pos": 20501, "chunkLen": 41548, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b005d0", "doc": "http://www.baidu.com/", "row": 17, "column": 784, "tagName": "noscript", "time": 8935.556039, "url": "", "pos": 11484, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b00fc0", "doc": "http://www.baidu.com/", "row": 17, "column": 866, "tagName": "noscript", "time": 8935.556080, "url": "", "pos": 11566, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b00660", "doc": "http://www.baidu.com/", "row": 17, "column": 874, "tagName": "script", "time": 8935.556084, "url": "", "pos": 11574, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b00630", "doc": "http://www.baidu.com/", "row": 17, "column": 924, "tagName": "script", "time": 8935.556093, "url": "", "pos": 11624, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b006f0", "doc": "http://www.baidu.com/", "row": 17, "column": 931, "tagName": "head", "time": 8935.556216, "url": "", "pos": 11631, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b00750", "doc": "http://www.baidu.com/", "row": 17, "column": 952, "tagName": "body", "time": 8935.556224, "url": "", "pos": 11652, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b007b0", "doc": "http://www.baidu.com/", "row": 17, "column": 960, "tagName": "script", "time": 8935.561551, "url": "", "pos": 11660, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b006c0", "doc": "http://www.baidu.com/", "row": 17, "column": 1655, "tagName": "script", "time": 8935.561599, "url": "", "pos": 12355, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b00870", "doc": "http://www.baidu.com/", "row": 17, "column": 1695, "tagName": "div", "time": 8935.562204, "url": "", "pos": 12395, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b008a0", "doc": "http://www.baidu.com/", "row": 17, "column": 1703, "tagName": "script", "time": 8935.562312, "url": "", "pos": 12403, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b00810", "doc": "http://www.baidu.com/", "row": 17, "column": 1795, "tagName": "script", "time": 8935.562326, "url": "", "pos": 12495, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b00930", "doc": "http://www.baidu.com/", "row": 17, "column": 1810, "tagName": "div", "time": 8935.562423, "url": "", "pos": 12510, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b00960", "doc": "http://www.baidu.com/", "row": 17, "column": 1836, "tagName": "div", "time": 8935.562431, "url": "", "pos": 12536, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b009c0", "doc": "http://www.baidu.com/", "row": 17, "column": 1856, "tagName": "div", "time": 8935.562436, "url": "", "pos": 12556, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b00030", "doc": "http://www.baidu.com/", "row": 17, "column": 1884, "tagName": "div", "time": 8935.562441, "url": "", "pos": 12584, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b00090", "doc": "http://www.baidu.com/", "row": 17, "column": 1897, "tagName": "div", "time": 8935.562444, "url": "", "pos": 12597, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b000f0", "doc": "http://www.baidu.com/", "row": 17, "column": 1983, "tagName": "img", "time": 8935.562452, "url": "", "pos": 12683, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b00150", "doc": "http://www.baidu.com/", "row": 17, "column": 1989, "tagName": "div", "time": 8935.562601, "url": "", "pos": 12689, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b001b0", "doc": "http://www.baidu.com/", "row": 17, "column": 2068, "tagName": "a", "time": 8935.562609, "url": "", "pos": 12768, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7aa20", "doc": "http://www.baidu.com/", "row": 17, "column": 2144, "tagName": "img", "time": 8935.562657, "url": "", "pos": 12844, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7aa80", "doc": "http://www.baidu.com/", "row": 17, "column": 2148, "tagName": "a", "time": 8935.567017, "url": "", "pos": 12848, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7aae0", "doc": "http://www.baidu.com/", "row": 17, "column": 2196, "tagName": "form", "time": 8935.567043, "url": "", "pos": 12896, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7ab40", "doc": "http://www.baidu.com/", "row": 17, "column": 2241, "tagName": "input", "time": 8935.568245, "url": "", "pos": 12941, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7abd0", "doc": "http://www.baidu.com/", "row": 17, "column": 2281, "tagName": "input", "time": 8935.568403, "url": "", "pos": 12981, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7ac00", "doc": "http://www.baidu.com/", "row": 17, "column": 2326, "tagName": "input", "time": 8935.568422, "url": "", "pos": 13026, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7acc0", "doc": "http://www.baidu.com/", "row": 17, "column": 2372, "tagName": "input", "time": 8935.568435, "url": "", "pos": 13072, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7acf0", "doc": "http://www.baidu.com/", "row": 17, "column": 2408, "tagName": "input", "time": 8935.568446, "url": "", "pos": 13108, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7ad50", "doc": "http://www.baidu.com/", "row": 17, "column": 2449, "tagName": "input", "time": 8935.568466, "url": "", "pos": 13149, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7adb0", "doc": "http://www.baidu.com/", "row": 17, "column": 2486, "tagName": "input", "time": 8935.568478, "url": "", "pos": 13186, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7ae70", "doc": "http://www.baidu.com/", "row": 17, "column": 2512, "tagName": "span", "time": 8935.568489, "url": "", "pos": 13212, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7af00", "doc": "http://www.baidu.com/", "row": 17, "column": 2595, "tagName": "input", "time": 8935.568503, "url": "", "pos": 13295, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7aed0", "doc": "http://www.baidu.com/", "row": 17, "column": 2602, "tagName": "span", "time": 8935.568723, "url": "", "pos": 13302, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7a420", "doc": "http://www.baidu.com/", "row": 17, "column": 2628, "tagName": "span", "time": 8935.568728, "url": "", "pos": 13328, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7a4b0", "doc": "http://www.baidu.com/", "row": 17, "column": 2687, "tagName": "input", "time": 8935.568735, "url": "", "pos": 13387, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7a540", "doc": "http://www.baidu.com/", "row": 17, "column": 2694, "tagName": "span", "time": 8935.568780, "url": "", "pos": 13394, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7a570", "doc": "http://www.baidu.com/", "row": 17, "column": 2714, "tagName": "span", "time": 8935.568783, "url": "", "pos": 13414, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7a5d0", "doc": "http://www.baidu.com/", "row": 17, "column": 2733, "tagName": "span", "time": 8935.568786, "url": "", "pos": 13433, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7a600", "doc": "http://www.baidu.com/", "row": 17, "column": 2748, "tagName": "div", "time": 8935.568789, "url": "", "pos": 13448, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7a630", "doc": "http://www.baidu.com/", "row": 17, "column": 2754, "tagName": "span", "time": 8935.568793, "url": "", "pos": 13454, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7a690", "doc": "http://www.baidu.com/", "row": 17, "column": 2764, "tagName": "span", "time": 8935.568798, "url": "", "pos": 13464, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7a6c0", "doc": "http://www.baidu.com/", "row": 17, "column": 2770, "tagName": "div", "time": 8935.568799, "url": "", "pos": 13470, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7a6f0", "doc": "http://www.baidu.com/", "row": 17, "column": 2785, "tagName": "ul", "time": 8935.568801, "url": "", "pos": 13485, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7a720", "doc": "http://www.baidu.com/", "row": 17, "column": 2789, "tagName": "li", "time": 8935.568810, "url": "", "pos": 13489, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7a780", "doc": "http://www.baidu.com/", "row": 17, "column": 2826, "tagName": "a", "time": 8935.568819, "url": "", "pos": 13526, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7a7e0", "doc": "http://www.baidu.com/", "row": 17, "column": 2832, "tagName": "a", "time": 8935.568827, "url": "", "pos": 13532, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7a810", "doc": "http://www.baidu.com/", "row": 17, "column": 2837, "tagName": "li", "time": 8935.568829, "url": "", "pos": 13537, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7a840", "doc": "http://www.baidu.com/", "row": 17, "column": 2841, "tagName": "li", "time": 8935.568830, "url": "", "pos": 13541, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7a870", "doc": "http://www.baidu.com/", "row": 17, "column": 2878, "tagName": "a", "time": 8935.568842, "url": "", "pos": 13578, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7a8d0", "doc": "http://www.baidu.com/", "row": 17, "column": 2884, "tagName": "a", "time": 8935.568846, "url": "", "pos": 13584, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7a900", "doc": "http://www.baidu.com/", "row": 17, "column": 2889, "tagName": "li", "time": 8935.568847, "url": "", "pos": 13589, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7a930", "doc": "http://www.baidu.com/", "row": 17, "column": 2904, "tagName": "li", "time": 8935.568849, "url": "", "pos": 13604, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7a990", "doc": "http://www.baidu.com/", "row": 17, "column": 2909, "tagName": "li", "time": 8935.568852, "url": "", "pos": 13609, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7a9c0", "doc": "http://www.baidu.com/", "row": 17, "column": 2913, "tagName": "li", "time": 8935.568853, "url": "", "pos": 13613, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7a000", "doc": "http://www.baidu.com/", "row": 17, "column": 2950, "tagName": "a", "time": 8935.568855, "url": "", "pos": 13650, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7a060", "doc": "http://www.baidu.com/", "row": 17, "column": 2956, "tagName": "a", "time": 8935.568859, "url": "", "pos": 13656, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7a090", "doc": "http://www.baidu.com/", "row": 17, "column": 2961, "tagName": "li", "time": 8935.568860, "url": "", "pos": 13661, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7a0c0", "doc": "http://www.baidu.com/", "row": 17, "column": 2966, "tagName": "ul", "time": 8935.568861, "url": "", "pos": 13666, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7a0f0", "doc": "http://www.baidu.com/", "row": 17, "column": 2973, "tagName": "span", "time": 8935.568862, "url": "", "pos": 13673, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7a120", "doc": "http://www.baidu.com/", "row": 17, "column": 2980, "tagName": "span", "time": 8935.568863, "url": "", "pos": 13680, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7a150", "doc": "http://www.baidu.com/", "row": 17, "column": 3020, "tagName": "input", "time": 8935.568865, "url": "", "pos": 13720, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7a180", "doc": "http://www.baidu.com/", "row": 17, "column": 3060, "tagName": "input", "time": 8935.568875, "url": "", "pos": 13760, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7a1e0", "doc": "http://www.baidu.com/", "row": 17, "column": 3120, "tagName": "input", "time": 8935.568884, "url": "", "pos": 13820, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7a240", "doc": "http://www.baidu.com/", "row": 17, "column": 3222, "tagName": "input", "time": 8935.568893, "url": "", "pos": 13922, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7a2a0", "doc": "http://www.baidu.com/", "row": 17, "column": 3229, "tagName": "form", "time": 8935.568899, "url": "", "pos": 13929, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7a300", "doc": "http://www.baidu.com/", "row": 17, "column": 3241, "tagName": "div", "time": 8935.568901, "url": "", "pos": 13941, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7a330", "doc": "http://www.baidu.com/", "row": 17, "column": 3247, "tagName": "div", "time": 8935.568904, "url": "", "pos": 13947, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7a360", "doc": "http://www.baidu.com/", "row": 17, "column": 3253, "tagName": "div", "time": 8935.568905, "url": "", "pos": 13953, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7a390", "doc": "http://www.baidu.com/", "row": 17, "column": 3259, "tagName": "div", "time": 8935.568906, "url": "", "pos": 13959, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7a3c0", "doc": "http://www.baidu.com/", "row": 17, "column": 3271, "tagName": "div", "time": 8935.568907, "url": "", "pos": 13971, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7fa20", "doc": "http://www.baidu.com/", "row": 17, "column": 3299, "tagName": "a", "time": 8935.568916, "url": "", "pos": 13999, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7fab0", "doc": "http://www.baidu.com/", "row": 17, "column": 3307, "tagName": "a", "time": 8935.568923, "url": "", "pos": 14007, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7fb10", "doc": "http://www.baidu.com/", "row": 17, "column": 3363, "tagName": "a", "time": 8935.568926, "url": "", "pos": 14063, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7fba0", "doc": "http://www.baidu.com/", "row": 17, "column": 3404, "tagName": "i", "time": 8935.568930, "url": "", "pos": 14104, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7fc00", "doc": "http://www.baidu.com/", "row": 17, "column": 3408, "tagName": "i", "time": 8935.568934, "url": "", "pos": 14108, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7fc30", "doc": "http://www.baidu.com/", "row": 17, "column": 3412, "tagName": "a", "time": 8935.568935, "url": "", "pos": 14112, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7fcc0", "doc": "http://www.baidu.com/", "row": 17, "column": 3549, "tagName": "a", "time": 8935.568948, "url": "", "pos": 14249, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7fd80", "doc": "http://www.baidu.com/", "row": 17, "column": 3555, "tagName": "a", "time": 8935.568978, "url": "", "pos": 14255, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7fdb0", "doc": "http://www.baidu.com/", "row": 17, "column": 3561, "tagName": "div", "time": 8935.568979, "url": "", "pos": 14261, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7fde0", "doc": "http://www.baidu.com/", "row": 17, "column": 3574, "tagName": "div", "time": 8935.568981, "url": "", "pos": 14274, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7fe40", "doc": "http://www.baidu.com/", "row": 17, "column": 3648, "tagName": "a", "time": 8935.568986, "url": "", "pos": 14348, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7fed0", "doc": "http://www.baidu.com/", "row": 17, "column": 3654, "tagName": "a", "time": 8935.568994, "url": "", "pos": 14354, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7ff30", "doc": "http://www.baidu.com/", "row": 17, "column": 3716, "tagName": "a", "time": 8935.568997, "url": "", "pos": 14416, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7ff90", "doc": "http://www.baidu.com/", "row": 17, "column": 3722, "tagName": "a", "time": 8935.569002, "url": "", "pos": 14422, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7f3f0", "doc": "http://www.baidu.com/", "row": 17, "column": 3786, "tagName": "a", "time": 8935.569004, "url": "", "pos": 14486, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7f450", "doc": "http://www.baidu.com/", "row": 17, "column": 3796, "tagName": "a", "time": 8935.569009, "url": "", "pos": 14496, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7f4b0", "doc": "http://www.baidu.com/", "row": 17, "column": 3856, "tagName": "a", "time": 8935.569012, "url": "", "pos": 14556, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7f510", "doc": "http://www.baidu.com/", "row": 17, "column": 3862, "tagName": "a", "time": 8935.569017, "url": "", "pos": 14562, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7f570", "doc": "http://www.baidu.com/", "row": 17, "column": 3922, "tagName": "a", "time": 8935.569019, "url": "", "pos": 14622, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7f5d0", "doc": "http://www.baidu.com/", "row": 17, "column": 3928, "tagName": "a", "time": 8935.569023, "url": "", "pos": 14628, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7f630", "doc": "http://www.baidu.com/", "row": 17, "column": 3992, "tagName": "a", "time": 8935.569025, "url": "", "pos": 14692, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7f690", "doc": "http://www.baidu.com/", "row": 17, "column": 3998, "tagName": "a", "time": 8935.569030, "url": "", "pos": 14698, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7f6c0", "doc": "http://www.baidu.com/", "row": 17, "column": 4143, "tagName": "a", "time": 8935.569039, "url": "", "pos": 14843, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7f750", "doc": "http://www.baidu.com/", "row": 17, "column": 4149, "tagName": "a", "time": 8935.569050, "url": "", "pos": 14849, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7f780", "doc": "http://www.baidu.com/", "row": 17, "column": 4245, "tagName": "a", "time": 8935.569053, "url": "", "pos": 14945, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7f7e0", "doc": "http://www.baidu.com/", "row": 17, "column": 4251, "tagName": "a", "time": 8935.569059, "url": "", "pos": 14951, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7f840", "doc": "http://www.baidu.com/", "row": 17, "column": 4342, "tagName": "a", "time": 8935.569062, "url": "", "pos": 15042, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7f8d0", "doc": "http://www.baidu.com/", "row": 17, "column": 4350, "tagName": "a", "time": 8935.569083, "url": "", "pos": 15050, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7f900", "doc": "http://www.baidu.com/", "row": 17, "column": 4356, "tagName": "div", "time": 8935.569084, "url": "", "pos": 15056, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7f930", "doc": "http://www.baidu.com/", "row": 17, "column": 4362, "tagName": "div", "time": 8935.569085, "url": "", "pos": 15062, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7f960", "doc": "http://www.baidu.com/", "row": 17, "column": 4368, "tagName": "div", "time": 8935.569086, "url": "", "pos": 15068, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7f990", "doc": "http://www.baidu.com/", "row": 17, "column": 4398, "tagName": "div", "time": 8935.569088, "url": "", "pos": 15098, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7f000", "doc": "http://www.baidu.com/", "row": 17, "column": 4401, "tagName": "b", "time": 8935.569091, "url": "", "pos": 15101, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7f060", "doc": "http://www.baidu.com/", "row": 17, "column": 4407, "tagName": "b", "time": 8935.569095, "url": "", "pos": 15107, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7f0c0", "doc": "http://www.baidu.com/", "row": 17, "column": 4533, "tagName": "a", "time": 8935.569106, "url": "", "pos": 15233, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7f150", "doc": "http://www.baidu.com/", "row": 17, "column": 4539, "tagName": "a", "time": 8935.569128, "url": "", "pos": 15239, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7f180", "doc": "http://www.baidu.com/", "row": 17, "column": 4651, "tagName": "a", "time": 8935.569136, "url": "", "pos": 15351, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7f210", "doc": "http://www.baidu.com/", "row": 17, "column": 4657, "tagName": "a", "time": 8935.569147, "url": "", "pos": 15357, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7f240", "doc": "http://www.baidu.com/", "row": 17, "column": 4804, "tagName": "a", "time": 8935.569153, "url": "", "pos": 15504, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7f2d0", "doc": "http://www.baidu.com/", "row": 17, "column": 4810, "tagName": "a", "time": 8935.569160, "url": "", "pos": 15510, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7f300", "doc": "http://www.baidu.com/", "row": 17, "column": 4936, "tagName": "a", "time": 8935.569169, "url": "", "pos": 15636, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b7f390", "doc": "http://www.baidu.com/", "row": 17, "column": 4942, "tagName": "a", "time": 8935.569180, "url": "", "pos": 15642, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b7f3c0", "doc": "http://www.baidu.com/", "row": 17, "column": 5116, "tagName": "a", "time": 8935.569189, "url": "", "pos": 15816, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b83a50", "doc": "http://www.baidu.com/", "row": 17, "column": 5122, "tagName": "a", "time": 8935.569204, "url": "", "pos": 15822, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b83a80", "doc": "http://www.baidu.com/", "row": 17, "column": 5270, "tagName": "a", "time": 8935.569211, "url": "", "pos": 15970, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b83b10", "doc": "http://www.baidu.com/", "row": 17, "column": 5276, "tagName": "a", "time": 8935.569219, "url": "", "pos": 15976, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b83b40", "doc": "http://www.baidu.com/", "row": 17, "column": 5391, "tagName": "a", "time": 8935.569222, "url": "", "pos": 16091, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b83bd0", "doc": "http://www.baidu.com/", "row": 17, "column": 5397, "tagName": "a", "time": 8935.569228, "url": "", "pos": 16097, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b83c00", "doc": "http://www.baidu.com/", "row": 17, "column": 5529, "tagName": "a", "time": 8935.569233, "url": "", "pos": 16229, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b83c90", "doc": "http://www.baidu.com/", "row": 17, "column": 5535, "tagName": "a", "time": 8935.569239, "url": "", "pos": 16235, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b83cc0", "doc": "http://www.baidu.com/", "row": 17, "column": 5618, "tagName": "a", "time": 8935.569241, "url": "", "pos": 16318, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b83d50", "doc": "http://www.baidu.com/", "row": 17, "column": 5625, "tagName": "a", "time": 8935.569250, "url": "", "pos": 16325, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b83d80", "doc": "http://www.baidu.com/", "row": 17, "column": 5631, "tagName": "div", "time": 8935.569251, "url": "", "pos": 16331, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b83db0", "doc": "http://www.baidu.com/", "row": 17, "column": 5647, "tagName": "div", "time": 8935.569252, "url": "", "pos": 16347, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b83de0", "doc": "http://www.baidu.com/", "row": 17, "column": 5674, "tagName": "div", "time": 8935.569256, "url": "", "pos": 16374, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b83e40", "doc": "http://www.baidu.com/", "row": 17, "column": 5691, "tagName": "div", "time": 8935.569267, "url": "", "pos": 16391, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b83e70", "doc": "http://www.baidu.com/", "row": 17, "column": 5730, "tagName": "div", "time": 8935.569271, "url": "", "pos": 16430, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b83ed0", "doc": "http://www.baidu.com/", "row": 17, "column": 5754, "tagName": "div", "time": 8935.569274, "url": "", "pos": 16454, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b83f30", "doc": "http://www.baidu.com/", "row": 17, "column": 5760, "tagName": "div", "time": 8935.569276, "url": "", "pos": 16460, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b83f60", "doc": "http://www.baidu.com/", "row": 17, "column": 5785, "tagName": "div", "time": 8935.569278, "url": "", "pos": 16485, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b83fc0", "doc": "http://www.baidu.com/", "row": 17, "column": 5788, "tagName": "p", "time": 8935.569280, "url": "", "pos": 16488, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b833f0", "doc": "http://www.baidu.com/", "row": 17, "column": 5791, "tagName": "b", "time": 8935.569287, "url": "", "pos": 16491, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b83450", "doc": "http://www.baidu.com/", "row": 17, "column": 5799, "tagName": "b", "time": 8935.569291, "url": "", "pos": 16499, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b83480", "doc": "http://www.baidu.com/", "row": 17, "column": 5803, "tagName": "p", "time": 8935.569292, "url": "", "pos": 16503, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b834b0", "doc": "http://www.baidu.com/", "row": 17, "column": 5806, "tagName": "p", "time": 8935.569293, "url": "", "pos": 16506, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b834e0", "doc": "http://www.baidu.com/", "row": 17, "column": 5812, "tagName": "span", "time": 8935.569295, "url": "", "pos": 16512, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b83540", "doc": "http://www.baidu.com/", "row": 17, "column": 5823, "tagName": "span", "time": 8935.569298, "url": "", "pos": 16523, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b83570", "doc": "http://www.baidu.com/", "row": 17, "column": 5827, "tagName": "p", "time": 8935.569299, "url": "", "pos": 16527, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b835a0", "doc": "http://www.baidu.com/", "row": 17, "column": 5833, "tagName": "div", "time": 8935.569300, "url": "", "pos": 16533, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b835d0", "doc": "http://www.baidu.com/", "row": 17, "column": 5839, "tagName": "div", "time": 8935.569301, "url": "", "pos": 16539, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b83600", "doc": "http://www.baidu.com/", "row": 17, "column": 5878, "tagName": "div", "time": 8935.569302, "url": "", "pos": 16578, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b83660", "doc": "http://www.baidu.com/", "row": 17, "column": 5902, "tagName": "div", "time": 8935.569305, "url": "", "pos": 16602, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b83690", "doc": "http://www.baidu.com/", "row": 17, "column": 5908, "tagName": "div", "time": 8935.569307, "url": "", "pos": 16608, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b836c0", "doc": "http://www.baidu.com/", "row": 17, "column": 5933, "tagName": "div", "time": 8935.569309, "url": "", "pos": 16633, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b836f0", "doc": "http://www.baidu.com/", "row": 17, "column": 5936, "tagName": "p", "time": 8935.569317, "url": "", "pos": 16636, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b83720", "doc": "http://www.baidu.com/", "row": 17, "column": 5939, "tagName": "b", "time": 8935.569320, "url": "", "pos": 16639, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b83780", "doc": "http://www.baidu.com/", "row": 17, "column": 5947, "tagName": "b", "time": 8935.569323, "url": "", "pos": 16647, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b837b0", "doc": "http://www.baidu.com/", "row": 17, "column": 5951, "tagName": "p", "time": 8935.569324, "url": "", "pos": 16651, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b837e0", "doc": "http://www.baidu.com/", "row": 17, "column": 5954, "tagName": "p", "time": 8935.569325, "url": "", "pos": 16654, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b83810", "doc": "http://www.baidu.com/", "row": 17, "column": 5960, "tagName": "span", "time": 8935.569327, "url": "", "pos": 16660, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b83870", "doc": "http://www.baidu.com/", "row": 17, "column": 5971, "tagName": "span", "time": 8935.569329, "url": "", "pos": 16671, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b838a0", "doc": "http://www.baidu.com/", "row": 17, "column": 5975, "tagName": "p", "time": 8935.569330, "url": "", "pos": 16675, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b838d0", "doc": "http://www.baidu.com/", "row": 17, "column": 5981, "tagName": "div", "time": 8935.569331, "url": "", "pos": 16681, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b83900", "doc": "http://www.baidu.com/", "row": 17, "column": 5987, "tagName": "div", "time": 8935.569332, "url": "", "pos": 16687, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b83930", "doc": "http://www.baidu.com/", "row": 17, "column": 5993, "tagName": "div", "time": 8935.569333, "url": "", "pos": 16693, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b83960", "doc": "http://www.baidu.com/", "row": 17, "column": 6010, "tagName": "div", "time": 8935.569334, "url": "", "pos": 16710, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b83990", "doc": "http://www.baidu.com/", "row": 17, "column": 6021, "tagName": "p", "time": 8935.569337, "url": "", "pos": 16721, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b83000", "doc": "http://www.baidu.com/", "row": 17, "column": 6127, "tagName": "a", "time": 8935.569341, "url": "", "pos": 16827, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b830c0", "doc": "http://www.baidu.com/", "row": 17, "column": 6138, "tagName": "a", "time": 8935.569348, "url": "", "pos": 16838, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b830f0", "doc": "http://www.baidu.com/", "row": 17, "column": 6281, "tagName": "a", "time": 8935.569352, "url": "", "pos": 16981, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b831b0", "doc": "http://www.baidu.com/", "row": 17, "column": 6292, "tagName": "a", "time": 8935.569360, "url": "", "pos": 16992, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b831e0", "doc": "http://www.baidu.com/", "row": 17, "column": 6382, "tagName": "a", "time": 8935.569363, "url": "", "pos": 17082, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b83270", "doc": "http://www.baidu.com/", "row": 17, "column": 6390, "tagName": "a", "time": 8935.569369, "url": "", "pos": 17090, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b832a0", "doc": "http://www.baidu.com/", "row": 17, "column": 6481, "tagName": "a", "time": 8935.569372, "url": "", "pos": 17181, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b83360", "doc": "http://www.baidu.com/", "row": 17, "column": 6507, "tagName": "a", "time": 8935.569381, "url": "", "pos": 17207, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b83390", "doc": "http://www.baidu.com/", "row": 17, "column": 6511, "tagName": "p", "time": 8935.569382, "url": "", "pos": 17211, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b833c0", "doc": "http://www.baidu.com/", "row": 17, "column": 6522, "tagName": "p", "time": 8935.569383, "url": "", "pos": 17222, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b86a50", "doc": "http://www.baidu.com/", "row": 17, "column": 6643, "tagName": "a", "time": 8935.569397, "url": "", "pos": 17343, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b86b10", "doc": "http://www.baidu.com/", "row": 17, "column": 6654, "tagName": "a", "time": 8935.569406, "url": "", "pos": 17354, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b86ba0", "doc": "http://www.baidu.com/", "row": 17, "column": 6774, "tagName": "a", "time": 8935.569411, "url": "", "pos": 17474, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b86c60", "doc": "http://www.baidu.com/", "row": 17, "column": 6782, "tagName": "a", "time": 8935.569417, "url": "", "pos": 17482, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b86cf0", "doc": "http://www.baidu.com/", "row": 17, "column": 6832, "tagName": "i", "time": 8935.569420, "url": "", "pos": 17532, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b86d50", "doc": "http://www.baidu.com/", "row": 17, "column": 6836, "tagName": "i", "time": 8935.569423, "url": "", "pos": 17536, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b86d80", "doc": "http://www.baidu.com/", "row": 17, "column": 6840, "tagName": "p", "time": 8935.569424, "url": "", "pos": 17540, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b86db0", "doc": "http://www.baidu.com/", "row": 17, "column": 6854, "tagName": "p", "time": 8935.569425, "url": "", "pos": 17554, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b86de0", "doc": "http://www.baidu.com/", "row": 17, "column": 6882, "tagName": "i", "time": 8935.569428, "url": "", "pos": 17582, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b86e40", "doc": "http://www.baidu.com/", "row": 17, "column": 6886, "tagName": "i", "time": 8935.569430, "url": "", "pos": 17586, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b86ea0", "doc": "http://www.baidu.com/", "row": 17, "column": 6910, "tagName": "p", "time": 8935.569432, "url": "", "pos": 17610, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b86ed0", "doc": "http://www.baidu.com/", "row": 17, "column": 6916, "tagName": "div", "time": 8935.569433, "url": "", "pos": 17616, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b86f00", "doc": "http://www.baidu.com/", "row": 17, "column": 6922, "tagName": "div", "time": 8935.569434, "url": "", "pos": 17622, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b86f30", "doc": "http://www.baidu.com/", "row": 17, "column": 6928, "tagName": "div", "time": 8935.569435, "url": "", "pos": 17628, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b86f60", "doc": "http://www.baidu.com/", "row": 17, "column": 6954, "tagName": "div", "time": 8935.569436, "url": "", "pos": 17654, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b86f90", "doc": "http://www.baidu.com/", "row": 17, "column": 6960, "tagName": "div", "time": 8935.569438, "url": "", "pos": 17660, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b86fc0", "doc": "http://www.baidu.com/", "row": 17, "column": 6966, "tagName": "div", "time": 8935.569439, "url": "", "pos": 17666, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b863f0", "doc": "http://www.baidu.com/", "row": 17, "column": 7018, "tagName": "div", "time": 8935.569441, "url": "", "pos": 17718, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b86450", "doc": "http://www.baidu.com/", "row": 17, "column": 7024, "tagName": "div", "time": 8935.569459, "url": "", "pos": 17724, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b86480", "doc": "http://www.baidu.com/", "row": 17, "column": 7032, "tagName": "script", "time": 8935.569461, "url": "", "pos": 17732, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b00900", "doc": "http://www.baidu.com/", "row": 17, "column": 7067, "tagName": "script", "time": 8935.569471, "url": "", "pos": 17767, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b86510", "doc": "http://www.baidu.com/", "row": 17, "column": 7075, "tagName": "script", "time": 8935.573315, "url": "", "pos": 17775, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b864e0", "doc": "http://www.baidu.com/", "row": 17, "column": 11792, "tagName": "script", "time": 8935.578777, "url": "", "pos": 22492, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b865a0", "doc": "http://www.baidu.com/", "row": 17, "column": 11800, "tagName": "script", "time": 8935.581823, "url": "", "pos": 22500, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b86570", "doc": "http://www.baidu.com/", "row": 17, "column": 12065, "tagName": "script", "time": 8935.581911, "url": "", "pos": 22765, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b866c0", "doc": "http://www.baidu.com/", "row": 17, "column": 12181, "tagName": "script", "time": 8935.582611, "url": "http://s1.bdstatic.com/r/www/cache/static/jquery/jquery-1.10.2.min_f2fb5194.js", "pos": 22881, "chunkLen": 32521, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b866f0", "doc": "http://www.baidu.com/", "row": 17, "column": 12190, "tagName": "script", "time": 8935.582631, "url": "", "pos": 22890, "chunkLen": 32521, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7d3b780", "doc": "http://www.baidu.com/", "row": 0, "column": 15, "tagName": "div", "time": 8936.154961, "url": "", "pos": 15, "chunkLen": 44, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7d3b7e0", "doc": "http://www.baidu.com/", "row": 0, "column": 21, "tagName": "div", "time": 8936.154971, "url": "", "pos": 21, "chunkLen": 44, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7d3b810", "doc": "http://www.baidu.com/", "row": 0, "column": 38, "tagName": "div", "time": 8936.154975, "url": "", "pos": 38, "chunkLen": 44, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7d3b870", "doc": "http://www.baidu.com/", "row": 0, "column": 44, "tagName": "div", "time": 8936.154977, "url": "", "pos": 44, "chunkLen": 44, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7d3b8a0", "doc": "http://www.baidu.com/", "row": 0, "column": 8, "tagName": "select", "time": 8936.155180, "url": "", "pos": 8, "chunkLen": 46, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7d3b8d0", "doc": "http://www.baidu.com/", "row": 0, "column": 28, "tagName": "option", "time": 8936.155198, "url": "", "pos": 28, "chunkLen": 46, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7d3b900", "doc": "http://www.baidu.com/", "row": 0, "column": 37, "tagName": "option", "time": 8936.155213, "url": "", "pos": 37, "chunkLen": 46, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7d3b930", "doc": "http://www.baidu.com/", "row": 0, "column": 46, "tagName": "select", "time": 8936.155215, "url": "", "pos": 46, "chunkLen": 46, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7d3b0f0", "doc": "http://www.baidu.com/", "row": 0, "column": 12, "tagName": "a", "time": 8936.159912, "url": "", "pos": 12, "chunkLen": 16, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7d3b120", "doc": "http://www.baidu.com/", "row": 0, "column": 16, "tagName": "a", "time": 8936.159926, "url": "", "pos": 16, "chunkLen": 16, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7d3b180", "doc": "http://www.baidu.com/", "row": 0, "column": 8, "tagName": "input", "time": 8936.160098, "url": "", "pos": 8, "chunkLen": 8, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7d3b270", "doc": "http://www.baidu.com/", "row": 0, "column": 9, "tagName": "link", "time": 8936.160484, "url": "", "pos": 9, "chunkLen": 66, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7d3b2a0", "doc": "http://www.baidu.com/", "row": 0, "column": 16, "tagName": "table", "time": 8936.160490, "url": "", "pos": 16, "chunkLen": 66, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7d3b2d0", "doc": "http://www.baidu.com/", "row": 0, "column": 24, "tagName": "table", "time": 8936.160498, "url": "", "pos": 24, "chunkLen": 66, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7d3b300", "doc": "http://www.baidu.com/", "row": 0, "column": 37, "tagName": "a", "time": 8936.160501, "url": "", "pos": 37, "chunkLen": 66, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7d3b360", "doc": "http://www.baidu.com/", "row": 0, "column": 42, "tagName": "a", "time": 8936.160507, "url": "", "pos": 42, "chunkLen": 66, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7d3b390", "doc": "http://www.baidu.com/", "row": 0, "column": 66, "tagName": "input", "time": 8936.160510, "url": "", "pos": 66, "chunkLen": 66, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b61fc0", "doc": "http://www.baidu.com/", "row": 17, "column": 12198, "tagName": "script", "time": 8936.181712, "url": "", "pos": 22898, "chunkLen": 90528, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b86630", "doc": "http://www.baidu.com/", "row": 17, "column": 73595, "tagName": "script", "time": 8936.183782, "url": "", "pos": 84295, "chunkLen": 90528, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b614e0", "doc": "http://www.baidu.com/", "row": 0, "column": 42, "tagName": "style", "time": 8936.195436, "url": "", "pos": 42, "chunkLen": 60200, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b61540", "doc": "http://www.baidu.com/", "row": 0, "column": 60200, "tagName": "style", "time": 8936.201408, "url": "", "pos": 60200, "chunkLen": 60200, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b61690", "doc": "http://www.baidu.com/", "row": 18, "column": 31, "tagName": "script", "time": 8936.206360, "url": "", "pos": 51806, "chunkLen": 58007, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b61420", "doc": "http://www.baidu.com/", "row": 23, "column": 351, "tagName": "script", "time": 8936.206478, "url": "", "pos": 57601, "chunkLen": 58007, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b61750", "doc": "http://www.baidu.com/", "row": 23, "column": 446, "tagName": "script", "time": 8936.222822, "url": "http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_538f629c.js", "pos": 95, "chunkLen": 104, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b61780", "doc": "http://www.baidu.com/", "row": 23, "column": 455, "tagName": "script", "time": 8936.222873, "url": "http://s1.bdstatic.com/r/www/cache/static/home/js/nu_instant_search_ebeb5baa.js", "pos": 104, "chunkLen": 104, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7a96de0", "doc": "http://www.baidu.com/", "row": 0, "column": 23, "tagName": "a", "time": 8936.468868, "url": "", "pos": 23, "chunkLen": 27, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7a96db0", "doc": "http://www.baidu.com/", "row": 0, "column": 27, "tagName": "a", "time": 8936.468890, "url": "http://s1.bdstatic.com/r/www/cache/static/soutu/js/tu_ca672e66.js", "pos": 27, "chunkLen": 27, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7a96060", "doc": "http://www.baidu.com/", "row": 23, "column": 359, "tagName": "script", "time": 8936.528028, "url": "", "pos": 827, "chunkLen": 1225, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b616f0", "doc": "http://www.baidu.com/", "row": 23, "column": 632, "tagName": "script", "time": 8936.528074, "url": "http://s1.bdstatic.com/r/www/cache/static/sug/js/bdsug_async_dac7ea02.js", "pos": 1100, "chunkLen": 1225, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb81a9780", "doc": "http://www.baidu.com/", "row": 23, "column": 640, "tagName": "script", "time": 8936.567533, "url": "", "pos": 1108, "chunkLen": 1225, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7a960c0", "doc": "http://www.baidu.com/", "row": 23, "column": 740, "tagName": "script", "time": 8936.567571, "url": "", "pos": 1208, "chunkLen": 1225, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb81a9810", "doc": "http://www.baidu.com/", "row": 23, "column": 747, "tagName": "body", "time": 8936.568070, "url": "", "pos": 1215, "chunkLen": 1225, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb81a9840", "doc": "http://www.baidu.com/", "row": 23, "column": 754, "tagName": "html", "time": 8936.568073, "url": "", "pos": 1222, "chunkLen": 1225, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb81a9900", "doc": "http://www.baidu.com/", "row": 0, "column": 7, "tagName": "table", "time": 8936.568691, "url": "", "pos": 7, "chunkLen": 43, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb81a9930", "doc": "http://www.baidu.com/", "row": 0, "column": 11, "tagName": "tr", "time": 8936.568698, "url": "", "pos": 11, "chunkLen": 43, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb81a9960", "doc": "http://www.baidu.com/", "row": 0, "column": 15, "tagName": "td", "time": 8936.568708, "url": "", "pos": 15, "chunkLen": 43, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb81a9990", "doc": "http://www.baidu.com/", "row": 0, "column": 20, "tagName": "td", "time": 8936.568714, "url": "", "pos": 20, "chunkLen": 43, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb81a99c0", "doc": "http://www.baidu.com/", "row": 0, "column": 24, "tagName": "td", "time": 8936.568716, "url": "", "pos": 24, "chunkLen": 43, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb81a9a20", "doc": "http://www.baidu.com/", "row": 0, "column": 30, "tagName": "td", "time": 8936.568719, "url": "", "pos": 30, "chunkLen": 43, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb81a9a50", "doc": "http://www.baidu.com/", "row": 0, "column": 35, "tagName": "tr", "time": 8936.568719, "url": "", "pos": 35, "chunkLen": 43, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb81a9a80", "doc": "http://www.baidu.com/", "row": 0, "column": 43, "tagName": "table", "time": 8936.568721, "url": "", "pos": 43, "chunkLen": 43, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b86840", "doc": "http://www.baidu.com/", "row": 0, "column": 5, "tagName": "div", "time": 8936.580783, "url": "", "pos": 5, "chunkLen": 11, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7bb2b70", "doc": "http://www.baidu.com/", "row": 0, "column": 11, "tagName": "div", "time": 8936.580791, "url": "http://s1.bdstatic.com/r/www/cache/static/baiduia/baiduia_b45d552b.js", "pos": 11, "chunkLen": 11, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b61930", "doc": "http://www.baidu.com/", "row": 0, "column": 47, "tagName": "div", "time": 8936.654433, "url": "", "pos": 47, "chunkLen": 53, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7b618d0", "doc": "http://www.baidu.com/", "row": 0, "column": 53, "tagName": "div", "time": 8936.654444, "url": "", "pos": 53, "chunkLen": 53, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7b61000", "doc": "http://www.baidu.com/", "row": 0, "column": 25, "tagName": "div", "time": 8936.654894, "url": "", "pos": 25, "chunkLen": 31, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb81a91e0", "doc": "http://www.baidu.com/", "row": 0, "column": 31, "tagName": "div", "time": 8936.654901, "url": "", "pos": 31, "chunkLen": 31, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7d3b210", "doc": "http://www.baidu.com/", "row": 0, "column": 48, "tagName": "input", "time": 8936.806076, "url": "", "pos": 48, "chunkLen": 48, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7ac4e70", "doc": "http://www.baidu.com/", "row": 0, "column": 136, "tagName": "link", "time": 8936.835851, "url": "http://s1.bdstatic.com/r/www/cache/static/soutu/css/soutu_a30f77a3.css", "pos": 136, "chunkLen": 136, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84e0210", "doc": "http://www.baidu.com/", "row": 0, "column": 24, "tagName": "span", "time": 8936.840895, "url": "", "pos": 24, "chunkLen": 31, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7a96000", "doc": "http://www.baidu.com/", "row": 0, "column": 31, "tagName": "span", "time": 8936.840913, "url": "", "pos": 31, "chunkLen": 31, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84e04b0", "doc": "http://www.baidu.com/", "row": 0, "column": 36, "tagName": "i", "time": 8936.903216, "url": "", "pos": 36, "chunkLen": 40, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84e0450", "doc": "http://www.baidu.com/", "row": 0, "column": 40, "tagName": "i", "time": 8936.903237, "url": "", "pos": 40, "chunkLen": 40, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84e0f00", "doc": "http://www.baidu.com/", "row": 0, "column": 83, "tagName": "div", "time": 8936.924325, "url": "", "pos": 83, "chunkLen": 89, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84e0ed0", "doc": "http://www.baidu.com/", "row": 0, "column": 89, "tagName": "div", "time": 8936.924393, "url": "", "pos": 89, "chunkLen": 89, "isStartTag": 0}}
+{"Resource": {"id": 4, "url": "http://s1.bdstatic.com/r/www/cache/static/jquery/jquery-1.10.2.min_f2fb5194.js", "sentTime": -1.000000, "len": 93680, "from": "0xb7b866c0",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 8936.029785, "len": 65536}}
+{"ReceivedChunk": {"receivedTime": 8936.029942, "len": 27536}}
+{"ReceivedChunk": {"receivedTime": 8936.030030, "len": 608}}
+{"Resource": {"id": 2, "url": "http://www.baidu.com/img/bd_logo1.png", "sentTime": -1.000000, "len": 7877, "from": "0xb7b000f0",                            "mimeType": "image/png", "contentLength": 7877, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 8936.234798, "len": 7877}}
+{"Resource": {"id": 3, "url": "http://www.baidu.com/img/baidu_jgylogo3.gif", "sentTime": -1.000000, "len": 705, "from": "0xb7b7aa20",                            "mimeType": "image/gif", "contentLength": 705, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 8936.236636, "len": 705}}
+{"Resource": {"id": 8, "url": "http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_538f629c.js", "sentTime": -1.000000, "len": 205874, "from": "0xb7b61750",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 8936.344588, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 8936.344710, "len": 62351}}
+{"ReceivedChunk": {"receivedTime": 8936.344846, "len": 65536}}
+{"ReceivedChunk": {"receivedTime": 8936.345004, "len": 44567}}
+{"ReceivedChunk": {"receivedTime": 8936.345401, "len": 652}}
+{"Resource": {"id": 5, "url": "http://s1.bdstatic.com/r/www/cache/static/home/img/qrcode/zbios_62c636fe.png", "sentTime": -1.000000, "len": 3223, "from": "0xb7b866f0",                            "mimeType": "image/png", "contentLength": 3223, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 8936.587958, "len": 3223}}
+{"Resource": {"id": 6, "url": "http://s1.bdstatic.com/r/www/cache/static/home/img/qrcode/nuomi_510f7472.png", "sentTime": -1.000000, "len": 3224, "from": "0xb7b866f0",                            "mimeType": "image/png", "contentLength": 3224, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 8936.589102, "len": 3224}}
+{"Resource": {"id": 7, "url": "http://s1.bdstatic.com/r/www/cache/static/global/img/icons_0e814c16.png", "sentTime": -1.000000, "len": 14391, "from": "0xb7b866f0",                            "mimeType": "image/png", "contentLength": 14391, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 8936.589307, "len": 14391}}
+{"Resource": {"id": 9, "url": "http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_aa168cb4.js", "sentTime": -1.000000, "len": 15280, "from": "0xb7b61780",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 8936.634616, "len": 15280}}
+{"Resource": {"id": 10, "url": "http://s1.bdstatic.com/r/www/cache/static/home/js/nu_instant_search_ebeb5baa.js", "sentTime": -1.000000, "len": 24787, "from": "0xb7b61780",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 8936.671084, "len": 24787}}
+{"Resource": {"id": 12, "url": "http://s1.bdstatic.com/r/www/cache/static/plugins/swfobject_c1c7185a.js", "sentTime": -1.000000, "len": 10167, "from": "0xb7a96db0",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 8936.674332, "len": 10167}}
+{"Resource": {"id": 13, "url": "http://s1.bdstatic.com/r/www/cache/static/soutu/js/tu_ca672e66.js", "sentTime": -1.000000, "len": 15012, "from": "0xb7a96db0",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 8936.674829, "len": 15012}}
+{"Resource": {"id": 14, "url": "http://s1.bdstatic.com/r/www/cache/static/sug/js/bdsug_async_dac7ea02.js", "sentTime": -1.000000, "len": 40070, "from": "0xb7b616f0",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 8936.675302, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 8936.675498, "len": 7302}}
+{"Resource": {"id": 11, "url": "http://s1.bdstatic.com/r/www/cache/static/global/img/quickdelete_9c14b01a.png", "sentTime": -1.000000, "len": 1100, "from": "0xb7a96db0",                            "mimeType": "image/png", "contentLength": 1100, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 8936.675948, "len": 1100}}
+{"Resource": {"id": 15, "url": "http://s1.bdstatic.com/r/www/cache/static/baiduia/baiduia_b45d552b.js", "sentTime": -1.000000, "len": 15957, "from": "0xb7bb2b70",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 8936.685378, "len": 15957}}
+{"Resource": {"id": 16, "url": "http://s1.bdstatic.com/r/www/cache/static/soutu/css/soutu_a30f77a3.css", "sentTime": -1.000000, "len": 7807, "from": "0xb7ac4e70",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 8936.839516, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 8936.939292, "len": 7807}}
+{"Resource": {"id": 18, "url": "http://s1.bdstatic.com/r/www/cache/static/soutu/img/soutu_icons_6eead741.png", "sentTime": -1.000000, "len": 15848, "from": "0xb84e0ed0",                            "mimeType": "image/png", "contentLength": 15848, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 8936.942571, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 8936.956699, "len": 15848}}
+{"HOL": {"type": 4, "docUrl": "http://www.baidu.com/", "code": "0xb7a9f7e0", "row": 1, "column": 37, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "http://www.baidu.com/", "code": "0xb7aa33c0", "row": 14, "column": 1187, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "http://www.baidu.com/", "code": "0xb7b00a80", "row": 14, "column": 1273, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.baidu.com/", "code": "0xb7b00f30", "row": 17, "column": 660, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.baidu.com/", "code": "0xb7b00660", "row": 17, "column": 874, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.baidu.com/", "code": "0xb7b007b0", "row": 17, "column": 960, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.baidu.com/", "code": "0xb7b008a0", "row": 17, "column": 1703, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.baidu.com/", "code": "0xb7b86480", "row": 17, "column": 7032, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.baidu.com/", "code": "0xb7b86510", "row": 17, "column": 7075, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.baidu.com/", "code": "0xb7b865a0", "row": 17, "column": 11800, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.baidu.com/", "code": "0xb7b866c0", "row": 17, "column": 12181, "url": "http://s1.bdstatic.com/r/www/cache/static/jquery/jquery-1.10.2.min_f2fb5194.js"}}
+{"HOL": {"type": 1, "docUrl": "http://www.baidu.com/", "code": "0xb7b61fc0", "row": 17, "column": 12198, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "http://www.baidu.com/", "code": "0xb7b614e0", "row": 0, "column": 42, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.baidu.com/", "code": "0xb7b61690", "row": 18, "column": 31, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.baidu.com/", "code": "0xb7b61750", "row": 23, "column": 446, "url": "http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_538f629c.js"}}
+{"HOL": {"type": 1, "docUrl": "http://www.baidu.com/", "code": "0xb7a96060", "row": 23, "column": 359, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.baidu.com/", "code": "0xb81a9780", "row": 23, "column": 640, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "http://www.baidu.com/", "code": "0xb7ac4e70", "row": 0, "column": 136, "url": "http://s1.bdstatic.com/r/www/cache/static/soutu/css/soutu_a30f77a3.css"}}
+{"Computation": {"type": "execScript", "code": "0xb7b00ab0", "docUrl": "http://www.baidu.com/", "startTime": 8935.442496, "endTime": 8935.556028, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb7b00630", "docUrl": "http://www.baidu.com/", "startTime": 8935.556101, "endTime": 8935.556210, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb7b006c0", "docUrl": "http://www.baidu.com/", "startTime": 8935.561614, "endTime": 8935.562132, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb7b00810", "docUrl": "http://www.baidu.com/", "startTime": 8935.562335, "endTime": 8935.562417, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb7b00900", "docUrl": "http://www.baidu.com/", "startTime": 8935.569477, "endTime": 8935.573297, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb7b864e0", "docUrl": "http://www.baidu.com/", "startTime": 8935.578794, "endTime": 8935.581814, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb7b86570", "docUrl": "http://www.baidu.com/", "startTime": 8935.581920, "endTime": 8935.582595, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb7b866f0", "docUrl": "http://www.baidu.com/", "startTime": 8935.597139, "endTime": -1.000000, "urlRecalcStyle": "http://s1.bdstatic.com/r/www/cache/static/jquery/jquery-1.10.2.min_f2fb5194.js"}}
+{"Computation": {"type": "layout", "code": "0xb7b866f0", "docUrl": "http://www.baidu.com/", "startTime": 8935.667298, "endTime": 8936.018075, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb7b866f0", "docUrl": "http://www.baidu.com/", "startTime": 8936.017573, "endTime": 8936.018039, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb7b866f0", "docUrl": "http://www.baidu.com/", "startTime": 8936.023763, "endTime": 8936.023906, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb7b866f0", "docUrl": "http://www.baidu.com/", "startTime": 8936.030053, "endTime": 8936.181697, "urlRecalcStyle": "http://s1.bdstatic.com/r/www/cache/static/jquery/jquery-1.10.2.min_f2fb5194.js"}}
+{"Computation": {"type": "fireEvent", "code": "0xb7d3b390", "docUrl": "http://www.baidu.com/", "startTime": 8936.181687, "endTime": 8936.181688, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb7b86630", "docUrl": "http://www.baidu.com/", "startTime": 8936.183798, "endTime": 8936.206342, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb7b61420", "docUrl": "http://www.baidu.com/", "startTime": 8936.206490, "endTime": 8936.228987, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb7b61780", "docUrl": "http://www.baidu.com/", "startTime": 8936.228990, "endTime": -1.000000, "urlRecalcStyle": "http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_538f629c.js"}}
+{"Computation": {"type": "fireEvent", "code": "0xb7b61780", "docUrl": "http://www.baidu.com/", "startTime": 8936.343322, "endTime": 8936.343323, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb7b61780", "docUrl": "http://www.baidu.com/", "startTime": 8936.343330, "endTime": 8936.343331, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb7b61780", "docUrl": "http://www.baidu.com/", "startTime": 8936.343332, "endTime": 8936.343333, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb7b61780", "docUrl": "http://www.baidu.com/", "startTime": 8936.343340, "endTime": 8936.343621, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb7b61780", "docUrl": "http://www.baidu.com/", "startTime": 8936.345453, "endTime": 8936.528019, "urlRecalcStyle": "http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_538f629c.js"}}
+{"Computation": {"type": "layout", "code": "0xb7a96db0", "docUrl": "http://www.baidu.com/", "startTime": 8936.482512, "endTime": 8936.489489, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb7a96db0", "docUrl": "http://www.baidu.com/", "startTime": 8936.528012, "endTime": 8936.528015, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb7b616f0", "docUrl": "http://www.baidu.com/", "startTime": 8936.528084, "endTime": 8936.567525, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb7a960c0", "docUrl": "http://www.baidu.com/", "startTime": 8936.567577, "endTime": 8936.568065, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb81a9840", "docUrl": "http://www.baidu.com/", "startTime": 8936.568095, "endTime": 8936.568096, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb81a9840", "docUrl": "http://www.baidu.com/", "startTime": 8936.568097, "endTime": 8936.585749, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0xb81a9a80", "docUrl": "http://www.baidu.com/", "startTime": 8936.573029, "endTime": 8936.576205, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb81a9a80", "docUrl": "http://www.baidu.com/", "startTime": 8936.576418, "endTime": 8936.579717, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb81a9a80", "docUrl": "http://www.baidu.com/", "startTime": 8936.580098, "endTime": 8936.580162, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb81a9a80", "docUrl": "http://www.baidu.com/", "startTime": 8936.580420, "endTime": 8936.580535, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb81a9a80", "docUrl": "http://www.baidu.com/", "startTime": 8936.580692, "endTime": 8936.580757, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb7bb2b70", "docUrl": "http://www.baidu.com/", "startTime": 8936.580860, "endTime": 8936.580906, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb7bb2b70", "docUrl": "http://www.baidu.com/", "startTime": 8936.585753, "endTime": 8936.585754, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0xb7bb2b70", "docUrl": "http://www.baidu.com/", "startTime": 8936.589437, "endTime": 8936.589498, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb7bb2b70", "docUrl": "http://www.baidu.com/", "startTime": 8936.641713, "endTime": 8936.666441, "urlRecalcStyle": "http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_aa168cb4.js"}}
+{"Computation": {"type": "fireEvent", "code": "0xb81a91e0", "docUrl": "http://www.baidu.com/", "startTime": 8936.666457, "endTime": 8936.666459, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb81a91e0", "docUrl": "http://www.baidu.com/", "startTime": 8936.666460, "endTime": 8936.670660, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb81a91e0", "docUrl": "http://www.baidu.com/", "startTime": 8936.676624, "endTime": 8936.677175, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb81a91e0", "docUrl": "http://www.baidu.com/", "startTime": 8936.799479, "endTime": 8936.799480, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb81a91e0", "docUrl": "http://www.baidu.com/", "startTime": 8936.799487, "endTime": 8936.807913, "urlRecalcStyle": "http://s1.bdstatic.com/r/www/cache/static/home/js/nu_instant_search_ebeb5baa.js"}}
+{"Computation": {"type": "fireEvent", "code": "0xb7d3b210", "docUrl": "http://www.baidu.com/", "startTime": 8936.807921, "endTime": 8936.807923, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb7d3b210", "docUrl": "http://www.baidu.com/", "startTime": 8936.807924, "endTime": 8936.808025, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb7d3b210", "docUrl": "http://www.baidu.com/", "startTime": 8936.808041, "endTime": 8936.824386, "urlRecalcStyle": "http://s1.bdstatic.com/r/www/cache/static/plugins/swfobject_c1c7185a.js"}}
+{"Computation": {"type": "fireEvent", "code": "0xb7d3b210", "docUrl": "http://www.baidu.com/", "startTime": 8936.824400, "endTime": 8936.824401, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb7d3b210", "docUrl": "http://www.baidu.com/", "startTime": 8936.824402, "endTime": 8936.824903, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb7d3b210", "docUrl": "http://www.baidu.com/", "startTime": 8936.824922, "endTime": 8936.835449, "urlRecalcStyle": "http://s1.bdstatic.com/r/www/cache/static/soutu/js/tu_ca672e66.js"}}
+{"Computation": {"type": "fireEvent", "code": "0xb7d3b210", "docUrl": "http://www.baidu.com/", "startTime": 8936.835461, "endTime": 8936.835462, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb7d3b210", "docUrl": "http://www.baidu.com/", "startTime": 8936.835463, "endTime": 8936.841691, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb7a96000", "docUrl": "http://www.baidu.com/", "startTime": 8936.841710, "endTime": 8936.870700, "urlRecalcStyle": "http://s1.bdstatic.com/r/www/cache/static/sug/js/bdsug_async_dac7ea02.js"}}
+{"Computation": {"type": "fireEvent", "code": "0xb7a96000", "docUrl": "http://www.baidu.com/", "startTime": 8936.870713, "endTime": 8936.870714, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb7a96000", "docUrl": "http://www.baidu.com/", "startTime": 8936.870715, "endTime": 8936.904123, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb7a96000", "docUrl": "http://www.baidu.com/", "startTime": 8936.880539, "endTime": 8936.880647, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb84e0450", "docUrl": "http://www.baidu.com/", "startTime": 8936.904147, "endTime": 8936.925242, "urlRecalcStyle": "http://s1.bdstatic.com/r/www/cache/static/baiduia/baiduia_b45d552b.js"}}
+{"Computation": {"type": "fireEvent", "code": "0xb84e0ed0", "docUrl": "http://www.baidu.com/", "startTime": 8936.925251, "endTime": 8936.925253, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb84e0ed0", "docUrl": "http://www.baidu.com/", "startTime": 8936.925254, "endTime": 8936.925338, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "recalcStyle", "code": "0xb84e0ed0", "docUrl": "http://www.baidu.com/", "startTime": 8936.939483, "endTime": 8936.941984, "urlRecalcStyle": "http://s1.bdstatic.com/r/www/cache/static/soutu/css/soutu_a30f77a3.css"}}
+{"Computation": {"type": "layout", "code": "0xb84e0ed0", "docUrl": "http://www.baidu.com/", "startTime": 8936.945934, "endTime": 8936.946222, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb84e0ed0", "docUrl": "http://www.baidu.com/", "startTime": 8936.946246, "endTime": 8936.946248, "urlRecalcStyle": "load"}}
+{"Preload": {"code": "0xb7b61780", "docUrl": "http://www.baidu.com/", "url": "http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_538f629c.js", "time": 8936.228390}}
+{"Complete': "www.baidu.com_"}
+Killed
