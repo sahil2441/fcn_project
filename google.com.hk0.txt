@@ -1,0 +1,702 @@
+[30896:30906:13269884822:ERROR:web_data_service.cc(657)] Cannot initialize the web database: 2
+[30896:30896:13271119773:ERROR:CONSOLE(1)] "Uncaught ReferenceError: InspectorFrontendAPI is not defined", source:  (1)
+{"page": "www.google.com.hk_?gws_rd=ssl"}
+{"DOMLoad": 13271.925532}
+{"Resource": {"id": 1, "url": "https://www.google.com.hk/?gws_rd=ssl", "sentTime": -1.000000, "len": 176687, "from": "(nil)",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 66, "connReused": 0, "cached": 0,                            "requestTime": 13270.582090, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 9, "connectEnd": 678, "sendStart": 678, "sendEnd": 678, "receiveHeadersEnd": 765, "sslStart": 8, "sslEnd": 678}}
+{"ReceivedChunk": {"receivedTime": 13271.348669, "len": 532}}
+{"ReceivedChunk": {"receivedTime": 13271.371647, "len": 3004}}
+{"ReceivedChunk": {"receivedTime": 13271.376658, "len": 3401}}
+{"ReceivedChunk": {"receivedTime": 13271.377393, "len": 3197}}
+{"ReceivedChunk": {"receivedTime": 13271.377879, "len": 3349}}
+{"ReceivedChunk": {"receivedTime": 13271.443960, "len": 6012}}
+{"ReceivedChunk": {"receivedTime": 13271.444673, "len": 7115}}
+{"ReceivedChunk": {"receivedTime": 13271.446147, "len": 5827}}
+{"ReceivedChunk": {"receivedTime": 13271.446813, "len": 7118}}
+{"ReceivedChunk": {"receivedTime": 13271.447462, "len": 7071}}
+{"ReceivedChunk": {"receivedTime": 13271.454952, "len": 3040}}
+{"ReceivedChunk": {"receivedTime": 13271.457936, "len": 1994}}
+{"ReceivedChunk": {"receivedTime": 13271.460267, "len": 863}}
+{"ReceivedChunk": {"receivedTime": 13271.461282, "len": 3443}}
+{"ReceivedChunk": {"receivedTime": 13271.462145, "len": 3555}}
+{"ReceivedChunk": {"receivedTime": 13271.463697, "len": 3176}}
+{"ReceivedChunk": {"receivedTime": 13271.464735, "len": 3652}}
+{"ReceivedChunk": {"receivedTime": 13271.465415, "len": 3702}}
+{"ReceivedChunk": {"receivedTime": 13271.599130, "len": 3863}}
+{"ReceivedChunk": {"receivedTime": 13271.617803, "len": 4036}}
+{"ReceivedChunk": {"receivedTime": 13271.618416, "len": 2870}}
+{"ReceivedChunk": {"receivedTime": 13271.618922, "len": 3558}}
+{"ReceivedChunk": {"receivedTime": 13271.619428, "len": 3865}}
+{"ReceivedChunk": {"receivedTime": 13271.619999, "len": 4136}}
+{"ReceivedChunk": {"receivedTime": 13271.620563, "len": 4125}}
+{"ReceivedChunk": {"receivedTime": 13271.646463, "len": 1506}}
+{"ReceivedChunk": {"receivedTime": 13271.646552, "len": 3003}}
+{"ReceivedChunk": {"receivedTime": 13271.646634, "len": 4437}}
+{"ReceivedChunk": {"receivedTime": 13271.646742, "len": 4276}}
+{"ReceivedChunk": {"receivedTime": 13271.646847, "len": 3860}}
+{"ReceivedChunk": {"receivedTime": 13271.646945, "len": 4939}}
+{"ReceivedChunk": {"receivedTime": 13271.647060, "len": 3637}}
+{"ReceivedChunk": {"receivedTime": 13271.647144, "len": 3603}}
+{"ReceivedChunk": {"receivedTime": 13271.647235, "len": 4153}}
+{"ReceivedChunk": {"receivedTime": 13271.647349, "len": 3918}}
+{"ReceivedChunk": {"receivedTime": 13271.647441, "len": 3861}}
+{"ReceivedChunk": {"receivedTime": 13271.647703, "len": 3801}}
+{"ReceivedChunk": {"receivedTime": 13271.647845, "len": 4011}}
+{"ReceivedChunk": {"receivedTime": 13271.764812, "len": 2357}}
+{"ReceivedChunk": {"receivedTime": 13271.766179, "len": 3829}}
+{"ReceivedChunk": {"receivedTime": 13271.766424, "len": 4397}}
+{"ReceivedChunk": {"receivedTime": 13271.766693, "len": 7074}}
+{"ReceivedChunk": {"receivedTime": 13271.767905, "len": 6741}}
+{"ReceivedChunk": {"receivedTime": 13271.768235, "len": 5839}}
+{"ReceivedChunk": {"receivedTime": 13271.768508, "len": 941}}
+{"WprofHTMLTag": {"code": "0xb8e3b330", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 0, "column": 84, "tagName": "html", "time": 13271.350471, "url": "", "pos": 84, "chunkLen": 532, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8e81c00", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 0, "column": 90, "tagName": "head", "time": 13271.350658, "url": "", "pos": 90, "chunkLen": 532, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8e81bd0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 0, "column": 184, "tagName": "meta", "time": 13271.350713, "url": "", "pos": 184, "chunkLen": 532, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8e81b70", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 0, "column": 263, "tagName": "link", "time": 13271.350735, "url": "https://www.google.com.hk/images/branding/product/ico/googleg_lodp.ico", "pos": 263, "chunkLen": 532, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8e81b10", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 0, "column": 312, "tagName": "meta", "time": 13271.350843, "url": "", "pos": 312, "chunkLen": 532, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8e81ae0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 0, "column": 319, "tagName": "title", "time": 13271.350855, "url": "", "pos": 319, "chunkLen": 532, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8e7fdb0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 0, "column": 333, "tagName": "title", "time": 13271.366297, "url": "", "pos": 333, "chunkLen": 532, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8e7fd50", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 0, "column": 344, "tagName": "script", "time": 13271.366316, "url": "", "pos": 344, "chunkLen": 532, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8e7fde0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 9, "column": 2933, "tagName": "script", "time": 13271.377988, "url": "", "pos": 12277, "chunkLen": 13483, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8e7ebd0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 9, "column": 2940, "tagName": "style", "time": 13271.440620, "url": "", "pos": 2150, "chunkLen": 3349, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8e812a0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 12, "column": 8, "tagName": "style", "time": 13271.447678, "url": "", "pos": 36485, "chunkLen": 36492, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8e813c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 12, "column": 42, "tagName": "style", "time": 13271.454997, "url": "", "pos": 36519, "chunkLen": 39532, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f4db10", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 12, "column": 2212, "tagName": "style", "time": 13271.455051, "url": "", "pos": 38689, "chunkLen": 39532, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f4df60", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 12, "column": 2219, "tagName": "style", "time": 13271.455436, "url": "", "pos": 38696, "chunkLen": 39532, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8e81030", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 12, "column": 3063, "tagName": "style", "time": 13271.457974, "url": "", "pos": 39540, "chunkLen": 41526, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f4d4b0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 12, "column": 3071, "tagName": "script", "time": 13271.458197, "url": "", "pos": 39548, "chunkLen": 41526, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8e7fcc0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 9, "tagName": "script", "time": 13271.465489, "url": "", "pos": 56545, "chunkLen": 59757, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8e81090", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 40, "tagName": "link", "time": 13271.488332, "url": "https://www.google.com.hk/", "pos": 413, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f4d4e0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 47, "tagName": "head", "time": 13271.488387, "url": "", "pos": 420, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f4d540", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 268, "tagName": "body", "time": 13271.488417, "url": "", "pos": 641, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f4d5d0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 301, "tagName": "div", "time": 13271.488532, "url": "", "pos": 674, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f4d660", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 335, "tagName": "div", "time": 13271.488571, "url": "", "pos": 708, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f4d690", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 341, "tagName": "div", "time": 13271.488581, "url": "", "pos": 714, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f4d6c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 370, "tagName": "div", "time": 13271.488584, "url": "", "pos": 743, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f4d6f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 377, "tagName": "style", "time": 13271.488596, "url": "", "pos": 750, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8e81150", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 435, "tagName": "style", "time": 13271.488613, "url": "", "pos": 808, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f4d7e0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 441, "tagName": "div", "time": 13271.488712, "url": "", "pos": 814, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f4d840", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 495, "tagName": "textarea", "time": 13271.488719, "url": "", "pos": 868, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f4d8a0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 506, "tagName": "textarea", "time": 13271.488835, "url": "", "pos": 879, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f4d8d0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 514, "tagName": "script", "time": 13271.488840, "url": "", "pos": 887, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f4d750", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 577, "tagName": "script", "time": 13271.488852, "url": "", "pos": 950, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f4d990", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 605, "tagName": "div", "time": 13271.490647, "url": "", "pos": 978, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f4d0c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 757, "tagName": "div", "time": 13271.490707, "url": "", "pos": 1130, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f379f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 762, "tagName": "div", "time": 13271.490744, "url": "", "pos": 1135, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f37a50", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 790, "tagName": "span", "time": 13271.490763, "url": "", "pos": 1163, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f37ab0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 819, "tagName": "span", "time": 13271.490816, "url": "", "pos": 1192, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f37b70", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 936, "tagName": "a", "time": 13271.490941, "url": "", "pos": 1309, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f37c30", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 949, "tagName": "a", "time": 13271.490979, "url": "", "pos": 1322, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f37c60", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 955, "tagName": "div", "time": 13271.490981, "url": "", "pos": 1328, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f37cf0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 1045, "tagName": "div", "time": 13271.490985, "url": "", "pos": 1418, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f37d50", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 1058, "tagName": "div", "time": 13271.491008, "url": "", "pos": 1431, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f37db0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 1064, "tagName": "div", "time": 13271.491010, "url": "", "pos": 1437, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f37de0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 1070, "tagName": "div", "time": 13271.491011, "url": "", "pos": 1443, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f37e10", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 1103, "tagName": "div", "time": 13271.491014, "url": "", "pos": 1476, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f37e70", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 52, "column": 1111, "tagName": "script", "time": 13271.491038, "url": "", "pos": 1484, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f4d930", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 54, "column": 14, "tagName": "script", "time": 13271.491049, "url": "", "pos": 1673, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8e92810", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 54, "column": 24, "tagName": "style", "time": 13271.596576, "url": "", "pos": 1683, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f37ed0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 54, "column": 508, "tagName": "style", "time": 13271.596620, "url": "", "pos": 2167, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8e92030", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 54, "column": 522, "tagName": "div", "time": 13271.596896, "url": "", "pos": 2181, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8e920c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 54, "column": 537, "tagName": "div", "time": 13271.596953, "url": "", "pos": 2196, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8e92120", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 54, "column": 580, "tagName": "div", "time": 13271.596969, "url": "", "pos": 2239, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8e92150", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 54, "column": 732, "tagName": "div", "time": 13271.597005, "url": "", "pos": 2391, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8e92180", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 54, "column": 737, "tagName": "div", "time": 13271.597028, "url": "", "pos": 2396, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8e921b0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 54, "column": 765, "tagName": "span", "time": 13271.597037, "url": "", "pos": 2424, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8e92210", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 54, "column": 794, "tagName": "span", "time": 13271.597060, "url": "", "pos": 2453, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8e92270", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 54, "column": 911, "tagName": "a", "time": 13271.597068, "url": "", "pos": 2570, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8e92300", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 54, "column": 924, "tagName": "a", "time": 13271.597097, "url": "", "pos": 2583, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8e92330", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 54, "column": 930, "tagName": "div", "time": 13271.597100, "url": "", "pos": 2589, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8e92390", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 54, "column": 1020, "tagName": "div", "time": 13271.597105, "url": "", "pos": 2679, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fa99f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 54, "column": 1033, "tagName": "div", "time": 13271.597140, "url": "", "pos": 2692, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fa9a20", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 54, "column": 1039, "tagName": "div", "time": 13271.597142, "url": "", "pos": 2698, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fa9a50", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 54, "column": 1045, "tagName": "div", "time": 13271.597143, "url": "", "pos": 2704, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fa9ab0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 54, "column": 1054, "tagName": "script", "time": 13271.597147, "url": "", "pos": 2713, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8e92870", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 9, "tagName": "script", "time": 13271.597165, "url": "", "pos": 3032, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fa9b70", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 57, "tagName": "div", "time": 13271.598356, "url": "", "pos": 3080, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fa9bd0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 100, "tagName": "div", "time": 13271.598455, "url": "", "pos": 3123, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fa9c30", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 136, "tagName": "div", "time": 13271.598519, "url": "", "pos": 3159, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fa9cc0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 159, "tagName": "div", "time": 13271.598548, "url": "", "pos": 3182, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fa9d80", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 256, "tagName": "a", "time": 13271.598581, "url": "", "pos": 3279, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fa9e40", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 265, "tagName": "a", "time": 13271.598690, "url": "", "pos": 3288, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fa9e70", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 271, "tagName": "div", "time": 13271.598695, "url": "", "pos": 3294, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fa9ea0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 294, "tagName": "div", "time": 13271.598699, "url": "", "pos": 3317, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fa9f00", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 430, "tagName": "a", "time": 13271.598743, "url": "", "pos": 3453, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fa9f60", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 436, "tagName": "a", "time": 13271.598781, "url": "", "pos": 3459, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fa9f90", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 442, "tagName": "div", "time": 13271.598784, "url": "", "pos": 3465, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fa9fc0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 448, "tagName": "div", "time": 13271.598786, "url": "", "pos": 3471, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fa93f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 478, "tagName": "div", "time": 13271.598789, "url": "", "pos": 3501, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fa9450", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 508, "tagName": "div", "time": 13271.598818, "url": "", "pos": 3531, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fa9510", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 514, "tagName": "div", "time": 13271.598882, "url": "", "pos": 3537, "chunkLen": 3594, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fa9570", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 554, "tagName": "div", "time": 13271.598887, "url": "", "pos": 3577, "chunkLen": 3594, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fa9b10", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 573, "tagName": "div", "time": 13271.599173, "url": "", "pos": 3596, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fa96c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 723, "tagName": "a", "time": 13271.599199, "url": "", "pos": 3746, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fa9600", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 727, "tagName": "a", "time": 13271.599584, "url": "", "pos": 3750, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fa9930", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 746, "tagName": "div", "time": 13271.599595, "url": "", "pos": 3769, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fa98a0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 752, "tagName": "div", "time": 13271.599637, "url": "", "pos": 3775, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fa99c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 771, "tagName": "div", "time": 13271.599640, "url": "", "pos": 3794, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fa9060", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 777, "tagName": "div", "time": 13271.599659, "url": "", "pos": 3800, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fa90c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 783, "tagName": "div", "time": 13271.599661, "url": "", "pos": 3806, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fa90f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 789, "tagName": "div", "time": 13271.599663, "url": "", "pos": 3812, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fa9150", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 813, "tagName": "div", "time": 13271.599666, "url": "", "pos": 3836, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fa91b0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 832, "tagName": "div", "time": 13271.599694, "url": "", "pos": 3855, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fa91e0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1015, "tagName": "a", "time": 13271.599720, "url": "", "pos": 4038, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fa92a0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1021, "tagName": "a", "time": 13271.599809, "url": "", "pos": 4044, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fa92d0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1040, "tagName": "div", "time": 13271.599813, "url": "", "pos": 4063, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fa9300", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1046, "tagName": "div", "time": 13271.599826, "url": "", "pos": 4069, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fa9330", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1065, "tagName": "div", "time": 13271.599828, "url": "", "pos": 4088, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fa9360", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1071, "tagName": "div", "time": 13271.599834, "url": "", "pos": 4094, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fa9390", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1077, "tagName": "div", "time": 13271.599836, "url": "", "pos": 4100, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fa93c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1083, "tagName": "div", "time": 13271.599837, "url": "", "pos": 4106, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8faf9f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1089, "tagName": "div", "time": 13271.599839, "url": "", "pos": 4112, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fafa20", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1095, "tagName": "div", "time": 13271.599853, "url": "", "pos": 4118, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fafa80", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1102, "tagName": "div", "time": 13271.599858, "url": "", "pos": 4125, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fafae0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1109, "tagName": "div", "time": 13271.599861, "url": "", "pos": 4132, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fafb40", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1116, "tagName": "div", "time": 13271.599864, "url": "", "pos": 4139, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fafbd0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1171, "tagName": "div", "time": 13271.599871, "url": "", "pos": 4194, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fafc30", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1190, "tagName": "div", "time": 13271.599929, "url": "", "pos": 4213, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fafc90", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1196, "tagName": "div", "time": 13271.599945, "url": "", "pos": 4219, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fafcc0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1202, "tagName": "div", "time": 13271.599947, "url": "", "pos": 4225, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fafd20", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1337, "tagName": "form", "time": 13271.599965, "url": "", "pos": 4360, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fafde0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1381, "tagName": "div", "time": 13271.600127, "url": "", "pos": 4404, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fafe10", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1423, "tagName": "input", "time": 13271.600142, "url": "", "pos": 4446, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fafea0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1469, "tagName": "input", "time": 13271.611560, "url": "", "pos": 4492, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fafed0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1475, "tagName": "div", "time": 13271.611668, "url": "", "pos": 4498, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8faff30", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1494, "tagName": "div", "time": 13271.611674, "url": "", "pos": 4517, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8faffc0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1536, "tagName": "div", "time": 13271.611719, "url": "", "pos": 4559, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8faf150", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1540, "tagName": "h1", "time": 13271.611734, "url": "", "pos": 4563, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8faf1b0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1619, "tagName": "a", "time": 13271.611741, "url": "", "pos": 4642, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8faf210", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1730, "tagName": "img", "time": 13271.611768, "url": "", "pos": 4753, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8faf1e0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1734, "tagName": "a", "time": 13271.613506, "url": "", "pos": 4757, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8faf270", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1739, "tagName": "h1", "time": 13271.613521, "url": "", "pos": 4762, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8faf3c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1745, "tagName": "div", "time": 13271.613523, "url": "", "pos": 4768, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8faf3f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1766, "tagName": "div", "time": 13271.613527, "url": "", "pos": 4789, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8faf390", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1794, "tagName": "div", "time": 13271.613568, "url": "", "pos": 4817, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fa9ed0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1814, "tagName": "div", "time": 13271.613603, "url": "", "pos": 4837, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fa95d0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1850, "tagName": "div", "time": 13271.613615, "url": "", "pos": 4873, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8faf450", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1867, "tagName": "div", "time": 13271.613627, "url": "", "pos": 4890, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8faf5a0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1931, "tagName": "div", "time": 13271.613643, "url": "", "pos": 4954, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8faf5d0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1937, "tagName": "div", "time": 13271.613671, "url": "", "pos": 4960, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8faf600", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1943, "tagName": "div", "time": 13271.613672, "url": "", "pos": 4966, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8faf630", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1949, "tagName": "div", "time": 13271.613673, "url": "", "pos": 4972, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8faf660", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1968, "tagName": "div", "time": 13271.613675, "url": "", "pos": 4991, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8faf6c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 1987, "tagName": "div", "time": 13271.613685, "url": "", "pos": 5010, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8faf060", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2014, "tagName": "div", "time": 13271.613696, "url": "", "pos": 5037, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbba20", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2050, "tagName": "div", "time": 13271.613711, "url": "", "pos": 5073, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbbb10", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2132, "tagName": "button", "time": 13271.613722, "url": "", "pos": 5155, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbbb70", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2153, "tagName": "span", "time": 13271.613742, "url": "", "pos": 5176, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbbc00", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2160, "tagName": "span", "time": 13271.613747, "url": "", "pos": 5183, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbbc60", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2170, "tagName": "button", "time": 13271.613749, "url": "", "pos": 5193, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbbcc0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2177, "tagName": "div", "time": 13271.613751, "url": "", "pos": 5200, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbbd20", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2184, "tagName": "div", "time": 13271.613752, "url": "", "pos": 5207, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbbd80", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2191, "tagName": "div", "time": 13271.613753, "url": "", "pos": 5214, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbbdb0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2197, "tagName": "div", "time": 13271.613754, "url": "", "pos": 5220, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbbde0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2228, "tagName": "div", "time": 13271.613756, "url": "", "pos": 5251, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbbe70", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2370, "tagName": "input", "time": 13271.613782, "url": "", "pos": 5393, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbb3f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2377, "tagName": "div", "time": 13271.615137, "url": "", "pos": 5400, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbb420", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2383, "tagName": "div", "time": 13271.615287, "url": "", "pos": 5406, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbb450", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2389, "tagName": "div", "time": 13271.615289, "url": "", "pos": 5412, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbb480", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2394, "tagName": "div", "time": 13271.615291, "url": "", "pos": 5417, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbb4b0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2476, "tagName": "div", "time": 13271.615324, "url": "", "pos": 5499, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbb4e0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2492, "tagName": "div", "time": 13271.615375, "url": "", "pos": 5515, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbb510", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2498, "tagName": "span", "time": 13271.615379, "url": "", "pos": 5521, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbb540", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2504, "tagName": "span", "time": 13271.615383, "url": "", "pos": 5527, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbb5a0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2517, "tagName": "span", "time": 13271.615386, "url": "", "pos": 5540, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbb600", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2553, "tagName": "span", "time": 13271.615396, "url": "", "pos": 5576, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbb660", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2623, "tagName": "a", "time": 13271.615409, "url": "", "pos": 5646, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbb6c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2631, "tagName": "a", "time": 13271.615416, "url": "", "pos": 5654, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbb6f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2637, "tagName": "div", "time": 13271.615417, "url": "", "pos": 5660, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbb720", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2653, "tagName": "div", "time": 13271.615419, "url": "", "pos": 5676, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbb750", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2659, "tagName": "span", "time": 13271.615422, "url": "", "pos": 5682, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbb7b0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2672, "tagName": "span", "time": 13271.615424, "url": "", "pos": 5695, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbb810", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2713, "tagName": "div", "time": 13271.615426, "url": "", "pos": 5736, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbb840", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2729, "tagName": "div", "time": 13271.615427, "url": "", "pos": 5752, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbb8a0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2750, "tagName": "div", "time": 13271.615430, "url": "", "pos": 5773, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbb8d0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2756, "tagName": "div", "time": 13271.615431, "url": "", "pos": 5779, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbb900", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2762, "tagName": "div", "time": 13271.615432, "url": "", "pos": 5785, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbb930", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2768, "tagName": "div", "time": 13271.615433, "url": "", "pos": 5791, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbb960", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2810, "tagName": "div", "time": 13271.615435, "url": "", "pos": 5833, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbb9c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2818, "tagName": "center", "time": 13271.615453, "url": "", "pos": 5841, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbb060", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2910, "tagName": "input", "time": 13271.615465, "url": "", "pos": 5933, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbb120", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2990, "tagName": "input", "time": 13271.615591, "url": "", "pos": 6013, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbb000", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 2999, "tagName": "center", "time": 13271.615622, "url": "", "pos": 6022, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbb1b0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3005, "tagName": "div", "time": 13271.615624, "url": "", "pos": 6028, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbb090", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3011, "tagName": "div", "time": 13271.615626, "url": "", "pos": 6034, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbb1e0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3018, "tagName": "form", "time": 13271.615627, "url": "", "pos": 6041, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbb210", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3024, "tagName": "div", "time": 13271.615629, "url": "", "pos": 6047, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbb270", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3044, "tagName": "div", "time": 13271.615631, "url": "", "pos": 6067, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbb2a0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3050, "tagName": "div", "time": 13271.615639, "url": "", "pos": 6073, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fbb2d0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3096, "tagName": "div", "time": 13271.615642, "url": "", "pos": 6119, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbb330", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3126, "tagName": "span", "time": 13271.615663, "url": "", "pos": 6149, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbb360", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3134, "tagName": "center", "time": 13271.615676, "url": "", "pos": 6157, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbb390", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3185, "tagName": "div", "time": 13271.615688, "url": "", "pos": 6208, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fbb3c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3216, "tagName": "div", "time": 13271.615721, "url": "", "pos": 6239, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fcf9f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3223, "tagName": "style", "time": 13271.615734, "url": "", "pos": 6246, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fcfa80", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3487, "tagName": "style", "time": 13271.615756, "url": "", "pos": 6510, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fcfae0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3618, "tagName": "div", "time": 13271.616440, "url": "", "pos": 6641, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fcfb10", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3644, "tagName": "div", "time": 13271.617057, "url": "", "pos": 6667, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fcfcf0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3652, "tagName": "div", "time": 13271.617100, "url": "", "pos": 6675, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fcfd20", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3658, "tagName": "div", "time": 13271.617103, "url": "", "pos": 6681, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fcfc90", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3664, "tagName": "div", "time": 13271.617104, "url": "", "pos": 6687, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fcfc60", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3670, "tagName": "div", "time": 13271.617105, "url": "", "pos": 6693, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fcfd80", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3696, "tagName": "div", "time": 13271.617107, "url": "", "pos": 6719, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fcfdb0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3702, "tagName": "div", "time": 13271.617127, "url": "", "pos": 6725, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fcfde0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3772, "tagName": "div", "time": 13271.617131, "url": "", "pos": 6795, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fcfe10", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3779, "tagName": "style", "time": 13271.617144, "url": "", "pos": 6802, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fcfa50", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 3994, "tagName": "style", "time": 13271.617157, "url": "", "pos": 7017, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fcff30", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 4002, "tagName": "script", "time": 13271.617246, "url": "", "pos": 7025, "chunkLen": 7265, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fcfe70", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 4058, "tagName": "script", "time": 13271.617257, "url": "", "pos": 7081, "chunkLen": 7265, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fd8a20", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 4072, "tagName": "div", "time": 13271.645511, "url": "", "pos": 3501, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fd8a50", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 4087, "tagName": "div", "time": 13271.645563, "url": "", "pos": 3516, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fd8ab0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 4276, "tagName": "a", "time": 13271.645589, "url": "", "pos": 3705, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fd8b70", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 4286, "tagName": "a", "time": 13271.645634, "url": "", "pos": 3715, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fd8bd0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 4452, "tagName": "a", "time": 13271.645644, "url": "", "pos": 3881, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fd8c60", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 4463, "tagName": "a", "time": 13271.645664, "url": "", "pos": 3892, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fd8cc0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 4470, "tagName": "div", "time": 13271.645667, "url": "", "pos": 3899, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fd8cf0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 4476, "tagName": "div", "time": 13271.645668, "url": "", "pos": 3905, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fd8d20", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 4482, "tagName": "div", "time": 13271.645670, "url": "", "pos": 3911, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fd8d50", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 4491, "tagName": "center", "time": 13271.645671, "url": "", "pos": 3920, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fd8d80", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 4498, "tagName": "span", "time": 13271.645672, "url": "", "pos": 3927, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fd8db0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 4529, "tagName": "div", "time": 13271.645675, "url": "", "pos": 3958, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fd8e10", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 4576, "tagName": "div", "time": 13271.645701, "url": "", "pos": 4005, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fd8e40", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 4583, "tagName": "style", "time": 13271.645709, "url": "", "pos": 4012, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fcff60", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 6308, "tagName": "style", "time": 13271.645752, "url": "", "pos": 5737, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fd8510", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 6327, "tagName": "div", "time": 13271.646038, "url": "", "pos": 5756, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fd85a0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 6362, "tagName": "div", "time": 13271.646054, "url": "", "pos": 5791, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fd8630", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 6381, "tagName": "div", "time": 13271.646074, "url": "", "pos": 5810, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fd86c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 6399, "tagName": "span", "time": 13271.646088, "url": "", "pos": 5828, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fd8720", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 6477, "tagName": "a", "time": 13271.646100, "url": "", "pos": 5906, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fd87e0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 6486, "tagName": "a", "time": 13271.646136, "url": "", "pos": 5915, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fd8840", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 6561, "tagName": "a", "time": 13271.646142, "url": "", "pos": 5990, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fd88a0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 6567, "tagName": "a", "time": 13271.646160, "url": "", "pos": 5996, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fd8900", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 6624, "tagName": "span", "time": 13271.646165, "url": "", "pos": 6053, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fd8990", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 6784, "tagName": "a", "time": 13271.646189, "url": "", "pos": 6213, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fd8030", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 6790, "tagName": "a", "time": 13271.646216, "url": "", "pos": 6219, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fd8090", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 6829, "tagName": "span", "time": 13271.646221, "url": "", "pos": 6258, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fd80c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 6896, "tagName": "a", "time": 13271.646244, "url": "", "pos": 6325, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fd8150", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 6904, "tagName": "a", "time": 13271.646248, "url": "", "pos": 6333, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fd81b0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 6951, "tagName": "span", "time": 13271.646252, "url": "", "pos": 6380, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fd8210", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 6997, "tagName": "a", "time": 13271.646256, "url": "", "pos": 6426, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fd8270", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7005, "tagName": "a", "time": 13271.646259, "url": "", "pos": 6434, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fd82d0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7013, "tagName": "span", "time": 13271.646261, "url": "", "pos": 6442, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fd8330", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7058, "tagName": "a", "time": 13271.646264, "url": "", "pos": 6487, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fd8390", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7067, "tagName": "a", "time": 13271.646267, "url": "", "pos": 6496, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb902a9f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7150, "tagName": "a", "time": 13271.646271, "url": "", "pos": 6579, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb902aa50", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7158, "tagName": "a", "time": 13271.646283, "url": "", "pos": 6587, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb902ab40", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7305, "tagName": "a", "time": 13271.646288, "url": "", "pos": 6734, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb902abd0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7316, "tagName": "a", "time": 13271.646292, "url": "", "pos": 6745, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb902ac30", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7325, "tagName": "span", "time": 13271.646294, "url": "", "pos": 6754, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb902ac90", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7333, "tagName": "span", "time": 13271.646298, "url": "", "pos": 6762, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb902acf0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7343, "tagName": "span", "time": 13271.646300, "url": "", "pos": 6772, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb902ad50", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7359, "tagName": "span", "time": 13271.646302, "url": "", "pos": 6788, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb902adb0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7423, "tagName": "a", "time": 13271.646315, "url": "", "pos": 6852, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb902ae10", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7429, "tagName": "a", "time": 13271.646339, "url": "", "pos": 6858, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb902ae70", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7487, "tagName": "a", "time": 13271.646344, "url": "", "pos": 6916, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb902aed0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7493, "tagName": "a", "time": 13271.646361, "url": "", "pos": 6922, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb902af30", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7563, "tagName": "a", "time": 13271.646366, "url": "", "pos": 6992, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb902af90", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7569, "tagName": "a", "time": 13271.646382, "url": "", "pos": 6998, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb902a3f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7577, "tagName": "span", "time": 13271.646385, "url": "", "pos": 7006, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb902a450", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7584, "tagName": "div", "time": 13271.646388, "url": "", "pos": 7013, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb902a4b0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7592, "tagName": "div", "time": 13271.646390, "url": "", "pos": 7021, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb902a510", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7599, "tagName": "div", "time": 13271.646391, "url": "", "pos": 7028, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb902a570", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7608, "tagName": "div", "time": 13271.646393, "url": "", "pos": 7037, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb902a5a0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7614, "tagName": "div", "time": 13271.646394, "url": "", "pos": 7043, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb902a5d0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7659, "tagName": "div", "time": 13271.646397, "url": "", "pos": 7088, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb902a600", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7667, "tagName": "script", "time": 13271.646419, "url": "", "pos": 7096, "chunkLen": 26013, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fd8ea0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7710, "tagName": "script", "time": 13271.646428, "url": "", "pos": 7139, "chunkLen": 26013, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8faf840", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7726, "tagName": "div", "time": 13271.769024, "url": "", "pos": 3484, "chunkLen": 102435, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8faf810", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7741, "tagName": "div", "time": 13271.769069, "url": "", "pos": 3499, "chunkLen": 102435, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8faf7e0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7747, "tagName": "div", "time": 13271.769078, "url": "", "pos": 3505, "chunkLen": 102435, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8faf7b0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7762, "tagName": "div", "time": 13271.769081, "url": "", "pos": 3520, "chunkLen": 102435, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8faf780", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 57, "column": 7770, "tagName": "script", "time": 13271.769088, "url": "", "pos": 3528, "chunkLen": 102435, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb902a660", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 58, "column": 9, "tagName": "script", "time": 13271.769134, "url": "", "pos": 6302, "chunkLen": 102435, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8fa9780", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 58, "column": 15, "tagName": "div", "time": 13271.770380, "url": "", "pos": 2346, "chunkLen": 98473, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90c7330", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 58, "column": 21, "tagName": "div", "time": 13271.770384, "url": "", "pos": 2352, "chunkLen": 98473, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90c70f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 58, "column": 27, "tagName": "div", "time": 13271.770385, "url": "", "pos": 2358, "chunkLen": 98473, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90c7450", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 58, "column": 33, "tagName": "div", "time": 13271.770387, "url": "", "pos": 2364, "chunkLen": 98473, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90c74e0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 58, "column": 41, "tagName": "script", "time": 13271.770388, "url": "", "pos": 2372, "chunkLen": 98473, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8fa9900", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 9, "tagName": "script", "time": 13271.771672, "url": "", "pos": 75832, "chunkLen": 98473, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb903ade0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 28, "tagName": "div", "time": 13271.897878, "url": "", "pos": 2280, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb903ad50", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 117, "tagName": "div", "time": 13271.897943, "url": "", "pos": 2369, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb903acf0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 164, "tagName": "ul", "time": 13271.897952, "url": "", "pos": 2416, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb903ac90", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 202, "tagName": "li", "time": 13271.897966, "url": "", "pos": 2454, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90c7540", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 319, "tagName": "a", "time": 13271.897981, "url": "", "pos": 2571, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb903ac30", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 337, "tagName": "div", "time": 13271.897988, "url": "", "pos": 2589, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90c79c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 343, "tagName": "div", "time": 13271.897992, "url": "", "pos": 2595, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90c7990", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 361, "tagName": "div", "time": 13271.897995, "url": "", "pos": 2613, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90c7930", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 367, "tagName": "div", "time": 13271.897997, "url": "", "pos": 2619, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90c78d0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 386, "tagName": "div", "time": 13271.897999, "url": "", "pos": 2638, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90c7870", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 392, "tagName": "div", "time": 13271.898001, "url": "", "pos": 2644, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90c78a0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 411, "tagName": "div", "time": 13271.898003, "url": "", "pos": 2663, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90c7810", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 417, "tagName": "div", "time": 13271.898005, "url": "", "pos": 2669, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90c7840", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 474, "tagName": "span", "time": 13271.898008, "url": "", "pos": 2726, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb903a0c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 481, "tagName": "span", "time": 13271.898046, "url": "", "pos": 2733, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb903a0f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 500, "tagName": "span", "time": 13271.898049, "url": "", "pos": 2752, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb903a180", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 511, "tagName": "span", "time": 13271.898057, "url": "", "pos": 2763, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb903a1b0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 515, "tagName": "a", "time": 13271.898058, "url": "", "pos": 2767, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb903a1e0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 520, "tagName": "li", "time": 13271.898059, "url": "", "pos": 2772, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb903a210", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 558, "tagName": "li", "time": 13271.898061, "url": "", "pos": 2810, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb903a240", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 690, "tagName": "a", "time": 13271.898073, "url": "", "pos": 2942, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb903a270", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 708, "tagName": "div", "time": 13271.898076, "url": "", "pos": 2960, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb903a2a0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 714, "tagName": "div", "time": 13271.898079, "url": "", "pos": 2966, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb903a2d0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 732, "tagName": "div", "time": 13271.898080, "url": "", "pos": 2984, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb903a300", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 738, "tagName": "div", "time": 13271.898082, "url": "", "pos": 2990, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb903a330", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 757, "tagName": "div", "time": 13271.898084, "url": "", "pos": 3009, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb903a360", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 763, "tagName": "div", "time": 13271.898086, "url": "", "pos": 3015, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb903a390", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 782, "tagName": "div", "time": 13271.898087, "url": "", "pos": 3034, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb903a3c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 788, "tagName": "div", "time": 13271.898089, "url": "", "pos": 3040, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb903a3f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 844, "tagName": "span", "time": 13271.898091, "url": "", "pos": 3096, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb903a420", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 851, "tagName": "span", "time": 13271.898099, "url": "", "pos": 3103, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb903a450", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 870, "tagName": "span", "time": 13271.898101, "url": "", "pos": 3122, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb903a4b0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 879, "tagName": "span", "time": 13271.898104, "url": "", "pos": 3131, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb903a4e0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 883, "tagName": "a", "time": 13271.898105, "url": "", "pos": 3135, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb903a510", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 888, "tagName": "li", "time": 13271.898106, "url": "", "pos": 3140, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb903a540", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 926, "tagName": "li", "time": 13271.898108, "url": "", "pos": 3178, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb903a5d0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1046, "tagName": "a", "time": 13271.898115, "url": "", "pos": 3298, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb903a570", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1064, "tagName": "div", "time": 13271.898119, "url": "", "pos": 3316, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb903a000", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1070, "tagName": "div", "time": 13271.898121, "url": "", "pos": 3322, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea39f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1088, "tagName": "div", "time": 13271.898123, "url": "", "pos": 3340, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3a20", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1094, "tagName": "div", "time": 13271.898133, "url": "", "pos": 3346, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3a50", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1113, "tagName": "div", "time": 13271.898135, "url": "", "pos": 3365, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3a80", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1119, "tagName": "div", "time": 13271.898137, "url": "", "pos": 3371, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3ab0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1138, "tagName": "div", "time": 13271.898138, "url": "", "pos": 3390, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3ae0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1144, "tagName": "div", "time": 13271.898141, "url": "", "pos": 3396, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3b10", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1199, "tagName": "span", "time": 13271.898143, "url": "", "pos": 3451, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3b40", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1206, "tagName": "span", "time": 13271.898151, "url": "", "pos": 3458, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3b70", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1225, "tagName": "span", "time": 13271.898152, "url": "", "pos": 3477, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3bd0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1234, "tagName": "span", "time": 13271.898156, "url": "", "pos": 3486, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3c00", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1238, "tagName": "a", "time": 13271.898157, "url": "", "pos": 3490, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3c30", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1243, "tagName": "li", "time": 13271.898158, "url": "", "pos": 3495, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3c60", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1281, "tagName": "li", "time": 13271.898159, "url": "", "pos": 3533, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3cf0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1382, "tagName": "a", "time": 13271.898165, "url": "", "pos": 3634, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3c90", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1400, "tagName": "div", "time": 13271.898168, "url": "", "pos": 3652, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3d50", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1406, "tagName": "div", "time": 13271.898170, "url": "", "pos": 3658, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3d80", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1424, "tagName": "div", "time": 13271.898171, "url": "", "pos": 3676, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3db0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1430, "tagName": "div", "time": 13271.898174, "url": "", "pos": 3682, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3de0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1449, "tagName": "div", "time": 13271.898175, "url": "", "pos": 3701, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3e10", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1455, "tagName": "div", "time": 13271.898178, "url": "", "pos": 3707, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3e40", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1474, "tagName": "div", "time": 13271.898179, "url": "", "pos": 3726, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3e70", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1480, "tagName": "div", "time": 13271.898181, "url": "", "pos": 3732, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3ea0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1536, "tagName": "span", "time": 13271.898183, "url": "", "pos": 3788, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3ed0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1543, "tagName": "span", "time": 13271.898189, "url": "", "pos": 3795, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3f00", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1562, "tagName": "span", "time": 13271.898190, "url": "", "pos": 3814, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3f90", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1576, "tagName": "span", "time": 13271.898193, "url": "", "pos": 3828, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3fc0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1580, "tagName": "a", "time": 13271.898194, "url": "", "pos": 3832, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea33f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1585, "tagName": "li", "time": 13271.898195, "url": "", "pos": 3837, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3420", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1623, "tagName": "li", "time": 13271.898198, "url": "", "pos": 3875, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea34b0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1738, "tagName": "a", "time": 13271.898204, "url": "", "pos": 3990, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3450", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1756, "tagName": "div", "time": 13271.898208, "url": "", "pos": 4008, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3510", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1762, "tagName": "div", "time": 13271.898211, "url": "", "pos": 4014, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3540", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1780, "tagName": "div", "time": 13271.898212, "url": "", "pos": 4032, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3570", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1786, "tagName": "div", "time": 13271.898214, "url": "", "pos": 4038, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea35a0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1805, "tagName": "div", "time": 13271.898215, "url": "", "pos": 4057, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea35d0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1811, "tagName": "div", "time": 13271.898217, "url": "", "pos": 4063, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3600", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1830, "tagName": "div", "time": 13271.898219, "url": "", "pos": 4082, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3630", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1836, "tagName": "div", "time": 13271.898221, "url": "", "pos": 4088, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3660", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1893, "tagName": "span", "time": 13271.898223, "url": "", "pos": 4145, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3690", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1900, "tagName": "span", "time": 13271.898228, "url": "", "pos": 4152, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea36c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1919, "tagName": "span", "time": 13271.898230, "url": "", "pos": 4171, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3720", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1930, "tagName": "span", "time": 13271.898233, "url": "", "pos": 4182, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3750", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1934, "tagName": "a", "time": 13271.898234, "url": "", "pos": 4186, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3780", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1939, "tagName": "li", "time": 13271.898235, "url": "", "pos": 4191, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea37b0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 1977, "tagName": "li", "time": 13271.898236, "url": "", "pos": 4229, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea37e0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2123, "tagName": "a", "time": 13271.898243, "url": "", "pos": 4375, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3810", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2141, "tagName": "div", "time": 13271.898247, "url": "", "pos": 4393, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3840", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2147, "tagName": "div", "time": 13271.898249, "url": "", "pos": 4399, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3870", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2165, "tagName": "div", "time": 13271.898250, "url": "", "pos": 4417, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea38a0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2171, "tagName": "div", "time": 13271.898252, "url": "", "pos": 4423, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea38d0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2190, "tagName": "div", "time": 13271.898254, "url": "", "pos": 4442, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3900", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2196, "tagName": "div", "time": 13271.898256, "url": "", "pos": 4448, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3930", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2215, "tagName": "div", "time": 13271.898257, "url": "", "pos": 4467, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3960", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2221, "tagName": "div", "time": 13271.898259, "url": "", "pos": 4473, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3990", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2278, "tagName": "span", "time": 13271.898261, "url": "", "pos": 4530, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea39c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2285, "tagName": "span", "time": 13271.898267, "url": "", "pos": 4537, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3000", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2304, "tagName": "span", "time": 13271.898268, "url": "", "pos": 4556, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3060", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2313, "tagName": "span", "time": 13271.898272, "url": "", "pos": 4565, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3090", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2317, "tagName": "a", "time": 13271.898273, "url": "", "pos": 4569, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea30c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2322, "tagName": "li", "time": 13271.898274, "url": "", "pos": 4574, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea30f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2360, "tagName": "li", "time": 13271.898275, "url": "", "pos": 4612, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3180", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2467, "tagName": "a", "time": 13271.898281, "url": "", "pos": 4719, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3120", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2485, "tagName": "div", "time": 13271.898284, "url": "", "pos": 4737, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea31e0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2491, "tagName": "div", "time": 13271.898286, "url": "", "pos": 4743, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3210", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2509, "tagName": "div", "time": 13271.898287, "url": "", "pos": 4761, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3240", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2515, "tagName": "div", "time": 13271.898289, "url": "", "pos": 4767, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3270", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2534, "tagName": "div", "time": 13271.898290, "url": "", "pos": 4786, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea32a0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2540, "tagName": "div", "time": 13271.898293, "url": "", "pos": 4792, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea32d0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2559, "tagName": "div", "time": 13271.898294, "url": "", "pos": 4811, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3300", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2565, "tagName": "div", "time": 13271.898296, "url": "", "pos": 4817, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3330", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2621, "tagName": "span", "time": 13271.898298, "url": "", "pos": 4873, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea3360", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2628, "tagName": "span", "time": 13271.898313, "url": "", "pos": 4880, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea3390", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2647, "tagName": "span", "time": 13271.898315, "url": "", "pos": 4899, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90329f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2659, "tagName": "span", "time": 13271.898319, "url": "", "pos": 4911, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032a20", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2663, "tagName": "a", "time": 13271.898325, "url": "", "pos": 4915, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032a50", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2668, "tagName": "li", "time": 13271.898326, "url": "", "pos": 4920, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032a80", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2706, "tagName": "li", "time": 13271.898328, "url": "", "pos": 4958, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032b10", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2809, "tagName": "a", "time": 13271.898335, "url": "", "pos": 5061, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032ab0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2827, "tagName": "div", "time": 13271.898338, "url": "", "pos": 5079, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032b70", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2833, "tagName": "div", "time": 13271.898340, "url": "", "pos": 5085, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032ba0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2851, "tagName": "div", "time": 13271.898341, "url": "", "pos": 5103, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032bd0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2857, "tagName": "div", "time": 13271.898343, "url": "", "pos": 5109, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032c00", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2876, "tagName": "div", "time": 13271.898345, "url": "", "pos": 5128, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032c30", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2882, "tagName": "div", "time": 13271.898347, "url": "", "pos": 5134, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032c60", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2901, "tagName": "div", "time": 13271.898348, "url": "", "pos": 5153, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032c90", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2907, "tagName": "div", "time": 13271.898350, "url": "", "pos": 5159, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032cc0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2964, "tagName": "span", "time": 13271.898352, "url": "", "pos": 5216, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032cf0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2971, "tagName": "span", "time": 13271.898359, "url": "", "pos": 5223, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032d20", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 2990, "tagName": "span", "time": 13271.898360, "url": "", "pos": 5242, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032d80", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3001, "tagName": "span", "time": 13271.898363, "url": "", "pos": 5253, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032db0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3005, "tagName": "a", "time": 13271.898364, "url": "", "pos": 5257, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032de0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3010, "tagName": "li", "time": 13271.898365, "url": "", "pos": 5262, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032e10", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3048, "tagName": "li", "time": 13271.898367, "url": "", "pos": 5300, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032ea0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3157, "tagName": "a", "time": 13271.898372, "url": "", "pos": 5409, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032e40", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3175, "tagName": "div", "time": 13271.898375, "url": "", "pos": 5427, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032f00", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3181, "tagName": "div", "time": 13271.898377, "url": "", "pos": 5433, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032f30", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3199, "tagName": "div", "time": 13271.898378, "url": "", "pos": 5451, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032f60", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3205, "tagName": "div", "time": 13271.898380, "url": "", "pos": 5457, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032f90", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3224, "tagName": "div", "time": 13271.898382, "url": "", "pos": 5476, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032fc0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3230, "tagName": "div", "time": 13271.898384, "url": "", "pos": 5482, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90323f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3249, "tagName": "div", "time": 13271.898385, "url": "", "pos": 5501, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032420", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3255, "tagName": "div", "time": 13271.898387, "url": "", "pos": 5507, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032450", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3312, "tagName": "span", "time": 13271.898389, "url": "", "pos": 5564, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032480", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3319, "tagName": "span", "time": 13271.898395, "url": "", "pos": 5571, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90324b0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3338, "tagName": "span", "time": 13271.898396, "url": "", "pos": 5590, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032510", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3347, "tagName": "span", "time": 13271.898399, "url": "", "pos": 5599, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032540", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3351, "tagName": "a", "time": 13271.898400, "url": "", "pos": 5603, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032570", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3356, "tagName": "li", "time": 13271.898401, "url": "", "pos": 5608, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90325a0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3394, "tagName": "li", "time": 13271.898403, "url": "", "pos": 5646, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032630", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3514, "tagName": "a", "time": 13271.898409, "url": "", "pos": 5766, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90325d0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3532, "tagName": "div", "time": 13271.898412, "url": "", "pos": 5784, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032690", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3538, "tagName": "div", "time": 13271.901446, "url": "", "pos": 5790, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90326c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3556, "tagName": "div", "time": 13271.901455, "url": "", "pos": 5808, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90326f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3562, "tagName": "div", "time": 13271.901464, "url": "", "pos": 5814, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032720", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3581, "tagName": "div", "time": 13271.901465, "url": "", "pos": 5833, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032750", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3587, "tagName": "div", "time": 13271.901469, "url": "", "pos": 5839, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032780", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3606, "tagName": "div", "time": 13271.901490, "url": "", "pos": 5858, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90327b0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3612, "tagName": "div", "time": 13271.901494, "url": "", "pos": 5864, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90327e0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3668, "tagName": "span", "time": 13271.901497, "url": "", "pos": 5920, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032810", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3675, "tagName": "span", "time": 13271.901524, "url": "", "pos": 5927, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032840", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3694, "tagName": "span", "time": 13271.901526, "url": "", "pos": 5946, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90328d0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3708, "tagName": "span", "time": 13271.901532, "url": "", "pos": 5960, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032900", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3712, "tagName": "a", "time": 13271.901534, "url": "", "pos": 5964, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032930", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3717, "tagName": "li", "time": 13271.901536, "url": "", "pos": 5969, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032960", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3755, "tagName": "li", "time": 13271.901539, "url": "", "pos": 6007, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032000", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3878, "tagName": "a", "time": 13271.901558, "url": "", "pos": 6130, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032990", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3896, "tagName": "div", "time": 13271.901568, "url": "", "pos": 6148, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032060", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3902, "tagName": "div", "time": 13271.901571, "url": "", "pos": 6154, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032090", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3920, "tagName": "div", "time": 13271.901572, "url": "", "pos": 6172, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90320c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3926, "tagName": "div", "time": 13271.901575, "url": "", "pos": 6178, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90320f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3945, "tagName": "div", "time": 13271.901576, "url": "", "pos": 6197, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032120", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3951, "tagName": "div", "time": 13271.901578, "url": "", "pos": 6203, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032150", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3970, "tagName": "div", "time": 13271.901579, "url": "", "pos": 6222, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032180", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 3976, "tagName": "div", "time": 13271.901581, "url": "", "pos": 6228, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90321b0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4033, "tagName": "span", "time": 13271.901584, "url": "", "pos": 6285, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90321e0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4040, "tagName": "span", "time": 13271.901593, "url": "", "pos": 6292, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032210", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4059, "tagName": "span", "time": 13271.901595, "url": "", "pos": 6311, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032270", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4068, "tagName": "span", "time": 13271.901599, "url": "", "pos": 6320, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90322a0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4072, "tagName": "a", "time": 13271.901600, "url": "", "pos": 6324, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90322d0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4077, "tagName": "li", "time": 13271.901601, "url": "", "pos": 6329, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9032300", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4115, "tagName": "li", "time": 13271.901603, "url": "", "pos": 6367, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032390", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4219, "tagName": "a", "time": 13271.901610, "url": "", "pos": 6471, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9032330", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4237, "tagName": "div", "time": 13271.901627, "url": "", "pos": 6489, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90339f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4243, "tagName": "div", "time": 13271.901630, "url": "", "pos": 6495, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033a20", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4261, "tagName": "div", "time": 13271.901631, "url": "", "pos": 6513, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9033a50", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4267, "tagName": "div", "time": 13271.901633, "url": "", "pos": 6519, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033a80", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4286, "tagName": "div", "time": 13271.901635, "url": "", "pos": 6538, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9033ab0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4292, "tagName": "div", "time": 13271.901637, "url": "", "pos": 6544, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033ae0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4311, "tagName": "div", "time": 13271.901638, "url": "", "pos": 6563, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9033b10", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4317, "tagName": "div", "time": 13271.901641, "url": "", "pos": 6569, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033b40", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4373, "tagName": "span", "time": 13271.901643, "url": "", "pos": 6625, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9033b70", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4380, "tagName": "span", "time": 13271.901650, "url": "", "pos": 6632, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033ba0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4399, "tagName": "span", "time": 13271.901652, "url": "", "pos": 6651, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9033c00", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4408, "tagName": "span", "time": 13271.901663, "url": "", "pos": 6660, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033c30", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4412, "tagName": "a", "time": 13271.901664, "url": "", "pos": 6664, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033c60", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4417, "tagName": "li", "time": 13271.901665, "url": "", "pos": 6669, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033c90", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4422, "tagName": "ul", "time": 13271.901666, "url": "", "pos": 6674, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033d20", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4526, "tagName": "a", "time": 13271.901670, "url": "", "pos": 6778, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9033db0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4532, "tagName": "a", "time": 13271.901674, "url": "", "pos": 6784, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033de0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4552, "tagName": "span", "time": 13271.901675, "url": "", "pos": 6804, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9033e40", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4559, "tagName": "span", "time": 13271.901678, "url": "", "pos": 6811, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033ea0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4606, "tagName": "ul", "time": 13271.901680, "url": "", "pos": 6858, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9033f00", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4644, "tagName": "li", "time": 13271.901685, "url": "", "pos": 6896, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9033f90", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4755, "tagName": "a", "time": 13271.901691, "url": "", "pos": 7007, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9033f30", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4773, "tagName": "div", "time": 13271.901694, "url": "", "pos": 7025, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90333f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4779, "tagName": "div", "time": 13271.901697, "url": "", "pos": 7031, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033420", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4797, "tagName": "div", "time": 13271.901698, "url": "", "pos": 7049, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9033450", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4803, "tagName": "div", "time": 13271.901700, "url": "", "pos": 7055, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033480", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4822, "tagName": "div", "time": 13271.901701, "url": "", "pos": 7074, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90334b0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4828, "tagName": "div", "time": 13271.901704, "url": "", "pos": 7080, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90334e0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4847, "tagName": "div", "time": 13271.901705, "url": "", "pos": 7099, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9033510", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4853, "tagName": "div", "time": 13271.901707, "url": "", "pos": 7105, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033540", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4910, "tagName": "span", "time": 13271.901709, "url": "", "pos": 7162, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9033570", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4917, "tagName": "span", "time": 13271.901724, "url": "", "pos": 7169, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90335a0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4936, "tagName": "span", "time": 13271.901726, "url": "", "pos": 7188, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9033600", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4945, "tagName": "span", "time": 13271.901730, "url": "", "pos": 7197, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033630", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4949, "tagName": "a", "time": 13271.901731, "url": "", "pos": 7201, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033660", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4954, "tagName": "li", "time": 13271.901732, "url": "", "pos": 7206, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033690", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 4992, "tagName": "li", "time": 13271.901734, "url": "", "pos": 7244, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9033720", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5109, "tagName": "a", "time": 13271.901745, "url": "", "pos": 7361, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90336c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5127, "tagName": "div", "time": 13271.901751, "url": "", "pos": 7379, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9033780", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5133, "tagName": "div", "time": 13271.901754, "url": "", "pos": 7385, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90337b0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5151, "tagName": "div", "time": 13271.901755, "url": "", "pos": 7403, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90337e0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5157, "tagName": "div", "time": 13271.901757, "url": "", "pos": 7409, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033810", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5176, "tagName": "div", "time": 13271.901759, "url": "", "pos": 7428, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9033840", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5182, "tagName": "div", "time": 13271.901761, "url": "", "pos": 7434, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033870", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5201, "tagName": "div", "time": 13271.901762, "url": "", "pos": 7453, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90338a0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5207, "tagName": "div", "time": 13271.901764, "url": "", "pos": 7459, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90338d0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5263, "tagName": "span", "time": 13271.901766, "url": "", "pos": 7515, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9033900", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5270, "tagName": "span", "time": 13271.901774, "url": "", "pos": 7522, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033930", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5289, "tagName": "span", "time": 13271.901776, "url": "", "pos": 7541, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90339c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5305, "tagName": "span", "time": 13271.901779, "url": "", "pos": 7557, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033000", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5309, "tagName": "a", "time": 13271.901780, "url": "", "pos": 7561, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033030", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5314, "tagName": "li", "time": 13271.901782, "url": "", "pos": 7566, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033060", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5352, "tagName": "li", "time": 13271.901784, "url": "", "pos": 7604, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90330f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5454, "tagName": "a", "time": 13271.901789, "url": "", "pos": 7706, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9033090", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5472, "tagName": "div", "time": 13271.901791, "url": "", "pos": 7724, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9033150", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5478, "tagName": "div", "time": 13271.901794, "url": "", "pos": 7730, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033180", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5496, "tagName": "div", "time": 13271.901795, "url": "", "pos": 7748, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90331b0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5502, "tagName": "div", "time": 13271.901804, "url": "", "pos": 7754, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90331e0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5521, "tagName": "div", "time": 13271.901806, "url": "", "pos": 7773, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9033210", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5527, "tagName": "div", "time": 13271.901808, "url": "", "pos": 7779, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033240", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5546, "tagName": "div", "time": 13271.901810, "url": "", "pos": 7798, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9033270", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5552, "tagName": "div", "time": 13271.901812, "url": "", "pos": 7804, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90332a0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5609, "tagName": "span", "time": 13271.901814, "url": "", "pos": 7861, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90332d0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5616, "tagName": "span", "time": 13271.901821, "url": "", "pos": 7868, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9033300", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5635, "tagName": "span", "time": 13271.901823, "url": "", "pos": 7887, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9033390", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5649, "tagName": "span", "time": 13271.901826, "url": "", "pos": 7901, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90333c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5653, "tagName": "a", "time": 13271.901827, "url": "", "pos": 7905, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebb9f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5658, "tagName": "li", "time": 13271.901828, "url": "", "pos": 7910, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebba20", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5696, "tagName": "li", "time": 13271.901836, "url": "", "pos": 7948, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ebbab0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5819, "tagName": "a", "time": 13271.901844, "url": "", "pos": 8071, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ebba50", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5837, "tagName": "div", "time": 13271.901848, "url": "", "pos": 8089, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ebbb10", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5843, "tagName": "div", "time": 13271.901851, "url": "", "pos": 8095, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebbb40", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5861, "tagName": "div", "time": 13271.901852, "url": "", "pos": 8113, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ebbb70", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5867, "tagName": "div", "time": 13271.901854, "url": "", "pos": 8119, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebbba0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5886, "tagName": "div", "time": 13271.901856, "url": "", "pos": 8138, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ebbbd0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5892, "tagName": "div", "time": 13271.901858, "url": "", "pos": 8144, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebbc00", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5911, "tagName": "div", "time": 13271.901859, "url": "", "pos": 8163, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ebbc30", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5917, "tagName": "div", "time": 13271.901862, "url": "", "pos": 8169, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebbc60", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5973, "tagName": "span", "time": 13271.901864, "url": "", "pos": 8225, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ebbc90", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5980, "tagName": "span", "time": 13271.901871, "url": "", "pos": 8232, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebbcc0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 5999, "tagName": "span", "time": 13271.901873, "url": "", "pos": 8251, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ebbd20", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6009, "tagName": "span", "time": 13271.901876, "url": "", "pos": 8261, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebbd50", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6013, "tagName": "a", "time": 13271.901877, "url": "", "pos": 8265, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebbd80", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6018, "tagName": "li", "time": 13271.901879, "url": "", "pos": 8270, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebbdb0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6056, "tagName": "li", "time": 13271.901880, "url": "", "pos": 8308, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ebbe40", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6157, "tagName": "a", "time": 13271.901885, "url": "", "pos": 8409, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ebbde0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6175, "tagName": "div", "time": 13271.901888, "url": "", "pos": 8427, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ebbea0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6181, "tagName": "div", "time": 13271.901891, "url": "", "pos": 8433, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebbed0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6199, "tagName": "div", "time": 13271.901892, "url": "", "pos": 8451, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ebbf00", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6205, "tagName": "div", "time": 13271.901894, "url": "", "pos": 8457, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebbf30", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6224, "tagName": "div", "time": 13271.901895, "url": "", "pos": 8476, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ebbf60", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6230, "tagName": "div", "time": 13271.901897, "url": "", "pos": 8482, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebbf90", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6249, "tagName": "div", "time": 13271.901899, "url": "", "pos": 8501, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ebbfc0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6255, "tagName": "div", "time": 13271.901901, "url": "", "pos": 8507, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebb3f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6311, "tagName": "span", "time": 13271.901905, "url": "", "pos": 8563, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ebb420", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6318, "tagName": "span", "time": 13271.901911, "url": "", "pos": 8570, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebb450", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6337, "tagName": "span", "time": 13271.901912, "url": "", "pos": 8589, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ebb4e0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6352, "tagName": "span", "time": 13271.901915, "url": "", "pos": 8604, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebb510", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6356, "tagName": "a", "time": 13271.901916, "url": "", "pos": 8608, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebb540", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6361, "tagName": "li", "time": 13271.901917, "url": "", "pos": 8613, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebb570", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6366, "tagName": "ul", "time": 13271.901918, "url": "", "pos": 8618, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebb5d0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6442, "tagName": "a", "time": 13271.901921, "url": "", "pos": 8694, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ebb690", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6460, "tagName": "a", "time": 13271.901925, "url": "", "pos": 8712, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebb6c0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6466, "tagName": "div", "time": 13271.901926, "url": "", "pos": 8718, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebb6f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6472, "tagName": "div", "time": 13271.901927, "url": "", "pos": 8724, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebb720", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 6479, "tagName": "style", "time": 13271.901929, "url": "", "pos": 8731, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90c7570", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 21645, "tagName": "style", "time": 13271.902157, "url": "", "pos": 23897, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9233f60", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 267, "column": 21653, "tagName": "script", "time": 13271.904242, "url": "", "pos": 23905, "chunkLen": 24902, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ebb780", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 268, "column": 33, "tagName": "script", "time": 13271.904270, "url": "", "pos": 23961, "chunkLen": 24902, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb90c71b0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 268, "column": 41, "tagName": "script", "time": 13271.905341, "url": "", "pos": 8, "chunkLen": 941, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb90c7150", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 269, "column": 359, "tagName": "script", "time": 13271.905409, "url": "", "pos": 880, "chunkLen": 941, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb92333f0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 269, "column": 394, "tagName": "div", "time": 13271.909538, "url": "", "pos": 915, "chunkLen": 941, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9233420", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 269, "column": 400, "tagName": "div", "time": 13271.909618, "url": "", "pos": 921, "chunkLen": 941, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9233450", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 269, "column": 406, "tagName": "div", "time": 13271.909623, "url": "", "pos": 927, "chunkLen": 941, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9233480", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 269, "column": 413, "tagName": "body", "time": 13271.909625, "url": "", "pos": 934, "chunkLen": 941, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb92334b0", "doc": "https://www.google.com.hk/?gws_rd=ssl", "row": 269, "column": 420, "tagName": "html", "time": 13271.909626, "url": "", "pos": 941, "chunkLen": 941, "isStartTag": 0}}
+{"Resource": {"id": 2, "url": "https://ssl.gstatic.com/gb/images/i1_1967ca6a.png", "sentTime": -1.000000, "len": 8056, "from": "0xb8fa96c0",                            "mimeType": "image/png", "contentLength": 8056, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 13271.600801, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 13271.765754, "len": 8056}}
+{"Resource": {"id": 3, "url": "https://www.google.com.hk/images/nav_logo242.png", "sentTime": -1.000000, "len": 21909, "from": "0xb8faf210",                            "mimeType": "image/png", "contentLength": 21909, "httpStatus": 200, "connId": 70, "connReused": 1, "cached": 0,                            "requestTime": 13271.621426, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 2, "sendStart": 2, "sendEnd": 2, "receiveHeadersEnd": 35, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 13271.917367, "len": 915}}
+{"ReceivedChunk": {"receivedTime": 13271.917712, "len": 1323}}
+{"ReceivedChunk": {"receivedTime": 13271.917982, "len": 1323}}
+{"ReceivedChunk": {"receivedTime": 13271.918187, "len": 1323}}
+{"ReceivedChunk": {"receivedTime": 13271.918383, "len": 1323}}
+{"ReceivedChunk": {"receivedTime": 13271.918598, "len": 1323}}
+{"ReceivedChunk": {"receivedTime": 13271.918787, "len": 1323}}
+{"ReceivedChunk": {"receivedTime": 13271.918974, "len": 1323}}
+{"ReceivedChunk": {"receivedTime": 13271.919164, "len": 1323}}
+{"ReceivedChunk": {"receivedTime": 13271.919389, "len": 1323}}
+{"ReceivedChunk": {"receivedTime": 13271.919579, "len": 1323}}
+{"ReceivedChunk": {"receivedTime": 13271.919766, "len": 1323}}
+{"ReceivedChunk": {"receivedTime": 13271.919951, "len": 273}}
+{"ReceivedChunk": {"receivedTime": 13271.920136, "len": 1323}}
+{"ReceivedChunk": {"receivedTime": 13271.920322, "len": 1323}}
+{"ReceivedChunk": {"receivedTime": 13271.920506, "len": 1323}}
+{"ReceivedChunk": {"receivedTime": 13271.920692, "len": 1323}}
+{"ReceivedChunk": {"receivedTime": 13271.920877, "len": 876}}
+{"Resource": {"id": 4, "url": "https://www.google.com.hk/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png", "sentTime": -1.000000, "len": 5969, "from": "0xb8fcfae0",                            "mimeType": "image/png", "contentLength": 5969, "httpStatus": 200, "connId": 132, "connReused": 0, "cached": 0,                            "requestTime": 13271.623395, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 3, "connectEnd": 20, "sendStart": 21, "sendEnd": 21, "receiveHeadersEnd": 89, "sslStart": 12, "sslEnd": 20}}
+{"ReceivedChunk": {"receivedTime": 13271.922201, "len": 916}}
+{"ReceivedChunk": {"receivedTime": 13271.922545, "len": 1323}}
+{"ReceivedChunk": {"receivedTime": 13271.922804, "len": 1323}}
+{"ReceivedChunk": {"receivedTime": 13271.923186, "len": 1323}}
+{"ReceivedChunk": {"receivedTime": 13271.923835, "len": 1084}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "code": "0xb8e7fd50", "row": 0, "column": 344, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "code": "0xb8e7ebd0", "row": 9, "column": 2940, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "code": "0xb8e813c0", "row": 12, "column": 42, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "code": "0xb8f4df60", "row": 12, "column": 2219, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "code": "0xb8f4d4b0", "row": 12, "column": 3071, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "code": "0xb8f4d6f0", "row": 52, "column": 377, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "code": "0xb8f4d8d0", "row": 52, "column": 514, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "code": "0xb8f37e70", "row": 52, "column": 1111, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "code": "0xb8e92810", "row": 54, "column": 24, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "code": "0xb8fa9ab0", "row": 54, "column": 1054, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "code": "0xb8fcf9f0", "row": 57, "column": 3223, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "code": "0xb8fcfe10", "row": 57, "column": 3779, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "code": "0xb8fcff30", "row": 57, "column": 4002, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "code": "0xb8fd8e40", "row": 57, "column": 4583, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "code": "0xb902a600", "row": 57, "column": 7667, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "code": "0xb8faf780", "row": 57, "column": 7770, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "code": "0xb90c74e0", "row": 58, "column": 41, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "code": "0xb8ebb720", "row": 267, "column": 6479, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "code": "0xb9233f60", "row": 267, "column": 21653, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "code": "0xb90c71b0", "row": 268, "column": 41, "url": ""}}
+{"Computation": {"type": "execScript", "code": "0xb8e7fde0", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.380034, "endTime": 13271.440611, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb8e7fcc0", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.465499, "endTime": 13271.488313, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb8f4d750", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.488859, "endTime": 13271.490634, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb8f4d930", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.491056, "endTime": 13271.596553, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8f4d930", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.492910, "endTime": 13271.596523, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8f4d930", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.596170, "endTime": 13271.596231, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8f4d930", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.596242, "endTime": 13271.596511, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb8e92870", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.597172, "endTime": 13271.598327, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8e92870", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.597890, "endTime": 13271.598164, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb8fcfe70", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.626266, "endTime": 13271.626268, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8fcfe70", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.626269, "endTime": 13271.627942, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8fcfe70", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.627956, "endTime": 13271.627957, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8fcfe70", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.627958, "endTime": 13271.628039, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8fcfe70", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.628043, "endTime": 13271.628045, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8fcfe70", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.628046, "endTime": 13271.628062, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8fcfe70", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.628065, "endTime": 13271.628066, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8fcfe70", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.628067, "endTime": 13271.628330, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8fcfe70", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.628344, "endTime": 13271.628345, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8fcfe70", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.628346, "endTime": 13271.628439, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8fcfe70", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.628448, "endTime": 13271.628450, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8fcfe70", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.628451, "endTime": 13271.628862, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8fcfe70", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.628872, "endTime": 13271.628873, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8fcfe70", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.628875, "endTime": 13271.628925, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb8fcfe70", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.628929, "endTime": 13271.645194, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb8fcfe70", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.645209, "endTime": 13271.645502, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8fd8ea0", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.664186, "endTime": 13271.746846, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb8fd8ea0", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.768667, "endTime": 13271.768668, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8fd8ea0", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.768669, "endTime": 13271.768735, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb8fd8ea0", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.768744, "endTime": 13271.769015, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb902a660", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.769139, "endTime": 13271.770374, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb8fa9900", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.771679, "endTime": 13271.897867, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb8ebb780", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.904278, "endTime": 13271.905329, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb90c7150", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.905420, "endTime": 13271.909511, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb92334b0", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.909697, "endTime": 13271.909698, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb92334b0", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.909699, "endTime": 13271.915006, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0xb92334b0", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.910249, "endTime": 13271.910521, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb92334b0", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.911667, "endTime": 13271.911763, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb92334b0", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.913549, "endTime": 13271.913931, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb92334b0", "docUrl": "https://www.google.com.hk/?gws_rd=ssl", "startTime": 13271.915009, "endTime": 13271.915010, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Complete': "www.google.com.hk_?gws_rd=ssl"}
+Killed

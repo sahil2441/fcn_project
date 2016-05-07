@@ -1,0 +1,45 @@
+[10338:10348:2320587145:ERROR:web_data_service.cc(657)] Cannot initialize the web database: 2
+[10338:10338:2321774926:ERROR:CONSOLE(1)] "Uncaught ReferenceError: InspectorFrontendAPI is not defined", source:  (1)
+{"page": "www.qq.com_"}
+{"DOMLoad": 2340.081609}
+{"Resource": {"id": 1, "url": "http://www.qq.com/", "sentTime": -1.000000, "len": 626383, "from": "(nil)",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 63, "connReused": 0, "cached": 0,                            "requestTime": 2321.592413, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 0, "dnsEnd": 8, "connectStart": 4, "connectEnd": 11, "sendStart": 11, "sendEnd": 12, "receiveHeadersEnd": 10030, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2331.623511, "len": 1419}}
+{"ReceivedChunk": {"receivedTime": 2331.652707, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2331.661191, "len": 65536}}
+{"ReceivedChunk": {"receivedTime": 2331.707873, "len": 9861}}
+{"ReceivedChunk": {"receivedTime": 2331.708225, "len": 86743}}
+{"ReceivedChunk": {"receivedTime": 2331.733213, "len": 95512}}
+{"ReceivedChunk": {"receivedTime": 2332.019273, "len": 35623}}
+{"ReceivedChunk": {"receivedTime": 2332.043415, "len": 5105}}
+{"ReceivedChunk": {"receivedTime": 2332.046185, "len": 57015}}
+{"ReceivedChunk": {"receivedTime": 2332.084977, "len": 120081}}
+{"ReceivedChunk": {"receivedTime": 2333.200066, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2333.203612, "len": 23802}}
+{"ReceivedChunk": {"receivedTime": 2333.211603, "len": 11188}}
+{"ReceivedChunk": {"receivedTime": 2333.233603, "len": 48962}}
+{"WprofHTMLTag": {"code": "0xb7cf4cc0", "doc": "http://www.qq.com/", "row": 1, "column": 19, "tagName": "html", "time": 2331.626236, "url": "", "pos": 35, "chunkLen": 1310, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7d4ed80", "doc": "http://www.qq.com/", "row": 2, "column": 6, "tagName": "head", "time": 2331.626647, "url": "", "pos": 42, "chunkLen": 1310, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7d4ede0", "doc": "http://www.qq.com/", "row": 3, "column": 68, "tagName": "meta", "time": 2331.626687, "url": "", "pos": 111, "chunkLen": 1310, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7d4ee70", "doc": "http://www.qq.com/", "row": 4, "column": 53, "tagName": "meta", "time": 2331.626757, "url": "", "pos": 165, "chunkLen": 1310, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7d4eed0", "doc": "http://www.qq.com/", "row": 5, "column": 7, "tagName": "title", "time": 2331.626769, "url": "", "pos": 173, "chunkLen": 1310, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7d5ff00", "doc": "http://www.qq.com/", "row": 5, "column": 19, "tagName": "title", "time": 2331.640694, "url": "", "pos": 185, "chunkLen": 1310, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7d5ff60", "doc": "http://www.qq.com/", "row": 6, "column": 31, "tagName": "script", "time": 2331.640716, "url": "", "pos": 217, "chunkLen": 1310, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7d5fed0", "doc": "http://www.qq.com/", "row": 23, "column": 9, "tagName": "script", "time": 2331.640774, "url": "", "pos": 920, "chunkLen": 1310, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7d5f4b0", "doc": "http://www.qq.com/", "row": 24, "column": 31, "tagName": "script", "time": 2331.651750, "url": "", "pos": 952, "chunkLen": 1310, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7d5ffc0", "doc": "http://www.qq.com/", "row": 24, "column": 124, "tagName": "script", "time": 2331.651793, "url": "", "pos": 1045, "chunkLen": 1310, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7d5f570", "doc": "http://www.qq.com/", "row": 25, "column": 57, "tagName": "meta", "time": 2331.652522, "url": "", "pos": 1103, "chunkLen": 1310, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7d5f600", "doc": "http://www.qq.com/", "row": 26, "column": 72, "tagName": "meta", "time": 2331.652539, "url": "", "pos": 1176, "chunkLen": 1310, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7d5f660", "doc": "http://www.qq.com/", "row": 27, "column": 202, "tagName": "meta", "time": 2331.653107, "url": "", "pos": 1379, "chunkLen": 33983, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7d5f6f0", "doc": "http://www.qq.com/", "row": 28, "column": 78, "tagName": "link", "time": 2331.653125, "url": "http://mat1.gtimg.com/www/icon/favicon2.ico", "pos": 1458, "chunkLen": 33983, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7d5f810", "doc": "http://www.qq.com/", "row": 30, "column": 62, "tagName": "style", "time": 2331.654473, "url": "", "pos": 1522, "chunkLen": 33983, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7d5f900", "doc": "http://www.qq.com/", "row": 1212, "column": 8, "tagName": "style", "time": 2331.664269, "url": "", "pos": 94926, "chunkLen": 99132, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7ddfed0", "doc": "http://www.qq.com/", "row": 1229, "column": 98, "tagName": "link", "time": 2331.701890, "url": "http://mat1.gtimg.com/www/css/qq2012/hot_word_sogou.css", "pos": 95593, "chunkLen": 99132, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7ddf510", "doc": "http://www.qq.com/", "row": 1231, "column": 7, "tagName": "head", "time": 2331.703248, "url": "", "pos": 95604, "chunkLen": 99132, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7ddf4b0", "doc": "http://www.qq.com/", "row": 1232, "column": 6, "tagName": "body", "time": 2331.703254, "url": "", "pos": 95611, "chunkLen": 99132, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7ddf600", "doc": "http://www.qq.com/", "row": 1235, "column": 17, "tagName": "span", "time": 2331.703271, "url": "", "pos": 95708, "chunkLen": 99132, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7ddf690", "doc": "http://www.qq.com/", "row": 1235, "column": 32, "tagName": "span", "time": 2331.703287, "url": "", "pos": 95723, "chunkLen": 99132, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7ddf7b0", "doc": "http://www.qq.com/", "row": 1238, "column": 78, "tagName": "div", "time": 2331.703338, "url": "", "pos": 95860, "chunkLen": 99132, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7ddf810", "doc": "http://www.qq.com/", "row": 1238, "column": 84, "tagName": "div", "time": 2331.703376, "url": "", "pos": 95866, "chunkLen": 99132, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb7ddf930", "doc": "http://www.qq.com/", "row": 1242, "column": 36, "tagName": "div", "time": 2331.703383, "url": "", "pos": 95995, "chunkLen": 99132, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb7ddf990", "doc": "http://www.qq.com/", "row": 1242, "column": 42, "tagName": "div", "time": 2331.703387, "url": "", "pos": 96001, "chunkLen": 99132, "isStartTag": 0}}
+Killed

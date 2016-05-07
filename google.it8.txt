@@ -1,0 +1,754 @@
+[9427:9437:8825890583:ERROR:web_data_service.cc(657)] Cannot initialize the web database: 2
+[9427:9427:8827209933:ERROR:CONSOLE(1)] "Uncaught ReferenceError: InspectorFrontendAPI is not defined", source:  (1)
+{"page": "www.google.it_?gws_rd=ssl"}
+{"DOMLoad": 8828.232094}
+{"Resource": {"id": 1, "url": "https://www.google.it/?gws_rd=ssl", "sentTime": -1.000000, "len": 179120, "from": "(nil)",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 63, "connReused": 0, "cached": 0,                            "requestTime": 8826.513371, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 1, "connectEnd": 300, "sendStart": 300, "sendEnd": 310, "receiveHeadersEnd": 387, "sslStart": 3, "sslEnd": 300}}
+{"ReceivedChunk": {"receivedTime": 8826.911830, "len": 574}}
+{"ReceivedChunk": {"receivedTime": 8826.927287, "len": 3107}}
+{"ReceivedChunk": {"receivedTime": 8826.931181, "len": 3287}}
+{"ReceivedChunk": {"receivedTime": 8826.936470, "len": 3238}}
+{"ReceivedChunk": {"receivedTime": 8826.937437, "len": 3397}}
+{"ReceivedChunk": {"receivedTime": 8827.003070, "len": 6157}}
+{"ReceivedChunk": {"receivedTime": 8827.003968, "len": 7093}}
+{"ReceivedChunk": {"receivedTime": 8827.004512, "len": 5837}}
+{"ReceivedChunk": {"receivedTime": 8827.004955, "len": 7146}}
+{"ReceivedChunk": {"receivedTime": 8827.008062, "len": 6876}}
+{"ReceivedChunk": {"receivedTime": 8827.022579, "len": 2872}}
+{"ReceivedChunk": {"receivedTime": 8827.023674, "len": 2186}}
+{"ReceivedChunk": {"receivedTime": 8827.024218, "len": 3602}}
+{"ReceivedChunk": {"receivedTime": 8827.024599, "len": 3642}}
+{"ReceivedChunk": {"receivedTime": 8827.024941, "len": 3172}}
+{"ReceivedChunk": {"receivedTime": 8827.025276, "len": 3600}}
+{"ReceivedChunk": {"receivedTime": 8827.025645, "len": 3293}}
+{"ReceivedChunk": {"receivedTime": 8827.073451, "len": 3977}}
+{"ReceivedChunk": {"receivedTime": 8827.144123, "len": 4574}}
+{"ReceivedChunk": {"receivedTime": 8827.156340, "len": 3364}}
+{"ReceivedChunk": {"receivedTime": 8827.159200, "len": 3240}}
+{"ReceivedChunk": {"receivedTime": 8827.177253, "len": 3667}}
+{"ReceivedChunk": {"receivedTime": 8827.179309, "len": 3782}}
+{"ReceivedChunk": {"receivedTime": 8827.180708, "len": 2088}}
+{"ReceivedChunk": {"receivedTime": 8827.182976, "len": 125}}
+{"ReceivedChunk": {"receivedTime": 8827.224980, "len": 3348}}
+{"ReceivedChunk": {"receivedTime": 8827.225158, "len": 3770}}
+{"ReceivedChunk": {"receivedTime": 8827.226637, "len": 3984}}
+{"ReceivedChunk": {"receivedTime": 8827.230688, "len": 4187}}
+{"ReceivedChunk": {"receivedTime": 8827.239170, "len": 4259}}
+{"ReceivedChunk": {"receivedTime": 8827.247850, "len": 4404}}
+{"ReceivedChunk": {"receivedTime": 8827.248290, "len": 4222}}
+{"ReceivedChunk": {"receivedTime": 8827.251722, "len": 3582}}
+{"ReceivedChunk": {"receivedTime": 8827.252331, "len": 3950}}
+{"ReceivedChunk": {"receivedTime": 8827.252669, "len": 4044}}
+{"ReceivedChunk": {"receivedTime": 8827.253007, "len": 3816}}
+{"ReceivedChunk": {"receivedTime": 8827.253907, "len": 3754}}
+{"ReceivedChunk": {"receivedTime": 8827.257286, "len": 2366}}
+{"ReceivedChunk": {"receivedTime": 8827.283665, "len": 3856}}
+{"ReceivedChunk": {"receivedTime": 8827.284151, "len": 4477}}
+{"ReceivedChunk": {"receivedTime": 8827.288270, "len": 3885}}
+{"ReceivedChunk": {"receivedTime": 8827.290409, "len": 7748}}
+{"ReceivedChunk": {"receivedTime": 8827.478625, "len": 6265}}
+{"ReceivedChunk": {"receivedTime": 8827.481272, "len": 6410}}
+{"ReceivedChunk": {"receivedTime": 8827.481526, "len": 1956}}
+{"ReceivedChunk": {"receivedTime": 8827.531861, "len": 941}}
+{"WprofHTMLTag": {"code": "0xb96b9c90", "doc": "https://www.google.it/?gws_rd=ssl", "row": 0, "column": 81, "tagName": "html", "time": 8826.918271, "url": "", "pos": 81, "chunkLen": 574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96b9c00", "doc": "https://www.google.it/?gws_rd=ssl", "row": 0, "column": 87, "tagName": "head", "time": 8826.918405, "url": "", "pos": 87, "chunkLen": 574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96b9ba0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 0, "column": 181, "tagName": "meta", "time": 8826.918422, "url": "", "pos": 181, "chunkLen": 574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96b9d50", "doc": "https://www.google.it/?gws_rd=ssl", "row": 0, "column": 260, "tagName": "link", "time": 8826.918433, "url": "https://www.google.it/images/branding/product/ico/googleg_lodp.ico", "pos": 260, "chunkLen": 574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96b9db0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 0, "column": 309, "tagName": "meta", "time": 8826.918492, "url": "", "pos": 309, "chunkLen": 574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96b9de0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 0, "column": 316, "tagName": "title", "time": 8826.918499, "url": "", "pos": 316, "chunkLen": 574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb965db10", "doc": "https://www.google.it/?gws_rd=ssl", "row": 0, "column": 330, "tagName": "title", "time": 8826.926923, "url": "", "pos": 330, "chunkLen": 574, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb965db70", "doc": "https://www.google.it/?gws_rd=ssl", "row": 0, "column": 341, "tagName": "script", "time": 8826.926932, "url": "", "pos": 341, "chunkLen": 574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb965dae0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 9, "column": 2933, "tagName": "script", "time": 8826.937617, "url": "", "pos": 12204, "chunkLen": 13603, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb965de10", "doc": "https://www.google.it/?gws_rd=ssl", "row": 9, "column": 2940, "tagName": "style", "time": 8827.002033, "url": "", "pos": 2005, "chunkLen": 3397, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96a60f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 12, "column": 8, "tagName": "style", "time": 8827.008424, "url": "", "pos": 36340, "chunkLen": 36506, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb974d1e0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 12, "column": 42, "tagName": "style", "time": 8827.022017, "url": "", "pos": 36374, "chunkLen": 36506, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb965d8d0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 12, "column": 1864, "tagName": "style", "time": 8827.022707, "url": "", "pos": 38196, "chunkLen": 39378, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb975b480", "doc": "https://www.google.it/?gws_rd=ssl", "row": 12, "column": 1871, "tagName": "style", "time": 8827.023090, "url": "", "pos": 38203, "chunkLen": 39378, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb965d900", "doc": "https://www.google.it/?gws_rd=ssl", "row": 12, "column": 2715, "tagName": "style", "time": 8827.023112, "url": "", "pos": 39047, "chunkLen": 39378, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb975b600", "doc": "https://www.google.it/?gws_rd=ssl", "row": 12, "column": 2723, "tagName": "script", "time": 8827.023247, "url": "", "pos": 39055, "chunkLen": 39378, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb975b4b0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 9, "tagName": "script", "time": 8827.025831, "url": "", "pos": 56082, "chunkLen": 58872, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb965d960", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 40, "tagName": "link", "time": 8827.053756, "url": "https://www.google.it/", "pos": 534, "chunkLen": 3293, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb975b630", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 47, "tagName": "head", "time": 8827.053804, "url": "", "pos": 541, "chunkLen": 3293, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb975b690", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 268, "tagName": "body", "time": 8827.053833, "url": "", "pos": 762, "chunkLen": 3293, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb975b720", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 301, "tagName": "div", "time": 8827.054134, "url": "", "pos": 795, "chunkLen": 3293, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb975b030", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 335, "tagName": "div", "time": 8827.054200, "url": "", "pos": 829, "chunkLen": 3293, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb975b060", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 341, "tagName": "div", "time": 8827.054219, "url": "", "pos": 835, "chunkLen": 3293, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb975b090", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 370, "tagName": "div", "time": 8827.054224, "url": "", "pos": 864, "chunkLen": 3293, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb975b0c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 377, "tagName": "style", "time": 8827.054244, "url": "", "pos": 871, "chunkLen": 3293, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb965d630", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 1188, "tagName": "style", "time": 8827.054292, "url": "", "pos": 1682, "chunkLen": 3293, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb971ab40", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 1194, "tagName": "div", "time": 8827.054548, "url": "", "pos": 1688, "chunkLen": 3293, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb971ab70", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 1349, "tagName": "a", "time": 8827.054678, "url": "", "pos": 1843, "chunkLen": 3293, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb971ac00", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 1450, "tagName": "a", "time": 8827.054823, "url": "", "pos": 1944, "chunkLen": 3293, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb971ac90", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 1503, "tagName": "textarea", "time": 8827.054835, "url": "", "pos": 1997, "chunkLen": 3293, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb971acf0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 1514, "tagName": "textarea", "time": 8827.054968, "url": "", "pos": 2008, "chunkLen": 3293, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb971ad20", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 1522, "tagName": "script", "time": 8827.054977, "url": "", "pos": 2016, "chunkLen": 3293, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb975b120", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 1585, "tagName": "script", "time": 8827.054998, "url": "", "pos": 2079, "chunkLen": 3293, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb971ade0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 1613, "tagName": "div", "time": 8827.055126, "url": "", "pos": 2107, "chunkLen": 3293, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb971af00", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 1765, "tagName": "div", "time": 8827.055157, "url": "", "pos": 2259, "chunkLen": 3293, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb971af60", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 1770, "tagName": "div", "time": 8827.055187, "url": "", "pos": 2264, "chunkLen": 3293, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb971afc0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 1798, "tagName": "span", "time": 8827.055198, "url": "", "pos": 2292, "chunkLen": 3293, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb971a420", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 1853, "tagName": "span", "time": 8827.055245, "url": "", "pos": 2347, "chunkLen": 3293, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb971a4e0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 1970, "tagName": "a", "time": 8827.055255, "url": "", "pos": 2464, "chunkLen": 3293, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb971a540", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 2004, "tagName": "a", "time": 8827.055291, "url": "", "pos": 2498, "chunkLen": 3293, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb971a5a0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 2010, "tagName": "div", "time": 8827.055294, "url": "", "pos": 2504, "chunkLen": 3293, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb971a630", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 2104, "tagName": "div", "time": 8827.055301, "url": "", "pos": 2598, "chunkLen": 3293, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb971a690", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 2117, "tagName": "div", "time": 8827.055349, "url": "", "pos": 2611, "chunkLen": 3293, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb971a6f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 2123, "tagName": "div", "time": 8827.055352, "url": "", "pos": 2617, "chunkLen": 3293, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb971a720", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 2129, "tagName": "div", "time": 8827.055354, "url": "", "pos": 2623, "chunkLen": 3293, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb971a750", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 2162, "tagName": "div", "time": 8827.055358, "url": "", "pos": 2656, "chunkLen": 3293, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb971a7b0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 52, "column": 2170, "tagName": "script", "time": 8827.055384, "url": "", "pos": 2664, "chunkLen": 3293, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb971ad80", "doc": "https://www.google.it/?gws_rd=ssl", "row": 54, "column": 14, "tagName": "script", "time": 8827.055398, "url": "", "pos": 2853, "chunkLen": 3293, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb971a120", "doc": "https://www.google.it/?gws_rd=ssl", "row": 54, "column": 24, "tagName": "style", "time": 8827.072336, "url": "", "pos": 2863, "chunkLen": 3293, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb971a810", "doc": "https://www.google.it/?gws_rd=ssl", "row": 54, "column": 492, "tagName": "style", "time": 8827.073547, "url": "", "pos": 3331, "chunkLen": 7268, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb971a2d0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 54, "column": 506, "tagName": "div", "time": 8827.073877, "url": "", "pos": 3345, "chunkLen": 7268, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb971a360", "doc": "https://www.google.it/?gws_rd=ssl", "row": 54, "column": 521, "tagName": "div", "time": 8827.073954, "url": "", "pos": 3360, "chunkLen": 7268, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb971a3c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 54, "column": 532, "tagName": "script", "time": 8827.073970, "url": "", "pos": 3371, "chunkLen": 7268, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb965d660", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 9, "tagName": "script", "time": 8827.074000, "url": "", "pos": 3690, "chunkLen": 7268, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9739ab0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 57, "tagName": "div", "time": 8827.076339, "url": "", "pos": 445, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9739b10", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 100, "tagName": "div", "time": 8827.076442, "url": "", "pos": 488, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9739b70", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 136, "tagName": "div", "time": 8827.076507, "url": "", "pos": 524, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9739c00", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 159, "tagName": "div", "time": 8827.076532, "url": "", "pos": 547, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9739cc0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 256, "tagName": "a", "time": 8827.076564, "url": "", "pos": 644, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9739d80", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 265, "tagName": "a", "time": 8827.076651, "url": "", "pos": 653, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9739db0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 271, "tagName": "div", "time": 8827.076656, "url": "", "pos": 659, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9739de0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 294, "tagName": "div", "time": 8827.076658, "url": "", "pos": 682, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9739e40", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 423, "tagName": "a", "time": 8827.076691, "url": "", "pos": 811, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9739ed0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 435, "tagName": "a", "time": 8827.080763, "url": "", "pos": 823, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9739f00", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 441, "tagName": "div", "time": 8827.080778, "url": "", "pos": 829, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9739f30", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 447, "tagName": "div", "time": 8827.080780, "url": "", "pos": 835, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9739f60", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 477, "tagName": "div", "time": 8827.080791, "url": "", "pos": 865, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9739fc0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 507, "tagName": "div", "time": 8827.080913, "url": "", "pos": 895, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9739480", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 513, "tagName": "div", "time": 8827.081012, "url": "", "pos": 901, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97394e0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 553, "tagName": "div", "time": 8827.081020, "url": "", "pos": 941, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9739570", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 572, "tagName": "div", "time": 8827.081073, "url": "", "pos": 960, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9739690", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 714, "tagName": "a", "time": 8827.081099, "url": "", "pos": 1102, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97395d0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 718, "tagName": "a", "time": 8827.089139, "url": "", "pos": 1106, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9739840", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 737, "tagName": "div", "time": 8827.089171, "url": "", "pos": 1125, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97398d0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 743, "tagName": "div", "time": 8827.089322, "url": "", "pos": 1131, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9739930", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 762, "tagName": "div", "time": 8827.089332, "url": "", "pos": 1150, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97399c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 768, "tagName": "div", "time": 8827.089364, "url": "", "pos": 1156, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9739030", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 774, "tagName": "div", "time": 8827.089366, "url": "", "pos": 1162, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9739060", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 780, "tagName": "div", "time": 8827.089368, "url": "", "pos": 1168, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97390c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 804, "tagName": "div", "time": 8827.089372, "url": "", "pos": 1192, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9739120", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 823, "tagName": "div", "time": 8827.089434, "url": "", "pos": 1211, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9739150", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 999, "tagName": "a", "time": 8827.089879, "url": "", "pos": 1387, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9739210", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1009, "tagName": "a", "time": 8827.090154, "url": "", "pos": 1397, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9739240", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1028, "tagName": "div", "time": 8827.090172, "url": "", "pos": 1416, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9739270", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1034, "tagName": "div", "time": 8827.090289, "url": "", "pos": 1422, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97392a0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1053, "tagName": "div", "time": 8827.090294, "url": "", "pos": 1441, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97392d0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1059, "tagName": "div", "time": 8827.090306, "url": "", "pos": 1447, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9739300", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1065, "tagName": "div", "time": 8827.090309, "url": "", "pos": 1453, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9739330", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1071, "tagName": "div", "time": 8827.090310, "url": "", "pos": 1459, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9739360", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1077, "tagName": "div", "time": 8827.090312, "url": "", "pos": 1465, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9739390", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1083, "tagName": "div", "time": 8827.090314, "url": "", "pos": 1471, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972a9f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1090, "tagName": "div", "time": 8827.090321, "url": "", "pos": 1478, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972aa50", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1097, "tagName": "div", "time": 8827.090344, "url": "", "pos": 1485, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972aab0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1104, "tagName": "div", "time": 8827.090347, "url": "", "pos": 1492, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972ab40", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1159, "tagName": "div", "time": 8827.090354, "url": "", "pos": 1547, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972aba0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1178, "tagName": "div", "time": 8827.090422, "url": "", "pos": 1566, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972ac00", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1184, "tagName": "div", "time": 8827.090443, "url": "", "pos": 1572, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972ac30", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1190, "tagName": "div", "time": 8827.090445, "url": "", "pos": 1578, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972ac90", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1325, "tagName": "form", "time": 8827.090459, "url": "", "pos": 1713, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972ad50", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1376, "tagName": "input", "time": 8827.090948, "url": "", "pos": 1764, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972ae10", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1420, "tagName": "div", "time": 8827.091402, "url": "", "pos": 1808, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972ae40", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1462, "tagName": "input", "time": 8827.092034, "url": "", "pos": 1850, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972ae70", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1508, "tagName": "input", "time": 8827.092124, "url": "", "pos": 1896, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972aed0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1514, "tagName": "div", "time": 8827.092175, "url": "", "pos": 1902, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972af30", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1533, "tagName": "div", "time": 8827.092181, "url": "", "pos": 1921, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972a3f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1575, "tagName": "div", "time": 8827.092238, "url": "", "pos": 1963, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972a480", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1579, "tagName": "h1", "time": 8827.092264, "url": "", "pos": 1967, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972a4b0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1670, "tagName": "a", "time": 8827.092277, "url": "", "pos": 2058, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972a510", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1781, "tagName": "img", "time": 8827.092307, "url": "", "pos": 2169, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972a4e0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1785, "tagName": "a", "time": 8827.092447, "url": "", "pos": 2173, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972a570", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1790, "tagName": "h1", "time": 8827.092451, "url": "", "pos": 2178, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972a630", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1796, "tagName": "div", "time": 8827.092454, "url": "", "pos": 2184, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972a690", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1817, "tagName": "div", "time": 8827.092457, "url": "", "pos": 2205, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972a6f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1845, "tagName": "div", "time": 8827.116566, "url": "", "pos": 2233, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb975b6f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1865, "tagName": "div", "time": 8827.116851, "url": "", "pos": 2253, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9739a50", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1901, "tagName": "div", "time": 8827.116890, "url": "", "pos": 2289, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9739540", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1918, "tagName": "div", "time": 8827.116923, "url": "", "pos": 2306, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972a8a0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1982, "tagName": "div", "time": 8827.116975, "url": "", "pos": 2370, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972a8d0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1988, "tagName": "div", "time": 8827.117179, "url": "", "pos": 2376, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972a900", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 1994, "tagName": "div", "time": 8827.117186, "url": "", "pos": 2382, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972a930", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2000, "tagName": "div", "time": 8827.117188, "url": "", "pos": 2388, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972a960", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2019, "tagName": "div", "time": 8827.117192, "url": "", "pos": 2407, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972a9c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2038, "tagName": "div", "time": 8827.117219, "url": "", "pos": 2426, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972a060", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2065, "tagName": "div", "time": 8827.117242, "url": "", "pos": 2453, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972a120", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2101, "tagName": "div", "time": 8827.118418, "url": "", "pos": 2489, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972a1e0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2193, "tagName": "button", "time": 8827.118459, "url": "", "pos": 2581, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972a240", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2214, "tagName": "span", "time": 8827.118503, "url": "", "pos": 2602, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972a2d0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2221, "tagName": "span", "time": 8827.118511, "url": "", "pos": 2609, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972a330", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2231, "tagName": "button", "time": 8827.118516, "url": "", "pos": 2619, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972a390", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2238, "tagName": "div", "time": 8827.118519, "url": "", "pos": 2626, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972d9f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2245, "tagName": "div", "time": 8827.118522, "url": "", "pos": 2633, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972da50", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2252, "tagName": "div", "time": 8827.118539, "url": "", "pos": 2640, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972da80", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2258, "tagName": "div", "time": 8827.118541, "url": "", "pos": 2646, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972dab0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2289, "tagName": "div", "time": 8827.118545, "url": "", "pos": 2677, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972db40", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2437, "tagName": "input", "time": 8827.118782, "url": "", "pos": 2825, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972dcc0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2444, "tagName": "div", "time": 8827.139804, "url": "", "pos": 2832, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972dcf0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2450, "tagName": "div", "time": 8827.139810, "url": "", "pos": 2838, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972dd20", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2456, "tagName": "div", "time": 8827.139812, "url": "", "pos": 2844, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972dd50", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2461, "tagName": "div", "time": 8827.139814, "url": "", "pos": 2849, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972dd80", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2543, "tagName": "div", "time": 8827.139838, "url": "", "pos": 2931, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972ddb0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2559, "tagName": "div", "time": 8827.139888, "url": "", "pos": 2947, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972dde0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2565, "tagName": "span", "time": 8827.139892, "url": "", "pos": 2953, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972de10", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2571, "tagName": "span", "time": 8827.139895, "url": "", "pos": 2959, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972de70", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2584, "tagName": "span", "time": 8827.139899, "url": "", "pos": 2972, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972ded0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2643, "tagName": "span", "time": 8827.139901, "url": "", "pos": 3031, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972df30", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2710, "tagName": "a", "time": 8827.139915, "url": "", "pos": 3098, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972df90", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2736, "tagName": "a", "time": 8827.139920, "url": "", "pos": 3124, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972dfc0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2742, "tagName": "div", "time": 8827.139922, "url": "", "pos": 3130, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972d150", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2758, "tagName": "div", "time": 8827.139924, "url": "", "pos": 3146, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972d180", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2764, "tagName": "span", "time": 8827.139928, "url": "", "pos": 3152, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972d1e0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2777, "tagName": "span", "time": 8827.139930, "url": "", "pos": 3165, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972d240", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2883, "tagName": "div", "time": 8827.139933, "url": "", "pos": 3271, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972d270", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2899, "tagName": "div", "time": 8827.139934, "url": "", "pos": 3287, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972d2d0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2928, "tagName": "div", "time": 8827.139937, "url": "", "pos": 3316, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972d300", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2934, "tagName": "div", "time": 8827.139938, "url": "", "pos": 3322, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972d330", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2940, "tagName": "div", "time": 8827.139939, "url": "", "pos": 3328, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972d360", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2946, "tagName": "div", "time": 8827.139940, "url": "", "pos": 3334, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972d390", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2988, "tagName": "div", "time": 8827.139942, "url": "", "pos": 3376, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972d3f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 2996, "tagName": "center", "time": 8827.139960, "url": "", "pos": 3384, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972d480", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3102, "tagName": "input", "time": 8827.139985, "url": "", "pos": 3490, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972d540", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3212, "tagName": "input", "time": 8827.140105, "url": "", "pos": 3600, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972d420", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3221, "tagName": "center", "time": 8827.140140, "url": "", "pos": 3609, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972d5d0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3227, "tagName": "div", "time": 8827.140142, "url": "", "pos": 3615, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972d4b0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3233, "tagName": "div", "time": 8827.140143, "url": "", "pos": 3621, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972d600", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3240, "tagName": "form", "time": 8827.140144, "url": "", "pos": 3628, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972d630", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3246, "tagName": "div", "time": 8827.140145, "url": "", "pos": 3634, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972d690", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3266, "tagName": "div", "time": 8827.140148, "url": "", "pos": 3654, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972d6c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3272, "tagName": "div", "time": 8827.140156, "url": "", "pos": 3660, "chunkLen": 3975, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972d6f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3318, "tagName": "div", "time": 8827.140167, "url": "", "pos": 3706, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972d000", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3348, "tagName": "span", "time": 8827.142367, "url": "", "pos": 3736, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972d030", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3356, "tagName": "center", "time": 8827.142400, "url": "", "pos": 3744, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972d060", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3407, "tagName": "div", "time": 8827.142410, "url": "", "pos": 3795, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972d090", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3438, "tagName": "div", "time": 8827.142447, "url": "", "pos": 3826, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972d0c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3445, "tagName": "style", "time": 8827.142459, "url": "", "pos": 3833, "chunkLen": 3975, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9739a20", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3709, "tagName": "style", "time": 8827.144195, "url": "", "pos": 4097, "chunkLen": 8549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97bc9f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3840, "tagName": "div", "time": 8827.144932, "url": "", "pos": 4228, "chunkLen": 8549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97bca20", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3866, "tagName": "div", "time": 8827.145059, "url": "", "pos": 4254, "chunkLen": 8549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97bcb70", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3878, "tagName": "div", "time": 8827.145085, "url": "", "pos": 4266, "chunkLen": 8549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97bcba0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3884, "tagName": "div", "time": 8827.145087, "url": "", "pos": 4272, "chunkLen": 8549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97bcbd0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3890, "tagName": "div", "time": 8827.145088, "url": "", "pos": 4278, "chunkLen": 8549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97bcc00", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3896, "tagName": "div", "time": 8827.145089, "url": "", "pos": 4284, "chunkLen": 8549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97bcc60", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3922, "tagName": "div", "time": 8827.145092, "url": "", "pos": 4310, "chunkLen": 8549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97bcc90", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3928, "tagName": "div", "time": 8827.145104, "url": "", "pos": 4316, "chunkLen": 8549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97bccc0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 3998, "tagName": "div", "time": 8827.145109, "url": "", "pos": 4386, "chunkLen": 8549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97bccf0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 4005, "tagName": "style", "time": 8827.145121, "url": "", "pos": 4393, "chunkLen": 8549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb965d690", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 4220, "tagName": "style", "time": 8827.145132, "url": "", "pos": 4608, "chunkLen": 8549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97bce10", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 4228, "tagName": "script", "time": 8827.145223, "url": "", "pos": 4616, "chunkLen": 8549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97bcd50", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 4284, "tagName": "script", "time": 8827.145236, "url": "", "pos": 4672, "chunkLen": 8549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97bce70", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 4298, "tagName": "div", "time": 8827.146571, "url": "", "pos": 711, "chunkLen": 4574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97bcea0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 4313, "tagName": "div", "time": 8827.146607, "url": "", "pos": 726, "chunkLen": 4574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97bcf00", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 4499, "tagName": "a", "time": 8827.146633, "url": "", "pos": 912, "chunkLen": 4574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97bc3f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 4510, "tagName": "a", "time": 8827.146671, "url": "", "pos": 923, "chunkLen": 4574, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97bc450", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 4517, "tagName": "div", "time": 8827.146678, "url": "", "pos": 930, "chunkLen": 4574, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97bc480", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 4523, "tagName": "div", "time": 8827.146680, "url": "", "pos": 936, "chunkLen": 4574, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97bc4b0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 4529, "tagName": "div", "time": 8827.146681, "url": "", "pos": 942, "chunkLen": 4574, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97bc4e0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 4538, "tagName": "center", "time": 8827.146682, "url": "", "pos": 951, "chunkLen": 4574, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97bc510", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 4545, "tagName": "span", "time": 8827.146683, "url": "", "pos": 958, "chunkLen": 4574, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97bc540", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 4576, "tagName": "div", "time": 8827.146686, "url": "", "pos": 989, "chunkLen": 4574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97bc5a0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 4623, "tagName": "div", "time": 8827.146711, "url": "", "pos": 1036, "chunkLen": 4574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97bc5d0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 4630, "tagName": "style", "time": 8827.146731, "url": "", "pos": 1043, "chunkLen": 4574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97bce40", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 7261, "tagName": "style", "time": 8827.146773, "url": "", "pos": 3674, "chunkLen": 4574, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97bc810", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 7280, "tagName": "div", "time": 8827.147122, "url": "", "pos": 3693, "chunkLen": 4574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97bc8d0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 7315, "tagName": "div", "time": 8827.147138, "url": "", "pos": 3728, "chunkLen": 4574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97bc960", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 7334, "tagName": "div", "time": 8827.147157, "url": "", "pos": 3747, "chunkLen": 4574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97bc000", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 7352, "tagName": "span", "time": 8827.147169, "url": "", "pos": 3765, "chunkLen": 4574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97bc060", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 7423, "tagName": "a", "time": 8827.147180, "url": "", "pos": 3836, "chunkLen": 4574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97bc150", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 7434, "tagName": "a", "time": 8827.147219, "url": "", "pos": 3847, "chunkLen": 4574, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97bc1b0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 7502, "tagName": "a", "time": 8827.147225, "url": "", "pos": 3915, "chunkLen": 4574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97bc240", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 7513, "tagName": "a", "time": 8827.147243, "url": "", "pos": 3926, "chunkLen": 4574, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97bc2a0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 7570, "tagName": "span", "time": 8827.147247, "url": "", "pos": 3983, "chunkLen": 4574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97bc330", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 7723, "tagName": "a", "time": 8827.147270, "url": "", "pos": 4136, "chunkLen": 4574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97c99f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 7739, "tagName": "a", "time": 8827.147303, "url": "", "pos": 4152, "chunkLen": 4574, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c9a50", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 7778, "tagName": "span", "time": 8827.147316, "url": "", "pos": 4191, "chunkLen": 4574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97c9a80", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 7838, "tagName": "a", "time": 8827.147340, "url": "", "pos": 4251, "chunkLen": 4574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97c9b10", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 7865, "tagName": "a", "time": 8827.147344, "url": "", "pos": 4278, "chunkLen": 4574, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c9b70", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 7912, "tagName": "span", "time": 8827.147348, "url": "", "pos": 4325, "chunkLen": 4574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97c9bd0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 7955, "tagName": "a", "time": 8827.147353, "url": "", "pos": 4368, "chunkLen": 4574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97c9c30", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 7975, "tagName": "a", "time": 8827.147355, "url": "", "pos": 4388, "chunkLen": 4574, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c9c90", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 7983, "tagName": "span", "time": 8827.147357, "url": "", "pos": 4396, "chunkLen": 4574, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c9cf0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 8025, "tagName": "a", "time": 8827.147360, "url": "", "pos": 4438, "chunkLen": 4574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97c9d80", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 8042, "tagName": "a", "time": 8827.147362, "url": "", "pos": 4455, "chunkLen": 4574, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c9de0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 8122, "tagName": "a", "time": 8827.147371, "url": "", "pos": 4535, "chunkLen": 4574, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97c9e40", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 8146, "tagName": "a", "time": 8827.147376, "url": "", "pos": 4559, "chunkLen": 4574, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c9ed0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 8293, "tagName": "a", "time": 8827.156414, "url": "", "pos": 4706, "chunkLen": 7936, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97c9f30", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 8314, "tagName": "a", "time": 8827.156441, "url": "", "pos": 4727, "chunkLen": 7936, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c9f90", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 8323, "tagName": "span", "time": 8827.156445, "url": "", "pos": 4736, "chunkLen": 7936, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c93f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 8331, "tagName": "span", "time": 8827.156458, "url": "", "pos": 4744, "chunkLen": 7936, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c9450", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 8341, "tagName": "span", "time": 8827.156463, "url": "", "pos": 4754, "chunkLen": 7936, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c94b0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 8357, "tagName": "span", "time": 8827.156467, "url": "", "pos": 4770, "chunkLen": 7936, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97c9510", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 8414, "tagName": "a", "time": 8827.156497, "url": "", "pos": 4827, "chunkLen": 7936, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97c95a0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 8428, "tagName": "a", "time": 8827.156541, "url": "", "pos": 4841, "chunkLen": 7936, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c9600", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 8482, "tagName": "a", "time": 8827.156546, "url": "", "pos": 4895, "chunkLen": 7936, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97c9660", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 8505, "tagName": "a", "time": 8827.156563, "url": "", "pos": 4918, "chunkLen": 7936, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c96c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 8568, "tagName": "a", "time": 8827.156568, "url": "", "pos": 4981, "chunkLen": 7936, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97c9750", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 8584, "tagName": "a", "time": 8827.156578, "url": "", "pos": 4997, "chunkLen": 7936, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c97b0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 8592, "tagName": "span", "time": 8827.156580, "url": "", "pos": 5005, "chunkLen": 7936, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c9810", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 8599, "tagName": "div", "time": 8827.156582, "url": "", "pos": 5012, "chunkLen": 7936, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c98a0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 8624, "tagName": "div", "time": 8827.156585, "url": "", "pos": 5037, "chunkLen": 7936, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97c9900", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 8732, "tagName": "div", "time": 8827.156626, "url": "", "pos": 5145, "chunkLen": 7936, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97c9930", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 8751, "tagName": "p", "time": 8827.156649, "url": "", "pos": 5164, "chunkLen": 7936, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97c9990", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 8875, "tagName": "p", "time": 8827.156661, "url": "", "pos": 5288, "chunkLen": 7936, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c99c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 9074, "tagName": "a", "time": 8827.156668, "url": "", "pos": 5487, "chunkLen": 7936, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97c9090", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 9090, "tagName": "a", "time": 8827.156682, "url": "", "pos": 5503, "chunkLen": 7936, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c9120", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 9269, "tagName": "div", "time": 8827.156689, "url": "", "pos": 5682, "chunkLen": 7936, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97c9180", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 9277, "tagName": "div", "time": 8827.156692, "url": "", "pos": 5690, "chunkLen": 7936, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c91b0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 9283, "tagName": "div", "time": 8827.156693, "url": "", "pos": 5696, "chunkLen": 7936, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c9210", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 9290, "tagName": "div", "time": 8827.156695, "url": "", "pos": 5703, "chunkLen": 7936, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c9270", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 9297, "tagName": "div", "time": 8827.156697, "url": "", "pos": 5710, "chunkLen": 7936, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c92d0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 9304, "tagName": "div", "time": 8827.156698, "url": "", "pos": 5717, "chunkLen": 7936, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c9330", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 9313, "tagName": "div", "time": 8827.156700, "url": "", "pos": 5726, "chunkLen": 7936, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c9360", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 9319, "tagName": "div", "time": 8827.156701, "url": "", "pos": 5732, "chunkLen": 7936, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97c9390", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 9364, "tagName": "div", "time": 8827.156704, "url": "", "pos": 5777, "chunkLen": 7936, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97c93c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 9372, "tagName": "script", "time": 8827.156713, "url": "", "pos": 5785, "chunkLen": 7936, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97d2a50", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 9415, "tagName": "script", "time": 8827.156735, "url": "", "pos": 5828, "chunkLen": 7936, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97d2a80", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 9431, "tagName": "div", "time": 8827.156995, "url": "", "pos": 1270, "chunkLen": 3362, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97d2ab0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 9446, "tagName": "div", "time": 8827.157063, "url": "", "pos": 1285, "chunkLen": 3362, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97d2ae0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 9452, "tagName": "div", "time": 8827.157101, "url": "", "pos": 1291, "chunkLen": 3362, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97d2b10", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 9467, "tagName": "div", "time": 8827.157105, "url": "", "pos": 1306, "chunkLen": 3362, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97d2b40", "doc": "https://www.google.it/?gws_rd=ssl", "row": 57, "column": 9475, "tagName": "script", "time": 8827.157111, "url": "", "pos": 1314, "chunkLen": 3362, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97d2a20", "doc": "https://www.google.it/?gws_rd=ssl", "row": 58, "column": 9, "tagName": "script", "time": 8827.159389, "url": "", "pos": 4919, "chunkLen": 6601, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97d2bd0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 58, "column": 15, "tagName": "div", "time": 8827.173902, "url": "", "pos": 1563, "chunkLen": 3239, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97d2c00", "doc": "https://www.google.it/?gws_rd=ssl", "row": 58, "column": 21, "tagName": "div", "time": 8827.173922, "url": "", "pos": 1569, "chunkLen": 3239, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97d2c30", "doc": "https://www.google.it/?gws_rd=ssl", "row": 58, "column": 27, "tagName": "div", "time": 8827.173923, "url": "", "pos": 1575, "chunkLen": 3239, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97d2c60", "doc": "https://www.google.it/?gws_rd=ssl", "row": 58, "column": 33, "tagName": "div", "time": 8827.173925, "url": "", "pos": 1581, "chunkLen": 3239, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97d2c90", "doc": "https://www.google.it/?gws_rd=ssl", "row": 58, "column": 41, "tagName": "script", "time": 8827.173929, "url": "https://www.google.it/xjs/_/js/k=xjs.s.it.uuFPnnhBBZw.O/m=sx,c,sb,cdos,cr,elog,epb,jsa,r,hsm,qsm,j,p,d,csi/am=AJS0CgoS8fchIGwhrCA1YGBB/rt=j/d=1/t=zcms/rs=ACT90oG7pQHwALFFsvs6J8tpJUHlKDAlNg", "pos": 1589, "chunkLen": 3239, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb965d6f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 9, "tagName": "script", "time": 8827.290572, "url": "", "pos": 75049, "chunkLen": 82553, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb984fb10", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 28, "tagName": "div", "time": 8827.463056, "url": "", "pos": 263, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984fa80", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 116, "tagName": "div", "time": 8827.463134, "url": "", "pos": 351, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984fa20", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 163, "tagName": "ul", "time": 8827.463144, "url": "", "pos": 398, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984f9c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 201, "tagName": "li", "time": 8827.463163, "url": "", "pos": 436, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984ff90", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 318, "tagName": "a", "time": 8827.463181, "url": "", "pos": 553, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984f960", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 336, "tagName": "div", "time": 8827.463190, "url": "", "pos": 571, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984fed0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 342, "tagName": "div", "time": 8827.463193, "url": "", "pos": 577, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb984fea0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 360, "tagName": "div", "time": 8827.463196, "url": "", "pos": 595, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984fe40", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 366, "tagName": "div", "time": 8827.463199, "url": "", "pos": 601, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb984fde0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 385, "tagName": "div", "time": 8827.463201, "url": "", "pos": 620, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984fd80", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 391, "tagName": "div", "time": 8827.463203, "url": "", "pos": 626, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb984fdb0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 410, "tagName": "div", "time": 8827.463205, "url": "", "pos": 645, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984fd20", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 416, "tagName": "div", "time": 8827.463207, "url": "", "pos": 651, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb984fd50", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 473, "tagName": "span", "time": 8827.463210, "url": "", "pos": 708, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984f4b0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 480, "tagName": "span", "time": 8827.463244, "url": "", "pos": 715, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb984f4e0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 499, "tagName": "span", "time": 8827.463247, "url": "", "pos": 734, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984f570", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 523, "tagName": "span", "time": 8827.463254, "url": "", "pos": 758, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb984f5a0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 527, "tagName": "a", "time": 8827.463255, "url": "", "pos": 762, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb984f5d0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 532, "tagName": "li", "time": 8827.463257, "url": "", "pos": 767, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb984f600", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 570, "tagName": "li", "time": 8827.463259, "url": "", "pos": 805, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984f630", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 698, "tagName": "a", "time": 8827.463273, "url": "", "pos": 933, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984f660", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 716, "tagName": "div", "time": 8827.463277, "url": "", "pos": 951, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984f690", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 722, "tagName": "div", "time": 8827.463279, "url": "", "pos": 957, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb984f6c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 740, "tagName": "div", "time": 8827.463281, "url": "", "pos": 975, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984f6f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 746, "tagName": "div", "time": 8827.463283, "url": "", "pos": 981, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb984f720", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 765, "tagName": "div", "time": 8827.463284, "url": "", "pos": 1000, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984f750", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 771, "tagName": "div", "time": 8827.463286, "url": "", "pos": 1006, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb984f780", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 790, "tagName": "div", "time": 8827.463288, "url": "", "pos": 1025, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984f7b0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 796, "tagName": "div", "time": 8827.463290, "url": "", "pos": 1031, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb984f7e0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 852, "tagName": "span", "time": 8827.463292, "url": "", "pos": 1087, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984f810", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 859, "tagName": "span", "time": 8827.463300, "url": "", "pos": 1094, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb984f840", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 878, "tagName": "span", "time": 8827.463302, "url": "", "pos": 1113, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984f8d0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 892, "tagName": "span", "time": 8827.463305, "url": "", "pos": 1127, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb984f900", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 896, "tagName": "a", "time": 8827.463306, "url": "", "pos": 1131, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb984f930", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 901, "tagName": "li", "time": 8827.463307, "url": "", "pos": 1136, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb984f000", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 939, "tagName": "li", "time": 8827.463309, "url": "", "pos": 1174, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984f090", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1052, "tagName": "a", "time": 8827.463318, "url": "", "pos": 1287, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984f030", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1070, "tagName": "div", "time": 8827.463322, "url": "", "pos": 1305, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984f0f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1076, "tagName": "div", "time": 8827.463325, "url": "", "pos": 1311, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb984f120", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1094, "tagName": "div", "time": 8827.463326, "url": "", "pos": 1329, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984f150", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1100, "tagName": "div", "time": 8827.463329, "url": "", "pos": 1335, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb984f180", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1119, "tagName": "div", "time": 8827.463330, "url": "", "pos": 1354, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984f1b0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1125, "tagName": "div", "time": 8827.463332, "url": "", "pos": 1360, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb984f1e0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1144, "tagName": "div", "time": 8827.463334, "url": "", "pos": 1379, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984f210", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1150, "tagName": "div", "time": 8827.463336, "url": "", "pos": 1385, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb984f240", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1205, "tagName": "span", "time": 8827.463338, "url": "", "pos": 1440, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984f270", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1212, "tagName": "span", "time": 8827.463344, "url": "", "pos": 1447, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb984f2a0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1231, "tagName": "span", "time": 8827.463346, "url": "", "pos": 1466, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb984f300", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1242, "tagName": "span", "time": 8827.463349, "url": "", "pos": 1477, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb984f330", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1246, "tagName": "a", "time": 8827.463350, "url": "", "pos": 1481, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd9f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1251, "tagName": "li", "time": 8827.463351, "url": "", "pos": 1486, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acda20", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1289, "tagName": "li", "time": 8827.463366, "url": "", "pos": 1524, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acdab0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1390, "tagName": "a", "time": 8827.463374, "url": "", "pos": 1625, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acda50", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1408, "tagName": "div", "time": 8827.463378, "url": "", "pos": 1643, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acdb10", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1414, "tagName": "div", "time": 8827.463380, "url": "", "pos": 1649, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acdb40", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1432, "tagName": "div", "time": 8827.463381, "url": "", "pos": 1667, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acdb70", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1438, "tagName": "div", "time": 8827.463384, "url": "", "pos": 1673, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acdba0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1457, "tagName": "div", "time": 8827.463385, "url": "", "pos": 1692, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acdbd0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1463, "tagName": "div", "time": 8827.463388, "url": "", "pos": 1698, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acdc00", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1482, "tagName": "div", "time": 8827.463389, "url": "", "pos": 1717, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acdc30", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1488, "tagName": "div", "time": 8827.463391, "url": "", "pos": 1723, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acdc60", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1544, "tagName": "span", "time": 8827.463393, "url": "", "pos": 1779, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acdc90", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1551, "tagName": "span", "time": 8827.463401, "url": "", "pos": 1786, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acdcc0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1570, "tagName": "span", "time": 8827.463403, "url": "", "pos": 1805, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acdd50", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1584, "tagName": "span", "time": 8827.463406, "url": "", "pos": 1819, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acdd80", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1588, "tagName": "a", "time": 8827.463407, "url": "", "pos": 1823, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acddb0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1593, "tagName": "li", "time": 8827.463408, "url": "", "pos": 1828, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acdde0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1631, "tagName": "li", "time": 8827.463410, "url": "", "pos": 1866, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acde70", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1743, "tagName": "a", "time": 8827.463416, "url": "", "pos": 1978, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acde10", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1761, "tagName": "div", "time": 8827.463418, "url": "", "pos": 1996, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acded0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1767, "tagName": "div", "time": 8827.463421, "url": "", "pos": 2002, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acdf00", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1785, "tagName": "div", "time": 8827.463423, "url": "", "pos": 2020, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acdf30", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1791, "tagName": "div", "time": 8827.463426, "url": "", "pos": 2026, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acdf60", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1810, "tagName": "div", "time": 8827.463427, "url": "", "pos": 2045, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acdf90", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1816, "tagName": "div", "time": 8827.463429, "url": "", "pos": 2051, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acdfc0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1835, "tagName": "div", "time": 8827.463430, "url": "", "pos": 2070, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acd3f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1841, "tagName": "div", "time": 8827.463433, "url": "", "pos": 2076, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd420", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1898, "tagName": "span", "time": 8827.463435, "url": "", "pos": 2133, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acd450", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1905, "tagName": "span", "time": 8827.463441, "url": "", "pos": 2140, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd480", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1924, "tagName": "span", "time": 8827.463443, "url": "", "pos": 2159, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acd4e0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1935, "tagName": "span", "time": 8827.463445, "url": "", "pos": 2170, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd510", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1939, "tagName": "a", "time": 8827.463446, "url": "", "pos": 2174, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd540", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1944, "tagName": "li", "time": 8827.463447, "url": "", "pos": 2179, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd570", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 1982, "tagName": "li", "time": 8827.463449, "url": "", "pos": 2217, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acd5a0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2121, "tagName": "a", "time": 8827.463456, "url": "", "pos": 2356, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acd5d0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2139, "tagName": "div", "time": 8827.463459, "url": "", "pos": 2374, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acd600", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2145, "tagName": "div", "time": 8827.463462, "url": "", "pos": 2380, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd630", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2163, "tagName": "div", "time": 8827.463463, "url": "", "pos": 2398, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acd660", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2169, "tagName": "div", "time": 8827.463465, "url": "", "pos": 2404, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd690", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2188, "tagName": "div", "time": 8827.463466, "url": "", "pos": 2423, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acd6c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2194, "tagName": "div", "time": 8827.463468, "url": "", "pos": 2429, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd6f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2213, "tagName": "div", "time": 8827.463470, "url": "", "pos": 2448, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acd720", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2219, "tagName": "div", "time": 8827.463472, "url": "", "pos": 2454, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd750", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2276, "tagName": "span", "time": 8827.463474, "url": "", "pos": 2511, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acd780", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2283, "tagName": "span", "time": 8827.463479, "url": "", "pos": 2518, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd7b0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2302, "tagName": "span", "time": 8827.463481, "url": "", "pos": 2537, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acd810", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2313, "tagName": "span", "time": 8827.463484, "url": "", "pos": 2548, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd840", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2317, "tagName": "a", "time": 8827.463485, "url": "", "pos": 2552, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd870", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2322, "tagName": "li", "time": 8827.463486, "url": "", "pos": 2557, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd8a0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2360, "tagName": "li", "time": 8827.463487, "url": "", "pos": 2595, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acd930", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2467, "tagName": "a", "time": 8827.463493, "url": "", "pos": 2702, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acd8d0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2485, "tagName": "div", "time": 8827.463504, "url": "", "pos": 2720, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acd990", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2491, "tagName": "div", "time": 8827.463507, "url": "", "pos": 2726, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd9c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2509, "tagName": "div", "time": 8827.463508, "url": "", "pos": 2744, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acd000", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2515, "tagName": "div", "time": 8827.463510, "url": "", "pos": 2750, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd030", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2534, "tagName": "div", "time": 8827.463512, "url": "", "pos": 2769, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acd060", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2540, "tagName": "div", "time": 8827.463514, "url": "", "pos": 2775, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd090", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2559, "tagName": "div", "time": 8827.463516, "url": "", "pos": 2794, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acd0c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2565, "tagName": "div", "time": 8827.463518, "url": "", "pos": 2800, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd0f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2621, "tagName": "span", "time": 8827.463520, "url": "", "pos": 2856, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acd120", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2628, "tagName": "span", "time": 8827.463528, "url": "", "pos": 2863, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd150", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2647, "tagName": "span", "time": 8827.463529, "url": "", "pos": 2882, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acd1b0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2659, "tagName": "span", "time": 8827.463532, "url": "", "pos": 2894, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd1e0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2663, "tagName": "a", "time": 8827.463533, "url": "", "pos": 2898, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd210", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2668, "tagName": "li", "time": 8827.463535, "url": "", "pos": 2903, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd240", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2706, "tagName": "li", "time": 8827.463536, "url": "", "pos": 2941, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acd2d0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2809, "tagName": "a", "time": 8827.472009, "url": "", "pos": 3044, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acd270", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2827, "tagName": "div", "time": 8827.472040, "url": "", "pos": 3062, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acd330", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2833, "tagName": "div", "time": 8827.472059, "url": "", "pos": 3068, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd360", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2851, "tagName": "div", "time": 8827.472062, "url": "", "pos": 3086, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9acd390", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2857, "tagName": "div", "time": 8827.472065, "url": "", "pos": 3092, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9acd3c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2876, "tagName": "div", "time": 8827.472066, "url": "", "pos": 3111, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad09f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2882, "tagName": "div", "time": 8827.472069, "url": "", "pos": 3117, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0a20", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2901, "tagName": "div", "time": 8827.472076, "url": "", "pos": 3136, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0a50", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2907, "tagName": "div", "time": 8827.472079, "url": "", "pos": 3142, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0a80", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2964, "tagName": "span", "time": 8827.472082, "url": "", "pos": 3199, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0ab0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2971, "tagName": "span", "time": 8827.472107, "url": "", "pos": 3206, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0ae0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 2990, "tagName": "span", "time": 8827.472109, "url": "", "pos": 3225, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0b40", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3002, "tagName": "span", "time": 8827.472115, "url": "", "pos": 3237, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0b70", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3006, "tagName": "a", "time": 8827.472116, "url": "", "pos": 3241, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0ba0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3011, "tagName": "li", "time": 8827.472117, "url": "", "pos": 3246, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0bd0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3049, "tagName": "li", "time": 8827.472120, "url": "", "pos": 3284, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0c60", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3158, "tagName": "a", "time": 8827.472128, "url": "", "pos": 3393, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0c00", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3176, "tagName": "div", "time": 8827.472131, "url": "", "pos": 3411, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0cc0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3182, "tagName": "div", "time": 8827.472134, "url": "", "pos": 3417, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0cf0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3200, "tagName": "div", "time": 8827.472135, "url": "", "pos": 3435, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0d20", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3206, "tagName": "div", "time": 8827.472137, "url": "", "pos": 3441, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0d50", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3225, "tagName": "div", "time": 8827.472138, "url": "", "pos": 3460, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0d80", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3231, "tagName": "div", "time": 8827.472140, "url": "", "pos": 3466, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0db0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3250, "tagName": "div", "time": 8827.472142, "url": "", "pos": 3485, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0de0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3256, "tagName": "div", "time": 8827.472144, "url": "", "pos": 3491, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0e10", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3313, "tagName": "span", "time": 8827.472146, "url": "", "pos": 3548, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0e40", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3320, "tagName": "span", "time": 8827.472152, "url": "", "pos": 3555, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0e70", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3339, "tagName": "span", "time": 8827.472154, "url": "", "pos": 3574, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0f00", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3354, "tagName": "span", "time": 8827.472158, "url": "", "pos": 3589, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0f30", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3358, "tagName": "a", "time": 8827.472159, "url": "", "pos": 3593, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0f60", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3363, "tagName": "li", "time": 8827.472160, "url": "", "pos": 3598, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0f90", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3401, "tagName": "li", "time": 8827.472161, "url": "", "pos": 3636, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0420", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3521, "tagName": "a", "time": 8827.472170, "url": "", "pos": 3756, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0fc0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3539, "tagName": "div", "time": 8827.472175, "url": "", "pos": 3774, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0480", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3545, "tagName": "div", "time": 8827.472177, "url": "", "pos": 3780, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad04b0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3563, "tagName": "div", "time": 8827.472178, "url": "", "pos": 3798, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad04e0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3569, "tagName": "div", "time": 8827.472181, "url": "", "pos": 3804, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0510", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3588, "tagName": "div", "time": 8827.472182, "url": "", "pos": 3823, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0540", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3594, "tagName": "div", "time": 8827.472184, "url": "", "pos": 3829, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0570", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3613, "tagName": "div", "time": 8827.472185, "url": "", "pos": 3848, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad05a0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3619, "tagName": "div", "time": 8827.472188, "url": "", "pos": 3854, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad05d0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3675, "tagName": "span", "time": 8827.472190, "url": "", "pos": 3910, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0600", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3682, "tagName": "span", "time": 8827.472196, "url": "", "pos": 3917, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0630", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3701, "tagName": "span", "time": 8827.472198, "url": "", "pos": 3936, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad06c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3715, "tagName": "span", "time": 8827.472201, "url": "", "pos": 3950, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad06f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3719, "tagName": "a", "time": 8827.472202, "url": "", "pos": 3954, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0720", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3724, "tagName": "li", "time": 8827.472203, "url": "", "pos": 3959, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0750", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3762, "tagName": "li", "time": 8827.472204, "url": "", "pos": 3997, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad07e0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3878, "tagName": "a", "time": 8827.472212, "url": "", "pos": 4113, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0780", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3896, "tagName": "div", "time": 8827.472215, "url": "", "pos": 4131, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0840", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3902, "tagName": "div", "time": 8827.472217, "url": "", "pos": 4137, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0870", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3920, "tagName": "div", "time": 8827.472218, "url": "", "pos": 4155, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad08a0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3926, "tagName": "div", "time": 8827.472221, "url": "", "pos": 4161, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad08d0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3945, "tagName": "div", "time": 8827.472222, "url": "", "pos": 4180, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0900", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3951, "tagName": "div", "time": 8827.472224, "url": "", "pos": 4186, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0930", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3970, "tagName": "div", "time": 8827.472225, "url": "", "pos": 4205, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0960", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 3976, "tagName": "div", "time": 8827.472227, "url": "", "pos": 4211, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0990", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4033, "tagName": "span", "time": 8827.472230, "url": "", "pos": 4268, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad09c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4040, "tagName": "span", "time": 8827.472235, "url": "", "pos": 4275, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0000", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4059, "tagName": "span", "time": 8827.472236, "url": "", "pos": 4294, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0090", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4076, "tagName": "span", "time": 8827.472240, "url": "", "pos": 4311, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad00c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4080, "tagName": "a", "time": 8827.472240, "url": "", "pos": 4315, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad00f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4085, "tagName": "li", "time": 8827.472241, "url": "", "pos": 4320, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0120", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4123, "tagName": "li", "time": 8827.472243, "url": "", "pos": 4358, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad01b0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4227, "tagName": "a", "time": 8827.472248, "url": "", "pos": 4462, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0150", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4245, "tagName": "div", "time": 8827.472251, "url": "", "pos": 4480, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0210", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4251, "tagName": "div", "time": 8827.472253, "url": "", "pos": 4486, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0240", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4269, "tagName": "div", "time": 8827.472255, "url": "", "pos": 4504, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0270", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4275, "tagName": "div", "time": 8827.472257, "url": "", "pos": 4510, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad02a0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4294, "tagName": "div", "time": 8827.472258, "url": "", "pos": 4529, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad02d0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4300, "tagName": "div", "time": 8827.472260, "url": "", "pos": 4535, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0300", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4319, "tagName": "div", "time": 8827.472261, "url": "", "pos": 4554, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0330", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4325, "tagName": "div", "time": 8827.472263, "url": "", "pos": 4560, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad0360", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4381, "tagName": "span", "time": 8827.472265, "url": "", "pos": 4616, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad0390", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4388, "tagName": "span", "time": 8827.472271, "url": "", "pos": 4623, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad03c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4407, "tagName": "span", "time": 8827.472273, "url": "", "pos": 4642, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1a20", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4418, "tagName": "span", "time": 8827.472282, "url": "", "pos": 4653, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1a50", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4422, "tagName": "a", "time": 8827.472284, "url": "", "pos": 4657, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1a80", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4427, "tagName": "li", "time": 8827.472285, "url": "", "pos": 4662, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1ab0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4432, "tagName": "ul", "time": 8827.472286, "url": "", "pos": 4667, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1b10", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4540, "tagName": "a", "time": 8827.472290, "url": "", "pos": 4775, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1ba0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4549, "tagName": "a", "time": 8827.472295, "url": "", "pos": 4784, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1bd0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4569, "tagName": "span", "time": 8827.472297, "url": "", "pos": 4804, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1c30", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4576, "tagName": "span", "time": 8827.472299, "url": "", "pos": 4811, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1c90", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4623, "tagName": "ul", "time": 8827.472301, "url": "", "pos": 4858, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1cf0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4661, "tagName": "li", "time": 8827.472305, "url": "", "pos": 4896, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1d20", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4801, "tagName": "a", "time": 8827.472313, "url": "", "pos": 5036, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1d50", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4819, "tagName": "div", "time": 8827.472316, "url": "", "pos": 5054, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1d80", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4825, "tagName": "div", "time": 8827.472318, "url": "", "pos": 5060, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1db0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4843, "tagName": "div", "time": 8827.472319, "url": "", "pos": 5078, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1de0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4849, "tagName": "div", "time": 8827.472321, "url": "", "pos": 5084, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1e10", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4868, "tagName": "div", "time": 8827.472323, "url": "", "pos": 5103, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1e40", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4874, "tagName": "div", "time": 8827.472325, "url": "", "pos": 5109, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1e70", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4893, "tagName": "div", "time": 8827.472326, "url": "", "pos": 5128, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1ea0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4899, "tagName": "div", "time": 8827.472328, "url": "", "pos": 5134, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1ed0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4956, "tagName": "span", "time": 8827.472330, "url": "", "pos": 5191, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1f00", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4963, "tagName": "span", "time": 8827.472337, "url": "", "pos": 5198, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1f30", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4982, "tagName": "span", "time": 8827.472339, "url": "", "pos": 5217, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1fc0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 4997, "tagName": "span", "time": 8827.472341, "url": "", "pos": 5232, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad13f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5001, "tagName": "a", "time": 8827.472342, "url": "", "pos": 5236, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1420", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5006, "tagName": "li", "time": 8827.472344, "url": "", "pos": 5241, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1450", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5044, "tagName": "li", "time": 8827.472345, "url": "", "pos": 5279, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad14e0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5161, "tagName": "a", "time": 8827.472351, "url": "", "pos": 5396, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1480", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5179, "tagName": "div", "time": 8827.472354, "url": "", "pos": 5414, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1540", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5185, "tagName": "div", "time": 8827.472356, "url": "", "pos": 5420, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1570", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5203, "tagName": "div", "time": 8827.472357, "url": "", "pos": 5438, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad15a0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5209, "tagName": "div", "time": 8827.472359, "url": "", "pos": 5444, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad15d0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5228, "tagName": "div", "time": 8827.472360, "url": "", "pos": 5463, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1600", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5234, "tagName": "div", "time": 8827.472362, "url": "", "pos": 5469, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1630", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5253, "tagName": "div", "time": 8827.472363, "url": "", "pos": 5488, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1660", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5259, "tagName": "div", "time": 8827.472366, "url": "", "pos": 5494, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1690", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5315, "tagName": "span", "time": 8827.472368, "url": "", "pos": 5550, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad16c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5322, "tagName": "span", "time": 8827.472381, "url": "", "pos": 5557, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad16f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5341, "tagName": "span", "time": 8827.472383, "url": "", "pos": 5576, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1780", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5357, "tagName": "span", "time": 8827.472387, "url": "", "pos": 5592, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad17b0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5361, "tagName": "a", "time": 8827.472388, "url": "", "pos": 5596, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad17e0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5366, "tagName": "li", "time": 8827.472389, "url": "", "pos": 5601, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1810", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5404, "tagName": "li", "time": 8827.472391, "url": "", "pos": 5639, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1840", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5546, "tagName": "a", "time": 8827.472398, "url": "", "pos": 5781, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1870", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5564, "tagName": "div", "time": 8827.472401, "url": "", "pos": 5799, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad18a0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5570, "tagName": "div", "time": 8827.472403, "url": "", "pos": 5805, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad18d0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5588, "tagName": "div", "time": 8827.472405, "url": "", "pos": 5823, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1900", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5594, "tagName": "div", "time": 8827.472407, "url": "", "pos": 5829, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1930", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5613, "tagName": "div", "time": 8827.472408, "url": "", "pos": 5848, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1960", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5619, "tagName": "div", "time": 8827.472410, "url": "", "pos": 5854, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1990", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5638, "tagName": "div", "time": 8827.472411, "url": "", "pos": 5873, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad19c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5644, "tagName": "div", "time": 8827.472413, "url": "", "pos": 5879, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1000", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5701, "tagName": "span", "time": 8827.472415, "url": "", "pos": 5936, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1030", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5708, "tagName": "span", "time": 8827.472421, "url": "", "pos": 5943, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1060", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5727, "tagName": "span", "time": 8827.472423, "url": "", "pos": 5962, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad10c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5739, "tagName": "span", "time": 8827.472425, "url": "", "pos": 5974, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad10f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5743, "tagName": "a", "time": 8827.472426, "url": "", "pos": 5978, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1120", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5748, "tagName": "li", "time": 8827.472427, "url": "", "pos": 5983, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1150", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5786, "tagName": "li", "time": 8827.472429, "url": "", "pos": 6021, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad11e0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5888, "tagName": "a", "time": 8827.478189, "url": "", "pos": 6123, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1180", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5906, "tagName": "div", "time": 8827.478225, "url": "", "pos": 6141, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1240", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5912, "tagName": "div", "time": 8827.478233, "url": "", "pos": 6147, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1270", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5930, "tagName": "div", "time": 8827.478236, "url": "", "pos": 6165, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad12a0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5936, "tagName": "div", "time": 8827.478241, "url": "", "pos": 6171, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad12d0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5955, "tagName": "div", "time": 8827.478243, "url": "", "pos": 6190, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1300", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5961, "tagName": "div", "time": 8827.478245, "url": "", "pos": 6196, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1330", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5980, "tagName": "div", "time": 8827.478247, "url": "", "pos": 6215, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad1360", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 5986, "tagName": "div", "time": 8827.478249, "url": "", "pos": 6221, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad1390", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6043, "tagName": "span", "time": 8827.478253, "url": "", "pos": 6278, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad13c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6050, "tagName": "span", "time": 8827.478281, "url": "", "pos": 6285, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad39f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6069, "tagName": "span", "time": 8827.478284, "url": "", "pos": 6304, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad3a80", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6083, "tagName": "span", "time": 8827.478306, "url": "", "pos": 6318, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad3ab0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6087, "tagName": "a", "time": 8827.478307, "url": "", "pos": 6322, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad3ae0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6092, "tagName": "li", "time": 8827.478309, "url": "", "pos": 6327, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad3b10", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6130, "tagName": "li", "time": 8827.478312, "url": "", "pos": 6365, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad3ba0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6250, "tagName": "a", "time": 8827.478324, "url": "", "pos": 6485, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad3b40", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6268, "tagName": "div", "time": 8827.478328, "url": "", "pos": 6503, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad3c00", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6274, "tagName": "div", "time": 8827.478330, "url": "", "pos": 6509, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad3c30", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6292, "tagName": "div", "time": 8827.478332, "url": "", "pos": 6527, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad3c60", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6298, "tagName": "div", "time": 8827.478334, "url": "", "pos": 6533, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad3c90", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6317, "tagName": "div", "time": 8827.478335, "url": "", "pos": 6552, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad3cc0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6323, "tagName": "div", "time": 8827.478337, "url": "", "pos": 6558, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad3cf0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6342, "tagName": "div", "time": 8827.478338, "url": "", "pos": 6577, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad3d20", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6348, "tagName": "div", "time": 8827.478340, "url": "", "pos": 6583, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad3d50", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6404, "tagName": "span", "time": 8827.478342, "url": "", "pos": 6639, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad3d80", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6411, "tagName": "span", "time": 8827.478351, "url": "", "pos": 6646, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad3db0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6430, "tagName": "span", "time": 8827.478353, "url": "", "pos": 6665, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad3e40", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6445, "tagName": "span", "time": 8827.478356, "url": "", "pos": 6680, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad3e70", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6449, "tagName": "a", "time": 8827.478357, "url": "", "pos": 6684, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad3ea0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6454, "tagName": "li", "time": 8827.478358, "url": "", "pos": 6689, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad3ed0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6492, "tagName": "li", "time": 8827.478360, "url": "", "pos": 6727, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad3f60", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6593, "tagName": "a", "time": 8827.478365, "url": "", "pos": 6828, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad3f00", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6611, "tagName": "div", "time": 8827.478368, "url": "", "pos": 6846, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad3fc0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6617, "tagName": "div", "time": 8827.478370, "url": "", "pos": 6852, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad33f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6635, "tagName": "div", "time": 8827.478371, "url": "", "pos": 6870, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad3420", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6641, "tagName": "div", "time": 8827.478374, "url": "", "pos": 6876, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad3450", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6660, "tagName": "div", "time": 8827.478375, "url": "", "pos": 6895, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad3480", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6666, "tagName": "div", "time": 8827.478377, "url": "", "pos": 6901, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad34b0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6685, "tagName": "div", "time": 8827.478379, "url": "", "pos": 6920, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad34e0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6691, "tagName": "div", "time": 8827.478381, "url": "", "pos": 6926, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad3510", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6747, "tagName": "span", "time": 8827.478383, "url": "", "pos": 6982, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad3540", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6754, "tagName": "span", "time": 8827.478390, "url": "", "pos": 6989, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad3570", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6773, "tagName": "span", "time": 8827.478391, "url": "", "pos": 7008, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad3600", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6788, "tagName": "span", "time": 8827.478394, "url": "", "pos": 7023, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad3630", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6792, "tagName": "a", "time": 8827.478395, "url": "", "pos": 7027, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad3660", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6797, "tagName": "li", "time": 8827.478396, "url": "", "pos": 7032, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad3690", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6802, "tagName": "ul", "time": 8827.478397, "url": "", "pos": 7037, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad36f0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6871, "tagName": "a", "time": 8827.478399, "url": "", "pos": 7106, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ad3780", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6895, "tagName": "a", "time": 8827.478403, "url": "", "pos": 7130, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad37b0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6901, "tagName": "div", "time": 8827.478404, "url": "", "pos": 7136, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad37e0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6907, "tagName": "div", "time": 8827.478405, "url": "", "pos": 7142, "chunkLen": 7748, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ad3810", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 6914, "tagName": "style", "time": 8827.478406, "url": "", "pos": 7149, "chunkLen": 7748, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972d7e0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 22080, "tagName": "style", "time": 8827.481574, "url": "", "pos": 22315, "chunkLen": 22379, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97d2d50", "doc": "https://www.google.it/?gws_rd=ssl", "row": 267, "column": 22088, "tagName": "script", "time": 8827.485702, "url": "", "pos": 22323, "chunkLen": 22379, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972d870", "doc": "https://www.google.it/?gws_rd=ssl", "row": 268, "column": 33, "tagName": "script", "time": 8827.485725, "url": "", "pos": 22379, "chunkLen": 22379, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97d28a0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 268, "column": 41, "tagName": "script", "time": 8827.531892, "url": "", "pos": 8, "chunkLen": 941, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97d2d20", "doc": "https://www.google.it/?gws_rd=ssl", "row": 269, "column": 359, "tagName": "script", "time": 8827.531937, "url": "", "pos": 880, "chunkLen": 941, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97d2780", "doc": "https://www.google.it/?gws_rd=ssl", "row": 269, "column": 394, "tagName": "div", "time": 8827.532439, "url": "", "pos": 915, "chunkLen": 941, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97d2720", "doc": "https://www.google.it/?gws_rd=ssl", "row": 269, "column": 400, "tagName": "div", "time": 8827.532474, "url": "", "pos": 921, "chunkLen": 941, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972d9c0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 269, "column": 406, "tagName": "div", "time": 8827.532476, "url": "", "pos": 927, "chunkLen": 941, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97bcae0", "doc": "https://www.google.it/?gws_rd=ssl", "row": 269, "column": 413, "tagName": "body", "time": 8827.532478, "url": "", "pos": 934, "chunkLen": 941, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97bcb40", "doc": "https://www.google.it/?gws_rd=ssl", "row": 269, "column": 420, "tagName": "html", "time": 8827.532479, "url": "https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.CqFrPIKIxF4.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_SqGYjlKSpzsbc2UGyTC5n3Z0ZtQ/cb=gapi.loaded_0", "pos": 941, "chunkLen": 941, "isStartTag": 0}}
+{"Resource": {"id": 2, "url": "https://ssl.gstatic.com/gb/images/i1_1967ca6a.png", "sentTime": -1.000000, "len": 8056, "from": "0xb9739690",                            "mimeType": "image/png", "contentLength": 8056, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 8827.283451, "len": 8056}}
+{"Resource": {"id": 3, "url": "https://www.google.it/images/nav_logo242.png", "sentTime": -1.000000, "len": 21909, "from": "0xb972a510",                            "mimeType": "image/png", "contentLength": 21909, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 8827.499371, "len": 21909}}
+{"Resource": {"id": 4, "url": "https://www.google.it/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png", "sentTime": -1.000000, "len": 5969, "from": "0xb97bc9f0",                            "mimeType": "image/png", "contentLength": 5969, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 8827.502246, "len": 5969}}
+{"Resource": {"id": 5, "url": "https://www.google.it/xjs/_/js/k=xjs.s.it.uuFPnnhBBZw.O/m=sx,c,sb,cdos,cr,elog,epb,jsa,r,hsm,qsm,j,p,d,csi/am=AJS0CgoS8fchIGwhrCA1YGBB/rt=j/d=1/t=zcms/rs=ACT90oG7pQHwALFFsvs6J8tpJUHlKDAlNg", "sentTime": -1.000000, "len": 387498, "from": "0xb97d2c90",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 8827.502611, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 8827.502721, "len": 65536}}
+{"ReceivedChunk": {"receivedTime": 8827.502865, "len": 2477}}
+{"ReceivedChunk": {"receivedTime": 8827.502917, "len": 89370}}
+{"ReceivedChunk": {"receivedTime": 8827.503270, "len": 98509}}
+{"ReceivedChunk": {"receivedTime": 8827.503435, "len": 95941}}
+{"ReceivedChunk": {"receivedTime": 8827.531745, "len": 2897}}
+{"Resource": {"id": 6, "url": "https://www.google.com/textinputassistant/tia.png", "sentTime": -1.000000, "len": 387, "from": "0xb97bcb40",                            "mimeType": "image/png", "contentLength": 387, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 8827.948121, "len": 387}}
+{"Resource": {"id": 7, "url": "data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw%3D%3D", "sentTime": -1.000000, "len": 43, "from": "0xb97bcb40",                            "mimeType": "image/gif", "contentLength": 43, "httpStatus": 0, "connId": 0, "connReused": 0, "cached": 0,                            "requestTime": 8827.948722, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 8827.949067, "len": 43}}
+{"Resource": {"id": 8, "url": "https://www.google.it/gen_204?atyp=i&ct=&cad=&vet=10ahUKEwj8iLGBl8fMAhVJph4KHSntCzAQ-CcICQ..s&ei=KHYtV_zUAcnMeqnar4AD&zx=1462597161024", "sentTime": -1.000000, "len": 0, "from": "0xb97bcb40",                            "mimeType": "text/html", "contentLength": 0, "httpStatus": 204, "connId": 0, "connReused": 0, "cached": 0}}
+{"Resource": {"id": 9, "url": "https://www.google.it/xjs/_/js/k=xjs.s.it.uuFPnnhBBZw.O/m=sy31,sy37,em2,em1,sy39,em0,sy253,aa,abd,sy63,sy62,sy61,sy64,em13,async,erh,sy66,foot,fpe,idck,ipv6,sy128,sy254,lu,m,sf,sy208,sy209,sy46,sy35,sy108,sy210,sy211,sy43,sy47,sy105,sy138,sy212,sy269,sy270,sy267,sy205,sy268,sy96,sy274,sy214,sy271,sy289,em8,em9,sy36,sy97,em12,em10,em6,em11,sy290,skp,vm/am=AJS0CgoS8fchIGwhrCA1YGBB/rt=j/d=0/t=zcms/rs=ACT90oG7pQHwALFFsvs6J8tpJUHlKDAlNg", "sentTime": -1.000000, "len": 59431, "from": "0xb97bcb40",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 8827.960648, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 8827.960869, "len": 26663}}
+{"Resource": {"id": 10, "url": "https://www.gstatic.com/og/_/js/k=og.og2.en_US.ijp-IvDYjzk.O/rt=j/t=zcms/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtEYlVmDaqidOCejnf1WGjCzEMntg", "sentTime": -1.000000, "len": 144286, "from": "0xb97bcb40",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 8827.964823, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 8828.015524, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 8828.015754, "len": 61990}}
+{"ReceivedChunk": {"receivedTime": 8828.015958, "len": 49528}}
+{"Resource": {"id": 11, "url": "https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.CqFrPIKIxF4.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_SqGYjlKSpzsbc2UGyTC5n3Z0ZtQ/cb=gapi.loaded_0", "sentTime": -1.000000, "len": 142160, "from": "0xb97bcb40",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 8828.112083, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 8828.160800, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 8828.160917, "len": 61287}}
+{"ReceivedChunk": {"receivedTime": 8828.161043, "len": 48105}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.it/?gws_rd=ssl", "code": "0xb965db70", "row": 0, "column": 341, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.it/?gws_rd=ssl", "code": "0xb965de10", "row": 9, "column": 2940, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.it/?gws_rd=ssl", "code": "0xb974d1e0", "row": 12, "column": 42, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.it/?gws_rd=ssl", "code": "0xb975b480", "row": 12, "column": 1871, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.it/?gws_rd=ssl", "code": "0xb975b600", "row": 12, "column": 2723, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.it/?gws_rd=ssl", "code": "0xb975b0c0", "row": 52, "column": 377, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.it/?gws_rd=ssl", "code": "0xb971ad20", "row": 52, "column": 1522, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.it/?gws_rd=ssl", "code": "0xb971a7b0", "row": 52, "column": 2170, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.it/?gws_rd=ssl", "code": "0xb971a120", "row": 54, "column": 24, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.it/?gws_rd=ssl", "code": "0xb971a3c0", "row": 54, "column": 532, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.it/?gws_rd=ssl", "code": "0xb972d0c0", "row": 57, "column": 3445, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.it/?gws_rd=ssl", "code": "0xb97bccf0", "row": 57, "column": 4005, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.it/?gws_rd=ssl", "code": "0xb97bce10", "row": 57, "column": 4228, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.it/?gws_rd=ssl", "code": "0xb97bc5d0", "row": 57, "column": 4630, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.it/?gws_rd=ssl", "code": "0xb97c93c0", "row": 57, "column": 9372, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.it/?gws_rd=ssl", "code": "0xb97d2b40", "row": 57, "column": 9475, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.it/?gws_rd=ssl", "code": "0xb97d2c90", "row": 58, "column": 41, "url": "https://www.google.it/xjs/_/js/k=xjs.s.it.uuFPnnhBBZw.O/m=sx,c,sb,cdos,cr,elog,epb,jsa,r,hsm,qsm,j,p,d,csi/am=AJS0CgoS8fchIGwhrCA1YGBB/rt=j/d=1/t=zcms/rs=ACT90oG7pQHwALFFsvs6J8tpJUHlKDAlNg"}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.it/?gws_rd=ssl", "code": "0xb9ad3810", "row": 267, "column": 6914, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.it/?gws_rd=ssl", "code": "0xb97d2d50", "row": 267, "column": 22088, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.it/?gws_rd=ssl", "code": "0xb97d28a0", "row": 268, "column": 41, "url": ""}}
+{"Computation": {"type": "execScript", "code": "0xb965dae0", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8826.937632, "endTime": 8827.002025, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb975b4b0", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.025857, "endTime": 8827.053740, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb975b120", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.055007, "endTime": 8827.055121, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb971ad80", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.055406, "endTime": 8827.072291, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb971ad80", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.055931, "endTime": 8827.072224, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb971ad80", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.067990, "endTime": 8827.070336, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb971ad80", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.070370, "endTime": 8827.072202, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb965d660", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.074012, "endTime": 8827.076306, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb965d660", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.075986, "endTime": 8827.076195, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb97bcd50", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.145241, "endTime": 8827.146564, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb97d2a50", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.156740, "endTime": 8827.156989, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb97d2a20", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.159406, "endTime": 8827.173881, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb97d2c90", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.183597, "endTime": 8827.193710, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb97d2c90", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.211046, "endTime": 8827.211047, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97d2c90", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.211048, "endTime": 8827.213295, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97d2c90", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.213307, "endTime": 8827.213310, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97d2c90", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.213310, "endTime": 8827.213375, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97d2c90", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.213379, "endTime": 8827.213379, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97d2c90", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.213380, "endTime": 8827.213392, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97d2c90", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.213395, "endTime": 8827.213396, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97d2c90", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.213396, "endTime": 8827.213446, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97d2c90", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.213449, "endTime": 8827.213450, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97d2c90", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.213451, "endTime": 8827.213480, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97d2c90", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.213485, "endTime": 8827.213485, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97d2c90", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.213486, "endTime": 8827.213614, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97d2c90", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.213618, "endTime": 8827.213620, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97d2c90", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.213620, "endTime": 8827.213653, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97d2c90", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.213657, "endTime": 8827.213657, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97d2c90", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.213658, "endTime": 8827.213669, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb965d6f0", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.290588, "endTime": 8827.463038, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb972d870", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.485731, "endTime": 8827.486753, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb972d870", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.503558, "endTime": 8827.503709, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb972d870", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.503726, "endTime": 8827.503727, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb972d870", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.503728, "endTime": 8827.506441, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb972d870", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.506460, "endTime": 8827.506462, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb972d870", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.506462, "endTime": 8827.520554, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb972d870", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.520559, "endTime": 8827.520560, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb972d870", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.520562, "endTime": 8827.531419, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb97d2d20", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.531944, "endTime": 8827.532430, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.532528, "endTime": 8827.532529, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.532530, "endTime": 8827.539313, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.532961, "endTime": 8827.533055, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.534761, "endTime": 8827.534965, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.537257, "endTime": 8827.537516, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.539318, "endTime": 8827.539319, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.546119, "endTime": 8827.546277, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.569162, "endTime": 8827.847356, "urlRecalcStyle": "https://www.google.it/xjs/_/js/k=xjs.s.it.uuFPnnhBBZw.O/m=sx,c,sb,cdos,cr,elog,epb,jsa,r,hsm,qsm,j,p,d,csi/am=AJS0CgoS8fchIGwhrCA1YGBB/rt=j/d=1/t=zcms/rs=ACT90oG7pQHwALFFsvs6J8tpJUHlKDAlNg"}}
+{"Computation": {"type": "layout", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.774936, "endTime": 8827.775443, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.781029, "endTime": 8827.781186, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.835578, "endTime": 8827.837321, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.847382, "endTime": 8827.847384, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.847385, "endTime": 8827.847600, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.847605, "endTime": 8827.847608, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.961440, "endTime": 8827.961595, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.961658, "endTime": 8827.961659, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.961660, "endTime": 8827.961904, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.967704, "endTime": 8827.967895, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8827.968509, "endTime": 8828.008251, "urlRecalcStyle": "https://www.google.it/xjs/_/js/k=xjs.s.it.uuFPnnhBBZw.O/m=sy31,sy37,em2,em1,sy39,em0,sy253,aa,abd,sy63,sy62,sy61,sy64,em13,async,erh,sy66,foot,fpe,idck,ipv6,sy128,sy254,lu,m,sf,sy208,sy209,sy46,sy35,sy108,sy210,sy211,sy43,sy47,sy105,sy138,sy212,sy269,sy270,sy267,sy205,sy268,sy96,sy274,sy214,sy271,sy289,em8,em9,sy36,sy97,em12,em10,em6,em11,sy290,skp,vm/am=AJS0CgoS8fchIGwhrCA1YGBB/rt=j/d=0/t=zcms/rs=ACT90oG7pQHwALFFsvs6J8tpJUHlKDAlNg"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8828.008262, "endTime": 8828.008263, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8828.008264, "endTime": 8828.008431, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8828.008433, "endTime": 8828.008434, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8828.017045, "endTime": 8828.137409, "urlRecalcStyle": "https://www.gstatic.com/og/_/js/k=og.og2.en_US.ijp-IvDYjzk.O/rt=j/t=zcms/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtEYlVmDaqidOCejnf1WGjCzEMntg"}}
+{"Computation": {"type": "layout", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8828.130723, "endTime": 8828.131772, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8828.136973, "endTime": 8828.137091, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8828.137418, "endTime": 8828.137420, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8828.137667, "endTime": 8828.137780, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8828.137782, "endTime": 8828.138023, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8828.138086, "endTime": 8828.138252, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8828.161948, "endTime": 8828.217145, "urlRecalcStyle": "https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.CqFrPIKIxF4.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_SqGYjlKSpzsbc2UGyTC5n3Z0ZtQ/cb=gapi.loaded_0"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8828.217158, "endTime": 8828.217159, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8828.217160, "endTime": 8828.217204, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb97bcb40", "docUrl": "https://www.google.it/?gws_rd=ssl", "startTime": 8828.217292, "endTime": 8828.221438, "urlRecalcStyle": ""}}
+{"Complete': "www.google.it_?gws_rd=ssl"}
+Killed

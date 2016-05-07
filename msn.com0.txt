@@ -1,0 +1,925 @@
+[16680:16690:3661503967:ERROR:web_data_service.cc(657)] Cannot initialize the web database: 2
+[16680:16680:3662683640:ERROR:CONSOLE(1)] "Uncaught ReferenceError: InspectorFrontendAPI is not defined", source:  (1)
+{"page": "www.msn.com_"}
+{"DOMLoad": 3662.919151}
+{"Resource": {"id": 1, "url": "http://www.msn.com/", "sentTime": -1.000000, "len": 39730, "from": "(nil)",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 59, "connReused": 0, "cached": 0,                            "requestTime": 3662.145945, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 0, "dnsEnd": 33, "connectStart": 6, "connectEnd": 63, "sendStart": 63, "sendEnd": 63, "receiveHeadersEnd": 191, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 3662.339886, "len": 790}}
+{"ReceivedChunk": {"receivedTime": 3662.342650, "len": 2378}}
+{"ReceivedChunk": {"receivedTime": 3662.376892, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 3662.392356, "len": 3794}}
+{"WprofHTMLTag": {"code": "0xb9417cc0", "doc": "http://www.msn.com/", "row": 2, "column": 70, "tagName": "html", "time": 3662.342339, "url": "", "pos": 239, "chunkLen": 790, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9417db0", "doc": "http://www.msn.com/", "row": 4, "column": 6, "tagName": "head", "time": 3662.342485, "url": "", "pos": 247, "chunkLen": 790, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9417ea0", "doc": "http://www.msn.com/", "row": 7, "column": 52, "tagName": "link", "time": 3662.342516, "url": "http://www.msn.com/", "pos": 772, "chunkLen": 790, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9417f60", "doc": "http://www.msn.com/", "row": 8, "column": 69, "tagName": "link", "time": 3662.342697, "url": "http://www.msn.com/", "pos": 842, "chunkLen": 3168, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb94173f0", "doc": "http://www.msn.com/", "row": 10, "column": 8, "tagName": "title", "time": 3662.342719, "url": "", "pos": 852, "chunkLen": 3168, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9462b40", "doc": "http://www.msn.com/", "row": 10, "column": 89, "tagName": "title", "time": 3662.358780, "url": "", "pos": 933, "chunkLen": 3168, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9462bd0", "doc": "http://www.msn.com/", "row": 11, "column": 229, "tagName": "meta", "time": 3662.358805, "url": "", "pos": 1163, "chunkLen": 3168, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9462c60", "doc": "http://www.msn.com/", "row": 13, "column": 86, "tagName": "meta", "time": 3662.358823, "url": "", "pos": 1252, "chunkLen": 3168, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9462cf0", "doc": "http://www.msn.com/", "row": 14, "column": 562, "tagName": "link", "time": 3662.358862, "url": "http://static-hp-cus-s-msn-com.akamaized.net/en-us/homepage/_sc/css/6670b51d-8b551b9/direction=ltr.locales=en-us.themes=start.dpi=resolution1x/22-8b3778-4e3b0a9b/d8-522cc0-ee5f2b10/ab-6aa96e-536df121/be-bfcb4e-f94d3276/e5-9490ae-a648eab2/1e-eed555-63b61fa3/3e-07643f-68ddb2ab/84-13dda2-654638bf/finance-css-15-5ae05e329a0b7482d55ddcf5edfea1-c16bd114/finance-css-d4-3d780f54f2438c185f3c1e56bbc848-d17db944?ver=2.0.5965.37384&fdhead=ushpcombo30,muidflt9cf,muidflt259cf&csopd=20160504212029&csopdb=20160504231841", "pos": 1815, "chunkLen": 3168, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9462210", "doc": "http://www.msn.com/", "row": 15, "column": 32, "tagName": "script", "time": 3662.375809, "url": "", "pos": 1848, "chunkLen": 3168, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9462b10", "doc": "http://www.msn.com/", "row": 16, "column": 3620, "tagName": "script", "time": 3662.377257, "url": "", "pos": 5480, "chunkLen": 35922, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb93ef570", "doc": "http://www.msn.com/", "row": 16, "column": 3761, "tagName": "script", "time": 3662.476110, "url": "http://static-hp-cus-s-msn-com.akamaized.net/_h/804ff984/webcore/externalscripts/jquery/jquery-1.11.1.min.js", "pos": 2453, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb93ef5a0", "doc": "http://www.msn.com/", "row": 16, "column": 3770, "tagName": "script", "time": 3662.476138, "url": "", "pos": 2462, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb93e92a0", "doc": "http://www.msn.com/", "row": 0, "column": 15, "tagName": "div", "time": 3662.529072, "url": "", "pos": 15, "chunkLen": 44, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb93e9240", "doc": "http://www.msn.com/", "row": 0, "column": 21, "tagName": "div", "time": 3662.529087, "url": "", "pos": 21, "chunkLen": 44, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb93e9210", "doc": "http://www.msn.com/", "row": 0, "column": 38, "tagName": "div", "time": 3662.529091, "url": "", "pos": 38, "chunkLen": 44, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9462f90", "doc": "http://www.msn.com/", "row": 0, "column": 44, "tagName": "div", "time": 3662.529093, "url": "", "pos": 44, "chunkLen": 44, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb93ef780", "doc": "http://www.msn.com/", "row": 0, "column": 23, "tagName": "select", "time": 3662.529266, "url": "", "pos": 23, "chunkLen": 61, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb93ef7b0", "doc": "http://www.msn.com/", "row": 0, "column": 43, "tagName": "option", "time": 3662.529298, "url": "", "pos": 43, "chunkLen": 61, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb93ef810", "doc": "http://www.msn.com/", "row": 0, "column": 52, "tagName": "option", "time": 3662.529321, "url": "", "pos": 52, "chunkLen": 61, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb93ef840", "doc": "http://www.msn.com/", "row": 0, "column": 61, "tagName": "select", "time": 3662.529323, "url": "", "pos": 61, "chunkLen": 61, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb93ef000", "doc": "http://www.msn.com/", "row": 0, "column": 12, "tagName": "a", "time": 3662.531329, "url": "", "pos": 12, "chunkLen": 16, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb93ef030", "doc": "http://www.msn.com/", "row": 0, "column": 16, "tagName": "a", "time": 3662.531344, "url": "", "pos": 16, "chunkLen": 16, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb93ef090", "doc": "http://www.msn.com/", "row": 0, "column": 8, "tagName": "input", "time": 3662.531498, "url": "", "pos": 8, "chunkLen": 8, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb93e0a50", "doc": "http://www.msn.com/", "row": 0, "column": 9, "tagName": "link", "time": 3662.537072, "url": "", "pos": 9, "chunkLen": 66, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb93e0a80", "doc": "http://www.msn.com/", "row": 0, "column": 16, "tagName": "table", "time": 3662.537085, "url": "", "pos": 16, "chunkLen": 66, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb93e0ab0", "doc": "http://www.msn.com/", "row": 0, "column": 24, "tagName": "table", "time": 3662.537096, "url": "", "pos": 24, "chunkLen": 66, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb93e0ae0", "doc": "http://www.msn.com/", "row": 0, "column": 37, "tagName": "a", "time": 3662.537101, "url": "", "pos": 37, "chunkLen": 66, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb93e0b40", "doc": "http://www.msn.com/", "row": 0, "column": 42, "tagName": "a", "time": 3662.537110, "url": "", "pos": 42, "chunkLen": 66, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb93e0b70", "doc": "http://www.msn.com/", "row": 0, "column": 66, "tagName": "input", "time": 3662.537114, "url": "", "pos": 66, "chunkLen": 66, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb93e0c60", "doc": "http://www.msn.com/", "row": 0, "column": 10, "tagName": "textarea", "time": 3662.545316, "url": "", "pos": 10, "chunkLen": 22, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb93e0d50", "doc": "http://www.msn.com/", "row": 0, "column": 22, "tagName": "textarea", "time": 3662.545362, "url": "", "pos": 22, "chunkLen": 22, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb93e0de0", "doc": "http://www.msn.com/", "row": 0, "column": 48, "tagName": "input", "time": 3662.545590, "url": "", "pos": 48, "chunkLen": 48, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb93e0ed0", "doc": "http://www.msn.com/", "row": 0, "column": 9, "tagName": "link", "time": 3662.546609, "url": "", "pos": 9, "chunkLen": 66, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb93e0f00", "doc": "http://www.msn.com/", "row": 0, "column": 16, "tagName": "table", "time": 3662.546615, "url": "", "pos": 16, "chunkLen": 66, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb93e0f30", "doc": "http://www.msn.com/", "row": 0, "column": 24, "tagName": "table", "time": 3662.546618, "url": "", "pos": 24, "chunkLen": 66, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb93e0f60", "doc": "http://www.msn.com/", "row": 0, "column": 37, "tagName": "a", "time": 3662.546621, "url": "", "pos": 37, "chunkLen": 66, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb93e0fc0", "doc": "http://www.msn.com/", "row": 0, "column": 42, "tagName": "a", "time": 3662.546627, "url": "", "pos": 42, "chunkLen": 66, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb93e03f0", "doc": "http://www.msn.com/", "row": 0, "column": 66, "tagName": "input", "time": 3662.546630, "url": "", "pos": 66, "chunkLen": 66, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb93e0690", "doc": "http://www.msn.com/", "row": 0, "column": 9, "tagName": "link", "time": 3662.547650, "url": "", "pos": 9, "chunkLen": 66, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb93e06c0", "doc": "http://www.msn.com/", "row": 0, "column": 16, "tagName": "table", "time": 3662.547655, "url": "", "pos": 16, "chunkLen": 66, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb93e06f0", "doc": "http://www.msn.com/", "row": 0, "column": 24, "tagName": "table", "time": 3662.547658, "url": "", "pos": 24, "chunkLen": 66, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb93e0720", "doc": "http://www.msn.com/", "row": 0, "column": 37, "tagName": "a", "time": 3662.547660, "url": "", "pos": 37, "chunkLen": 66, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb93e0780", "doc": "http://www.msn.com/", "row": 0, "column": 42, "tagName": "a", "time": 3662.547665, "url": "", "pos": 42, "chunkLen": 66, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb93e07b0", "doc": "http://www.msn.com/", "row": 0, "column": 66, "tagName": "input", "time": 3662.547667, "url": "", "pos": 66, "chunkLen": 66, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb93e0990", "doc": "http://www.msn.com/", "row": 18, "column": 79, "tagName": "script", "time": 3662.556770, "url": "http://ads1.msads.net/library/8.4/dapmsn.js", "pos": 2544, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb93e09c0", "doc": "http://www.msn.com/", "row": 18, "column": 88, "tagName": "script", "time": 3662.556786, "url": "", "pos": 2553, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb93e0090", "doc": "http://www.msn.com/", "row": 20, "column": 8, "tagName": "style", "time": 3662.565943, "url": "", "pos": 2563, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9401030", "doc": "http://www.msn.com/", "row": 20, "column": 1239, "tagName": "style", "time": 3662.565988, "url": "", "pos": 3794, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972fc90", "doc": "http://www.msn.com/", "row": 21, "column": 7, "tagName": "head", "time": 3662.568967, "url": "", "pos": 3802, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972fcf0", "doc": "http://www.msn.com/", "row": 23, "column": 48, "tagName": "body", "time": 3662.568977, "url": "", "pos": 3852, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972fde0", "doc": "http://www.msn.com/", "row": 26, "column": 19, "tagName": "div", "time": 3662.569066, "url": "", "pos": 3875, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972fe40", "doc": "http://www.msn.com/", "row": 30, "column": 7, "tagName": "div", "time": 3662.569096, "url": "", "pos": 3886, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972fea0", "doc": "http://www.msn.com/", "row": 32, "column": 18, "tagName": "div", "time": 3662.569100, "url": "", "pos": 3906, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972ff30", "doc": "http://www.msn.com/", "row": 33, "column": 5, "tagName": "div", "time": 3662.569113, "url": "", "pos": 3912, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972ff90", "doc": "http://www.msn.com/", "row": 34, "column": 17, "tagName": "div", "time": 3662.569120, "url": "", "pos": 3930, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972f3f0", "doc": "http://www.msn.com/", "row": 35, "column": 26, "tagName": "ul", "time": 3662.569172, "url": "", "pos": 3957, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972f480", "doc": "http://www.msn.com/", "row": 36, "column": 22, "tagName": "li", "time": 3662.569207, "url": "", "pos": 3980, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972f510", "doc": "http://www.msn.com/", "row": 37, "column": 17, "tagName": "a", "time": 3662.569260, "url": "", "pos": 3998, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972f5d0", "doc": "http://www.msn.com/", "row": 37, "column": 25, "tagName": "a", "time": 3662.569301, "url": "", "pos": 4006, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972f630", "doc": "http://www.msn.com/", "row": 38, "column": 5, "tagName": "li", "time": 3662.569306, "url": "", "pos": 4012, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972f690", "doc": "http://www.msn.com/", "row": 39, "column": 6, "tagName": "li", "time": 3662.569309, "url": "", "pos": 4019, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972f720", "doc": "http://www.msn.com/", "row": 40, "column": 22, "tagName": "a", "time": 3662.569323, "url": "", "pos": 4042, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972f7b0", "doc": "http://www.msn.com/", "row": 40, "column": 30, "tagName": "a", "time": 3662.569345, "url": "", "pos": 4050, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972f810", "doc": "http://www.msn.com/", "row": 41, "column": 5, "tagName": "li", "time": 3662.569348, "url": "", "pos": 4056, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972f870", "doc": "http://www.msn.com/", "row": 42, "column": 6, "tagName": "li", "time": 3662.569351, "url": "", "pos": 4063, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972f900", "doc": "http://www.msn.com/", "row": 43, "column": 25, "tagName": "a", "time": 3662.569369, "url": "", "pos": 4089, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972f990", "doc": "http://www.msn.com/", "row": 43, "column": 36, "tagName": "a", "time": 3662.569394, "url": "", "pos": 4100, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972f000", "doc": "http://www.msn.com/", "row": 44, "column": 5, "tagName": "li", "time": 3662.569397, "url": "", "pos": 4106, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972f060", "doc": "http://www.msn.com/", "row": 45, "column": 6, "tagName": "li", "time": 3662.569401, "url": "", "pos": 4113, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972f0c0", "doc": "http://www.msn.com/", "row": 46, "column": 31, "tagName": "a", "time": 3662.569409, "url": "", "pos": 4145, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972f150", "doc": "http://www.msn.com/", "row": 46, "column": 48, "tagName": "a", "time": 3662.569425, "url": "", "pos": 4162, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972f1b0", "doc": "http://www.msn.com/", "row": 47, "column": 5, "tagName": "li", "time": 3662.569428, "url": "", "pos": 4168, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972f210", "doc": "http://www.msn.com/", "row": 48, "column": 6, "tagName": "li", "time": 3662.569430, "url": "", "pos": 4175, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972f2a0", "doc": "http://www.msn.com/", "row": 49, "column": 24, "tagName": "a", "time": 3662.569438, "url": "", "pos": 4200, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972f300", "doc": "http://www.msn.com/", "row": 49, "column": 34, "tagName": "a", "time": 3662.569454, "url": "", "pos": 4210, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972f360", "doc": "http://www.msn.com/", "row": 50, "column": 5, "tagName": "li", "time": 3662.569457, "url": "", "pos": 4216, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb972f3c0", "doc": "http://www.msn.com/", "row": 51, "column": 6, "tagName": "li", "time": 3662.569460, "url": "", "pos": 4223, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9733a50", "doc": "http://www.msn.com/", "row": 52, "column": 23, "tagName": "a", "time": 3662.569474, "url": "", "pos": 4247, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9733ab0", "doc": "http://www.msn.com/", "row": 52, "column": 32, "tagName": "a", "time": 3662.569486, "url": "", "pos": 4256, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9733b10", "doc": "http://www.msn.com/", "row": 53, "column": 5, "tagName": "li", "time": 3662.569489, "url": "", "pos": 4262, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9733b70", "doc": "http://www.msn.com/", "row": 55, "column": 18, "tagName": "li", "time": 3662.569492, "url": "", "pos": 4282, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9733c30", "doc": "http://www.msn.com/", "row": 56, "column": 15, "tagName": "a", "time": 3662.569507, "url": "", "pos": 4298, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9733cc0", "doc": "http://www.msn.com/", "row": 56, "column": 25, "tagName": "a", "time": 3662.569526, "url": "", "pos": 4308, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9733d20", "doc": "http://www.msn.com/", "row": 57, "column": 4, "tagName": "ul", "time": 3662.569529, "url": "", "pos": 4313, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9733db0", "doc": "http://www.msn.com/", "row": 58, "column": 6, "tagName": "li", "time": 3662.569552, "url": "", "pos": 4320, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9733e10", "doc": "http://www.msn.com/", "row": 59, "column": 27, "tagName": "a", "time": 3662.569557, "url": "", "pos": 4348, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9733ea0", "doc": "http://www.msn.com/", "row": 59, "column": 40, "tagName": "a", "time": 3662.569561, "url": "", "pos": 4361, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9733f00", "doc": "http://www.msn.com/", "row": 60, "column": 5, "tagName": "li", "time": 3662.569563, "url": "", "pos": 4367, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9733f60", "doc": "http://www.msn.com/", "row": 61, "column": 6, "tagName": "li", "time": 3662.569564, "url": "", "pos": 4374, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97333f0", "doc": "http://www.msn.com/", "row": 62, "column": 24, "tagName": "a", "time": 3662.569568, "url": "", "pos": 4399, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9733450", "doc": "http://www.msn.com/", "row": 62, "column": 48, "tagName": "a", "time": 3662.569574, "url": "", "pos": 4423, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97334b0", "doc": "http://www.msn.com/", "row": 63, "column": 5, "tagName": "li", "time": 3662.569576, "url": "", "pos": 4429, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9733510", "doc": "http://www.msn.com/", "row": 64, "column": 6, "tagName": "li", "time": 3662.569578, "url": "", "pos": 4436, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9733570", "doc": "http://www.msn.com/", "row": 65, "column": 30, "tagName": "a", "time": 3662.569581, "url": "", "pos": 4467, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9733600", "doc": "http://www.msn.com/", "row": 65, "column": 50, "tagName": "a", "time": 3662.569585, "url": "", "pos": 4487, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9733660", "doc": "http://www.msn.com/", "row": 66, "column": 5, "tagName": "li", "time": 3662.569587, "url": "", "pos": 4493, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97336c0", "doc": "http://www.msn.com/", "row": 67, "column": 6, "tagName": "li", "time": 3662.569588, "url": "", "pos": 4500, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9733750", "doc": "http://www.msn.com/", "row": 68, "column": 24, "tagName": "a", "time": 3662.569591, "url": "", "pos": 4525, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97337b0", "doc": "http://www.msn.com/", "row": 68, "column": 34, "tagName": "a", "time": 3662.569594, "url": "", "pos": 4535, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9733810", "doc": "http://www.msn.com/", "row": 69, "column": 5, "tagName": "li", "time": 3662.569596, "url": "", "pos": 4541, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9733870", "doc": "http://www.msn.com/", "row": 70, "column": 6, "tagName": "li", "time": 3662.569598, "url": "", "pos": 4548, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9733900", "doc": "http://www.msn.com/", "row": 71, "column": 23, "tagName": "a", "time": 3662.569601, "url": "", "pos": 4572, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9733960", "doc": "http://www.msn.com/", "row": 71, "column": 32, "tagName": "a", "time": 3662.569604, "url": "", "pos": 4581, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97339c0", "doc": "http://www.msn.com/", "row": 72, "column": 5, "tagName": "li", "time": 3662.569605, "url": "", "pos": 4587, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9733030", "doc": "http://www.msn.com/", "row": 73, "column": 6, "tagName": "li", "time": 3662.569608, "url": "", "pos": 4594, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97330c0", "doc": "http://www.msn.com/", "row": 74, "column": 23, "tagName": "a", "time": 3662.569611, "url": "", "pos": 4618, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9733120", "doc": "http://www.msn.com/", "row": 74, "column": 32, "tagName": "a", "time": 3662.569614, "url": "", "pos": 4627, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9733180", "doc": "http://www.msn.com/", "row": 75, "column": 5, "tagName": "li", "time": 3662.569615, "url": "", "pos": 4633, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97331e0", "doc": "http://www.msn.com/", "row": 76, "column": 6, "tagName": "li", "time": 3662.569617, "url": "", "pos": 4640, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9733240", "doc": "http://www.msn.com/", "row": 77, "column": 98, "tagName": "a", "time": 3662.569623, "url": "", "pos": 4739, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97332d0", "doc": "http://www.msn.com/", "row": 77, "column": 108, "tagName": "a", "time": 3662.569651, "url": "", "pos": 4749, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9733330", "doc": "http://www.msn.com/", "row": 78, "column": 5, "tagName": "li", "time": 3662.569654, "url": "", "pos": 4755, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9733390", "doc": "http://www.msn.com/", "row": 79, "column": 6, "tagName": "ul", "time": 3662.569655, "url": "", "pos": 4762, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97369f0", "doc": "http://www.msn.com/", "row": 80, "column": 5, "tagName": "li", "time": 3662.569659, "url": "", "pos": 4768, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9736a50", "doc": "http://www.msn.com/", "row": 81, "column": 6, "tagName": "ul", "time": 3662.569669, "url": "", "pos": 4775, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9736ab0", "doc": "http://www.msn.com/", "row": 82, "column": 6, "tagName": "div", "time": 3662.569671, "url": "", "pos": 4782, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9736b10", "doc": "http://www.msn.com/", "row": 83, "column": 26, "tagName": "div", "time": 3662.569674, "url": "", "pos": 4809, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9736ba0", "doc": "http://www.msn.com/", "row": 84, "column": 20, "tagName": "div", "time": 3662.569704, "url": "", "pos": 4830, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9736c30", "doc": "http://www.msn.com/", "row": 85, "column": 25, "tagName": "div", "time": 3662.569725, "url": "", "pos": 4856, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9736cf0", "doc": "http://www.msn.com/", "row": 86, "column": 32, "tagName": "a", "time": 3662.569739, "url": "", "pos": 4889, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9736db0", "doc": "http://www.msn.com/", "row": 89, "column": 100, "tagName": "img", "time": 3662.569758, "url": "", "pos": 4993, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9736e70", "doc": "http://www.msn.com/", "row": 90, "column": 4, "tagName": "a", "time": 3662.569877, "url": "", "pos": 4998, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9736ed0", "doc": "http://www.msn.com/", "row": 91, "column": 35, "tagName": "a", "time": 3662.569882, "url": "", "pos": 5034, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9736f90", "doc": "http://www.msn.com/", "row": 91, "column": 42, "tagName": "a", "time": 3662.569914, "url": "", "pos": 5041, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97363f0", "doc": "http://www.msn.com/", "row": 95, "column": 6, "tagName": "div", "time": 3662.569918, "url": "", "pos": 5051, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9736450", "doc": "http://www.msn.com/", "row": 96, "column": 23, "tagName": "div", "time": 3662.569922, "url": "", "pos": 5075, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97364e0", "doc": "http://www.msn.com/", "row": 97, "column": 35, "tagName": "a", "time": 3662.569936, "url": "", "pos": 5111, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97365a0", "doc": "http://www.msn.com/", "row": 97, "column": 50, "tagName": "a", "time": 3662.569969, "url": "", "pos": 5126, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9736600", "doc": "http://www.msn.com/", "row": 98, "column": 7, "tagName": "span", "time": 3662.569973, "url": "", "pos": 5134, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9736660", "doc": "http://www.msn.com/", "row": 98, "column": 15, "tagName": "span", "time": 3662.569983, "url": "", "pos": 5142, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97366c0", "doc": "http://www.msn.com/", "row": 99, "column": 40, "tagName": "a", "time": 3662.569987, "url": "", "pos": 5183, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97366f0", "doc": "http://www.msn.com/", "row": 99, "column": 122, "tagName": "img", "time": 3662.569997, "url": "", "pos": 5265, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9736720", "doc": "http://www.msn.com/", "row": 99, "column": 126, "tagName": "a", "time": 3662.570052, "url": "", "pos": 5269, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97367b0", "doc": "http://www.msn.com/", "row": 101, "column": 34, "tagName": "a", "time": 3662.570059, "url": "", "pos": 5305, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9736870", "doc": "http://www.msn.com/", "row": 102, "column": 117, "tagName": "img", "time": 3662.570080, "url": "", "pos": 5423, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9736900", "doc": "http://www.msn.com/", "row": 103, "column": 24, "tagName": "a", "time": 3662.570113, "url": "", "pos": 5449, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9736960", "doc": "http://www.msn.com/", "row": 104, "column": 22, "tagName": "div", "time": 3662.570118, "url": "", "pos": 5473, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9736000", "doc": "http://www.msn.com/", "row": 105, "column": 18, "tagName": "div", "time": 3662.570121, "url": "", "pos": 5493, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9736090", "doc": "http://www.msn.com/", "row": 106, "column": 14, "tagName": "div", "time": 3662.570123, "url": "", "pos": 5509, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97360f0", "doc": "http://www.msn.com/", "row": 109, "column": 24, "tagName": "div", "time": 3662.570126, "url": "", "pos": 5538, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9736180", "doc": "http://www.msn.com/", "row": 110, "column": 78, "tagName": "form", "time": 3662.570143, "url": "", "pos": 5617, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97361e0", "doc": "http://www.msn.com/", "row": 111, "column": 23, "tagName": "div", "time": 3662.570162, "url": "", "pos": 5641, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97362a0", "doc": "http://www.msn.com/", "row": 112, "column": 46, "tagName": "input", "time": 3662.570182, "url": "", "pos": 5688, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9525c00", "doc": "http://www.msn.com/", "row": 113, "column": 50, "tagName": "input", "time": 3662.577522, "url": "", "pos": 5739, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9525cc0", "doc": "http://www.msn.com/", "row": 114, "column": 49, "tagName": "input", "time": 3662.577627, "url": "", "pos": 5789, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9525d50", "doc": "http://www.msn.com/", "row": 115, "column": 77, "tagName": "input", "time": 3662.577730, "url": "", "pos": 5867, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9525e10", "doc": "http://www.msn.com/", "row": 116, "column": 73, "tagName": "input", "time": 3662.577767, "url": "", "pos": 5941, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9525ed0", "doc": "http://www.msn.com/", "row": 117, "column": 17, "tagName": "div", "time": 3662.577890, "url": "", "pos": 5959, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9525f30", "doc": "http://www.msn.com/", "row": 117, "column": 24, "tagName": "div", "time": 3662.577906, "url": "", "pos": 5966, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9525f90", "doc": "http://www.msn.com/", "row": 118, "column": 7, "tagName": "div", "time": 3662.577910, "url": "", "pos": 5974, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95253f0", "doc": "http://www.msn.com/", "row": 119, "column": 7, "tagName": "form", "time": 3662.577912, "url": "", "pos": 5982, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9525450", "doc": "http://www.msn.com/", "row": 120, "column": 32, "tagName": "script", "time": 3662.577917, "url": "", "pos": 6015, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb93e00f0", "doc": "http://www.msn.com/", "row": 184, "column": 17, "tagName": "script", "time": 3662.577955, "url": "", "pos": 8499, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9525540", "doc": "http://www.msn.com/", "row": 185, "column": 6, "tagName": "div", "time": 3662.578194, "url": "", "pos": 8507, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95255a0", "doc": "http://www.msn.com/", "row": 187, "column": 6, "tagName": "div", "time": 3662.578198, "url": "", "pos": 8515, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9525600", "doc": "http://www.msn.com/", "row": 190, "column": 28, "tagName": "div", "time": 3662.578202, "url": "", "pos": 8548, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9525c30", "doc": "http://www.msn.com/", "row": 191, "column": 111, "tagName": "a", "time": 3662.578250, "url": "", "pos": 8660, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb972f570", "doc": "http://www.msn.com/", "row": 191, "column": 132, "tagName": "a", "time": 3662.578271, "url": "", "pos": 8681, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9736240", "doc": "http://www.msn.com/", "row": 192, "column": 6, "tagName": "div", "time": 3662.578274, "url": "", "pos": 8717, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9736480", "doc": "http://www.msn.com/", "row": 196, "column": 6, "tagName": "div", "time": 3662.578277, "url": "", "pos": 8727, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9525810", "doc": "http://www.msn.com/", "row": 197, "column": 22, "tagName": "div", "time": 3662.578280, "url": "", "pos": 8750, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95258a0", "doc": "http://www.msn.com/", "row": 199, "column": 35, "tagName": "div", "time": 3662.578294, "url": "", "pos": 8788, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9525930", "doc": "http://www.msn.com/", "row": 203, "column": 20, "tagName": "div", "time": 3662.578302, "url": "", "pos": 8814, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9525030", "doc": "http://www.msn.com/", "row": 206, "column": 182, "tagName": "div", "time": 3662.578315, "url": "", "pos": 8999, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95250f0", "doc": "http://www.msn.com/", "row": 207, "column": 217, "tagName": "a", "time": 3662.578334, "url": "", "pos": 9217, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9525180", "doc": "http://www.msn.com/", "row": 208, "column": 25, "tagName": "div", "time": 3662.578360, "url": "", "pos": 9243, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95252d0", "doc": "http://www.msn.com/", "row": 212, "column": 44, "tagName": "img", "time": 3662.578440, "url": "", "pos": 9595, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9525330", "doc": "http://www.msn.com/", "row": 213, "column": 38, "tagName": "div", "time": 3662.579456, "url": "", "pos": 9634, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb953ba50", "doc": "http://www.msn.com/", "row": 213, "column": 49, "tagName": "div", "time": 3662.579475, "url": "", "pos": 9645, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb953bab0", "doc": "http://www.msn.com/", "row": 214, "column": 6, "tagName": "div", "time": 3662.579478, "url": "", "pos": 9652, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb953bb10", "doc": "http://www.msn.com/", "row": 214, "column": 32, "tagName": "span", "time": 3662.579488, "url": "", "pos": 9678, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb953bba0", "doc": "http://www.msn.com/", "row": 214, "column": 47, "tagName": "span", "time": 3662.579507, "url": "", "pos": 9693, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb953bbd0", "doc": "http://www.msn.com/", "row": 214, "column": 70, "tagName": "span", "time": 3662.579510, "url": "", "pos": 9716, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb953bc60", "doc": "http://www.msn.com/", "row": 214, "column": 78, "tagName": "span", "time": 3662.579524, "url": "", "pos": 9724, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb953bc90", "doc": "http://www.msn.com/", "row": 214, "column": 84, "tagName": "div", "time": 3662.579525, "url": "", "pos": 9730, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb953bcf0", "doc": "http://www.msn.com/", "row": 215, "column": 6, "tagName": "div", "time": 3662.579527, "url": "", "pos": 9737, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb953bd50", "doc": "http://www.msn.com/", "row": 216, "column": 26, "tagName": "div", "time": 3662.579530, "url": "", "pos": 9764, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb953bde0", "doc": "http://www.msn.com/", "row": 217, "column": 22, "tagName": "span", "time": 3662.579544, "url": "", "pos": 9787, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb953be70", "doc": "http://www.msn.com/", "row": 217, "column": 50, "tagName": "span", "time": 3662.579579, "url": "", "pos": 9815, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb953bed0", "doc": "http://www.msn.com/", "row": 218, "column": 22, "tagName": "span", "time": 3662.579583, "url": "", "pos": 9838, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb953bf90", "doc": "http://www.msn.com/", "row": 218, "column": 42, "tagName": "span", "time": 3662.579711, "url": "", "pos": 9858, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb953b3f0", "doc": "http://www.msn.com/", "row": 219, "column": 26, "tagName": "span", "time": 3662.579715, "url": "", "pos": 9885, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb953b4b0", "doc": "http://www.msn.com/", "row": 219, "column": 46, "tagName": "span", "time": 3662.579732, "url": "", "pos": 9905, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb953b510", "doc": "http://www.msn.com/", "row": 220, "column": 25, "tagName": "span", "time": 3662.579736, "url": "", "pos": 9931, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb953b5d0", "doc": "http://www.msn.com/", "row": 220, "column": 44, "tagName": "span", "time": 3662.579756, "url": "", "pos": 9950, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb953b630", "doc": "http://www.msn.com/", "row": 221, "column": 6, "tagName": "div", "time": 3662.579759, "url": "", "pos": 9957, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb953b690", "doc": "http://www.msn.com/", "row": 222, "column": 5, "tagName": "a", "time": 3662.579762, "url": "", "pos": 9963, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb953b6f0", "doc": "http://www.msn.com/", "row": 224, "column": 38, "tagName": "div", "time": 3662.579766, "url": "", "pos": 10003, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb953b7e0", "doc": "http://www.msn.com/", "row": 226, "column": 54, "tagName": "a", "time": 3662.579780, "url": "", "pos": 10108, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb953b8d0", "doc": "http://www.msn.com/", "row": 226, "column": 64, "tagName": "a", "time": 3662.579810, "url": "", "pos": 10118, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb953b930", "doc": "http://www.msn.com/", "row": 227, "column": 6, "tagName": "div", "time": 3662.579813, "url": "", "pos": 10125, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb953b990", "doc": "http://www.msn.com/", "row": 228, "column": 85, "tagName": "div", "time": 3662.579817, "url": "", "pos": 10211, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb953b060", "doc": "http://www.msn.com/", "row": 229, "column": 27, "tagName": "div", "time": 3662.579827, "url": "", "pos": 10239, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb953b0c0", "doc": "http://www.msn.com/", "row": 229, "column": 33, "tagName": "div", "time": 3662.579830, "url": "", "pos": 10245, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb953b150", "doc": "http://www.msn.com/", "row": 230, "column": 28, "tagName": "div", "time": 3662.579832, "url": "", "pos": 10274, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb953b210", "doc": "http://www.msn.com/", "row": 231, "column": 55, "tagName": "a", "time": 3662.579840, "url": "", "pos": 10330, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb953b2a0", "doc": "http://www.msn.com/", "row": 231, "column": 64, "tagName": "a", "time": 3662.579844, "url": "", "pos": 10339, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb953b300", "doc": "http://www.msn.com/", "row": 234, "column": 28, "tagName": "div", "time": 3662.579846, "url": "", "pos": 10371, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb953b3c0", "doc": "http://www.msn.com/", "row": 236, "column": 101, "tagName": "form", "time": 3662.579853, "url": "", "pos": 10474, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9540a20", "doc": "http://www.msn.com/", "row": 238, "column": 3, "tagName": "p", "time": 3662.579867, "url": "", "pos": 10480, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9540a80", "doc": "http://www.msn.com/", "row": 238, "column": 27, "tagName": "p", "time": 3662.579877, "url": "", "pos": 10504, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9540ae0", "doc": "http://www.msn.com/", "row": 239, "column": 34, "tagName": "div", "time": 3662.579880, "url": "", "pos": 10539, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9540b70", "doc": "http://www.msn.com/", "row": 243, "column": 3, "tagName": "input", "time": 3662.579946, "url": "", "pos": 11191, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9540cc0", "doc": "http://www.msn.com/", "row": 245, "column": 1, "tagName": "button", "time": 3662.580038, "url": "", "pos": 11277, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9540c60", "doc": "http://www.msn.com/", "row": 245, "column": 10, "tagName": "button", "time": 3662.580052, "url": "", "pos": 11286, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9540d80", "doc": "http://www.msn.com/", "row": 246, "column": 6, "tagName": "div", "time": 3662.580055, "url": "", "pos": 11293, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9540e10", "doc": "http://www.msn.com/", "row": 247, "column": 73, "tagName": "div", "time": 3662.580059, "url": "", "pos": 11367, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9540e70", "doc": "http://www.msn.com/", "row": 247, "column": 79, "tagName": "div", "time": 3662.580063, "url": "", "pos": 11373, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9540ed0", "doc": "http://www.msn.com/", "row": 248, "column": 20, "tagName": "div", "time": 3662.580065, "url": "", "pos": 11394, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9540f60", "doc": "http://www.msn.com/", "row": 248, "column": 73, "tagName": "div", "time": 3662.580068, "url": "", "pos": 11447, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9540fc0", "doc": "http://www.msn.com/", "row": 249, "column": 33, "tagName": "div", "time": 3662.580071, "url": "", "pos": 11481, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9540420", "doc": "http://www.msn.com/", "row": 249, "column": 39, "tagName": "div", "time": 3662.580075, "url": "", "pos": 11487, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9540480", "doc": "http://www.msn.com/", "row": 251, "column": 7, "tagName": "form", "time": 3662.580077, "url": "", "pos": 11497, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95404e0", "doc": "http://www.msn.com/", "row": 252, "column": 6, "tagName": "div", "time": 3662.580079, "url": "", "pos": 11504, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9540540", "doc": "http://www.msn.com/", "row": 256, "column": 6, "tagName": "div", "time": 3662.580081, "url": "", "pos": 11515, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95405a0", "doc": "http://www.msn.com/", "row": 257, "column": 3, "tagName": "p", "time": 3662.580084, "url": "", "pos": 11519, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9540600", "doc": "http://www.msn.com/", "row": 257, "column": 29, "tagName": "p", "time": 3662.580088, "url": "", "pos": 11545, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9540690", "doc": "http://www.msn.com/", "row": 258, "column": 86, "tagName": "form", "time": 3662.580092, "url": "", "pos": 11632, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9540720", "doc": "http://www.msn.com/", "row": 260, "column": 5, "tagName": "div", "time": 3662.580096, "url": "", "pos": 11640, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95407e0", "doc": "http://www.msn.com/", "row": 263, "column": 1, "tagName": "button", "time": 3662.580101, "url": "", "pos": 11739, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9540870", "doc": "http://www.msn.com/", "row": 264, "column": 18, "tagName": "span", "time": 3662.580107, "url": "", "pos": 11758, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95408d0", "doc": "http://www.msn.com/", "row": 264, "column": 25, "tagName": "span", "time": 3662.580110, "url": "", "pos": 11765, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9540930", "doc": "http://www.msn.com/", "row": 265, "column": 9, "tagName": "button", "time": 3662.580112, "url": "", "pos": 11775, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9540990", "doc": "http://www.msn.com/", "row": 266, "column": 24, "tagName": "label", "time": 3662.580114, "url": "", "pos": 11800, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9540030", "doc": "http://www.msn.com/", "row": 266, "column": 42, "tagName": "label", "time": 3662.580118, "url": "", "pos": 11818, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9540060", "doc": "http://www.msn.com/", "row": 267, "column": 18, "tagName": "div", "time": 3662.580121, "url": "", "pos": 11838, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95400c0", "doc": "http://www.msn.com/", "row": 268, "column": 17, "tagName": "div", "time": 3662.580123, "url": "", "pos": 11857, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9540180", "doc": "http://www.msn.com/", "row": 271, "column": 1, "tagName": "button", "time": 3662.580128, "url": "", "pos": 11962, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95401e0", "doc": "http://www.msn.com/", "row": 272, "column": 18, "tagName": "span", "time": 3662.580132, "url": "", "pos": 11981, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9540210", "doc": "http://www.msn.com/", "row": 272, "column": 25, "tagName": "span", "time": 3662.580135, "url": "", "pos": 11988, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9540270", "doc": "http://www.msn.com/", "row": 273, "column": 9, "tagName": "button", "time": 3662.580136, "url": "", "pos": 11998, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95402d0", "doc": "http://www.msn.com/", "row": 274, "column": 21, "tagName": "label", "time": 3662.580138, "url": "", "pos": 12020, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9540360", "doc": "http://www.msn.com/", "row": 274, "column": 36, "tagName": "label", "time": 3662.580141, "url": "", "pos": 12035, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95403c0", "doc": "http://www.msn.com/", "row": 275, "column": 6, "tagName": "div", "time": 3662.580143, "url": "", "pos": 12042, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9542a20", "doc": "http://www.msn.com/", "row": 277, "column": 7, "tagName": "form", "time": 3662.580153, "url": "", "pos": 12052, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9542a80", "doc": "http://www.msn.com/", "row": 278, "column": 6, "tagName": "div", "time": 3662.580155, "url": "", "pos": 12059, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9542ae0", "doc": "http://www.msn.com/", "row": 280, "column": 71, "tagName": "button", "time": 3662.580159, "url": "", "pos": 12132, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9542ba0", "doc": "http://www.msn.com/", "row": 280, "column": 84, "tagName": "button", "time": 3662.580165, "url": "", "pos": 12145, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9542c00", "doc": "http://www.msn.com/", "row": 281, "column": 7, "tagName": "div", "time": 3662.580166, "url": "", "pos": 12153, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9542c60", "doc": "http://www.msn.com/", "row": 282, "column": 6, "tagName": "div", "time": 3662.580168, "url": "", "pos": 12160, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9542cc0", "doc": "http://www.msn.com/", "row": 283, "column": 7, "tagName": "div", "time": 3662.580170, "url": "", "pos": 12168, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9542d20", "doc": "http://www.msn.com/", "row": 284, "column": 25, "tagName": "div", "time": 3662.580173, "url": "", "pos": 12194, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9542db0", "doc": "http://www.msn.com/", "row": 285, "column": 5, "tagName": "h3", "time": 3662.580193, "url": "", "pos": 12200, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9542de0", "doc": "http://www.msn.com/", "row": 285, "column": 79, "tagName": "a", "time": 3662.580214, "url": "", "pos": 12274, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9542e70", "doc": "http://www.msn.com/", "row": 285, "column": 99, "tagName": "a", "time": 3662.580255, "url": "", "pos": 12294, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9542ea0", "doc": "http://www.msn.com/", "row": 285, "column": 104, "tagName": "h3", "time": 3662.580257, "url": "", "pos": 12299, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9542f00", "doc": "http://www.msn.com/", "row": 286, "column": 28, "tagName": "ul", "time": 3662.580260, "url": "", "pos": 12329, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9542f60", "doc": "http://www.msn.com/", "row": 287, "column": 32, "tagName": "li", "time": 3662.580277, "url": "", "pos": 12363, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9542fc0", "doc": "http://www.msn.com/", "row": 287, "column": 158, "tagName": "a", "time": 3662.580304, "url": "", "pos": 12489, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9542450", "doc": "http://www.msn.com/", "row": 289, "column": 36, "tagName": "a", "time": 3662.580329, "url": "", "pos": 12529, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95424b0", "doc": "http://www.msn.com/", "row": 290, "column": 5, "tagName": "li", "time": 3662.580332, "url": "", "pos": 12536, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9542510", "doc": "http://www.msn.com/", "row": 291, "column": 4, "tagName": "li", "time": 3662.580335, "url": "", "pos": 12541, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9542570", "doc": "http://www.msn.com/", "row": 291, "column": 141, "tagName": "a", "time": 3662.580346, "url": "", "pos": 12678, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95425d0", "doc": "http://www.msn.com/", "row": 293, "column": 27, "tagName": "a", "time": 3662.580366, "url": "", "pos": 12709, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9542630", "doc": "http://www.msn.com/", "row": 294, "column": 5, "tagName": "li", "time": 3662.580369, "url": "", "pos": 12716, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9542690", "doc": "http://www.msn.com/", "row": 295, "column": 29, "tagName": "ul", "time": 3662.580372, "url": "", "pos": 12747, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95426f0", "doc": "http://www.msn.com/", "row": 296, "column": 28, "tagName": "ul", "time": 3662.580374, "url": "", "pos": 12777, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9542750", "doc": "http://www.msn.com/", "row": 297, "column": 32, "tagName": "li", "time": 3662.580381, "url": "", "pos": 12811, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95427b0", "doc": "http://www.msn.com/", "row": 297, "column": 149, "tagName": "a", "time": 3662.580388, "url": "", "pos": 12928, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9542810", "doc": "http://www.msn.com/", "row": 299, "column": 37, "tagName": "a", "time": 3662.580402, "url": "", "pos": 12969, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9542870", "doc": "http://www.msn.com/", "row": 300, "column": 5, "tagName": "li", "time": 3662.580404, "url": "", "pos": 12976, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95428d0", "doc": "http://www.msn.com/", "row": 301, "column": 4, "tagName": "li", "time": 3662.580407, "url": "", "pos": 12981, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9542930", "doc": "http://www.msn.com/", "row": 301, "column": 121, "tagName": "a", "time": 3662.580415, "url": "", "pos": 13098, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9542990", "doc": "http://www.msn.com/", "row": 303, "column": 27, "tagName": "a", "time": 3662.580432, "url": "", "pos": 13129, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9542000", "doc": "http://www.msn.com/", "row": 304, "column": 5, "tagName": "li", "time": 3662.580435, "url": "", "pos": 13136, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9542060", "doc": "http://www.msn.com/", "row": 305, "column": 29, "tagName": "ul", "time": 3662.580438, "url": "", "pos": 13167, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95420c0", "doc": "http://www.msn.com/", "row": 306, "column": 26, "tagName": "div", "time": 3662.580441, "url": "", "pos": 13195, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9542120", "doc": "http://www.msn.com/", "row": 307, "column": 7, "tagName": "div", "time": 3662.580443, "url": "", "pos": 13204, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95421b0", "doc": "http://www.msn.com/", "row": 308, "column": 27, "tagName": "div", "time": 3662.580446, "url": "", "pos": 13232, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9542240", "doc": "http://www.msn.com/", "row": 309, "column": 4, "tagName": "h2", "time": 3662.580468, "url": "", "pos": 13237, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95422a0", "doc": "http://www.msn.com/", "row": 309, "column": 14, "tagName": "h2", "time": 3662.580482, "url": "", "pos": 13247, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9542300", "doc": "http://www.msn.com/", "row": 309, "column": 134, "tagName": "a", "time": 3662.580487, "url": "", "pos": 13367, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95423c0", "doc": "http://www.msn.com/", "row": 310, "column": 293, "tagName": "img", "time": 3662.580513, "url": "", "pos": 13662, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9545a50", "doc": "http://www.msn.com/", "row": 311, "column": 8, "tagName": "a", "time": 3662.580610, "url": "", "pos": 13672, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9545ae0", "doc": "http://www.msn.com/", "row": 312, "column": 5, "tagName": "ul", "time": 3662.580615, "url": "", "pos": 13679, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9545b40", "doc": "http://www.msn.com/", "row": 313, "column": 20, "tagName": "li", "time": 3662.580628, "url": "", "pos": 13700, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9545c00", "doc": "http://www.msn.com/", "row": 314, "column": 121, "tagName": "a", "time": 3662.580662, "url": "", "pos": 13822, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9545cc0", "doc": "http://www.msn.com/", "row": 316, "column": 49, "tagName": "a", "time": 3662.580685, "url": "", "pos": 13875, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9545d20", "doc": "http://www.msn.com/", "row": 318, "column": 5, "tagName": "li", "time": 3662.580688, "url": "", "pos": 13883, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9545d80", "doc": "http://www.msn.com/", "row": 319, "column": 6, "tagName": "li", "time": 3662.580690, "url": "", "pos": 13890, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9545e10", "doc": "http://www.msn.com/", "row": 320, "column": 155, "tagName": "a", "time": 3662.580708, "url": "", "pos": 14046, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9545ea0", "doc": "http://www.msn.com/", "row": 322, "column": 37, "tagName": "a", "time": 3662.580735, "url": "", "pos": 14087, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9545f00", "doc": "http://www.msn.com/", "row": 324, "column": 5, "tagName": "li", "time": 3662.580739, "url": "", "pos": 14095, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9545f60", "doc": "http://www.msn.com/", "row": 325, "column": 6, "tagName": "li", "time": 3662.580741, "url": "", "pos": 14102, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9545fc0", "doc": "http://www.msn.com/", "row": 326, "column": 119, "tagName": "a", "time": 3662.580752, "url": "", "pos": 14222, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9545420", "doc": "http://www.msn.com/", "row": 328, "column": 50, "tagName": "a", "time": 3662.580764, "url": "", "pos": 14276, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9545480", "doc": "http://www.msn.com/", "row": 330, "column": 5, "tagName": "li", "time": 3662.580767, "url": "", "pos": 14284, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95454e0", "doc": "http://www.msn.com/", "row": 331, "column": 6, "tagName": "li", "time": 3662.580769, "url": "", "pos": 14291, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9545540", "doc": "http://www.msn.com/", "row": 332, "column": 122, "tagName": "a", "time": 3662.580779, "url": "", "pos": 14414, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95455a0", "doc": "http://www.msn.com/", "row": 334, "column": 73, "tagName": "a", "time": 3662.580795, "url": "", "pos": 14491, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9545600", "doc": "http://www.msn.com/", "row": 336, "column": 5, "tagName": "li", "time": 3662.580798, "url": "", "pos": 14499, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9545660", "doc": "http://www.msn.com/", "row": 337, "column": 6, "tagName": "li", "time": 3662.580800, "url": "", "pos": 14506, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95456c0", "doc": "http://www.msn.com/", "row": 338, "column": 148, "tagName": "a", "time": 3662.580812, "url": "", "pos": 14655, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9545720", "doc": "http://www.msn.com/", "row": 340, "column": 60, "tagName": "a", "time": 3662.580828, "url": "", "pos": 14719, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9545780", "doc": "http://www.msn.com/", "row": 342, "column": 5, "tagName": "li", "time": 3662.580832, "url": "", "pos": 14727, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95457e0", "doc": "http://www.msn.com/", "row": 343, "column": 6, "tagName": "ul", "time": 3662.580834, "url": "", "pos": 14734, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9545840", "doc": "http://www.msn.com/", "row": 345, "column": 6, "tagName": "div", "time": 3662.580836, "url": "", "pos": 14742, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95458a0", "doc": "http://www.msn.com/", "row": 346, "column": 21, "tagName": "div", "time": 3662.580839, "url": "", "pos": 14764, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9545930", "doc": "http://www.msn.com/", "row": 347, "column": 4, "tagName": "h2", "time": 3662.580848, "url": "", "pos": 14769, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9545960", "doc": "http://www.msn.com/", "row": 347, "column": 27, "tagName": "a", "time": 3662.580854, "url": "", "pos": 14792, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9545030", "doc": "http://www.msn.com/", "row": 347, "column": 35, "tagName": "a", "time": 3662.580871, "url": "", "pos": 14800, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9545060", "doc": "http://www.msn.com/", "row": 347, "column": 40, "tagName": "h2", "time": 3662.580872, "url": "", "pos": 14805, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95450c0", "doc": "http://www.msn.com/", "row": 347, "column": 152, "tagName": "a", "time": 3662.580876, "url": "", "pos": 14917, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9545150", "doc": "http://www.msn.com/", "row": 348, "column": 331, "tagName": "img", "time": 3662.580910, "url": "", "pos": 15250, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95451e0", "doc": "http://www.msn.com/", "row": 349, "column": 8, "tagName": "a", "time": 3662.580969, "url": "", "pos": 15260, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9545270", "doc": "http://www.msn.com/", "row": 350, "column": 5, "tagName": "ul", "time": 3662.580973, "url": "", "pos": 15267, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95452d0", "doc": "http://www.msn.com/", "row": 351, "column": 20, "tagName": "li", "time": 3662.580981, "url": "", "pos": 15288, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9545330", "doc": "http://www.msn.com/", "row": 352, "column": 113, "tagName": "a", "time": 3662.580996, "url": "", "pos": 15402, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9545390", "doc": "http://www.msn.com/", "row": 354, "column": 67, "tagName": "a", "time": 3662.581009, "url": "", "pos": 15473, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95489f0", "doc": "http://www.msn.com/", "row": 356, "column": 5, "tagName": "li", "time": 3662.581012, "url": "", "pos": 15481, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9548a50", "doc": "http://www.msn.com/", "row": 357, "column": 6, "tagName": "li", "time": 3662.581022, "url": "", "pos": 15488, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9548ab0", "doc": "http://www.msn.com/", "row": 358, "column": 124, "tagName": "a", "time": 3662.581037, "url": "", "pos": 15613, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9548b40", "doc": "http://www.msn.com/", "row": 360, "column": 76, "tagName": "a", "time": 3662.581068, "url": "", "pos": 15693, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9548ba0", "doc": "http://www.msn.com/", "row": 362, "column": 5, "tagName": "li", "time": 3662.581072, "url": "", "pos": 15701, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9548c00", "doc": "http://www.msn.com/", "row": 363, "column": 6, "tagName": "li", "time": 3662.581074, "url": "", "pos": 15708, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9548c60", "doc": "http://www.msn.com/", "row": 364, "column": 119, "tagName": "a", "time": 3662.581087, "url": "", "pos": 15828, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9548cc0", "doc": "http://www.msn.com/", "row": 366, "column": 75, "tagName": "a", "time": 3662.581104, "url": "", "pos": 15907, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9548d20", "doc": "http://www.msn.com/", "row": 368, "column": 5, "tagName": "li", "time": 3662.581107, "url": "", "pos": 15915, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9548d80", "doc": "http://www.msn.com/", "row": 369, "column": 6, "tagName": "li", "time": 3662.581109, "url": "", "pos": 15922, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9548de0", "doc": "http://www.msn.com/", "row": 370, "column": 109, "tagName": "a", "time": 3662.581121, "url": "", "pos": 16032, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9548e40", "doc": "http://www.msn.com/", "row": 372, "column": 65, "tagName": "a", "time": 3662.581137, "url": "", "pos": 16101, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9548ea0", "doc": "http://www.msn.com/", "row": 374, "column": 5, "tagName": "li", "time": 3662.581140, "url": "", "pos": 16109, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9548f00", "doc": "http://www.msn.com/", "row": 375, "column": 6, "tagName": "li", "time": 3662.581142, "url": "", "pos": 16116, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9548f60", "doc": "http://www.msn.com/", "row": 376, "column": 119, "tagName": "a", "time": 3662.581159, "url": "", "pos": 16236, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9548fc0", "doc": "http://www.msn.com/", "row": 378, "column": 67, "tagName": "a", "time": 3662.581170, "url": "", "pos": 16307, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9548420", "doc": "http://www.msn.com/", "row": 380, "column": 5, "tagName": "li", "time": 3662.581174, "url": "", "pos": 16315, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9548480", "doc": "http://www.msn.com/", "row": 381, "column": 6, "tagName": "ul", "time": 3662.581176, "url": "", "pos": 16322, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95484e0", "doc": "http://www.msn.com/", "row": 383, "column": 6, "tagName": "div", "time": 3662.581177, "url": "", "pos": 16330, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9548540", "doc": "http://www.msn.com/", "row": 384, "column": 21, "tagName": "div", "time": 3662.581180, "url": "", "pos": 16352, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95485a0", "doc": "http://www.msn.com/", "row": 385, "column": 4, "tagName": "h2", "time": 3662.581187, "url": "", "pos": 16357, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95485d0", "doc": "http://www.msn.com/", "row": 385, "column": 36, "tagName": "a", "time": 3662.581192, "url": "", "pos": 16389, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9548660", "doc": "http://www.msn.com/", "row": 385, "column": 53, "tagName": "a", "time": 3662.581202, "url": "", "pos": 16406, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9548690", "doc": "http://www.msn.com/", "row": 385, "column": 58, "tagName": "h2", "time": 3662.581204, "url": "", "pos": 16411, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95486f0", "doc": "http://www.msn.com/", "row": 385, "column": 196, "tagName": "a", "time": 3662.581215, "url": "", "pos": 16549, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9548780", "doc": "http://www.msn.com/", "row": 386, "column": 365, "tagName": "img", "time": 3662.581243, "url": "", "pos": 16916, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95487e0", "doc": "http://www.msn.com/", "row": 387, "column": 8, "tagName": "a", "time": 3662.581302, "url": "", "pos": 16926, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9548870", "doc": "http://www.msn.com/", "row": 388, "column": 5, "tagName": "ul", "time": 3662.581307, "url": "", "pos": 16933, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95488d0", "doc": "http://www.msn.com/", "row": 389, "column": 20, "tagName": "li", "time": 3662.581314, "url": "", "pos": 16954, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9548930", "doc": "http://www.msn.com/", "row": 390, "column": 139, "tagName": "a", "time": 3662.581327, "url": "", "pos": 17094, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9548990", "doc": "http://www.msn.com/", "row": 392, "column": 64, "tagName": "a", "time": 3662.581356, "url": "", "pos": 17162, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9548000", "doc": "http://www.msn.com/", "row": 394, "column": 5, "tagName": "li", "time": 3662.581359, "url": "", "pos": 17170, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9548060", "doc": "http://www.msn.com/", "row": 395, "column": 6, "tagName": "li", "time": 3662.581361, "url": "", "pos": 17177, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95480c0", "doc": "http://www.msn.com/", "row": 396, "column": 72, "tagName": "a", "time": 3662.581373, "url": "", "pos": 17250, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9548120", "doc": "http://www.msn.com/", "row": 398, "column": 40, "tagName": "a", "time": 3662.581383, "url": "", "pos": 17294, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9548180", "doc": "http://www.msn.com/", "row": 400, "column": 5, "tagName": "li", "time": 3662.581386, "url": "", "pos": 17302, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95481e0", "doc": "http://www.msn.com/", "row": 401, "column": 6, "tagName": "li", "time": 3662.581388, "url": "", "pos": 17309, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9548240", "doc": "http://www.msn.com/", "row": 402, "column": 136, "tagName": "a", "time": 3662.581398, "url": "", "pos": 17446, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95482a0", "doc": "http://www.msn.com/", "row": 404, "column": 64, "tagName": "a", "time": 3662.581408, "url": "", "pos": 17514, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9548300", "doc": "http://www.msn.com/", "row": 406, "column": 5, "tagName": "li", "time": 3662.581410, "url": "", "pos": 17522, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9548360", "doc": "http://www.msn.com/", "row": 407, "column": 6, "tagName": "li", "time": 3662.581412, "url": "", "pos": 17529, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95483c0", "doc": "http://www.msn.com/", "row": 408, "column": 109, "tagName": "a", "time": 3662.581421, "url": "", "pos": 17639, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9554a20", "doc": "http://www.msn.com/", "row": 410, "column": 58, "tagName": "a", "time": 3662.581438, "url": "", "pos": 17701, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9554a80", "doc": "http://www.msn.com/", "row": 412, "column": 5, "tagName": "li", "time": 3662.581441, "url": "", "pos": 17709, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9554ae0", "doc": "http://www.msn.com/", "row": 413, "column": 6, "tagName": "li", "time": 3662.581443, "url": "", "pos": 17716, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9554b40", "doc": "http://www.msn.com/", "row": 414, "column": 96, "tagName": "a", "time": 3662.581460, "url": "", "pos": 17813, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9554ba0", "doc": "http://www.msn.com/", "row": 416, "column": 50, "tagName": "a", "time": 3662.581473, "url": "", "pos": 17867, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9554c00", "doc": "http://www.msn.com/", "row": 418, "column": 5, "tagName": "li", "time": 3662.581476, "url": "", "pos": 17875, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9554c60", "doc": "http://www.msn.com/", "row": 419, "column": 6, "tagName": "ul", "time": 3662.581478, "url": "", "pos": 17882, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9554cc0", "doc": "http://www.msn.com/", "row": 421, "column": 6, "tagName": "div", "time": 3662.581480, "url": "", "pos": 17890, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9554d20", "doc": "http://www.msn.com/", "row": 422, "column": 21, "tagName": "div", "time": 3662.581483, "url": "", "pos": 17912, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9554d80", "doc": "http://www.msn.com/", "row": 423, "column": 4, "tagName": "h2", "time": 3662.581489, "url": "", "pos": 17917, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9554db0", "doc": "http://www.msn.com/", "row": 423, "column": 29, "tagName": "a", "time": 3662.581493, "url": "", "pos": 17942, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9554e10", "doc": "http://www.msn.com/", "row": 423, "column": 39, "tagName": "a", "time": 3662.581503, "url": "", "pos": 17952, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9554e40", "doc": "http://www.msn.com/", "row": 423, "column": 44, "tagName": "h2", "time": 3662.581505, "url": "", "pos": 17957, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9554ea0", "doc": "http://www.msn.com/", "row": 423, "column": 154, "tagName": "a", "time": 3662.581508, "url": "", "pos": 18067, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9554f30", "doc": "http://www.msn.com/", "row": 424, "column": 317, "tagName": "img", "time": 3662.581533, "url": "", "pos": 18386, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9554f90", "doc": "http://www.msn.com/", "row": 425, "column": 8, "tagName": "a", "time": 3662.581574, "url": "", "pos": 18396, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9554420", "doc": "http://www.msn.com/", "row": 426, "column": 5, "tagName": "ul", "time": 3662.581578, "url": "", "pos": 18403, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9554480", "doc": "http://www.msn.com/", "row": 427, "column": 20, "tagName": "li", "time": 3662.581585, "url": "", "pos": 18424, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95544e0", "doc": "http://www.msn.com/", "row": 428, "column": 111, "tagName": "a", "time": 3662.581598, "url": "", "pos": 18536, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9554540", "doc": "http://www.msn.com/", "row": 430, "column": 86, "tagName": "a", "time": 3662.581612, "url": "", "pos": 18626, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95545a0", "doc": "http://www.msn.com/", "row": 432, "column": 5, "tagName": "li", "time": 3662.581614, "url": "", "pos": 18634, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9554600", "doc": "http://www.msn.com/", "row": 433, "column": 6, "tagName": "li", "time": 3662.581616, "url": "", "pos": 18641, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9554660", "doc": "http://www.msn.com/", "row": 434, "column": 106, "tagName": "a", "time": 3662.581626, "url": "", "pos": 18748, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95546c0", "doc": "http://www.msn.com/", "row": 436, "column": 63, "tagName": "a", "time": 3662.581642, "url": "", "pos": 18815, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9554720", "doc": "http://www.msn.com/", "row": 438, "column": 5, "tagName": "li", "time": 3662.581646, "url": "", "pos": 18823, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9554780", "doc": "http://www.msn.com/", "row": 439, "column": 6, "tagName": "li", "time": 3662.581648, "url": "", "pos": 18830, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95547e0", "doc": "http://www.msn.com/", "row": 440, "column": 76, "tagName": "a", "time": 3662.581658, "url": "", "pos": 18907, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9554840", "doc": "http://www.msn.com/", "row": 442, "column": 49, "tagName": "a", "time": 3662.581673, "url": "", "pos": 18960, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95548a0", "doc": "http://www.msn.com/", "row": 444, "column": 5, "tagName": "li", "time": 3662.581676, "url": "", "pos": 18968, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9554900", "doc": "http://www.msn.com/", "row": 445, "column": 6, "tagName": "li", "time": 3662.581678, "url": "", "pos": 18975, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9554960", "doc": "http://www.msn.com/", "row": 446, "column": 129, "tagName": "a", "time": 3662.581690, "url": "", "pos": 19105, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95549c0", "doc": "http://www.msn.com/", "row": 448, "column": 63, "tagName": "a", "time": 3662.581700, "url": "", "pos": 19172, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9554030", "doc": "http://www.msn.com/", "row": 450, "column": 5, "tagName": "li", "time": 3662.581703, "url": "", "pos": 19180, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9554090", "doc": "http://www.msn.com/", "row": 451, "column": 6, "tagName": "li", "time": 3662.581705, "url": "", "pos": 19187, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95540f0", "doc": "http://www.msn.com/", "row": 452, "column": 120, "tagName": "a", "time": 3662.581715, "url": "", "pos": 19308, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9554150", "doc": "http://www.msn.com/", "row": 454, "column": 58, "tagName": "a", "time": 3662.581723, "url": "", "pos": 19370, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95541b0", "doc": "http://www.msn.com/", "row": 456, "column": 5, "tagName": "li", "time": 3662.581726, "url": "", "pos": 19378, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9554210", "doc": "http://www.msn.com/", "row": 457, "column": 6, "tagName": "ul", "time": 3662.581728, "url": "", "pos": 19385, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9554270", "doc": "http://www.msn.com/", "row": 459, "column": 6, "tagName": "div", "time": 3662.581729, "url": "", "pos": 19393, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95542d0", "doc": "http://www.msn.com/", "row": 460, "column": 21, "tagName": "div", "time": 3662.581732, "url": "", "pos": 19415, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9554330", "doc": "http://www.msn.com/", "row": 461, "column": 4, "tagName": "h2", "time": 3662.581738, "url": "", "pos": 19420, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9554360", "doc": "http://www.msn.com/", "row": 461, "column": 28, "tagName": "a", "time": 3662.581742, "url": "", "pos": 19444, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95543c0", "doc": "http://www.msn.com/", "row": 461, "column": 37, "tagName": "a", "time": 3662.581752, "url": "", "pos": 19453, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95569f0", "doc": "http://www.msn.com/", "row": 461, "column": 42, "tagName": "h2", "time": 3662.581753, "url": "", "pos": 19458, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9556a50", "doc": "http://www.msn.com/", "row": 461, "column": 156, "tagName": "a", "time": 3662.581766, "url": "", "pos": 19572, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9556ae0", "doc": "http://www.msn.com/", "row": 462, "column": 210, "tagName": "img", "time": 3662.581789, "url": "", "pos": 19784, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9556b40", "doc": "http://www.msn.com/", "row": 463, "column": 8, "tagName": "a", "time": 3662.581839, "url": "", "pos": 19794, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9556bd0", "doc": "http://www.msn.com/", "row": 464, "column": 5, "tagName": "ul", "time": 3662.581842, "url": "", "pos": 19801, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9556c30", "doc": "http://www.msn.com/", "row": 465, "column": 20, "tagName": "li", "time": 3662.581849, "url": "", "pos": 19822, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9556c90", "doc": "http://www.msn.com/", "row": 466, "column": 115, "tagName": "a", "time": 3662.581862, "url": "", "pos": 19938, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9556cf0", "doc": "http://www.msn.com/", "row": 468, "column": 60, "tagName": "a", "time": 3662.581885, "url": "", "pos": 20002, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9556d50", "doc": "http://www.msn.com/", "row": 470, "column": 5, "tagName": "li", "time": 3662.581888, "url": "", "pos": 20010, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9556db0", "doc": "http://www.msn.com/", "row": 471, "column": 6, "tagName": "li", "time": 3662.581890, "url": "", "pos": 20017, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9556e10", "doc": "http://www.msn.com/", "row": 472, "column": 103, "tagName": "a", "time": 3662.581901, "url": "", "pos": 20121, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9556e70", "doc": "http://www.msn.com/", "row": 474, "column": 48, "tagName": "a", "time": 3662.581918, "url": "", "pos": 20173, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9556ed0", "doc": "http://www.msn.com/", "row": 476, "column": 5, "tagName": "li", "time": 3662.581921, "url": "", "pos": 20181, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9556f30", "doc": "http://www.msn.com/", "row": 477, "column": 6, "tagName": "li", "time": 3662.581923, "url": "", "pos": 20188, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9556f90", "doc": "http://www.msn.com/", "row": 478, "column": 128, "tagName": "a", "time": 3662.581935, "url": "", "pos": 20317, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95563f0", "doc": "http://www.msn.com/", "row": 480, "column": 68, "tagName": "a", "time": 3662.581945, "url": "", "pos": 20389, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9556450", "doc": "http://www.msn.com/", "row": 482, "column": 5, "tagName": "li", "time": 3662.581948, "url": "", "pos": 20397, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95564b0", "doc": "http://www.msn.com/", "row": 483, "column": 6, "tagName": "li", "time": 3662.581950, "url": "", "pos": 20404, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9556510", "doc": "http://www.msn.com/", "row": 484, "column": 118, "tagName": "a", "time": 3662.581960, "url": "", "pos": 20523, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9556570", "doc": "http://www.msn.com/", "row": 486, "column": 57, "tagName": "a", "time": 3662.581975, "url": "", "pos": 20584, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95565d0", "doc": "http://www.msn.com/", "row": 488, "column": 5, "tagName": "li", "time": 3662.581978, "url": "", "pos": 20592, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9556630", "doc": "http://www.msn.com/", "row": 489, "column": 6, "tagName": "li", "time": 3662.581980, "url": "", "pos": 20599, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9556690", "doc": "http://www.msn.com/", "row": 490, "column": 144, "tagName": "a", "time": 3662.581990, "url": "", "pos": 20744, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95566f0", "doc": "http://www.msn.com/", "row": 492, "column": 69, "tagName": "a", "time": 3662.582003, "url": "", "pos": 20817, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9556750", "doc": "http://www.msn.com/", "row": 494, "column": 5, "tagName": "li", "time": 3662.582005, "url": "", "pos": 20825, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95567b0", "doc": "http://www.msn.com/", "row": 495, "column": 6, "tagName": "ul", "time": 3662.582007, "url": "", "pos": 20832, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9556810", "doc": "http://www.msn.com/", "row": 497, "column": 6, "tagName": "div", "time": 3662.582009, "url": "", "pos": 20840, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9556870", "doc": "http://www.msn.com/", "row": 498, "column": 21, "tagName": "div", "time": 3662.582012, "url": "", "pos": 20862, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95568d0", "doc": "http://www.msn.com/", "row": 499, "column": 4, "tagName": "h2", "time": 3662.582019, "url": "", "pos": 20867, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9556900", "doc": "http://www.msn.com/", "row": 499, "column": 32, "tagName": "a", "time": 3662.582023, "url": "", "pos": 20895, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9556990", "doc": "http://www.msn.com/", "row": 499, "column": 45, "tagName": "a", "time": 3662.582032, "url": "", "pos": 20908, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95569c0", "doc": "http://www.msn.com/", "row": 499, "column": 50, "tagName": "h2", "time": 3662.582034, "url": "", "pos": 20913, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9556030", "doc": "http://www.msn.com/", "row": 499, "column": 165, "tagName": "a", "time": 3662.582038, "url": "", "pos": 21028, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95560c0", "doc": "http://www.msn.com/", "row": 500, "column": 271, "tagName": "img", "time": 3662.582055, "url": "", "pos": 21301, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9556120", "doc": "http://www.msn.com/", "row": 501, "column": 8, "tagName": "a", "time": 3662.582094, "url": "", "pos": 21311, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95561b0", "doc": "http://www.msn.com/", "row": 502, "column": 5, "tagName": "ul", "time": 3662.582097, "url": "", "pos": 21318, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9556210", "doc": "http://www.msn.com/", "row": 503, "column": 20, "tagName": "li", "time": 3662.582103, "url": "", "pos": 21339, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9556270", "doc": "http://www.msn.com/", "row": 504, "column": 116, "tagName": "a", "time": 3662.582116, "url": "", "pos": 21456, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95562d0", "doc": "http://www.msn.com/", "row": 506, "column": 59, "tagName": "a", "time": 3662.582129, "url": "", "pos": 21519, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9556330", "doc": "http://www.msn.com/", "row": 508, "column": 5, "tagName": "li", "time": 3662.582132, "url": "", "pos": 21527, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9556390", "doc": "http://www.msn.com/", "row": 509, "column": 6, "tagName": "li", "time": 3662.582134, "url": "", "pos": 21534, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95599f0", "doc": "http://www.msn.com/", "row": 510, "column": 108, "tagName": "a", "time": 3662.582144, "url": "", "pos": 21643, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9559a50", "doc": "http://www.msn.com/", "row": 512, "column": 58, "tagName": "a", "time": 3662.582169, "url": "", "pos": 21705, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9559ab0", "doc": "http://www.msn.com/", "row": 514, "column": 5, "tagName": "li", "time": 3662.582172, "url": "", "pos": 21713, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9559b10", "doc": "http://www.msn.com/", "row": 515, "column": 6, "tagName": "li", "time": 3662.582174, "url": "", "pos": 21720, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9559b70", "doc": "http://www.msn.com/", "row": 516, "column": 136, "tagName": "a", "time": 3662.582186, "url": "", "pos": 21857, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9559bd0", "doc": "http://www.msn.com/", "row": 518, "column": 57, "tagName": "a", "time": 3662.582197, "url": "", "pos": 21918, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9559c30", "doc": "http://www.msn.com/", "row": 520, "column": 5, "tagName": "li", "time": 3662.582199, "url": "", "pos": 21926, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9559c90", "doc": "http://www.msn.com/", "row": 521, "column": 6, "tagName": "li", "time": 3662.582201, "url": "", "pos": 21933, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9559cf0", "doc": "http://www.msn.com/", "row": 522, "column": 103, "tagName": "a", "time": 3662.582211, "url": "", "pos": 22037, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9559d50", "doc": "http://www.msn.com/", "row": 524, "column": 55, "tagName": "a", "time": 3662.582219, "url": "", "pos": 22096, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9559db0", "doc": "http://www.msn.com/", "row": 526, "column": 5, "tagName": "li", "time": 3662.582222, "url": "", "pos": 22104, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9559e10", "doc": "http://www.msn.com/", "row": 527, "column": 6, "tagName": "li", "time": 3662.582224, "url": "", "pos": 22111, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9559e70", "doc": "http://www.msn.com/", "row": 528, "column": 159, "tagName": "a", "time": 3662.582234, "url": "", "pos": 22271, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9559ed0", "doc": "http://www.msn.com/", "row": 530, "column": 59, "tagName": "a", "time": 3662.582243, "url": "", "pos": 22334, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9559f30", "doc": "http://www.msn.com/", "row": 532, "column": 5, "tagName": "li", "time": 3662.582245, "url": "", "pos": 22342, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9559f90", "doc": "http://www.msn.com/", "row": 533, "column": 6, "tagName": "ul", "time": 3662.582247, "url": "", "pos": 22349, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95593f0", "doc": "http://www.msn.com/", "row": 535, "column": 6, "tagName": "div", "time": 3662.582249, "url": "", "pos": 22357, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9559450", "doc": "http://www.msn.com/", "row": 536, "column": 21, "tagName": "div", "time": 3662.582252, "url": "", "pos": 22379, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95594b0", "doc": "http://www.msn.com/", "row": 537, "column": 4, "tagName": "h2", "time": 3662.582258, "url": "", "pos": 22384, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95594e0", "doc": "http://www.msn.com/", "row": 537, "column": 28, "tagName": "a", "time": 3662.582262, "url": "", "pos": 22408, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9559540", "doc": "http://www.msn.com/", "row": 537, "column": 37, "tagName": "a", "time": 3662.582278, "url": "", "pos": 22417, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9559570", "doc": "http://www.msn.com/", "row": 537, "column": 42, "tagName": "h2", "time": 3662.582280, "url": "", "pos": 22422, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95595d0", "doc": "http://www.msn.com/", "row": 537, "column": 89, "tagName": "a", "time": 3662.582283, "url": "", "pos": 22469, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9559660", "doc": "http://www.msn.com/", "row": 538, "column": 292, "tagName": "img", "time": 3662.587046, "url": "", "pos": 22763, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95596c0", "doc": "http://www.msn.com/", "row": 539, "column": 8, "tagName": "a", "time": 3662.587344, "url": "", "pos": 22773, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9559750", "doc": "http://www.msn.com/", "row": 540, "column": 5, "tagName": "ul", "time": 3662.587355, "url": "", "pos": 22780, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95597b0", "doc": "http://www.msn.com/", "row": 541, "column": 20, "tagName": "li", "time": 3662.587371, "url": "", "pos": 22801, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9559810", "doc": "http://www.msn.com/", "row": 542, "column": 48, "tagName": "a", "time": 3662.587408, "url": "", "pos": 22850, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9559870", "doc": "http://www.msn.com/", "row": 544, "column": 49, "tagName": "a", "time": 3662.587448, "url": "", "pos": 22903, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95598d0", "doc": "http://www.msn.com/", "row": 546, "column": 5, "tagName": "li", "time": 3662.587452, "url": "", "pos": 22911, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9559930", "doc": "http://www.msn.com/", "row": 547, "column": 6, "tagName": "li", "time": 3662.587455, "url": "", "pos": 22918, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9559990", "doc": "http://www.msn.com/", "row": 548, "column": 129, "tagName": "a", "time": 3662.587477, "url": "", "pos": 23048, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9559000", "doc": "http://www.msn.com/", "row": 550, "column": 65, "tagName": "a", "time": 3662.587525, "url": "", "pos": 23117, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9559060", "doc": "http://www.msn.com/", "row": 552, "column": 5, "tagName": "li", "time": 3662.587535, "url": "", "pos": 23125, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95590c0", "doc": "http://www.msn.com/", "row": 553, "column": 6, "tagName": "li", "time": 3662.587541, "url": "", "pos": 23132, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9559120", "doc": "http://www.msn.com/", "row": 554, "column": 102, "tagName": "a", "time": 3662.587571, "url": "", "pos": 23235, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9559180", "doc": "http://www.msn.com/", "row": 556, "column": 47, "tagName": "a", "time": 3662.587590, "url": "", "pos": 23286, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95591e0", "doc": "http://www.msn.com/", "row": 558, "column": 5, "tagName": "li", "time": 3662.587593, "url": "", "pos": 23294, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9559240", "doc": "http://www.msn.com/", "row": 559, "column": 6, "tagName": "li", "time": 3662.587595, "url": "", "pos": 23301, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95592a0", "doc": "http://www.msn.com/", "row": 560, "column": 65, "tagName": "a", "time": 3662.587607, "url": "", "pos": 23367, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9559300", "doc": "http://www.msn.com/", "row": 562, "column": 51, "tagName": "a", "time": 3662.587623, "url": "", "pos": 23422, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9559360", "doc": "http://www.msn.com/", "row": 564, "column": 5, "tagName": "li", "time": 3662.587627, "url": "", "pos": 23430, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95593c0", "doc": "http://www.msn.com/", "row": 565, "column": 6, "tagName": "li", "time": 3662.587629, "url": "", "pos": 23437, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb955ba20", "doc": "http://www.msn.com/", "row": 566, "column": 107, "tagName": "a", "time": 3662.587652, "url": "", "pos": 23545, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb955ba80", "doc": "http://www.msn.com/", "row": 568, "column": 71, "tagName": "a", "time": 3662.587672, "url": "", "pos": 23620, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb955bae0", "doc": "http://www.msn.com/", "row": 570, "column": 5, "tagName": "li", "time": 3662.587677, "url": "", "pos": 23628, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb955bb40", "doc": "http://www.msn.com/", "row": 571, "column": 6, "tagName": "ul", "time": 3662.587681, "url": "", "pos": 23635, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb955bba0", "doc": "http://www.msn.com/", "row": 573, "column": 6, "tagName": "div", "time": 3662.587705, "url": "", "pos": 23643, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb955bc00", "doc": "http://www.msn.com/", "row": 574, "column": 21, "tagName": "div", "time": 3662.587712, "url": "", "pos": 23665, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb955bc60", "doc": "http://www.msn.com/", "row": 575, "column": 4, "tagName": "h2", "time": 3662.587723, "url": "", "pos": 23670, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb955bc90", "doc": "http://www.msn.com/", "row": 575, "column": 29, "tagName": "a", "time": 3662.587746, "url": "", "pos": 23695, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb955bcf0", "doc": "http://www.msn.com/", "row": 575, "column": 53, "tagName": "a", "time": 3662.587768, "url": "", "pos": 23719, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb955bd20", "doc": "http://www.msn.com/", "row": 575, "column": 58, "tagName": "h2", "time": 3662.587770, "url": "", "pos": 23724, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb955bd80", "doc": "http://www.msn.com/", "row": 575, "column": 207, "tagName": "a", "time": 3662.587776, "url": "", "pos": 23873, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb955be10", "doc": "http://www.msn.com/", "row": 576, "column": 312, "tagName": "img", "time": 3662.587798, "url": "", "pos": 24187, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb955be70", "doc": "http://www.msn.com/", "row": 577, "column": 8, "tagName": "a", "time": 3662.587864, "url": "", "pos": 24197, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb955bf00", "doc": "http://www.msn.com/", "row": 578, "column": 5, "tagName": "ul", "time": 3662.587868, "url": "", "pos": 24204, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb955bf60", "doc": "http://www.msn.com/", "row": 579, "column": 20, "tagName": "li", "time": 3662.587875, "url": "", "pos": 24225, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb955bfc0", "doc": "http://www.msn.com/", "row": 580, "column": 150, "tagName": "a", "time": 3662.587892, "url": "", "pos": 24376, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb955b420", "doc": "http://www.msn.com/", "row": 582, "column": 79, "tagName": "a", "time": 3662.587908, "url": "", "pos": 24459, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb955b480", "doc": "http://www.msn.com/", "row": 584, "column": 5, "tagName": "li", "time": 3662.587910, "url": "", "pos": 24467, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb955b4e0", "doc": "http://www.msn.com/", "row": 585, "column": 6, "tagName": "li", "time": 3662.587913, "url": "", "pos": 24474, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb955b540", "doc": "http://www.msn.com/", "row": 586, "column": 110, "tagName": "a", "time": 3662.587924, "url": "", "pos": 24585, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb955b5a0", "doc": "http://www.msn.com/", "row": 588, "column": 58, "tagName": "a", "time": 3662.587945, "url": "", "pos": 24647, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb955b600", "doc": "http://www.msn.com/", "row": 590, "column": 5, "tagName": "li", "time": 3662.587948, "url": "", "pos": 24655, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb955b660", "doc": "http://www.msn.com/", "row": 591, "column": 6, "tagName": "li", "time": 3662.587951, "url": "", "pos": 24662, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb955b6c0", "doc": "http://www.msn.com/", "row": 592, "column": 104, "tagName": "a", "time": 3662.587970, "url": "", "pos": 24767, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb955b720", "doc": "http://www.msn.com/", "row": 594, "column": 60, "tagName": "a", "time": 3662.587985, "url": "", "pos": 24831, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb955b780", "doc": "http://www.msn.com/", "row": 596, "column": 5, "tagName": "li", "time": 3662.587988, "url": "", "pos": 24839, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb955b7e0", "doc": "http://www.msn.com/", "row": 597, "column": 6, "tagName": "li", "time": 3662.587990, "url": "", "pos": 24846, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb955b840", "doc": "http://www.msn.com/", "row": 598, "column": 90, "tagName": "a", "time": 3662.588001, "url": "", "pos": 24937, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb955b8a0", "doc": "http://www.msn.com/", "row": 600, "column": 46, "tagName": "a", "time": 3662.588010, "url": "", "pos": 24987, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb955b900", "doc": "http://www.msn.com/", "row": 602, "column": 5, "tagName": "li", "time": 3662.588014, "url": "", "pos": 24995, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb955b960", "doc": "http://www.msn.com/", "row": 603, "column": 6, "tagName": "li", "time": 3662.588016, "url": "", "pos": 25002, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb955b9c0", "doc": "http://www.msn.com/", "row": 604, "column": 107, "tagName": "a", "time": 3662.588026, "url": "", "pos": 25110, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb955b030", "doc": "http://www.msn.com/", "row": 606, "column": 57, "tagName": "a", "time": 3662.588050, "url": "", "pos": 25171, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb955b090", "doc": "http://www.msn.com/", "row": 608, "column": 5, "tagName": "li", "time": 3662.588054, "url": "", "pos": 25179, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb955b0f0", "doc": "http://www.msn.com/", "row": 609, "column": 6, "tagName": "ul", "time": 3662.588056, "url": "", "pos": 25186, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb955b150", "doc": "http://www.msn.com/", "row": 611, "column": 6, "tagName": "div", "time": 3662.588058, "url": "", "pos": 25194, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb955b1b0", "doc": "http://www.msn.com/", "row": 612, "column": 21, "tagName": "div", "time": 3662.588061, "url": "", "pos": 25216, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb955b210", "doc": "http://www.msn.com/", "row": 613, "column": 4, "tagName": "h2", "time": 3662.588069, "url": "", "pos": 25221, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb955b240", "doc": "http://www.msn.com/", "row": 613, "column": 35, "tagName": "a", "time": 3662.588074, "url": "", "pos": 25252, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb955b2d0", "doc": "http://www.msn.com/", "row": 613, "column": 55, "tagName": "a", "time": 3662.588087, "url": "", "pos": 25272, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb955b300", "doc": "http://www.msn.com/", "row": 613, "column": 60, "tagName": "h2", "time": 3662.588089, "url": "", "pos": 25277, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb955b360", "doc": "http://www.msn.com/", "row": 613, "column": 161, "tagName": "a", "time": 3662.588093, "url": "", "pos": 25378, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95639f0", "doc": "http://www.msn.com/", "row": 614, "column": 384, "tagName": "img", "time": 3662.588114, "url": "", "pos": 25764, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9563a50", "doc": "http://www.msn.com/", "row": 615, "column": 8, "tagName": "a", "time": 3662.588185, "url": "", "pos": 25774, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9563ae0", "doc": "http://www.msn.com/", "row": 616, "column": 5, "tagName": "ul", "time": 3662.588190, "url": "", "pos": 25781, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9563b40", "doc": "http://www.msn.com/", "row": 617, "column": 20, "tagName": "li", "time": 3662.588250, "url": "", "pos": 25802, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9563ba0", "doc": "http://www.msn.com/", "row": 618, "column": 102, "tagName": "a", "time": 3662.588266, "url": "", "pos": 25905, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9563c00", "doc": "http://www.msn.com/", "row": 620, "column": 48, "tagName": "a", "time": 3662.588282, "url": "", "pos": 25957, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9563c60", "doc": "http://www.msn.com/", "row": 622, "column": 5, "tagName": "li", "time": 3662.588285, "url": "", "pos": 25965, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9563cc0", "doc": "http://www.msn.com/", "row": 623, "column": 6, "tagName": "li", "time": 3662.588288, "url": "", "pos": 25972, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9563d20", "doc": "http://www.msn.com/", "row": 624, "column": 104, "tagName": "a", "time": 3662.588299, "url": "", "pos": 26077, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9563d80", "doc": "http://www.msn.com/", "row": 626, "column": 42, "tagName": "a", "time": 3662.588309, "url": "", "pos": 26123, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9563de0", "doc": "http://www.msn.com/", "row": 628, "column": 5, "tagName": "li", "time": 3662.588311, "url": "", "pos": 26131, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9563e40", "doc": "http://www.msn.com/", "row": 629, "column": 6, "tagName": "li", "time": 3662.588313, "url": "", "pos": 26138, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9563ea0", "doc": "http://www.msn.com/", "row": 630, "column": 90, "tagName": "a", "time": 3662.588323, "url": "", "pos": 26229, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9563f00", "doc": "http://www.msn.com/", "row": 632, "column": 42, "tagName": "a", "time": 3662.588331, "url": "", "pos": 26275, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9563f60", "doc": "http://www.msn.com/", "row": 634, "column": 5, "tagName": "li", "time": 3662.588334, "url": "", "pos": 26283, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9563fc0", "doc": "http://www.msn.com/", "row": 635, "column": 6, "tagName": "li", "time": 3662.588336, "url": "", "pos": 26290, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9563420", "doc": "http://www.msn.com/", "row": 636, "column": 116, "tagName": "a", "time": 3662.588346, "url": "", "pos": 26407, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9563480", "doc": "http://www.msn.com/", "row": 638, "column": 61, "tagName": "a", "time": 3662.588358, "url": "", "pos": 26472, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95634e0", "doc": "http://www.msn.com/", "row": 640, "column": 5, "tagName": "li", "time": 3662.588361, "url": "", "pos": 26480, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9563540", "doc": "http://www.msn.com/", "row": 641, "column": 6, "tagName": "li", "time": 3662.588363, "url": "", "pos": 26487, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95635a0", "doc": "http://www.msn.com/", "row": 642, "column": 83, "tagName": "a", "time": 3662.588372, "url": "", "pos": 26571, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9563600", "doc": "http://www.msn.com/", "row": 644, "column": 35, "tagName": "a", "time": 3662.588388, "url": "", "pos": 26610, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9563660", "doc": "http://www.msn.com/", "row": 646, "column": 5, "tagName": "li", "time": 3662.588391, "url": "", "pos": 26618, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95636c0", "doc": "http://www.msn.com/", "row": 647, "column": 6, "tagName": "ul", "time": 3662.588401, "url": "", "pos": 26625, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9563720", "doc": "http://www.msn.com/", "row": 649, "column": 6, "tagName": "div", "time": 3662.588403, "url": "", "pos": 26633, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9563780", "doc": "http://www.msn.com/", "row": 650, "column": 21, "tagName": "div", "time": 3662.588406, "url": "", "pos": 26655, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95637e0", "doc": "http://www.msn.com/", "row": 651, "column": 4, "tagName": "h2", "time": 3662.588413, "url": "", "pos": 26660, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9563810", "doc": "http://www.msn.com/", "row": 651, "column": 29, "tagName": "a", "time": 3662.588417, "url": "", "pos": 26685, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9563870", "doc": "http://www.msn.com/", "row": 651, "column": 39, "tagName": "a", "time": 3662.588428, "url": "", "pos": 26695, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95638a0", "doc": "http://www.msn.com/", "row": 651, "column": 44, "tagName": "h2", "time": 3662.588430, "url": "", "pos": 26700, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9563900", "doc": "http://www.msn.com/", "row": 651, "column": 149, "tagName": "a", "time": 3662.588434, "url": "", "pos": 26805, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9563990", "doc": "http://www.msn.com/", "row": 652, "column": 277, "tagName": "img", "time": 3662.588452, "url": "", "pos": 27084, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9563000", "doc": "http://www.msn.com/", "row": 653, "column": 8, "tagName": "a", "time": 3662.588510, "url": "", "pos": 27094, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9563090", "doc": "http://www.msn.com/", "row": 654, "column": 5, "tagName": "ul", "time": 3662.588514, "url": "", "pos": 27101, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95630f0", "doc": "http://www.msn.com/", "row": 655, "column": 20, "tagName": "li", "time": 3662.588521, "url": "", "pos": 27122, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9563150", "doc": "http://www.msn.com/", "row": 656, "column": 106, "tagName": "a", "time": 3662.588535, "url": "", "pos": 27229, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95631b0", "doc": "http://www.msn.com/", "row": 658, "column": 66, "tagName": "a", "time": 3662.588550, "url": "", "pos": 27299, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9563210", "doc": "http://www.msn.com/", "row": 660, "column": 5, "tagName": "li", "time": 3662.588552, "url": "", "pos": 27307, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9563270", "doc": "http://www.msn.com/", "row": 661, "column": 6, "tagName": "li", "time": 3662.588554, "url": "", "pos": 27314, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95632d0", "doc": "http://www.msn.com/", "row": 662, "column": 120, "tagName": "a", "time": 3662.588564, "url": "", "pos": 27435, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9563330", "doc": "http://www.msn.com/", "row": 664, "column": 44, "tagName": "a", "time": 3662.588574, "url": "", "pos": 27483, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9563390", "doc": "http://www.msn.com/", "row": 666, "column": 5, "tagName": "li", "time": 3662.588577, "url": "", "pos": 27491, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95679f0", "doc": "http://www.msn.com/", "row": 667, "column": 6, "tagName": "li", "time": 3662.588578, "url": "", "pos": 27498, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9567a50", "doc": "http://www.msn.com/", "row": 668, "column": 80, "tagName": "a", "time": 3662.588599, "url": "", "pos": 27579, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9567ab0", "doc": "http://www.msn.com/", "row": 670, "column": 36, "tagName": "a", "time": 3662.588609, "url": "", "pos": 27619, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9567b10", "doc": "http://www.msn.com/", "row": 672, "column": 5, "tagName": "li", "time": 3662.588612, "url": "", "pos": 27627, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9567b70", "doc": "http://www.msn.com/", "row": 673, "column": 6, "tagName": "li", "time": 3662.588614, "url": "", "pos": 27634, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9567bd0", "doc": "http://www.msn.com/", "row": 674, "column": 93, "tagName": "a", "time": 3662.588629, "url": "", "pos": 27728, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9567c30", "doc": "http://www.msn.com/", "row": 676, "column": 44, "tagName": "a", "time": 3662.588642, "url": "", "pos": 27776, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9567c90", "doc": "http://www.msn.com/", "row": 678, "column": 5, "tagName": "li", "time": 3662.588645, "url": "", "pos": 27784, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9567cf0", "doc": "http://www.msn.com/", "row": 679, "column": 6, "tagName": "li", "time": 3662.588647, "url": "", "pos": 27791, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9567d50", "doc": "http://www.msn.com/", "row": 680, "column": 112, "tagName": "a", "time": 3662.588658, "url": "", "pos": 27904, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9567db0", "doc": "http://www.msn.com/", "row": 682, "column": 62, "tagName": "a", "time": 3662.588674, "url": "", "pos": 27970, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9567e10", "doc": "http://www.msn.com/", "row": 684, "column": 5, "tagName": "li", "time": 3662.588678, "url": "", "pos": 27978, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9567e70", "doc": "http://www.msn.com/", "row": 685, "column": 6, "tagName": "ul", "time": 3662.588680, "url": "", "pos": 27985, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9567ed0", "doc": "http://www.msn.com/", "row": 687, "column": 6, "tagName": "div", "time": 3662.588681, "url": "", "pos": 27993, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9567f30", "doc": "http://www.msn.com/", "row": 688, "column": 21, "tagName": "div", "time": 3662.588685, "url": "", "pos": 28015, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9567f90", "doc": "http://www.msn.com/", "row": 689, "column": 4, "tagName": "h2", "time": 3662.588691, "url": "", "pos": 28020, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9567fc0", "doc": "http://www.msn.com/", "row": 689, "column": 79, "tagName": "a", "time": 3662.588696, "url": "", "pos": 28095, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9567420", "doc": "http://www.msn.com/", "row": 689, "column": 89, "tagName": "a", "time": 3662.588725, "url": "", "pos": 28105, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9567450", "doc": "http://www.msn.com/", "row": 689, "column": 94, "tagName": "h2", "time": 3662.588727, "url": "", "pos": 28110, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95674b0", "doc": "http://www.msn.com/", "row": 689, "column": 180, "tagName": "a", "time": 3662.588731, "url": "", "pos": 28196, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9567540", "doc": "http://www.msn.com/", "row": 690, "column": 393, "tagName": "img", "time": 3662.588751, "url": "", "pos": 28591, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95675a0", "doc": "http://www.msn.com/", "row": 691, "column": 8, "tagName": "a", "time": 3662.588802, "url": "", "pos": 28601, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9567630", "doc": "http://www.msn.com/", "row": 692, "column": 5, "tagName": "ul", "time": 3662.588806, "url": "", "pos": 28608, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9567690", "doc": "http://www.msn.com/", "row": 693, "column": 20, "tagName": "li", "time": 3662.588813, "url": "", "pos": 28629, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95676f0", "doc": "http://www.msn.com/", "row": 694, "column": 87, "tagName": "a", "time": 3662.588826, "url": "", "pos": 28717, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9567750", "doc": "http://www.msn.com/", "row": 696, "column": 49, "tagName": "a", "time": 3662.588839, "url": "", "pos": 28770, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95677b0", "doc": "http://www.msn.com/", "row": 698, "column": 5, "tagName": "li", "time": 3662.588842, "url": "", "pos": 28778, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9567810", "doc": "http://www.msn.com/", "row": 699, "column": 6, "tagName": "li", "time": 3662.588843, "url": "", "pos": 28785, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9567870", "doc": "http://www.msn.com/", "row": 700, "column": 78, "tagName": "a", "time": 3662.588853, "url": "", "pos": 28864, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95678d0", "doc": "http://www.msn.com/", "row": 702, "column": 34, "tagName": "a", "time": 3662.588862, "url": "", "pos": 28902, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9567930", "doc": "http://www.msn.com/", "row": 704, "column": 5, "tagName": "li", "time": 3662.588864, "url": "", "pos": 28910, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9567990", "doc": "http://www.msn.com/", "row": 705, "column": 6, "tagName": "li", "time": 3662.588866, "url": "", "pos": 28917, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9567000", "doc": "http://www.msn.com/", "row": 706, "column": 93, "tagName": "a", "time": 3662.588876, "url": "", "pos": 29011, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9567060", "doc": "http://www.msn.com/", "row": 708, "column": 49, "tagName": "a", "time": 3662.588884, "url": "", "pos": 29064, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95670c0", "doc": "http://www.msn.com/", "row": 710, "column": 5, "tagName": "li", "time": 3662.588887, "url": "", "pos": 29072, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9567120", "doc": "http://www.msn.com/", "row": 711, "column": 6, "tagName": "li", "time": 3662.588889, "url": "", "pos": 29079, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9567180", "doc": "http://www.msn.com/", "row": 712, "column": 72, "tagName": "a", "time": 3662.588898, "url": "", "pos": 29152, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95671e0", "doc": "http://www.msn.com/", "row": 714, "column": 34, "tagName": "a", "time": 3662.588905, "url": "", "pos": 29190, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9567240", "doc": "http://www.msn.com/", "row": 716, "column": 5, "tagName": "li", "time": 3662.588908, "url": "", "pos": 29198, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95672a0", "doc": "http://www.msn.com/", "row": 717, "column": 6, "tagName": "li", "time": 3662.588910, "url": "", "pos": 29205, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9567300", "doc": "http://www.msn.com/", "row": 718, "column": 108, "tagName": "a", "time": 3662.588919, "url": "", "pos": 29314, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9567360", "doc": "http://www.msn.com/", "row": 720, "column": 58, "tagName": "a", "time": 3662.588928, "url": "", "pos": 29376, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95673c0", "doc": "http://www.msn.com/", "row": 722, "column": 5, "tagName": "li", "time": 3662.588931, "url": "", "pos": 29384, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb956ba20", "doc": "http://www.msn.com/", "row": 723, "column": 6, "tagName": "ul", "time": 3662.588940, "url": "", "pos": 29391, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb956ba80", "doc": "http://www.msn.com/", "row": 725, "column": 6, "tagName": "div", "time": 3662.588943, "url": "", "pos": 29399, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb956bae0", "doc": "http://www.msn.com/", "row": 726, "column": 21, "tagName": "div", "time": 3662.588947, "url": "", "pos": 29421, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb956bb40", "doc": "http://www.msn.com/", "row": 727, "column": 4, "tagName": "h2", "time": 3662.588954, "url": "", "pos": 29426, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb956bb70", "doc": "http://www.msn.com/", "row": 727, "column": 28, "tagName": "a", "time": 3662.588959, "url": "", "pos": 29450, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb956bbd0", "doc": "http://www.msn.com/", "row": 727, "column": 37, "tagName": "a", "time": 3662.588970, "url": "", "pos": 29459, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb956bc00", "doc": "http://www.msn.com/", "row": 727, "column": 42, "tagName": "h2", "time": 3662.588971, "url": "", "pos": 29464, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb956bc60", "doc": "http://www.msn.com/", "row": 727, "column": 158, "tagName": "a", "time": 3662.588975, "url": "", "pos": 29580, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb956bcf0", "doc": "http://www.msn.com/", "row": 728, "column": 336, "tagName": "img", "time": 3662.588993, "url": "", "pos": 29918, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb956bd50", "doc": "http://www.msn.com/", "row": 729, "column": 8, "tagName": "a", "time": 3662.589051, "url": "", "pos": 29928, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb956bde0", "doc": "http://www.msn.com/", "row": 730, "column": 5, "tagName": "ul", "time": 3662.589055, "url": "", "pos": 29935, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb956be40", "doc": "http://www.msn.com/", "row": 731, "column": 20, "tagName": "li", "time": 3662.589062, "url": "", "pos": 29956, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb956bea0", "doc": "http://www.msn.com/", "row": 732, "column": 117, "tagName": "a", "time": 3662.589083, "url": "", "pos": 30074, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb956bf00", "doc": "http://www.msn.com/", "row": 734, "column": 68, "tagName": "a", "time": 3662.589098, "url": "", "pos": 30146, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb956bf60", "doc": "http://www.msn.com/", "row": 736, "column": 5, "tagName": "li", "time": 3662.589101, "url": "", "pos": 30154, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb956bfc0", "doc": "http://www.msn.com/", "row": 737, "column": 6, "tagName": "li", "time": 3662.589103, "url": "", "pos": 30161, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb956b420", "doc": "http://www.msn.com/", "row": 738, "column": 104, "tagName": "a", "time": 3662.589123, "url": "", "pos": 30266, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb956b480", "doc": "http://www.msn.com/", "row": 740, "column": 64, "tagName": "a", "time": 3662.589134, "url": "", "pos": 30334, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb956b4e0", "doc": "http://www.msn.com/", "row": 742, "column": 5, "tagName": "li", "time": 3662.589137, "url": "", "pos": 30342, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb956b540", "doc": "http://www.msn.com/", "row": 743, "column": 6, "tagName": "li", "time": 3662.589139, "url": "", "pos": 30349, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb956b5a0", "doc": "http://www.msn.com/", "row": 744, "column": 81, "tagName": "a", "time": 3662.589148, "url": "", "pos": 30431, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb956b600", "doc": "http://www.msn.com/", "row": 746, "column": 40, "tagName": "a", "time": 3662.589156, "url": "", "pos": 30475, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb956b660", "doc": "http://www.msn.com/", "row": 748, "column": 5, "tagName": "li", "time": 3662.589158, "url": "", "pos": 30483, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb956b6c0", "doc": "http://www.msn.com/", "row": 749, "column": 6, "tagName": "li", "time": 3662.589160, "url": "", "pos": 30490, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb956b720", "doc": "http://www.msn.com/", "row": 750, "column": 110, "tagName": "a", "time": 3662.589187, "url": "", "pos": 30601, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb956b780", "doc": "http://www.msn.com/", "row": 752, "column": 67, "tagName": "a", "time": 3662.589200, "url": "", "pos": 30672, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb956b7e0", "doc": "http://www.msn.com/", "row": 754, "column": 5, "tagName": "li", "time": 3662.589203, "url": "", "pos": 30680, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb956b840", "doc": "http://www.msn.com/", "row": 755, "column": 6, "tagName": "li", "time": 3662.589205, "url": "", "pos": 30687, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb956b8a0", "doc": "http://www.msn.com/", "row": 756, "column": 87, "tagName": "a", "time": 3662.589215, "url": "", "pos": 30775, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb956b900", "doc": "http://www.msn.com/", "row": 758, "column": 51, "tagName": "a", "time": 3662.589224, "url": "", "pos": 30830, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb956b960", "doc": "http://www.msn.com/", "row": 760, "column": 5, "tagName": "li", "time": 3662.589226, "url": "", "pos": 30838, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb956b9c0", "doc": "http://www.msn.com/", "row": 761, "column": 6, "tagName": "ul", "time": 3662.589228, "url": "", "pos": 30845, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb956b030", "doc": "http://www.msn.com/", "row": 763, "column": 6, "tagName": "div", "time": 3662.589230, "url": "", "pos": 30853, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb956b090", "doc": "http://www.msn.com/", "row": 764, "column": 21, "tagName": "div", "time": 3662.589233, "url": "", "pos": 30875, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb956b0f0", "doc": "http://www.msn.com/", "row": 765, "column": 4, "tagName": "h2", "time": 3662.589239, "url": "", "pos": 30880, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb956b120", "doc": "http://www.msn.com/", "row": 765, "column": 137, "tagName": "a", "time": 3662.589248, "url": "", "pos": 31013, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb956b180", "doc": "http://www.msn.com/", "row": 765, "column": 163, "tagName": "a", "time": 3662.589266, "url": "", "pos": 31039, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb956b1b0", "doc": "http://www.msn.com/", "row": 765, "column": 168, "tagName": "h2", "time": 3662.589268, "url": "", "pos": 31044, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb956b2d0", "doc": "http://www.msn.com/", "row": 766, "column": 41, "tagName": "a", "time": 3662.589278, "url": "", "pos": 31342, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb956b360", "doc": "http://www.msn.com/", "row": 767, "column": 198, "tagName": "img", "time": 3662.589298, "url": "", "pos": 31542, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb956b3c0", "doc": "http://www.msn.com/", "row": 768, "column": 8, "tagName": "a", "time": 3662.589354, "url": "", "pos": 31552, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9575a50", "doc": "http://www.msn.com/", "row": 769, "column": 5, "tagName": "ul", "time": 3662.589359, "url": "", "pos": 31559, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9575ab0", "doc": "http://www.msn.com/", "row": 770, "column": 20, "tagName": "li", "time": 3662.589365, "url": "", "pos": 31580, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9575b10", "doc": "http://www.msn.com/", "row": 772, "column": 41, "tagName": "a", "time": 3662.589383, "url": "", "pos": 31880, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9575b70", "doc": "http://www.msn.com/", "row": 774, "column": 40, "tagName": "span", "time": 3662.589403, "url": "", "pos": 31924, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9575c00", "doc": "http://www.msn.com/", "row": 774, "column": 76, "tagName": "span", "time": 3662.589427, "url": "", "pos": 31960, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9575c60", "doc": "http://www.msn.com/", "row": 776, "column": 24, "tagName": "img", "time": 3662.589432, "url": "", "pos": 32093, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9525720", "doc": "http://www.msn.com/", "row": 777, "column": 8, "tagName": "a", "time": 3662.589500, "url": "", "pos": 32103, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95256f0", "doc": "http://www.msn.com/", "row": 779, "column": 5, "tagName": "li", "time": 3662.589503, "url": "", "pos": 32111, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95256c0", "doc": "http://www.msn.com/", "row": 780, "column": 6, "tagName": "li", "time": 3662.589505, "url": "", "pos": 32118, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95459c0", "doc": "http://www.msn.com/", "row": 782, "column": 41, "tagName": "a", "time": 3662.589524, "url": "", "pos": 32417, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9525750", "doc": "http://www.msn.com/", "row": 784, "column": 40, "tagName": "span", "time": 3662.589543, "url": "", "pos": 32461, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9525690", "doc": "http://www.msn.com/", "row": 784, "column": 76, "tagName": "span", "time": 3662.589559, "url": "", "pos": 32497, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9575c90", "doc": "http://www.msn.com/", "row": 786, "column": 24, "tagName": "img", "time": 3662.589563, "url": "", "pos": 32634, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9575f60", "doc": "http://www.msn.com/", "row": 787, "column": 8, "tagName": "a", "time": 3662.589594, "url": "", "pos": 32644, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9575fc0", "doc": "http://www.msn.com/", "row": 789, "column": 5, "tagName": "li", "time": 3662.589598, "url": "", "pos": 32652, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9575420", "doc": "http://www.msn.com/", "row": 790, "column": 6, "tagName": "li", "time": 3662.589601, "url": "", "pos": 32659, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9575480", "doc": "http://www.msn.com/", "row": 792, "column": 41, "tagName": "a", "time": 3662.589620, "url": "", "pos": 32992, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95754e0", "doc": "http://www.msn.com/", "row": 794, "column": 40, "tagName": "span", "time": 3662.589656, "url": "", "pos": 33036, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9575540", "doc": "http://www.msn.com/", "row": 794, "column": 76, "tagName": "span", "time": 3662.589665, "url": "", "pos": 33072, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95755a0", "doc": "http://www.msn.com/", "row": 796, "column": 24, "tagName": "img", "time": 3662.589669, "url": "", "pos": 33205, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9575600", "doc": "http://www.msn.com/", "row": 797, "column": 8, "tagName": "a", "time": 3662.589680, "url": "", "pos": 33215, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9575660", "doc": "http://www.msn.com/", "row": 799, "column": 5, "tagName": "li", "time": 3662.589683, "url": "", "pos": 33223, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95756c0", "doc": "http://www.msn.com/", "row": 800, "column": 6, "tagName": "li", "time": 3662.589685, "url": "", "pos": 33230, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9575720", "doc": "http://www.msn.com/", "row": 802, "column": 41, "tagName": "a", "time": 3662.589701, "url": "", "pos": 33558, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9575780", "doc": "http://www.msn.com/", "row": 804, "column": 40, "tagName": "span", "time": 3662.589718, "url": "", "pos": 33602, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95757e0", "doc": "http://www.msn.com/", "row": 804, "column": 76, "tagName": "span", "time": 3662.589724, "url": "", "pos": 33638, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9575840", "doc": "http://www.msn.com/", "row": 806, "column": 24, "tagName": "img", "time": 3662.589728, "url": "", "pos": 33779, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95758a0", "doc": "http://www.msn.com/", "row": 807, "column": 8, "tagName": "a", "time": 3662.589737, "url": "", "pos": 33789, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9575900", "doc": "http://www.msn.com/", "row": 809, "column": 5, "tagName": "li", "time": 3662.589740, "url": "", "pos": 33797, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9575960", "doc": "http://www.msn.com/", "row": 810, "column": 6, "tagName": "ul", "time": 3662.589742, "url": "", "pos": 33804, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb95759c0", "doc": "http://www.msn.com/", "row": 812, "column": 6, "tagName": "div", "time": 3662.589743, "url": "", "pos": 33812, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9575030", "doc": "http://www.msn.com/", "row": 815, "column": 6, "tagName": "div", "time": 3662.589747, "url": "", "pos": 33822, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9575090", "doc": "http://www.msn.com/", "row": 816, "column": 37, "tagName": "div", "time": 3662.589750, "url": "", "pos": 33860, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95750f0", "doc": "http://www.msn.com/", "row": 818, "column": 6, "tagName": "div", "time": 3662.589758, "url": "", "pos": 33869, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9575150", "doc": "http://www.msn.com/", "row": 819, "column": 14, "tagName": "div", "time": 3662.589761, "url": "", "pos": 33884, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95751b0", "doc": "http://www.msn.com/", "row": 820, "column": 26, "tagName": "ul", "time": 3662.589770, "url": "", "pos": 33911, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9575210", "doc": "http://www.msn.com/", "row": 821, "column": 22, "tagName": "li", "time": 3662.589779, "url": "", "pos": 33934, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9575270", "doc": "http://www.msn.com/", "row": 822, "column": 17, "tagName": "a", "time": 3662.589796, "url": "", "pos": 33952, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb95752d0", "doc": "http://www.msn.com/", "row": 822, "column": 25, "tagName": "a", "time": 3662.589807, "url": "", "pos": 33960, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9575330", "doc": "http://www.msn.com/", "row": 823, "column": 5, "tagName": "li", "time": 3662.589810, "url": "", "pos": 33966, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9575390", "doc": "http://www.msn.com/", "row": 824, "column": 6, "tagName": "li", "time": 3662.589813, "url": "", "pos": 33973, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946d9f0", "doc": "http://www.msn.com/", "row": 825, "column": 22, "tagName": "a", "time": 3662.589821, "url": "", "pos": 33996, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946da50", "doc": "http://www.msn.com/", "row": 825, "column": 30, "tagName": "a", "time": 3662.589841, "url": "", "pos": 34004, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946dab0", "doc": "http://www.msn.com/", "row": 826, "column": 5, "tagName": "li", "time": 3662.589844, "url": "", "pos": 34010, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946db10", "doc": "http://www.msn.com/", "row": 827, "column": 6, "tagName": "li", "time": 3662.589846, "url": "", "pos": 34017, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946db70", "doc": "http://www.msn.com/", "row": 828, "column": 25, "tagName": "a", "time": 3662.589862, "url": "", "pos": 34043, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946dc00", "doc": "http://www.msn.com/", "row": 828, "column": 36, "tagName": "a", "time": 3662.589873, "url": "", "pos": 34054, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946dc60", "doc": "http://www.msn.com/", "row": 829, "column": 5, "tagName": "li", "time": 3662.589876, "url": "", "pos": 34060, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946dcc0", "doc": "http://www.msn.com/", "row": 830, "column": 6, "tagName": "li", "time": 3662.589878, "url": "", "pos": 34067, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946dd20", "doc": "http://www.msn.com/", "row": 831, "column": 31, "tagName": "a", "time": 3662.589885, "url": "", "pos": 34099, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946ddb0", "doc": "http://www.msn.com/", "row": 831, "column": 48, "tagName": "a", "time": 3662.589894, "url": "", "pos": 34116, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946de10", "doc": "http://www.msn.com/", "row": 832, "column": 5, "tagName": "li", "time": 3662.589896, "url": "", "pos": 34122, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946de70", "doc": "http://www.msn.com/", "row": 833, "column": 6, "tagName": "li", "time": 3662.589899, "url": "", "pos": 34129, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946ded0", "doc": "http://www.msn.com/", "row": 834, "column": 24, "tagName": "a", "time": 3662.589905, "url": "", "pos": 34154, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946df30", "doc": "http://www.msn.com/", "row": 834, "column": 34, "tagName": "a", "time": 3662.589913, "url": "", "pos": 34164, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946df90", "doc": "http://www.msn.com/", "row": 835, "column": 5, "tagName": "li", "time": 3662.589916, "url": "", "pos": 34170, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946d3f0", "doc": "http://www.msn.com/", "row": 836, "column": 6, "tagName": "li", "time": 3662.589918, "url": "", "pos": 34177, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946d450", "doc": "http://www.msn.com/", "row": 837, "column": 23, "tagName": "a", "time": 3662.589926, "url": "", "pos": 34201, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946d4b0", "doc": "http://www.msn.com/", "row": 837, "column": 32, "tagName": "a", "time": 3662.589934, "url": "", "pos": 34210, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946d510", "doc": "http://www.msn.com/", "row": 838, "column": 5, "tagName": "li", "time": 3662.589936, "url": "", "pos": 34216, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946d570", "doc": "http://www.msn.com/", "row": 839, "column": 6, "tagName": "li", "time": 3662.589939, "url": "", "pos": 34223, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946d5d0", "doc": "http://www.msn.com/", "row": 840, "column": 27, "tagName": "a", "time": 3662.589945, "url": "", "pos": 34251, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946d660", "doc": "http://www.msn.com/", "row": 840, "column": 40, "tagName": "a", "time": 3662.589953, "url": "", "pos": 34264, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946d6c0", "doc": "http://www.msn.com/", "row": 841, "column": 5, "tagName": "li", "time": 3662.589956, "url": "", "pos": 34270, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946d720", "doc": "http://www.msn.com/", "row": 842, "column": 6, "tagName": "li", "time": 3662.589958, "url": "", "pos": 34277, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946d780", "doc": "http://www.msn.com/", "row": 843, "column": 24, "tagName": "a", "time": 3662.589965, "url": "", "pos": 34302, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946d7e0", "doc": "http://www.msn.com/", "row": 843, "column": 48, "tagName": "a", "time": 3662.589974, "url": "", "pos": 34326, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946d840", "doc": "http://www.msn.com/", "row": 844, "column": 5, "tagName": "li", "time": 3662.589976, "url": "", "pos": 34332, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946d8a0", "doc": "http://www.msn.com/", "row": 845, "column": 6, "tagName": "li", "time": 3662.589979, "url": "", "pos": 34339, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946d900", "doc": "http://www.msn.com/", "row": 846, "column": 30, "tagName": "a", "time": 3662.589985, "url": "", "pos": 34370, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946d990", "doc": "http://www.msn.com/", "row": 846, "column": 50, "tagName": "a", "time": 3662.589994, "url": "", "pos": 34390, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946d000", "doc": "http://www.msn.com/", "row": 847, "column": 5, "tagName": "li", "time": 3662.589996, "url": "", "pos": 34396, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946d060", "doc": "http://www.msn.com/", "row": 848, "column": 6, "tagName": "li", "time": 3662.589999, "url": "", "pos": 34403, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946d0c0", "doc": "http://www.msn.com/", "row": 849, "column": 24, "tagName": "a", "time": 3662.590006, "url": "", "pos": 34428, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946d120", "doc": "http://www.msn.com/", "row": 849, "column": 34, "tagName": "a", "time": 3662.590015, "url": "", "pos": 34438, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946d180", "doc": "http://www.msn.com/", "row": 850, "column": 5, "tagName": "li", "time": 3662.590017, "url": "", "pos": 34444, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946d1e0", "doc": "http://www.msn.com/", "row": 851, "column": 6, "tagName": "li", "time": 3662.590020, "url": "", "pos": 34451, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946d240", "doc": "http://www.msn.com/", "row": 852, "column": 23, "tagName": "a", "time": 3662.590026, "url": "", "pos": 34475, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946d2a0", "doc": "http://www.msn.com/", "row": 852, "column": 32, "tagName": "a", "time": 3662.590036, "url": "", "pos": 34484, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946d300", "doc": "http://www.msn.com/", "row": 853, "column": 5, "tagName": "li", "time": 3662.590040, "url": "", "pos": 34490, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946d360", "doc": "http://www.msn.com/", "row": 854, "column": 6, "tagName": "li", "time": 3662.590044, "url": "", "pos": 34497, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946d3c0", "doc": "http://www.msn.com/", "row": 855, "column": 23, "tagName": "a", "time": 3662.590175, "url": "", "pos": 34521, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946fa20", "doc": "http://www.msn.com/", "row": 855, "column": 32, "tagName": "a", "time": 3662.590206, "url": "", "pos": 34530, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946fa80", "doc": "http://www.msn.com/", "row": 856, "column": 5, "tagName": "li", "time": 3662.590211, "url": "", "pos": 34536, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946fae0", "doc": "http://www.msn.com/", "row": 857, "column": 6, "tagName": "li", "time": 3662.590214, "url": "", "pos": 34543, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946fb40", "doc": "http://www.msn.com/", "row": 858, "column": 98, "tagName": "a", "time": 3662.590228, "url": "", "pos": 34642, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946fba0", "doc": "http://www.msn.com/", "row": 858, "column": 108, "tagName": "a", "time": 3662.590257, "url": "", "pos": 34652, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946fc00", "doc": "http://www.msn.com/", "row": 859, "column": 5, "tagName": "li", "time": 3662.590261, "url": "", "pos": 34658, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946fc60", "doc": "http://www.msn.com/", "row": 860, "column": 6, "tagName": "ul", "time": 3662.590264, "url": "", "pos": 34665, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946fcc0", "doc": "http://www.msn.com/", "row": 861, "column": 6, "tagName": "div", "time": 3662.590266, "url": "", "pos": 34672, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946fd20", "doc": "http://www.msn.com/", "row": 862, "column": 7, "tagName": "div", "time": 3662.590268, "url": "", "pos": 34680, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946fd80", "doc": "http://www.msn.com/", "row": 863, "column": 15, "tagName": "div", "time": 3662.590271, "url": "", "pos": 34696, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946fde0", "doc": "http://www.msn.com/", "row": 864, "column": 5, "tagName": "div", "time": 3662.590292, "url": "", "pos": 34702, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946fe40", "doc": "http://www.msn.com/", "row": 864, "column": 61, "tagName": "a", "time": 3662.590301, "url": "", "pos": 34758, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946ff00", "doc": "http://www.msn.com/", "row": 864, "column": 86, "tagName": "a", "time": 3662.590327, "url": "", "pos": 34783, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946ff60", "doc": "http://www.msn.com/", "row": 865, "column": 58, "tagName": "a", "time": 3662.590332, "url": "", "pos": 34842, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946f3f0", "doc": "http://www.msn.com/", "row": 865, "column": 69, "tagName": "a", "time": 3662.590344, "url": "", "pos": 34853, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946f450", "doc": "http://www.msn.com/", "row": 866, "column": 58, "tagName": "a", "time": 3662.590349, "url": "", "pos": 34912, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946f4b0", "doc": "http://www.msn.com/", "row": 866, "column": 67, "tagName": "a", "time": 3662.590359, "url": "", "pos": 34921, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946f510", "doc": "http://www.msn.com/", "row": 867, "column": 58, "tagName": "a", "time": 3662.590362, "url": "", "pos": 34980, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946f5a0", "doc": "http://www.msn.com/", "row": 867, "column": 75, "tagName": "a", "time": 3662.590371, "url": "", "pos": 34997, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946f600", "doc": "http://www.msn.com/", "row": 868, "column": 61, "tagName": "a", "time": 3662.590375, "url": "", "pos": 35059, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946f690", "doc": "http://www.msn.com/", "row": 868, "column": 73, "tagName": "a", "time": 3662.590384, "url": "", "pos": 35071, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946f6f0", "doc": "http://www.msn.com/", "row": 869, "column": 58, "tagName": "a", "time": 3662.590388, "url": "", "pos": 35130, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946f750", "doc": "http://www.msn.com/", "row": 869, "column": 66, "tagName": "a", "time": 3662.590396, "url": "", "pos": 35138, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946f7b0", "doc": "http://www.msn.com/", "row": 870, "column": 32, "tagName": "a", "time": 3662.590400, "url": "", "pos": 35171, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946f840", "doc": "http://www.msn.com/", "row": 870, "column": 49, "tagName": "a", "time": 3662.590406, "url": "", "pos": 35188, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946f8a0", "doc": "http://www.msn.com/", "row": 871, "column": 39, "tagName": "a", "time": 3662.590409, "url": "", "pos": 35228, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946f930", "doc": "http://www.msn.com/", "row": 871, "column": 53, "tagName": "a", "time": 3662.590418, "url": "", "pos": 35242, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946f990", "doc": "http://www.msn.com/", "row": 872, "column": 48, "tagName": "a", "time": 3662.590422, "url": "", "pos": 35291, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946f030", "doc": "http://www.msn.com/", "row": 872, "column": 61, "tagName": "a", "time": 3662.590442, "url": "", "pos": 35304, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946f090", "doc": "http://www.msn.com/", "row": 873, "column": 6, "tagName": "div", "time": 3662.590445, "url": "", "pos": 35311, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946f0f0", "doc": "http://www.msn.com/", "row": 874, "column": 6, "tagName": "div", "time": 3662.590447, "url": "", "pos": 35318, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb946f150", "doc": "http://www.msn.com/", "row": 875, "column": 7, "tagName": "div", "time": 3662.590449, "url": "", "pos": 35326, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946f1e0", "doc": "http://www.msn.com/", "row": 876, "column": 346, "tagName": "img", "time": 3662.590468, "url": "", "pos": 35673, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946f2a0", "doc": "http://www.msn.com/", "row": 876, "column": 537, "tagName": "img", "time": 3662.599409, "url": "", "pos": 35864, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb946f360", "doc": "http://www.msn.com/", "row": 876, "column": 1170, "tagName": "img", "time": 3662.608740, "url": "", "pos": 36497, "chunkLen": 36549, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb94747b0", "doc": "http://www.msn.com/", "row": 877, "column": 6, "tagName": "div", "time": 3662.609803, "url": "", "pos": 36504, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9474840", "doc": "http://www.msn.com/", "row": 882, "column": 7, "tagName": "body", "time": 3662.609812, "url": "", "pos": 36519, "chunkLen": 36549, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb94748d0", "doc": "http://www.msn.com/", "row": 883, "column": 28, "tagName": "html", "time": 3662.609818, "url": "", "pos": 36548, "chunkLen": 36549, "isStartTag": 0}}
+{"Resource": {"id": 2, "url": "http://static-hp-cus-s-msn-com.akamaized.net/en-us/homepage/_sc/css/6670b51d-8b551b9/direction=ltr.locales=en-us.themes=start.dpi=resolution1x/22-8b3778-4e3b0a9b/d8-522cc0-ee5f2b10/ab-6aa96e-536df121/be-bfcb4e-f94d3276/e5-9490ae-a648eab2/1e-eed555-63b61fa3/3e-07643f-68ddb2ab/84-13dda2-654638bf/finance-css-15-5ae05e329a0b7482d55ddcf5edfea1-c16bd114/finance-css-d4-3d780f54f2438c185f3c1e56bbc848-d17db944?ver=2.0.5965.37384&fdhead=ushpcombo30,muidflt9cf,muidflt259cf&csopd=20160504212029&csopdb=20160504231841", "sentTime": -1.000000, "len": 27807, "from": "0xb9462cf0",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3662.394332, "len": 936}}
+{"ReceivedChunk": {"receivedTime": 3662.402927, "len": 13475}}
+{"ReceivedChunk": {"receivedTime": 3662.409620, "len": 13396}}
+{"Resource": {"id": 3, "url": "http://static-hp-cus-s-msn-com.akamaized.net/_h/804ff984/webcore/externalscripts/jquery/jquery-1.11.1.min.js", "sentTime": -1.000000, "len": 95786, "from": "0xb93ef570",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3662.481044, "len": 865}}
+{"ReceivedChunk": {"receivedTime": 3662.481131, "len": 3617}}
+{"ReceivedChunk": {"receivedTime": 3662.481181, "len": 2890}}
+{"ReceivedChunk": {"receivedTime": 3662.481442, "len": 4300}}
+{"ReceivedChunk": {"receivedTime": 3662.481528, "len": 15877}}
+{"ReceivedChunk": {"receivedTime": 3662.481589, "len": 7820}}
+{"ReceivedChunk": {"receivedTime": 3662.481913, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 3662.482106, "len": 27649}}
+{"Resource": {"id": 4, "url": "http://ads1.msads.net/library/8.4/dapmsn.js", "sentTime": -1.000000, "len": 25578, "from": "(nil)",                            "mimeType": "application/x-javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3662.481342, "len": 1671}}
+{"ReceivedChunk": {"receivedTime": 3662.481400, "len": 3711}}
+{"ReceivedChunk": {"receivedTime": 3662.481487, "len": 2674}}
+{"ReceivedChunk": {"receivedTime": 3662.482019, "len": 17522}}
+{"Resource": {"id": 8, "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB8MIjP.img?m=6&o=true&u=true&n=true&w=40&h=40", "sentTime": -1.000000, "len": 997, "from": "0xb95252d0",                            "mimeType": "image/png", "contentLength": 997, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3662.744339, "len": 997}}
+{"Resource": {"id": 5, "url": "http://static-hp-cus-s-msn-com.akamaized.net/sc/82/c22c7d.gif", "sentTime": -1.000000, "len": 1177, "from": "0xb9736db0",                            "mimeType": "image/gif", "contentLength": 1177, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3662.778784, "len": 1177}}
+{"Resource": {"id": 6, "url": "http://static-hp-cus-s-msn-com.akamaized.net/sc/6a/a62410.gif", "sentTime": -1.000000, "len": 1258, "from": "0xb97366f0",                            "mimeType": "image/gif", "contentLength": 1258, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3662.785192, "len": 1258}}
+{"Resource": {"id": 23, "url": "http://b.scorecardresearch.com/p2?c1=2&c2=3000001&rn=635981875488313776&c7=http%253A%252F%252Fwww.msn.com%252F&c8=&c9=", "sentTime": -1.000000, "len": 43, "from": "(nil)",                            "mimeType": "image/gif", "contentLength": 43, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3662.771743, "len": 43}}
+{"Resource": {"id": 9, "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBsHxaw.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=1180&y=1008", "sentTime": -1.000000, "len": 11188, "from": "0xb95423c0",                            "mimeType": "image/jpeg", "contentLength": 11188, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3662.793497, "len": 2186}}
+{"ReceivedChunk": {"receivedTime": 3662.802723, "len": 9002}}
+{"Resource": {"id": 7, "url": "http://static-hp-cus-s-msn-com.akamaized.net/sc/57/a49b8d.gif", "sentTime": -1.000000, "len": 1125, "from": "0xb9736870",                            "mimeType": "image/gif", "contentLength": 1125, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3662.797882, "len": 1125}}
+{"Resource": {"id": 10, "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBsJDV1.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=1406&y=996", "sentTime": -1.000000, "len": 5816, "from": "0xb9545150",                            "mimeType": "image/jpeg", "contentLength": 5816, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3662.798307, "len": 3434}}
+{"ReceivedChunk": {"receivedTime": 3662.825195, "len": 2382}}
+{"Resource": {"id": 11, "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBsGsar.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=614&y=215", "sentTime": -1.000000, "len": 7348, "from": "0xb9548780",                            "mimeType": "image/jpeg", "contentLength": 7348, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3662.798760, "len": 3433}}
+{"ReceivedChunk": {"receivedTime": 3662.827828, "len": 3915}}
+{"Resource": {"id": 13, "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBsJn8K.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=861&y=525", "sentTime": -1.000000, "len": 6851, "from": "0xb9556ae0",                            "mimeType": "image/jpeg", "contentLength": 6851, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3662.799144, "len": 3434}}
+{"ReceivedChunk": {"receivedTime": 3662.828301, "len": 3417}}
+{"Resource": {"id": 14, "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBsFN5m.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=937&y=129", "sentTime": -1.000000, "len": 11872, "from": "0xb95560c0",                            "mimeType": "image/jpeg", "contentLength": 11872, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3662.799530, "len": 3435}}
+{"ReceivedChunk": {"receivedTime": 3662.828370, "len": 8437}}
+{"Resource": {"id": 24, "url": "http://otf.msn.com/c.gif?js=0&evt=impr&di=340&pi=&ps=&su=http%253A%252F%252Fwww.msn.com%252F&pageid=startpage&mkt=en-us&pn=startpage&mv=15&pp=False&cv.product=prime&cv.partner=&cv.publcat=&st.dpt=&st.sdpt=&dv.Title1=&cts=635981875488313776&rf=&rid=c5fc9bba70aa40b28925475989899878&cvs=Browser&subcvs=homepage&cv.entityId=&cv.entitySrc=&provid=&ar=0&d.dgk=downlevel.pc&d.imd=0&cv.parentId=&isCorePV=&pgIdx=&pgTot=&activityId=c5fc9bba70aa40b28925475989899878", "sentTime": -1.000000, "len": 42, "from": "0xb946f360",                            "mimeType": "image/gif", "contentLength": 42, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3662.793138, "len": 42}}
+{"Resource": {"id": 12, "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBsJwGl.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=689&y=524", "sentTime": -1.000000, "len": 8985, "from": "0xb9554f30",                            "mimeType": "image/jpeg", "contentLength": 8985, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3662.829035, "len": 2073}}
+{"ReceivedChunk": {"receivedTime": 3662.829109, "len": 6840}}
+{"ReceivedChunk": {"receivedTime": 3662.829234, "len": 72}}
+{"Resource": {"id": 19, "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBo1uSq.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=1003&y=250", "sentTime": -1.000000, "len": 6156, "from": "0xb9567540",                            "mimeType": "image/jpeg", "contentLength": 6156, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3662.829731, "len": 2074}}
+{"ReceivedChunk": {"receivedTime": 3662.829849, "len": 4082}}
+{"Resource": {"id": 17, "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBsEdmr.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=753&y=528", "sentTime": -1.000000, "len": 13057, "from": "0xb95639f0",                            "mimeType": "image/jpeg", "contentLength": 13057, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3662.851465, "len": 3433}}
+{"ReceivedChunk": {"receivedTime": 3662.852930, "len": 9624}}
+{"Resource": {"id": 16, "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBsIma9.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=1325&y=838", "sentTime": -1.000000, "len": 11426, "from": "0xb955be10",                            "mimeType": "image/jpeg", "contentLength": 11426, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3662.852639, "len": 3434}}
+{"ReceivedChunk": {"receivedTime": 3662.853045, "len": 7992}}
+{"Resource": {"id": 18, "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBsGjJs.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=1297&y=871", "sentTime": -1.000000, "len": 17502, "from": "0xb9563990",                            "mimeType": "image/jpeg", "contentLength": 17502, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3662.852759, "len": 3430}}
+{"ReceivedChunk": {"receivedTime": 3662.853126, "len": 14072}}
+{"Resource": {"id": 15, "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBoG7GE.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=676&y=642", "sentTime": -1.000000, "len": 10528, "from": "0xb9559660",                            "mimeType": "image/jpeg", "contentLength": 10528, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3662.852852, "len": 3434}}
+{"ReceivedChunk": {"receivedTime": 3662.853208, "len": 7094}}
+{"Resource": {"id": 21, "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/CCgQ1A.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f", "sentTime": -1.000000, "len": 10051, "from": "0xb956b360",                            "mimeType": "image/jpeg", "contentLength": 10051, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3662.853433, "len": 3449}}
+{"ReceivedChunk": {"receivedTime": 3662.853504, "len": 6602}}
+{"Resource": {"id": 20, "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBsJ3Dm.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=339&y=211", "sentTime": -1.000000, "len": 9390, "from": "0xb956bcf0",                            "mimeType": "image/jpeg", "contentLength": 9390, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3662.856914, "len": 2074}}
+{"ReceivedChunk": {"receivedTime": 3662.857027, "len": 5589}}
+{"ReceivedChunk": {"receivedTime": 3662.857096, "len": 1727}}
+{"Resource": {"id": 22, "url": "http://c.msn.com/c.gif?udc=true&rid=c5fc9bba70aa40b28925475989899878&rnd=635981875488313776&rf=&tp=http%253A%252F%252Fwww.msn.com%252F&di=340&lng=en-us&cv.product=prime&pn=startpage&activityId=c5fc9bba70aa40b28925475989899878&d.dgk=downlevel.pc&d.imd=0&ctsa=mr&CtsSyncId=2DB55AD0791645A282C7A0B9174667ED&MUID=3DDF69C4469E6C28265160CA47896DB2", "sentTime": -1.000000, "len": 42, "from": "(nil)",                            "mimeType": "image/gif", "contentLength": 42, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3662.918782, "len": 42}}
+{"HOL": {"type": 4, "docUrl": "http://www.msn.com/", "code": "0xb9462cf0", "row": 14, "column": 562, "url": "http://static-hp-cus-s-msn-com.akamaized.net/en-us/homepage/_sc/css/6670b51d-8b551b9/direction=ltr.locales=en-us.themes=start.dpi=resolution1x/22-8b3778-4e3b0a9b/d8-522cc0-ee5f2b10/ab-6aa96e-536df121/be-bfcb4e-f94d3276/e5-9490ae-a648eab2/1e-eed555-63b61fa3/3e-07643f-68ddb2ab/84-13dda2-654638bf/finance-css-15-5ae05e329a0b7482d55ddcf5edfea1-c16bd114/finance-css-d4-3d780f54f2438c185f3c1e56bbc848-d17db944?ver=2.0.5965.37384&fdhead=ushpcombo30,muidflt9cf,muidflt259cf&csopd=20160504212029&csopdb=20160504231841"}}
+{"HOL": {"type": 1, "docUrl": "http://www.msn.com/", "code": "0xb9462210", "row": 15, "column": 32, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.msn.com/", "code": "0xb93ef570", "row": 16, "column": 3761, "url": "http://static-hp-cus-s-msn-com.akamaized.net/_h/804ff984/webcore/externalscripts/jquery/jquery-1.11.1.min.js"}}
+{"HOL": {"type": 1, "docUrl": "http://www.msn.com/", "code": "0xb93e0990", "row": 18, "column": 79, "url": "http://ads1.msads.net/library/8.4/dapmsn.js"}}
+{"HOL": {"type": 4, "docUrl": "http://www.msn.com/", "code": "0xb93e0090", "row": 20, "column": 8, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.msn.com/", "code": "0xb9525450", "row": 120, "column": 32, "url": ""}}
+{"Computation": {"type": "execScript", "code": "0xb9462b10", "docUrl": "http://www.msn.com/", "startTime": 3662.377281, "endTime": -1.000000, "urlRecalcStyle": ""}}
+{"Computation": {"type": "recalcStyle", "code": "0xb9462b10", "docUrl": "http://www.msn.com/", "startTime": 3662.409675, "endTime": 3662.476199, "urlRecalcStyle": "http://static-hp-cus-s-msn-com.akamaized.net/en-us/homepage/_sc/css/6670b51d-8b551b9/direction=ltr.locales=en-us.themes=start.dpi=resolution1x/22-8b3778-4e3b0a9b/d8-522cc0-ee5f2b10/ab-6aa96e-536df121/be-bfcb4e-f94d3276/e5-9490ae-a648eab2/1e-eed555-63b61fa3/3e-07643f-68ddb2ab/84-13dda2-654638bf/finance-css-15-5ae05e329a0b7482d55ddcf5edfea1-c16bd114/finance-css-d4-3d780f54f2438c185f3c1e56bbc848-d17db944?ver=2.0.5965.37384&fdhead=ushpcombo30,muidflt9cf,muidflt259cf&csopd=20160504212029&csopdb=20160504231841"}}
+{"Computation": {"type": "execScript", "code": "0xb9462b10", "docUrl": "http://www.msn.com/", "startTime": 3662.425822, "endTime": 3662.476095, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb93ef5a0", "docUrl": "http://www.msn.com/", "startTime": 3662.476189, "endTime": -1.000000, "urlRecalcStyle": "http://static-hp-cus-s-msn-com.akamaized.net/_h/804ff984/webcore/externalscripts/jquery/jquery-1.11.1.min.js"}}
+{"Computation": {"type": "execScript", "code": "0xb93ef5a0", "docUrl": "http://www.msn.com/", "startTime": 3662.482161, "endTime": 3662.556749, "urlRecalcStyle": "http://static-hp-cus-s-msn-com.akamaized.net/_h/804ff984/webcore/externalscripts/jquery/jquery-1.11.1.min.js"}}
+{"Computation": {"type": "fireEvent", "code": "0xb93e07b0", "docUrl": "http://www.msn.com/", "startTime": 3662.556743, "endTime": 3662.556745, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb93e09c0", "docUrl": "http://www.msn.com/", "startTime": 3662.556833, "endTime": 3662.565928, "urlRecalcStyle": "http://ads1.msads.net/library/8.4/dapmsn.js"}}
+{"Computation": {"type": "fireEvent", "code": "0xb93e09c0", "docUrl": "http://www.msn.com/", "startTime": 3662.565923, "endTime": 3662.565924, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb93e00f0", "docUrl": "http://www.msn.com/", "startTime": 3662.577966, "endTime": 3662.578187, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.609837, "endTime": 3662.609838, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.609839, "endTime": 3662.709456, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.629935, "endTime": 3662.708572, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.708331, "endTime": 3662.708417, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.709460, "endTime": 3662.709461, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.720334, "endTime": 3662.720335, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.720339, "endTime": 3662.720435, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.744947, "endTime": 3662.745162, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.747792, "endTime": 3662.747793, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.747806, "endTime": 3662.747900, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.774875, "endTime": 3662.774878, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.780998, "endTime": 3662.780999, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.785271, "endTime": 3662.785562, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.786354, "endTime": 3662.786355, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.793360, "endTime": 3662.793361, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.793581, "endTime": 3662.793750, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.798160, "endTime": 3662.798162, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.798376, "endTime": 3662.798552, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.798806, "endTime": 3662.798918, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.799189, "endTime": 3662.799307, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.799573, "endTime": 3662.799686, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.803086, "endTime": 3662.803086, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.829907, "endTime": 3662.830108, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.849202, "endTime": 3662.849206, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.849212, "endTime": 3662.849212, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.849215, "endTime": 3662.849216, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.849313, "endTime": 3662.849314, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.849322, "endTime": 3662.849323, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.849326, "endTime": 3662.849327, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.853565, "endTime": 3662.853811, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.853832, "endTime": 3662.853833, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.853836, "endTime": 3662.853837, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.853839, "endTime": 3662.853840, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.853842, "endTime": 3662.853843, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.853845, "endTime": 3662.853845, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.857142, "endTime": 3662.857312, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb94748d0", "docUrl": "http://www.msn.com/", "startTime": 3662.857322, "endTime": 3662.857323, "urlRecalcStyle": "load"}}
+{"Preload": {"code": "0xb9462b10", "docUrl": "http://www.msn.com/", "url": "http://static-hp-cus-s-msn-com.akamaized.net/_h/804ff984/webcore/externalscripts/jquery/jquery-1.11.1.min.js", "time": 3662.377304}}
+{"Preload": {"code": "0xb9462b10", "docUrl": "http://www.msn.com/", "url": "http://ads1.msads.net/library/8.4/dapmsn.js", "time": 3662.380294}}
+{"Preload": {"code": "0xb9462b10", "docUrl": "http://www.msn.com/", "url": "http://static-hp-cus-s-msn-com.akamaized.net/sc/82/c22c7d.gif", "time": 3662.385209}}
+{"Preload": {"code": "0xb9462b10", "docUrl": "http://www.msn.com/", "url": "http://static-hp-cus-s-msn-com.akamaized.net/sc/6a/a62410.gif", "time": 3662.385236}}
+{"Preload": {"code": "0xb9462b10", "docUrl": "http://www.msn.com/", "url": "http://static-hp-cus-s-msn-com.akamaized.net/sc/57/a49b8d.gif", "time": 3662.385244}}
+{"Preload": {"code": "0xb9462b10", "docUrl": "http://www.msn.com/", "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB8MIjP.img?m=6&o=true&u=true&n=true&w=40&h=40", "time": 3662.385463}}
+{"Preload": {"code": "0xb9462b10", "docUrl": "http://www.msn.com/", "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBsHxaw.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=1180&y=1008", "time": 3662.385560}}
+{"Preload": {"code": "0xb9462b10", "docUrl": "http://www.msn.com/", "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBsJDV1.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=1406&y=996", "time": 3662.385587}}
+{"Preload": {"code": "0xb9462b10", "docUrl": "http://www.msn.com/", "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBsGsar.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=614&y=215", "time": 3662.385626}}
+{"Preload": {"code": "0xb9462b10", "docUrl": "http://www.msn.com/", "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBsJwGl.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=689&y=524", "time": 3662.385660}}
+{"Preload": {"code": "0xb9462b10", "docUrl": "http://www.msn.com/", "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBsJn8K.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=861&y=525", "time": 3662.385685}}
+{"Preload": {"code": "0xb9462b10", "docUrl": "http://www.msn.com/", "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBsFN5m.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=937&y=129", "time": 3662.385710}}
+{"Preload": {"code": "0xb9462b10", "docUrl": "http://www.msn.com/", "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBoG7GE.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=676&y=642", "time": 3662.385733}}
+{"Preload": {"code": "0xb9462b10", "docUrl": "http://www.msn.com/", "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBsIma9.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=1325&y=838", "time": 3662.385762}}
+{"Preload": {"code": "0xb9462b10", "docUrl": "http://www.msn.com/", "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBsEdmr.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=753&y=528", "time": 3662.385787}}
+{"Preload": {"code": "0xb9462b10", "docUrl": "http://www.msn.com/", "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBsGjJs.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=1297&y=871", "time": 3662.385807}}
+{"Preload": {"code": "0xb9462b10", "docUrl": "http://www.msn.com/", "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBo1uSq.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=1003&y=250", "time": 3662.385830}}
+{"Preload": {"code": "0xb9462b10", "docUrl": "http://www.msn.com/", "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBsJ3Dm.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=339&y=211", "time": 3662.385851}}
+{"Preload": {"code": "0xb9462b10", "docUrl": "http://www.msn.com/", "url": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/CCgQ1A.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f", "time": 3662.385888}}
+{"Preload": {"code": "0xb9462b10", "docUrl": "http://www.msn.com/", "url": "http://c.msn.com/c.gif?udc=true&rid=c5fc9bba70aa40b28925475989899878&rnd=635981875488313776&rf=&tp=http%253A%252F%252Fwww.msn.com%252F&di=340&lng=en-us&cv.product=prime&pn=startpage&activityId=c5fc9bba70aa40b28925475989899878&d.dgk=downlevel.pc&d.imd=0", "time": 3662.392466}}
+{"Preload": {"code": "0xb9462b10", "docUrl": "http://www.msn.com/", "url": "http://b.scorecardresearch.com/p?c1=2&c2=3000001&rn=635981875488313776&c7=http%253A%252F%252Fwww.msn.com%252F&c8=&c9=", "time": 3662.392482}}
+{"Preload": {"code": "0xb9462b10", "docUrl": "http://www.msn.com/", "url": "http://otf.msn.com/c.gif?js=0&evt=impr&di=340&pi=&ps=&su=http%253A%252F%252Fwww.msn.com%252F&pageid=startpage&mkt=en-us&pn=startpage&mv=15&pp=False&cv.product=prime&cv.partner=&cv.publcat=&st.dpt=&st.sdpt=&dv.Title1=&cts=635981875488313776&rf=&rid=c5fc9bba70aa40b28925475989899878&cvs=Browser&subcvs=homepage&cv.entityId=&cv.entitySrc=&provid=&ar=0&d.dgk=downlevel.pc&d.imd=0&cv.parentId=&isCorePV=&pgIdx=&pgTot=&activityId=c5fc9bba70aa40b28925475989899878", "time": 3662.392509}}
+{"Complete': "www.msn.com_"}
+Killed

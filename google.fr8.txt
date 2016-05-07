@@ -1,0 +1,754 @@
+[1498:1509:7224538888:ERROR:web_data_service.cc(657)] Cannot initialize the web database: 2
+[1498:1498:7225629546:ERROR:CONSOLE(1)] "Uncaught ReferenceError: InspectorFrontendAPI is not defined", source:  (1)
+{"page": "www.google.fr_?gws_rd=ssl"}
+{"DOMLoad": 7226.464816}
+{"Resource": {"id": 1, "url": "https://www.google.fr/?gws_rd=ssl", "sentTime": -1.000000, "len": 179443, "from": "(nil)",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 65, "connReused": 0, "cached": 0,                            "requestTime": 7225.204094, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 1, "connectEnd": 226, "sendStart": 226, "sendEnd": 227, "receiveHeadersEnd": 329, "sslStart": 7, "sslEnd": 226}}
+{"ReceivedChunk": {"receivedTime": 7225.534514, "len": 406}}
+{"ReceivedChunk": {"receivedTime": 7225.539218, "len": 2951}}
+{"ReceivedChunk": {"receivedTime": 7225.540162, "len": 3440}}
+{"ReceivedChunk": {"receivedTime": 7225.544494, "len": 3205}}
+{"ReceivedChunk": {"receivedTime": 7225.544914, "len": 3275}}
+{"ReceivedChunk": {"receivedTime": 7225.572301, "len": 5987}}
+{"ReceivedChunk": {"receivedTime": 7225.572835, "len": 7054}}
+{"ReceivedChunk": {"receivedTime": 7225.573287, "len": 5895}}
+{"ReceivedChunk": {"receivedTime": 7225.573683, "len": 7097}}
+{"ReceivedChunk": {"receivedTime": 7225.574107, "len": 6526}}
+{"ReceivedChunk": {"receivedTime": 7225.575406, "len": 3693}}
+{"ReceivedChunk": {"receivedTime": 7225.584253, "len": 2171}}
+{"ReceivedChunk": {"receivedTime": 7225.585022, "len": 3577}}
+{"ReceivedChunk": {"receivedTime": 7225.585494, "len": 3707}}
+{"ReceivedChunk": {"receivedTime": 7225.585843, "len": 3127}}
+{"ReceivedChunk": {"receivedTime": 7225.586180, "len": 3560}}
+{"ReceivedChunk": {"receivedTime": 7225.586526, "len": 3243}}
+{"ReceivedChunk": {"receivedTime": 7225.607067, "len": 4145}}
+{"ReceivedChunk": {"receivedTime": 7225.615732, "len": 4495}}
+{"ReceivedChunk": {"receivedTime": 7225.633916, "len": 3419}}
+{"ReceivedChunk": {"receivedTime": 7225.638728, "len": 3273}}
+{"ReceivedChunk": {"receivedTime": 7225.646175, "len": 3696}}
+{"ReceivedChunk": {"receivedTime": 7225.649403, "len": 3616}}
+{"ReceivedChunk": {"receivedTime": 7225.649915, "len": 2097}}
+{"ReceivedChunk": {"receivedTime": 7225.650344, "len": 99}}
+{"ReceivedChunk": {"receivedTime": 7225.678560, "len": 4062}}
+{"ReceivedChunk": {"receivedTime": 7225.678800, "len": 3739}}
+{"ReceivedChunk": {"receivedTime": 7225.679048, "len": 4062}}
+{"ReceivedChunk": {"receivedTime": 7225.679378, "len": 4123}}
+{"ReceivedChunk": {"receivedTime": 7225.681911, "len": 4241}}
+{"ReceivedChunk": {"receivedTime": 7225.683484, "len": 4358}}
+{"ReceivedChunk": {"receivedTime": 7225.685956, "len": 4233}}
+{"ReceivedChunk": {"receivedTime": 7225.687109, "len": 3552}}
+{"ReceivedChunk": {"receivedTime": 7225.687612, "len": 4062}}
+{"ReceivedChunk": {"receivedTime": 7225.688859, "len": 3954}}
+{"ReceivedChunk": {"receivedTime": 7225.689912, "len": 3811}}
+{"ReceivedChunk": {"receivedTime": 7225.690141, "len": 3781}}
+{"ReceivedChunk": {"receivedTime": 7225.710840, "len": 1756}}
+{"ReceivedChunk": {"receivedTime": 7225.714309, "len": 3658}}
+{"ReceivedChunk": {"receivedTime": 7225.714827, "len": 4450}}
+{"ReceivedChunk": {"receivedTime": 7225.715100, "len": 3768}}
+{"ReceivedChunk": {"receivedTime": 7225.715227, "len": 7992}}
+{"ReceivedChunk": {"receivedTime": 7225.849974, "len": 5851}}
+{"ReceivedChunk": {"receivedTime": 7225.850164, "len": 6484}}
+{"ReceivedChunk": {"receivedTime": 7225.850482, "len": 2811}}
+{"ReceivedChunk": {"receivedTime": 7225.898542, "len": 941}}
+{"WprofHTMLTag": {"code": "0xb8329b10", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 0, "column": 81, "tagName": "html", "time": 7225.534917, "url": "", "pos": 81, "chunkLen": 406, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8329a80", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 0, "column": 87, "tagName": "head", "time": 7225.535032, "url": "", "pos": 87, "chunkLen": 406, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8329a20", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 0, "column": 181, "tagName": "meta", "time": 7225.535047, "url": "", "pos": 181, "chunkLen": 406, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8329bd0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 0, "column": 260, "tagName": "link", "time": 7225.535058, "url": "https://www.google.fr/images/branding/product/ico/googleg_lodp.ico", "pos": 260, "chunkLen": 406, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8329c30", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 0, "column": 309, "tagName": "meta", "time": 7225.535117, "url": "", "pos": 309, "chunkLen": 406, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8329c60", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 0, "column": 316, "tagName": "title", "time": 7225.535124, "url": "", "pos": 316, "chunkLen": 406, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb82cfd50", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 0, "column": 330, "tagName": "title", "time": 7225.536570, "url": "", "pos": 330, "chunkLen": 406, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb82cfdb0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 0, "column": 341, "tagName": "script", "time": 7225.536576, "url": "", "pos": 341, "chunkLen": 406, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb82cfd20", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 9, "column": 2933, "tagName": "script", "time": 7225.544999, "url": "", "pos": 12238, "chunkLen": 13277, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb82cf060", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 9, "column": 2940, "tagName": "style", "time": 7225.570461, "url": "", "pos": 2243, "chunkLen": 3275, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8329f30", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 12, "column": 8, "tagName": "style", "time": 7225.575498, "url": "", "pos": 36578, "chunkLen": 39527, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb840aa80", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 12, "column": 42, "tagName": "style", "time": 7225.578229, "url": "", "pos": 36612, "chunkLen": 39527, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb82cf840", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 12, "column": 1864, "tagName": "style", "time": 7225.578262, "url": "", "pos": 38434, "chunkLen": 39527, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb840a9c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 12, "column": 1871, "tagName": "style", "time": 7225.578551, "url": "", "pos": 38441, "chunkLen": 39527, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb840a5d0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 12, "column": 2715, "tagName": "style", "time": 7225.578568, "url": "", "pos": 39285, "chunkLen": 39527, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb840a150", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 12, "column": 2723, "tagName": "script", "time": 7225.578691, "url": "", "pos": 39293, "chunkLen": 39527, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb840a000", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 9, "tagName": "script", "time": 7225.586600, "url": "", "pos": 56330, "chunkLen": 58905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb82cf8a0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 40, "tagName": "link", "time": 7225.594623, "url": "https://www.google.fr/", "pos": 692, "chunkLen": 3236, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb840a180", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 47, "tagName": "head", "time": 7225.594656, "url": "", "pos": 699, "chunkLen": 3236, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb840a1e0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 268, "tagName": "body", "time": 7225.594674, "url": "", "pos": 920, "chunkLen": 3236, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb840a270", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 301, "tagName": "div", "time": 7225.594764, "url": "", "pos": 953, "chunkLen": 3236, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb840a300", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 335, "tagName": "div", "time": 7225.594799, "url": "", "pos": 987, "chunkLen": 3236, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb840a330", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 341, "tagName": "div", "time": 7225.594808, "url": "", "pos": 993, "chunkLen": 3236, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb840a360", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 370, "tagName": "div", "time": 7225.594811, "url": "", "pos": 1022, "chunkLen": 3236, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb840a390", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 377, "tagName": "style", "time": 7225.594823, "url": "", "pos": 1029, "chunkLen": 3236, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb82cf960", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 1188, "tagName": "style", "time": 7225.594850, "url": "", "pos": 1840, "chunkLen": 3236, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83a6ba0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 1194, "tagName": "div", "time": 7225.595023, "url": "", "pos": 1846, "chunkLen": 3236, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83a6bd0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 1349, "tagName": "a", "time": 7225.595033, "url": "", "pos": 2001, "chunkLen": 3236, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83a6c60", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 1450, "tagName": "a", "time": 7225.595120, "url": "", "pos": 2102, "chunkLen": 3236, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83a6cf0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 1503, "tagName": "textarea", "time": 7225.595126, "url": "", "pos": 2155, "chunkLen": 3236, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83a6d50", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 1514, "tagName": "textarea", "time": 7225.595222, "url": "", "pos": 2166, "chunkLen": 3236, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83a6d80", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 1522, "tagName": "script", "time": 7225.595227, "url": "", "pos": 2174, "chunkLen": 3236, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83a69f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 1585, "tagName": "script", "time": 7225.595239, "url": "", "pos": 2237, "chunkLen": 3236, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83a6e40", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 1613, "tagName": "div", "time": 7225.595285, "url": "", "pos": 2265, "chunkLen": 3236, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83a6f60", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 1765, "tagName": "div", "time": 7225.595302, "url": "", "pos": 2417, "chunkLen": 3236, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83a6fc0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 1770, "tagName": "div", "time": 7225.595319, "url": "", "pos": 2422, "chunkLen": 3236, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83a6420", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 1798, "tagName": "span", "time": 7225.595325, "url": "", "pos": 2450, "chunkLen": 3236, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83a6480", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 1903, "tagName": "span", "time": 7225.595355, "url": "", "pos": 2555, "chunkLen": 3236, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83a6540", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 2020, "tagName": "a", "time": 7225.595361, "url": "", "pos": 2672, "chunkLen": 3236, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83a65a0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 2044, "tagName": "a", "time": 7225.595382, "url": "", "pos": 2696, "chunkLen": 3236, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83a6600", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 2050, "tagName": "div", "time": 7225.595384, "url": "", "pos": 2702, "chunkLen": 3236, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83a6690", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 2144, "tagName": "div", "time": 7225.595388, "url": "", "pos": 2796, "chunkLen": 3236, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83a66f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 2157, "tagName": "div", "time": 7225.595408, "url": "", "pos": 2809, "chunkLen": 3236, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83a6750", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 2163, "tagName": "div", "time": 7225.595409, "url": "", "pos": 2815, "chunkLen": 3236, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83a6780", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 2169, "tagName": "div", "time": 7225.595411, "url": "", "pos": 2821, "chunkLen": 3236, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83a67b0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 2202, "tagName": "div", "time": 7225.595413, "url": "", "pos": 2854, "chunkLen": 3236, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83a6810", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 52, "column": 2210, "tagName": "script", "time": 7225.595428, "url": "", "pos": 2862, "chunkLen": 3236, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83a6de0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 54, "column": 14, "tagName": "script", "time": 7225.595437, "url": "", "pos": 3051, "chunkLen": 3236, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83a6180", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 54, "column": 24, "tagName": "style", "time": 7225.606631, "url": "", "pos": 3061, "chunkLen": 3236, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83a6870", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 54, "column": 492, "tagName": "style", "time": 7225.607119, "url": "", "pos": 3529, "chunkLen": 7371, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83a6330", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 54, "column": 506, "tagName": "div", "time": 7225.607279, "url": "", "pos": 3543, "chunkLen": 7371, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83a63c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 54, "column": 521, "tagName": "div", "time": 7225.607320, "url": "", "pos": 3558, "chunkLen": 7371, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83d6a20", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 54, "column": 532, "tagName": "script", "time": 7225.607337, "url": "", "pos": 3569, "chunkLen": 7371, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb82cf990", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 9, "tagName": "script", "time": 7225.607351, "url": "", "pos": 3888, "chunkLen": 7371, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83d6b10", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 57, "tagName": "div", "time": 7225.607895, "url": "", "pos": 700, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83d6b70", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 100, "tagName": "div", "time": 7225.607935, "url": "", "pos": 743, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83d6bd0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 136, "tagName": "div", "time": 7225.607972, "url": "", "pos": 779, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83d6c60", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 159, "tagName": "div", "time": 7225.607988, "url": "", "pos": 802, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83d6d20", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 256, "tagName": "a", "time": 7225.608010, "url": "", "pos": 899, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83d6de0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 265, "tagName": "a", "time": 7225.608058, "url": "", "pos": 908, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83d6e10", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 271, "tagName": "div", "time": 7225.608061, "url": "", "pos": 914, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83d6e40", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 294, "tagName": "div", "time": 7225.608063, "url": "", "pos": 937, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83d6ea0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 423, "tagName": "a", "time": 7225.608082, "url": "", "pos": 1066, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83d6f00", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 433, "tagName": "a", "time": 7225.608106, "url": "", "pos": 1076, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83d6f30", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 439, "tagName": "div", "time": 7225.608108, "url": "", "pos": 1082, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83d6f60", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 445, "tagName": "div", "time": 7225.608109, "url": "", "pos": 1088, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83d6f90", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 475, "tagName": "div", "time": 7225.608111, "url": "", "pos": 1118, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83d63f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 505, "tagName": "div", "time": 7225.608128, "url": "", "pos": 1148, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83d64b0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 511, "tagName": "div", "time": 7225.608176, "url": "", "pos": 1154, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83d6510", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 551, "tagName": "div", "time": 7225.608179, "url": "", "pos": 1194, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83d65a0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 570, "tagName": "div", "time": 7225.608205, "url": "", "pos": 1213, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83d6690", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 721, "tagName": "a", "time": 7225.608221, "url": "", "pos": 1364, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83d6600", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 725, "tagName": "a", "time": 7225.610367, "url": "", "pos": 1368, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83d6840", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 744, "tagName": "div", "time": 7225.610376, "url": "", "pos": 1387, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83d68d0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 750, "tagName": "div", "time": 7225.610410, "url": "", "pos": 1393, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83d6930", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 769, "tagName": "div", "time": 7225.610412, "url": "", "pos": 1412, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83d69c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 775, "tagName": "div", "time": 7225.610423, "url": "", "pos": 1418, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83d6030", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 781, "tagName": "div", "time": 7225.610425, "url": "", "pos": 1424, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83d6060", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 787, "tagName": "div", "time": 7225.610426, "url": "", "pos": 1430, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83d60c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 811, "tagName": "div", "time": 7225.610427, "url": "", "pos": 1454, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83d6120", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 830, "tagName": "div", "time": 7225.610444, "url": "", "pos": 1473, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83d6150", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1006, "tagName": "a", "time": 7225.610461, "url": "", "pos": 1649, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83d6240", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1019, "tagName": "a", "time": 7225.610527, "url": "", "pos": 1662, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83d6270", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1038, "tagName": "div", "time": 7225.610531, "url": "", "pos": 1681, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83d62a0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1044, "tagName": "div", "time": 7225.610538, "url": "", "pos": 1687, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83d62d0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1063, "tagName": "div", "time": 7225.610540, "url": "", "pos": 1706, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83d6300", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1069, "tagName": "div", "time": 7225.610543, "url": "", "pos": 1712, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83d6330", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1075, "tagName": "div", "time": 7225.610545, "url": "", "pos": 1718, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83d6360", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1081, "tagName": "div", "time": 7225.610546, "url": "", "pos": 1724, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83d6390", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1087, "tagName": "div", "time": 7225.610547, "url": "", "pos": 1730, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83d63c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1093, "tagName": "div", "time": 7225.610547, "url": "", "pos": 1736, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839ba20", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1100, "tagName": "div", "time": 7225.610557, "url": "", "pos": 1743, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839ba80", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1107, "tagName": "div", "time": 7225.610559, "url": "", "pos": 1750, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839bae0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1114, "tagName": "div", "time": 7225.610560, "url": "", "pos": 1757, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839bb70", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1169, "tagName": "div", "time": 7225.610565, "url": "", "pos": 1812, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839bbd0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1188, "tagName": "div", "time": 7225.610597, "url": "", "pos": 1831, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839bc30", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1194, "tagName": "div", "time": 7225.610609, "url": "", "pos": 1837, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839bc60", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1200, "tagName": "div", "time": 7225.610610, "url": "", "pos": 1843, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839bcc0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1335, "tagName": "form", "time": 7225.610616, "url": "", "pos": 1978, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839bd80", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1386, "tagName": "input", "time": 7225.610720, "url": "", "pos": 2029, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839be40", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1430, "tagName": "div", "time": 7225.610917, "url": "", "pos": 2073, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839be70", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1472, "tagName": "input", "time": 7225.610929, "url": "", "pos": 2115, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839bea0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1518, "tagName": "input", "time": 7225.610963, "url": "", "pos": 2161, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839bf00", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1524, "tagName": "div", "time": 7225.610989, "url": "", "pos": 2167, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839bf60", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1543, "tagName": "div", "time": 7225.610991, "url": "", "pos": 2186, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839b420", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1585, "tagName": "div", "time": 7225.611018, "url": "", "pos": 2228, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839b4b0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1589, "tagName": "h1", "time": 7225.611033, "url": "", "pos": 2232, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839b4e0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1688, "tagName": "a", "time": 7225.611039, "url": "", "pos": 2331, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839b540", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1799, "tagName": "img", "time": 7225.611056, "url": "", "pos": 2442, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839b510", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1803, "tagName": "a", "time": 7225.611128, "url": "", "pos": 2446, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839b5a0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1808, "tagName": "h1", "time": 7225.611131, "url": "", "pos": 2451, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839b660", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1814, "tagName": "div", "time": 7225.611132, "url": "", "pos": 2457, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839b6c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1835, "tagName": "div", "time": 7225.611134, "url": "", "pos": 2478, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839b720", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1863, "tagName": "div", "time": 7225.611156, "url": "", "pos": 2506, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83d6ab0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1883, "tagName": "div", "time": 7225.611180, "url": "", "pos": 2526, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839bfc0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1919, "tagName": "div", "time": 7225.611188, "url": "", "pos": 2562, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839b480", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 1936, "tagName": "div", "time": 7225.611199, "url": "", "pos": 2579, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839b8d0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2000, "tagName": "div", "time": 7225.611211, "url": "", "pos": 2643, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839b900", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2006, "tagName": "div", "time": 7225.611229, "url": "", "pos": 2649, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839b930", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2012, "tagName": "div", "time": 7225.611231, "url": "", "pos": 2655, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839b960", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2018, "tagName": "div", "time": 7225.611232, "url": "", "pos": 2661, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839b990", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2037, "tagName": "div", "time": 7225.611233, "url": "", "pos": 2680, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839b000", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2056, "tagName": "div", "time": 7225.611243, "url": "", "pos": 2699, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839b090", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2083, "tagName": "div", "time": 7225.611251, "url": "", "pos": 2726, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839b150", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2119, "tagName": "div", "time": 7225.611255, "url": "", "pos": 2762, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839b240", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2216, "tagName": "button", "time": 7225.611261, "url": "", "pos": 2859, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839b2a0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2237, "tagName": "span", "time": 7225.611276, "url": "", "pos": 2880, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839b330", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2244, "tagName": "span", "time": 7225.611281, "url": "", "pos": 2887, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839b390", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2254, "tagName": "button", "time": 7225.611283, "url": "", "pos": 2897, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839e9f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2261, "tagName": "div", "time": 7225.611284, "url": "", "pos": 2904, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839ea50", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2268, "tagName": "div", "time": 7225.611292, "url": "", "pos": 2911, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839eab0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2275, "tagName": "div", "time": 7225.611294, "url": "", "pos": 2918, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839eae0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2281, "tagName": "div", "time": 7225.611294, "url": "", "pos": 2924, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839eb10", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2312, "tagName": "div", "time": 7225.611296, "url": "", "pos": 2955, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839eba0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2465, "tagName": "input", "time": 7225.611318, "url": "", "pos": 3108, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839ed20", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2472, "tagName": "div", "time": 7225.614446, "url": "", "pos": 3115, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839ed50", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2478, "tagName": "div", "time": 7225.614451, "url": "", "pos": 3121, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839ed80", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2484, "tagName": "div", "time": 7225.614454, "url": "", "pos": 3127, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839edb0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2489, "tagName": "div", "time": 7225.614455, "url": "", "pos": 3132, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839ede0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2571, "tagName": "div", "time": 7225.614475, "url": "", "pos": 3214, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839ee10", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2587, "tagName": "div", "time": 7225.614529, "url": "", "pos": 3230, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839ee40", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2593, "tagName": "span", "time": 7225.614532, "url": "", "pos": 3236, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839eea0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2624, "tagName": "span", "time": 7225.614538, "url": "", "pos": 3267, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839ef00", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2637, "tagName": "span", "time": 7225.614540, "url": "", "pos": 3280, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839ef60", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2711, "tagName": "span", "time": 7225.614543, "url": "", "pos": 3354, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839efc0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2778, "tagName": "a", "time": 7225.614556, "url": "", "pos": 3421, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839e450", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2796, "tagName": "a", "time": 7225.614563, "url": "", "pos": 3439, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839e480", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2802, "tagName": "div", "time": 7225.614564, "url": "", "pos": 3445, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839e4b0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2818, "tagName": "div", "time": 7225.614566, "url": "", "pos": 3461, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839e510", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2849, "tagName": "span", "time": 7225.614569, "url": "", "pos": 3492, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839e570", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2862, "tagName": "span", "time": 7225.614572, "url": "", "pos": 3505, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839e5d0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2976, "tagName": "div", "time": 7225.614574, "url": "", "pos": 3619, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839e600", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 2992, "tagName": "div", "time": 7225.614576, "url": "", "pos": 3635, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839e660", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3042, "tagName": "div", "time": 7225.614578, "url": "", "pos": 3685, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839e690", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3048, "tagName": "div", "time": 7225.614579, "url": "", "pos": 3691, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839e6c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3054, "tagName": "div", "time": 7225.614580, "url": "", "pos": 3697, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839e6f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3060, "tagName": "div", "time": 7225.614581, "url": "", "pos": 3703, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839e720", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3102, "tagName": "div", "time": 7225.614584, "url": "", "pos": 3745, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839e780", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3110, "tagName": "center", "time": 7225.614602, "url": "", "pos": 3753, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839e810", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3216, "tagName": "input", "time": 7225.614626, "url": "", "pos": 3859, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839e8d0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3324, "tagName": "input", "time": 7225.614744, "url": "", "pos": 3967, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839e7b0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3333, "tagName": "center", "time": 7225.614779, "url": "", "pos": 3976, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839e960", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3339, "tagName": "div", "time": 7225.614781, "url": "", "pos": 3982, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839e840", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3345, "tagName": "div", "time": 7225.614782, "url": "", "pos": 3988, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839e990", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3352, "tagName": "form", "time": 7225.614783, "url": "", "pos": 3995, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839e9c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3358, "tagName": "div", "time": 7225.614785, "url": "", "pos": 4001, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839e030", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3378, "tagName": "div", "time": 7225.614787, "url": "", "pos": 4021, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839e060", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3384, "tagName": "div", "time": 7225.614796, "url": "", "pos": 4027, "chunkLen": 4135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839e090", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3430, "tagName": "div", "time": 7225.614799, "url": "", "pos": 4073, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839e0f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3460, "tagName": "span", "time": 7225.614820, "url": "", "pos": 4103, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839e120", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3468, "tagName": "center", "time": 7225.614831, "url": "", "pos": 4111, "chunkLen": 4135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb83d6a80", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3519, "tagName": "div", "time": 7225.615786, "url": "", "pos": 4162, "chunkLen": 8627, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb82cf9c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3550, "tagName": "div", "time": 7225.615824, "url": "", "pos": 4193, "chunkLen": 8627, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839e150", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3557, "tagName": "style", "time": 7225.615835, "url": "", "pos": 4200, "chunkLen": 8627, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839e1e0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3821, "tagName": "style", "time": 7225.615850, "url": "", "pos": 4464, "chunkLen": 8627, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839e240", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3952, "tagName": "div", "time": 7225.616458, "url": "", "pos": 4595, "chunkLen": 8627, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839e270", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3978, "tagName": "div", "time": 7225.616550, "url": "", "pos": 4621, "chunkLen": 8627, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839e3c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3990, "tagName": "div", "time": 7225.616574, "url": "", "pos": 4633, "chunkLen": 8627, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8435750", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 3996, "tagName": "div", "time": 7225.616576, "url": "", "pos": 4639, "chunkLen": 8627, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8435780", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 4002, "tagName": "div", "time": 7225.616577, "url": "", "pos": 4645, "chunkLen": 8627, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84357b0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 4008, "tagName": "div", "time": 7225.616578, "url": "", "pos": 4651, "chunkLen": 8627, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8435810", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 4034, "tagName": "div", "time": 7225.616580, "url": "", "pos": 4677, "chunkLen": 8627, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8435840", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 4040, "tagName": "div", "time": 7225.616592, "url": "", "pos": 4683, "chunkLen": 8627, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8435870", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 4110, "tagName": "div", "time": 7225.616596, "url": "", "pos": 4753, "chunkLen": 8627, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84358a0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 4117, "tagName": "style", "time": 7225.616607, "url": "", "pos": 4760, "chunkLen": 8627, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb839e1b0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 4332, "tagName": "style", "time": 7225.616616, "url": "", "pos": 4975, "chunkLen": 8627, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84359c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 4340, "tagName": "script", "time": 7225.616695, "url": "", "pos": 4983, "chunkLen": 8627, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8435900", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 4396, "tagName": "script", "time": 7225.616706, "url": "", "pos": 5039, "chunkLen": 8627, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8435a20", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 4410, "tagName": "div", "time": 7225.620357, "url": "", "pos": 918, "chunkLen": 4492, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8435a50", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 4425, "tagName": "div", "time": 7225.620420, "url": "", "pos": 933, "chunkLen": 4492, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8435ab0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 4626, "tagName": "a", "time": 7225.620449, "url": "", "pos": 1134, "chunkLen": 4492, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8435ba0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 4637, "tagName": "a", "time": 7225.620501, "url": "", "pos": 1145, "chunkLen": 4492, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8435c00", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 4644, "tagName": "div", "time": 7225.620507, "url": "", "pos": 1152, "chunkLen": 4492, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8435c30", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 4650, "tagName": "div", "time": 7225.620508, "url": "", "pos": 1158, "chunkLen": 4492, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8435c60", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 4656, "tagName": "div", "time": 7225.620509, "url": "", "pos": 1164, "chunkLen": 4492, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8435c90", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 4665, "tagName": "center", "time": 7225.620511, "url": "", "pos": 1173, "chunkLen": 4492, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8435cc0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 4672, "tagName": "span", "time": 7225.620512, "url": "", "pos": 1180, "chunkLen": 4492, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8435cf0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 4703, "tagName": "div", "time": 7225.620515, "url": "", "pos": 1211, "chunkLen": 4492, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8435150", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 4750, "tagName": "div", "time": 7225.620542, "url": "", "pos": 1258, "chunkLen": 4492, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8435180", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 4757, "tagName": "style", "time": 7225.620552, "url": "", "pos": 1265, "chunkLen": 4492, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84359f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 7388, "tagName": "style", "time": 7225.620595, "url": "", "pos": 3896, "chunkLen": 4492, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84353c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 7407, "tagName": "div", "time": 7225.620964, "url": "", "pos": 3915, "chunkLen": 4492, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8435480", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 7442, "tagName": "div", "time": 7225.620983, "url": "", "pos": 3950, "chunkLen": 4492, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8435510", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 7461, "tagName": "div", "time": 7225.621004, "url": "", "pos": 3969, "chunkLen": 4492, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84355a0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 7479, "tagName": "span", "time": 7225.621016, "url": "", "pos": 3987, "chunkLen": 4492, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8435600", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 7550, "tagName": "a", "time": 7225.621088, "url": "", "pos": 4058, "chunkLen": 4492, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84356c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 7569, "tagName": "a", "time": 7225.621134, "url": "", "pos": 4077, "chunkLen": 4492, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8435720", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 7637, "tagName": "a", "time": 7225.621140, "url": "", "pos": 4145, "chunkLen": 4492, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8435060", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 7651, "tagName": "a", "time": 7225.621159, "url": "", "pos": 4159, "chunkLen": 4492, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84350c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 7708, "tagName": "span", "time": 7225.621163, "url": "", "pos": 4216, "chunkLen": 4492, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84479f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 7861, "tagName": "a", "time": 7225.633268, "url": "", "pos": 4369, "chunkLen": 4492, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8447ab0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 7875, "tagName": "a", "time": 7225.633359, "url": "", "pos": 4383, "chunkLen": 4492, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8447b10", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 7914, "tagName": "span", "time": 7225.633367, "url": "", "pos": 4422, "chunkLen": 4492, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8447b40", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 7974, "tagName": "a", "time": 7225.633409, "url": "", "pos": 4482, "chunkLen": 4492, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb82cf5a0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8001, "tagName": "a", "time": 7225.633955, "url": "", "pos": 4509, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8447c00", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8048, "tagName": "span", "time": 7225.633963, "url": "", "pos": 4556, "chunkLen": 7905, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8447c60", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8091, "tagName": "a", "time": 7225.633973, "url": "", "pos": 4599, "chunkLen": 7905, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8447cc0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8112, "tagName": "a", "time": 7225.633976, "url": "", "pos": 4620, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8447d20", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8120, "tagName": "span", "time": 7225.633978, "url": "", "pos": 4628, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8447d80", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8162, "tagName": "a", "time": 7225.633981, "url": "", "pos": 4670, "chunkLen": 7905, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8447e10", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8179, "tagName": "a", "time": 7225.633984, "url": "", "pos": 4687, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8447e70", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8259, "tagName": "a", "time": 7225.633994, "url": "", "pos": 4767, "chunkLen": 7905, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8447ed0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8284, "tagName": "a", "time": 7225.634000, "url": "", "pos": 4792, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8447fc0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8431, "tagName": "a", "time": 7225.634008, "url": "", "pos": 4939, "chunkLen": 7905, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8447420", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8462, "tagName": "a", "time": 7225.634012, "url": "", "pos": 4970, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8447480", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8471, "tagName": "span", "time": 7225.634014, "url": "", "pos": 4979, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84474e0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8479, "tagName": "span", "time": 7225.634019, "url": "", "pos": 4987, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8447540", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8489, "tagName": "span", "time": 7225.634022, "url": "", "pos": 4997, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84475a0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8505, "tagName": "span", "time": 7225.634025, "url": "", "pos": 5013, "chunkLen": 7905, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8447600", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8562, "tagName": "a", "time": 7225.634043, "url": "", "pos": 5070, "chunkLen": 7905, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8447690", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8575, "tagName": "a", "time": 7225.634074, "url": "", "pos": 5083, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84476f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8629, "tagName": "a", "time": 7225.634079, "url": "", "pos": 5137, "chunkLen": 7905, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8447780", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8643, "tagName": "a", "time": 7225.634091, "url": "", "pos": 5151, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84477e0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8706, "tagName": "a", "time": 7225.634094, "url": "", "pos": 5214, "chunkLen": 7905, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8447870", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8718, "tagName": "a", "time": 7225.634103, "url": "", "pos": 5226, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84478d0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8726, "tagName": "span", "time": 7225.634105, "url": "", "pos": 5234, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8447930", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8733, "tagName": "div", "time": 7225.634107, "url": "", "pos": 5241, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84479c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8758, "tagName": "div", "time": 7225.634110, "url": "", "pos": 5266, "chunkLen": 7905, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8447030", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8866, "tagName": "div", "time": 7225.634132, "url": "", "pos": 5374, "chunkLen": 7905, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8447060", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 8885, "tagName": "p", "time": 7225.634204, "url": "", "pos": 5393, "chunkLen": 7905, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84470c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 9016, "tagName": "p", "time": 7225.634217, "url": "", "pos": 5524, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84470f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 9215, "tagName": "a", "time": 7225.634223, "url": "", "pos": 5723, "chunkLen": 7905, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84471b0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 9233, "tagName": "a", "time": 7225.634242, "url": "", "pos": 5741, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8447240", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 9401, "tagName": "div", "time": 7225.634249, "url": "", "pos": 5909, "chunkLen": 7905, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84472a0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 9409, "tagName": "div", "time": 7225.634253, "url": "", "pos": 5917, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84472d0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 9415, "tagName": "div", "time": 7225.634254, "url": "", "pos": 5923, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8447330", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 9422, "tagName": "div", "time": 7225.634257, "url": "", "pos": 5930, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8447390", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 9429, "tagName": "div", "time": 7225.634259, "url": "", "pos": 5937, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb844b9f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 9436, "tagName": "div", "time": 7225.634260, "url": "", "pos": 5944, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb844ba50", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 9445, "tagName": "div", "time": 7225.634268, "url": "", "pos": 5953, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb844ba80", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 9451, "tagName": "div", "time": 7225.634269, "url": "", "pos": 5959, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb844bab0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 9496, "tagName": "div", "time": 7225.634272, "url": "", "pos": 6004, "chunkLen": 7905, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb844bae0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 9504, "tagName": "script", "time": 7225.634282, "url": "", "pos": 6012, "chunkLen": 7905, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84351e0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 9547, "tagName": "script", "time": 7225.634291, "url": "", "pos": 6055, "chunkLen": 7905, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb844bb70", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 9563, "tagName": "div", "time": 7225.637596, "url": "", "pos": 1579, "chunkLen": 3413, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb844bba0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 9578, "tagName": "div", "time": 7225.637641, "url": "", "pos": 1594, "chunkLen": 3413, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb844bbd0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 9584, "tagName": "div", "time": 7225.637648, "url": "", "pos": 1600, "chunkLen": 3413, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb844bc00", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 9599, "tagName": "div", "time": 7225.637650, "url": "", "pos": 1615, "chunkLen": 3413, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb844bc30", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 57, "column": 9607, "tagName": "script", "time": 7225.637657, "url": "", "pos": 1623, "chunkLen": 3413, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb844bb40", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 58, "column": 9, "tagName": "script", "time": 7225.638801, "url": "", "pos": 5282, "chunkLen": 6670, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb844bcc0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 58, "column": 15, "tagName": "div", "time": 7225.639342, "url": "", "pos": 1875, "chunkLen": 3257, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb844bcf0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 58, "column": 21, "tagName": "div", "time": 7225.639345, "url": "", "pos": 1881, "chunkLen": 3257, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb844bd20", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 58, "column": 27, "tagName": "div", "time": 7225.639346, "url": "", "pos": 1887, "chunkLen": 3257, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb844bd50", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 58, "column": 33, "tagName": "div", "time": 7225.639347, "url": "", "pos": 1893, "chunkLen": 3257, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb844bd80", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 58, "column": 41, "tagName": "script", "time": 7225.639349, "url": "https://www.google.fr/xjs/_/js/k=xjs.s.fr.wx3DOsiW6vQ.O/m=sx,c,sb,cdos,cr,elog,epb,jsa,r,hsm,qsm,j,p,d,csi/am=AJS0CgoS8fchgGwhrCA1YGBB/rt=j/d=1/t=zcms/rs=ACT90oFq2hYt4_LWpQTz318oeaUnC_l4HQ", "pos": 1901, "chunkLen": 3257, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb82cf5d0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 9, "tagName": "script", "time": 7225.715325, "url": "", "pos": 75361, "chunkLen": 82364, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84af960", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 28, "tagName": "div", "time": 7225.833353, "url": "", "pos": 1005, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84aff60", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 125, "tagName": "div", "time": 7225.833426, "url": "", "pos": 1102, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84aff00", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 172, "tagName": "ul", "time": 7225.833435, "url": "", "pos": 1149, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84afea0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 210, "tagName": "li", "time": 7225.833449, "url": "", "pos": 1187, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84afde0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 327, "tagName": "a", "time": 7225.833474, "url": "", "pos": 1304, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84afe40", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 345, "tagName": "div", "time": 7225.833482, "url": "", "pos": 1322, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84afd20", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 351, "tagName": "div", "time": 7225.833485, "url": "", "pos": 1328, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84afcf0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 369, "tagName": "div", "time": 7225.833488, "url": "", "pos": 1346, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb844b0f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 375, "tagName": "div", "time": 7225.833490, "url": "", "pos": 1352, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb844b090", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 394, "tagName": "div", "time": 7225.833492, "url": "", "pos": 1371, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb844b030", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 400, "tagName": "div", "time": 7225.833494, "url": "", "pos": 1377, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb844b060", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 419, "tagName": "div", "time": 7225.833495, "url": "", "pos": 1396, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb844b9c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 425, "tagName": "div", "time": 7225.833498, "url": "", "pos": 1402, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb844b000", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 482, "tagName": "span", "time": 7225.833501, "url": "", "pos": 1459, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84af540", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 489, "tagName": "span", "time": 7225.833535, "url": "", "pos": 1466, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84af570", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 508, "tagName": "span", "time": 7225.833538, "url": "", "pos": 1485, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84af630", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 525, "tagName": "span", "time": 7225.833544, "url": "", "pos": 1502, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84af660", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 529, "tagName": "a", "time": 7225.833545, "url": "", "pos": 1506, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84af690", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 534, "tagName": "li", "time": 7225.833546, "url": "", "pos": 1511, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84af6c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 572, "tagName": "li", "time": 7225.833548, "url": "", "pos": 1549, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84af6f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 700, "tagName": "a", "time": 7225.833558, "url": "", "pos": 1677, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84af720", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 718, "tagName": "div", "time": 7225.833573, "url": "", "pos": 1695, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84af750", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 724, "tagName": "div", "time": 7225.833576, "url": "", "pos": 1701, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84af780", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 742, "tagName": "div", "time": 7225.833577, "url": "", "pos": 1719, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84af7b0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 748, "tagName": "div", "time": 7225.833579, "url": "", "pos": 1725, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84af7e0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 767, "tagName": "div", "time": 7225.833581, "url": "", "pos": 1744, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84af810", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 773, "tagName": "div", "time": 7225.833583, "url": "", "pos": 1750, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84af840", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 792, "tagName": "div", "time": 7225.833584, "url": "", "pos": 1769, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84af870", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 798, "tagName": "div", "time": 7225.833586, "url": "", "pos": 1775, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84af8a0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 854, "tagName": "span", "time": 7225.833588, "url": "", "pos": 1831, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84af8d0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 861, "tagName": "span", "time": 7225.833596, "url": "", "pos": 1838, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84af900", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 880, "tagName": "span", "time": 7225.833597, "url": "", "pos": 1857, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84af030", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 896, "tagName": "span", "time": 7225.833602, "url": "", "pos": 1873, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84af060", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 900, "tagName": "a", "time": 7225.833603, "url": "", "pos": 1877, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84af090", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 905, "tagName": "li", "time": 7225.833604, "url": "", "pos": 1882, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84af0c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 943, "tagName": "li", "time": 7225.833606, "url": "", "pos": 1920, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84af150", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1056, "tagName": "a", "time": 7225.833624, "url": "", "pos": 2033, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84af0f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1074, "tagName": "div", "time": 7225.833627, "url": "", "pos": 2051, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84af1b0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1080, "tagName": "div", "time": 7225.833630, "url": "", "pos": 2057, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84af1e0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1098, "tagName": "div", "time": 7225.833631, "url": "", "pos": 2075, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84af210", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1104, "tagName": "div", "time": 7225.833633, "url": "", "pos": 2081, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84af240", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1123, "tagName": "div", "time": 7225.833635, "url": "", "pos": 2100, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84af270", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1129, "tagName": "div", "time": 7225.833637, "url": "", "pos": 2106, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84af2a0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1148, "tagName": "div", "time": 7225.833638, "url": "", "pos": 2125, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84af2d0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1154, "tagName": "div", "time": 7225.833641, "url": "", "pos": 2131, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84af300", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1209, "tagName": "span", "time": 7225.833643, "url": "", "pos": 2186, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84af330", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1216, "tagName": "span", "time": 7225.833650, "url": "", "pos": 2193, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b39f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1235, "tagName": "span", "time": 7225.833651, "url": "", "pos": 2212, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3a50", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1246, "tagName": "span", "time": 7225.833676, "url": "", "pos": 2223, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3a80", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1250, "tagName": "a", "time": 7225.833677, "url": "", "pos": 2227, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3ab0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1255, "tagName": "li", "time": 7225.833678, "url": "", "pos": 2232, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3ae0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1293, "tagName": "li", "time": 7225.833680, "url": "", "pos": 2270, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3b70", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1394, "tagName": "a", "time": 7225.833686, "url": "", "pos": 2371, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3b10", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1412, "tagName": "div", "time": 7225.833690, "url": "", "pos": 2389, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3bd0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1418, "tagName": "div", "time": 7225.833692, "url": "", "pos": 2395, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3c00", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1436, "tagName": "div", "time": 7225.833693, "url": "", "pos": 2413, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3c30", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1442, "tagName": "div", "time": 7225.833695, "url": "", "pos": 2419, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3c60", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1461, "tagName": "div", "time": 7225.833696, "url": "", "pos": 2438, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3c90", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1467, "tagName": "div", "time": 7225.833699, "url": "", "pos": 2444, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3cc0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1486, "tagName": "div", "time": 7225.833700, "url": "", "pos": 2463, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3cf0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1492, "tagName": "div", "time": 7225.833713, "url": "", "pos": 2469, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3d20", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1548, "tagName": "span", "time": 7225.833715, "url": "", "pos": 2525, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3d50", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1555, "tagName": "span", "time": 7225.833724, "url": "", "pos": 2532, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3d80", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1574, "tagName": "span", "time": 7225.833725, "url": "", "pos": 2551, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3e10", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1588, "tagName": "span", "time": 7225.833728, "url": "", "pos": 2565, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3e40", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1592, "tagName": "a", "time": 7225.833729, "url": "", "pos": 2569, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3e70", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1597, "tagName": "li", "time": 7225.833730, "url": "", "pos": 2574, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3ea0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1635, "tagName": "li", "time": 7225.833732, "url": "", "pos": 2612, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3f30", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1747, "tagName": "a", "time": 7225.833738, "url": "", "pos": 2724, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3ed0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1765, "tagName": "div", "time": 7225.833741, "url": "", "pos": 2742, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3f90", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1771, "tagName": "div", "time": 7225.833743, "url": "", "pos": 2748, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3fc0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1789, "tagName": "div", "time": 7225.833745, "url": "", "pos": 2766, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b33f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1795, "tagName": "div", "time": 7225.833747, "url": "", "pos": 2772, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3420", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1814, "tagName": "div", "time": 7225.833749, "url": "", "pos": 2791, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3450", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1820, "tagName": "div", "time": 7225.833762, "url": "", "pos": 2797, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3480", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1839, "tagName": "div", "time": 7225.833764, "url": "", "pos": 2816, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b34b0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1845, "tagName": "div", "time": 7225.833766, "url": "", "pos": 2822, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b34e0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1902, "tagName": "span", "time": 7225.833768, "url": "", "pos": 2879, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3510", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1909, "tagName": "span", "time": 7225.833775, "url": "", "pos": 2886, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3540", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1928, "tagName": "span", "time": 7225.833776, "url": "", "pos": 2905, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b35a0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1939, "tagName": "span", "time": 7225.833779, "url": "", "pos": 2916, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b35d0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1943, "tagName": "a", "time": 7225.833780, "url": "", "pos": 2920, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3600", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1948, "tagName": "li", "time": 7225.833781, "url": "", "pos": 2925, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3630", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 1986, "tagName": "li", "time": 7225.833783, "url": "", "pos": 2963, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3660", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2125, "tagName": "a", "time": 7225.833790, "url": "", "pos": 3102, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3690", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2143, "tagName": "div", "time": 7225.833794, "url": "", "pos": 3120, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b36c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2149, "tagName": "div", "time": 7225.833796, "url": "", "pos": 3126, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b36f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2167, "tagName": "div", "time": 7225.833797, "url": "", "pos": 3144, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3720", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2173, "tagName": "div", "time": 7225.833810, "url": "", "pos": 3150, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3750", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2192, "tagName": "div", "time": 7225.833812, "url": "", "pos": 3169, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3780", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2198, "tagName": "div", "time": 7225.833814, "url": "", "pos": 3175, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b37b0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2217, "tagName": "div", "time": 7225.833816, "url": "", "pos": 3194, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b37e0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2223, "tagName": "div", "time": 7225.833817, "url": "", "pos": 3200, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3810", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2280, "tagName": "span", "time": 7225.833819, "url": "", "pos": 3257, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3840", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2287, "tagName": "span", "time": 7225.833826, "url": "", "pos": 3264, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3870", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2306, "tagName": "span", "time": 7225.833828, "url": "", "pos": 3283, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3900", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2323, "tagName": "span", "time": 7225.833831, "url": "", "pos": 3300, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3930", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2327, "tagName": "a", "time": 7225.833832, "url": "", "pos": 3304, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3960", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2332, "tagName": "li", "time": 7225.833833, "url": "", "pos": 3309, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3990", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2370, "tagName": "li", "time": 7225.833834, "url": "", "pos": 3347, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3030", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2477, "tagName": "a", "time": 7225.833840, "url": "", "pos": 3454, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b39c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2495, "tagName": "div", "time": 7225.833843, "url": "", "pos": 3472, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3090", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2501, "tagName": "div", "time": 7225.833845, "url": "", "pos": 3478, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b30c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2519, "tagName": "div", "time": 7225.833846, "url": "", "pos": 3496, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b30f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2525, "tagName": "div", "time": 7225.833848, "url": "", "pos": 3502, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3120", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2544, "tagName": "div", "time": 7225.833850, "url": "", "pos": 3521, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3150", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2550, "tagName": "div", "time": 7225.833863, "url": "", "pos": 3527, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3180", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2569, "tagName": "div", "time": 7225.833865, "url": "", "pos": 3546, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b31b0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2575, "tagName": "div", "time": 7225.833874, "url": "", "pos": 3552, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b31e0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2631, "tagName": "span", "time": 7225.833877, "url": "", "pos": 3608, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3210", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2638, "tagName": "span", "time": 7225.833886, "url": "", "pos": 3615, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3240", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2657, "tagName": "span", "time": 7225.833887, "url": "", "pos": 3634, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b32a0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2669, "tagName": "span", "time": 7225.833896, "url": "", "pos": 3646, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b32d0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2673, "tagName": "a", "time": 7225.833898, "url": "", "pos": 3650, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3300", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2678, "tagName": "li", "time": 7225.833899, "url": "", "pos": 3655, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b3330", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2716, "tagName": "li", "time": 7225.833901, "url": "", "pos": 3693, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b33c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2819, "tagName": "a", "time": 7225.833906, "url": "", "pos": 3796, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b3360", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2837, "tagName": "div", "time": 7225.833915, "url": "", "pos": 3814, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6a20", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2843, "tagName": "div", "time": 7225.833918, "url": "", "pos": 3820, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6a50", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2861, "tagName": "div", "time": 7225.833919, "url": "", "pos": 3838, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6a80", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2867, "tagName": "div", "time": 7225.833921, "url": "", "pos": 3844, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6ab0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2886, "tagName": "div", "time": 7225.833922, "url": "", "pos": 3863, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6ae0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2892, "tagName": "div", "time": 7225.833924, "url": "", "pos": 3869, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6b10", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2911, "tagName": "div", "time": 7225.833937, "url": "", "pos": 3888, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6b40", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2917, "tagName": "div", "time": 7225.833940, "url": "", "pos": 3894, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6b70", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2974, "tagName": "span", "time": 7225.833942, "url": "", "pos": 3951, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6ba0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 2981, "tagName": "span", "time": 7225.833949, "url": "", "pos": 3958, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6bd0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3000, "tagName": "span", "time": 7225.833951, "url": "", "pos": 3977, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6c30", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3012, "tagName": "span", "time": 7225.833954, "url": "", "pos": 3989, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6c60", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3016, "tagName": "a", "time": 7225.833955, "url": "", "pos": 3993, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6c90", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3021, "tagName": "li", "time": 7225.833956, "url": "", "pos": 3998, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6cc0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3059, "tagName": "li", "time": 7225.833958, "url": "", "pos": 4036, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6d50", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3168, "tagName": "a", "time": 7225.833963, "url": "", "pos": 4145, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6cf0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3186, "tagName": "div", "time": 7225.833966, "url": "", "pos": 4163, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6db0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3192, "tagName": "div", "time": 7225.833968, "url": "", "pos": 4169, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6de0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3210, "tagName": "div", "time": 7225.833969, "url": "", "pos": 4187, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6e10", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3216, "tagName": "div", "time": 7225.833971, "url": "", "pos": 4193, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6e40", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3235, "tagName": "div", "time": 7225.833972, "url": "", "pos": 4212, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6e70", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3241, "tagName": "div", "time": 7225.833974, "url": "", "pos": 4218, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6ea0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3260, "tagName": "div", "time": 7225.833976, "url": "", "pos": 4237, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6ed0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3266, "tagName": "div", "time": 7225.833989, "url": "", "pos": 4243, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6f00", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3323, "tagName": "span", "time": 7225.833991, "url": "", "pos": 4300, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6f30", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3330, "tagName": "span", "time": 7225.833997, "url": "", "pos": 4307, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6f60", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3349, "tagName": "span", "time": 7225.833999, "url": "", "pos": 4326, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6fc0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3362, "tagName": "span", "time": 7225.834002, "url": "", "pos": 4339, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b63f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3366, "tagName": "a", "time": 7225.834003, "url": "", "pos": 4343, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6420", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3371, "tagName": "li", "time": 7225.834005, "url": "", "pos": 4348, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6450", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3409, "tagName": "li", "time": 7225.834006, "url": "", "pos": 4386, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b64e0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3529, "tagName": "a", "time": 7225.834012, "url": "", "pos": 4506, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6480", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3547, "tagName": "div", "time": 7225.834017, "url": "", "pos": 4524, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6540", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3553, "tagName": "div", "time": 7225.834019, "url": "", "pos": 4530, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6570", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3571, "tagName": "div", "time": 7225.834020, "url": "", "pos": 4548, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b65a0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3577, "tagName": "div", "time": 7225.834023, "url": "", "pos": 4554, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b65d0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3596, "tagName": "div", "time": 7225.834035, "url": "", "pos": 4573, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6600", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3602, "tagName": "div", "time": 7225.834038, "url": "", "pos": 4579, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6630", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3621, "tagName": "div", "time": 7225.834039, "url": "", "pos": 4598, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6660", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3627, "tagName": "div", "time": 7225.834042, "url": "", "pos": 4604, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6690", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3683, "tagName": "span", "time": 7225.834044, "url": "", "pos": 4660, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b66c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3690, "tagName": "span", "time": 7225.834050, "url": "", "pos": 4667, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b66f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3709, "tagName": "span", "time": 7225.834052, "url": "", "pos": 4686, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6780", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3723, "tagName": "span", "time": 7225.834056, "url": "", "pos": 4700, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b67b0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3727, "tagName": "a", "time": 7225.834057, "url": "", "pos": 4704, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b67e0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3732, "tagName": "li", "time": 7225.834058, "url": "", "pos": 4709, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6810", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3770, "tagName": "li", "time": 7225.834059, "url": "", "pos": 4747, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b68a0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3886, "tagName": "a", "time": 7225.834065, "url": "", "pos": 4863, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6840", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3904, "tagName": "div", "time": 7225.834068, "url": "", "pos": 4881, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6900", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3910, "tagName": "div", "time": 7225.834070, "url": "", "pos": 4887, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6930", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3928, "tagName": "div", "time": 7225.834071, "url": "", "pos": 4905, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6960", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3934, "tagName": "div", "time": 7225.834084, "url": "", "pos": 4911, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6990", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3953, "tagName": "div", "time": 7225.834086, "url": "", "pos": 4930, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b69c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3959, "tagName": "div", "time": 7225.834088, "url": "", "pos": 4936, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6000", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3978, "tagName": "div", "time": 7225.834089, "url": "", "pos": 4955, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6030", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 3984, "tagName": "div", "time": 7225.834092, "url": "", "pos": 4961, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6060", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4041, "tagName": "span", "time": 7225.834094, "url": "", "pos": 5018, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6090", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4048, "tagName": "span", "time": 7225.834100, "url": "", "pos": 5025, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b60c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4067, "tagName": "span", "time": 7225.834102, "url": "", "pos": 5044, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6150", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4084, "tagName": "span", "time": 7225.834105, "url": "", "pos": 5061, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6180", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4088, "tagName": "a", "time": 7225.834106, "url": "", "pos": 5065, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b61b0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4093, "tagName": "li", "time": 7225.834107, "url": "", "pos": 5070, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b61e0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4131, "tagName": "li", "time": 7225.834108, "url": "", "pos": 5108, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6270", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4235, "tagName": "a", "time": 7225.834113, "url": "", "pos": 5212, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6210", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4253, "tagName": "div", "time": 7225.834116, "url": "", "pos": 5230, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b62d0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4259, "tagName": "div", "time": 7225.849411, "url": "", "pos": 5236, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6300", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4277, "tagName": "div", "time": 7225.849430, "url": "", "pos": 5254, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6330", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4283, "tagName": "div", "time": 7225.849451, "url": "", "pos": 5260, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b6360", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4302, "tagName": "div", "time": 7225.849453, "url": "", "pos": 5279, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb84b6390", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4308, "tagName": "div", "time": 7225.849456, "url": "", "pos": 5285, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb84b63c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4327, "tagName": "div", "time": 7225.849457, "url": "", "pos": 5304, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873a9f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4333, "tagName": "div", "time": 7225.849460, "url": "", "pos": 5310, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873aa20", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4389, "tagName": "span", "time": 7225.849477, "url": "", "pos": 5366, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873aa50", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4396, "tagName": "span", "time": 7225.849506, "url": "", "pos": 5373, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873aa80", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4415, "tagName": "span", "time": 7225.849508, "url": "", "pos": 5392, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873aae0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4428, "tagName": "span", "time": 7225.849514, "url": "", "pos": 5405, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873ab10", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4432, "tagName": "a", "time": 7225.849515, "url": "", "pos": 5409, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873ab40", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4437, "tagName": "li", "time": 7225.849517, "url": "", "pos": 5414, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873ab70", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4442, "tagName": "ul", "time": 7225.849518, "url": "", "pos": 5419, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873abd0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4556, "tagName": "a", "time": 7225.849523, "url": "", "pos": 5533, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873ac60", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4564, "tagName": "a", "time": 7225.849529, "url": "", "pos": 5541, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873ac90", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4584, "tagName": "span", "time": 7225.849531, "url": "", "pos": 5561, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873acf0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4591, "tagName": "span", "time": 7225.849533, "url": "", "pos": 5568, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873ad50", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4638, "tagName": "ul", "time": 7225.849535, "url": "", "pos": 5615, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873adb0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4676, "tagName": "li", "time": 7225.849565, "url": "", "pos": 5653, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873ade0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4816, "tagName": "a", "time": 7225.849580, "url": "", "pos": 5793, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873ae10", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4834, "tagName": "div", "time": 7225.849584, "url": "", "pos": 5811, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873ae40", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4840, "tagName": "div", "time": 7225.849587, "url": "", "pos": 5817, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873ae70", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4858, "tagName": "div", "time": 7225.849588, "url": "", "pos": 5835, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873aea0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4864, "tagName": "div", "time": 7225.849590, "url": "", "pos": 5841, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873aed0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4883, "tagName": "div", "time": 7225.849592, "url": "", "pos": 5860, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873af00", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4889, "tagName": "div", "time": 7225.849594, "url": "", "pos": 5866, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873af30", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4908, "tagName": "div", "time": 7225.849595, "url": "", "pos": 5885, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873af60", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4914, "tagName": "div", "time": 7225.849597, "url": "", "pos": 5891, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873af90", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4971, "tagName": "span", "time": 7225.849599, "url": "", "pos": 5948, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873afc0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4978, "tagName": "span", "time": 7225.849607, "url": "", "pos": 5955, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873a3f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 4997, "tagName": "span", "time": 7225.849608, "url": "", "pos": 5974, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873a480", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5012, "tagName": "span", "time": 7225.849612, "url": "", "pos": 5989, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873a4b0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5016, "tagName": "a", "time": 7225.849613, "url": "", "pos": 5993, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873a4e0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5021, "tagName": "li", "time": 7225.849614, "url": "", "pos": 5998, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873a510", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5059, "tagName": "li", "time": 7225.849616, "url": "", "pos": 6036, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873a5a0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5176, "tagName": "a", "time": 7225.849623, "url": "", "pos": 6153, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873a540", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5194, "tagName": "div", "time": 7225.849626, "url": "", "pos": 6171, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873a600", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5200, "tagName": "div", "time": 7225.849628, "url": "", "pos": 6177, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873a630", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5218, "tagName": "div", "time": 7225.849629, "url": "", "pos": 6195, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873a660", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5224, "tagName": "div", "time": 7225.849631, "url": "", "pos": 6201, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873a690", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5243, "tagName": "div", "time": 7225.849633, "url": "", "pos": 6220, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873a6c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5249, "tagName": "div", "time": 7225.849635, "url": "", "pos": 6226, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873a6f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5268, "tagName": "div", "time": 7225.849636, "url": "", "pos": 6245, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873a720", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5274, "tagName": "div", "time": 7225.849638, "url": "", "pos": 6251, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873a750", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5330, "tagName": "span", "time": 7225.849640, "url": "", "pos": 6307, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873a780", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5337, "tagName": "span", "time": 7225.849646, "url": "", "pos": 6314, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873a7b0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5356, "tagName": "span", "time": 7225.849647, "url": "", "pos": 6333, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873a810", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5367, "tagName": "span", "time": 7225.849650, "url": "", "pos": 6344, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873a840", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5371, "tagName": "a", "time": 7225.849651, "url": "", "pos": 6348, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873a870", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5376, "tagName": "li", "time": 7225.849652, "url": "", "pos": 6353, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873a8a0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5414, "tagName": "li", "time": 7225.849654, "url": "", "pos": 6391, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873a8d0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5556, "tagName": "a", "time": 7225.849667, "url": "", "pos": 6533, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873a900", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5574, "tagName": "div", "time": 7225.849672, "url": "", "pos": 6551, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873a930", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5580, "tagName": "div", "time": 7225.849674, "url": "", "pos": 6557, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873a960", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5598, "tagName": "div", "time": 7225.849676, "url": "", "pos": 6575, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873a990", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5604, "tagName": "div", "time": 7225.849678, "url": "", "pos": 6581, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873a9c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5623, "tagName": "div", "time": 7225.849679, "url": "", "pos": 6600, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873a000", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5629, "tagName": "div", "time": 7225.849681, "url": "", "pos": 6606, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873a030", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5648, "tagName": "div", "time": 7225.849683, "url": "", "pos": 6625, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873a060", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5654, "tagName": "div", "time": 7225.849685, "url": "", "pos": 6631, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873a090", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5711, "tagName": "span", "time": 7225.849687, "url": "", "pos": 6688, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873a0c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5718, "tagName": "span", "time": 7225.849693, "url": "", "pos": 6695, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873a0f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5737, "tagName": "span", "time": 7225.849695, "url": "", "pos": 6714, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873a150", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5750, "tagName": "span", "time": 7225.849698, "url": "", "pos": 6727, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873a180", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5754, "tagName": "a", "time": 7225.849699, "url": "", "pos": 6731, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873a1b0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5759, "tagName": "li", "time": 7225.849700, "url": "", "pos": 6736, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873a1e0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5797, "tagName": "li", "time": 7225.849702, "url": "", "pos": 6774, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873a270", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5899, "tagName": "a", "time": 7225.849707, "url": "", "pos": 6876, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873a210", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5917, "tagName": "div", "time": 7225.849710, "url": "", "pos": 6894, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873a2d0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5923, "tagName": "div", "time": 7225.849713, "url": "", "pos": 6900, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873a300", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5941, "tagName": "div", "time": 7225.849714, "url": "", "pos": 6918, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873a330", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5947, "tagName": "div", "time": 7225.849717, "url": "", "pos": 6924, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873a360", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5966, "tagName": "div", "time": 7225.849718, "url": "", "pos": 6943, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873a390", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5972, "tagName": "div", "time": 7225.849721, "url": "", "pos": 6949, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873a3c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5991, "tagName": "div", "time": 7225.849722, "url": "", "pos": 6968, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873c9f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 5997, "tagName": "div", "time": 7225.849724, "url": "", "pos": 6974, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873ca20", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6054, "tagName": "span", "time": 7225.849733, "url": "", "pos": 7031, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873ca50", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6061, "tagName": "span", "time": 7225.849740, "url": "", "pos": 7038, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873ca80", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6080, "tagName": "span", "time": 7225.849742, "url": "", "pos": 7057, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873cb10", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6094, "tagName": "span", "time": 7225.849746, "url": "", "pos": 7071, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873cb40", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6098, "tagName": "a", "time": 7225.849747, "url": "", "pos": 7075, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873cb70", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6103, "tagName": "li", "time": 7225.849748, "url": "", "pos": 7080, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873cba0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6141, "tagName": "li", "time": 7225.849750, "url": "", "pos": 7118, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873cc30", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6261, "tagName": "a", "time": 7225.849756, "url": "", "pos": 7238, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873cbd0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6279, "tagName": "div", "time": 7225.849759, "url": "", "pos": 7256, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873cc90", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6285, "tagName": "div", "time": 7225.849761, "url": "", "pos": 7262, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873ccc0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6303, "tagName": "div", "time": 7225.849762, "url": "", "pos": 7280, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873ccf0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6309, "tagName": "div", "time": 7225.849764, "url": "", "pos": 7286, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873cd20", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6328, "tagName": "div", "time": 7225.849765, "url": "", "pos": 7305, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873cd50", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6334, "tagName": "div", "time": 7225.849767, "url": "", "pos": 7311, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873cd80", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6353, "tagName": "div", "time": 7225.849768, "url": "", "pos": 7330, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873cdb0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6359, "tagName": "div", "time": 7225.849770, "url": "", "pos": 7336, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873cde0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6415, "tagName": "span", "time": 7225.849772, "url": "", "pos": 7392, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873ce10", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6422, "tagName": "span", "time": 7225.849779, "url": "", "pos": 7399, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873ce40", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6441, "tagName": "span", "time": 7225.849780, "url": "", "pos": 7418, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873ced0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6456, "tagName": "span", "time": 7225.849783, "url": "", "pos": 7433, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873cf00", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6460, "tagName": "a", "time": 7225.849784, "url": "", "pos": 7437, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873cf30", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6465, "tagName": "li", "time": 7225.849785, "url": "", "pos": 7442, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873cf60", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6503, "tagName": "li", "time": 7225.849786, "url": "", "pos": 7480, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873c3f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6604, "tagName": "a", "time": 7225.849791, "url": "", "pos": 7581, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873cf90", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6622, "tagName": "div", "time": 7225.849794, "url": "", "pos": 7599, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873c450", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6628, "tagName": "div", "time": 7225.849796, "url": "", "pos": 7605, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873c480", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6646, "tagName": "div", "time": 7225.849798, "url": "", "pos": 7623, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873c4b0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6652, "tagName": "div", "time": 7225.849800, "url": "", "pos": 7629, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873c4e0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6671, "tagName": "div", "time": 7225.849801, "url": "", "pos": 7648, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873c510", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6677, "tagName": "div", "time": 7225.849803, "url": "", "pos": 7654, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873c540", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6696, "tagName": "div", "time": 7225.849804, "url": "", "pos": 7673, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873c570", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6702, "tagName": "div", "time": 7225.849806, "url": "", "pos": 7679, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873c5a0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6758, "tagName": "span", "time": 7225.849808, "url": "", "pos": 7735, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873c5d0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6765, "tagName": "span", "time": 7225.849813, "url": "", "pos": 7742, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873c600", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6784, "tagName": "span", "time": 7225.849815, "url": "", "pos": 7761, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873c690", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6799, "tagName": "span", "time": 7225.849817, "url": "", "pos": 7776, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873c6c0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6803, "tagName": "a", "time": 7225.849818, "url": "", "pos": 7780, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873c6f0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6808, "tagName": "li", "time": 7225.849819, "url": "", "pos": 7785, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873c720", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6813, "tagName": "ul", "time": 7225.849820, "url": "", "pos": 7790, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873c780", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6882, "tagName": "a", "time": 7225.849822, "url": "", "pos": 7859, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb873c810", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6909, "tagName": "a", "time": 7225.849826, "url": "", "pos": 7886, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873c840", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6915, "tagName": "div", "time": 7225.849827, "url": "", "pos": 7892, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873c870", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6921, "tagName": "div", "time": 7225.849828, "url": "", "pos": 7898, "chunkLen": 7989, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb873c8a0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 6928, "tagName": "style", "time": 7225.849829, "url": "", "pos": 7905, "chunkLen": 7989, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8435de0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 22094, "tagName": "style", "time": 7225.850542, "url": "", "pos": 23071, "chunkLen": 23135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb82cf7b0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 267, "column": 22102, "tagName": "script", "time": 7225.862959, "url": "", "pos": 23079, "chunkLen": 23135, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8435e70", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 268, "column": 33, "tagName": "script", "time": 7225.862991, "url": "", "pos": 23135, "chunkLen": 23135, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb844b8a0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 268, "column": 41, "tagName": "script", "time": 7225.898578, "url": "", "pos": 8, "chunkLen": 941, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb82cf780", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 269, "column": 359, "tagName": "script", "time": 7225.898634, "url": "", "pos": 880, "chunkLen": 941, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb844b720", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 269, "column": 394, "tagName": "div", "time": 7225.899261, "url": "", "pos": 915, "chunkLen": 941, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8435fc0", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 269, "column": 400, "tagName": "div", "time": 7225.908711, "url": "", "pos": 921, "chunkLen": 941, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839e330", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 269, "column": 406, "tagName": "div", "time": 7225.908718, "url": "", "pos": 927, "chunkLen": 941, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb839e390", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 269, "column": 413, "tagName": "body", "time": 7225.908720, "url": "", "pos": 934, "chunkLen": 941, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb83d6750", "doc": "https://www.google.fr/?gws_rd=ssl", "row": 269, "column": 420, "tagName": "html", "time": 7225.908721, "url": "https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.CqFrPIKIxF4.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_SqGYjlKSpzsbc2UGyTC5n3Z0ZtQ/cb=gapi.loaded_0", "pos": 941, "chunkLen": 941, "isStartTag": 0}}
+{"Resource": {"id": 2, "url": "https://ssl.gstatic.com/gb/images/i1_1967ca6a.png", "sentTime": -1.000000, "len": 8056, "from": "0xb83d6690",                            "mimeType": "image/png", "contentLength": 8056, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 7225.711409, "len": 8056}}
+{"Resource": {"id": 3, "url": "https://www.google.fr/images/nav_logo242.png", "sentTime": -1.000000, "len": 21909, "from": "0xb839b540",                            "mimeType": "image/png", "contentLength": 21909, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 7225.869759, "len": 21909}}
+{"Resource": {"id": 4, "url": "https://www.google.fr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png", "sentTime": -1.000000, "len": 5969, "from": "0xb839e240",                            "mimeType": "image/png", "contentLength": 5969, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 7225.870010, "len": 5969}}
+{"Resource": {"id": 5, "url": "https://www.google.fr/xjs/_/js/k=xjs.s.fr.wx3DOsiW6vQ.O/m=sx,c,sb,cdos,cr,elog,epb,jsa,r,hsm,qsm,j,p,d,csi/am=AJS0CgoS8fchgGwhrCA1YGBB/rt=j/d=1/t=zcms/rs=ACT90oFq2hYt4_LWpQTz318oeaUnC_l4HQ", "sentTime": -1.000000, "len": 387597, "from": "0xb844bd80",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 7225.870180, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 7225.871636, "len": 65536}}
+{"ReceivedChunk": {"receivedTime": 7225.876518, "len": 2637}}
+{"ReceivedChunk": {"receivedTime": 7225.876674, "len": 89393}}
+{"ReceivedChunk": {"receivedTime": 7225.876845, "len": 98586}}
+{"ReceivedChunk": {"receivedTime": 7225.877007, "len": 95874}}
+{"ReceivedChunk": {"receivedTime": 7225.898402, "len": 2803}}
+{"Resource": {"id": 6, "url": "https://www.google.com/textinputassistant/tia.png", "sentTime": -1.000000, "len": 387, "from": "0xb83d6750",                            "mimeType": "image/png", "contentLength": 387, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 7226.211013, "len": 387}}
+{"Resource": {"id": 7, "url": "data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw%3D%3D", "sentTime": -1.000000, "len": 43, "from": "0xb83d6750",                            "mimeType": "image/gif", "contentLength": 43, "httpStatus": 0, "connId": 0, "connReused": 0, "cached": 0,                            "requestTime": 7226.211675, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 7226.211939, "len": 43}}
+{"Resource": {"id": 9, "url": "https://www.google.fr/xjs/_/js/k=xjs.s.fr.wx3DOsiW6vQ.O/m=sy31,sy37,em2,em1,sy39,em0,sy253,aa,abd,sy63,sy62,sy61,sy64,em13,async,erh,sy66,foot,fpe,idck,ipv6,sy128,sy254,lu,m,sf,sy208,sy209,sy46,sy35,sy108,sy210,sy211,sy43,sy47,sy105,sy138,sy212,sy269,sy270,sy267,sy205,sy268,sy96,sy274,sy214,sy271,sy289,em8,em9,sy36,sy97,em12,em10,em6,em11,sy290,skp,vm/am=AJS0CgoS8fchgGwhrCA1YGBB/rt=j/d=0/t=zcms/rs=ACT90oFq2hYt4_LWpQTz318oeaUnC_l4HQ", "sentTime": -1.000000, "len": 59435, "from": "0xb83d6750",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 7226.218483, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 7226.218654, "len": 26667}}
+{"Resource": {"id": 8, "url": "https://www.google.fr/gen_204?atyp=i&ct=&cad=&vet=10ahUKEwjx8eWFkcfMAhXJKh4KHcabCogQ-CcICQ..s&ei=5m8tV_HmKMnVeMa3qsAI&zx=1462595559336", "sentTime": -1.000000, "len": 0, "from": "0xb83d6750",                            "mimeType": "text/html", "contentLength": 0, "httpStatus": 204, "connId": 0, "connReused": 0, "cached": 0}}
+{"Resource": {"id": 10, "url": "https://www.gstatic.com/og/_/js/k=og.og2.en_US.ijp-IvDYjzk.O/rt=j/t=zcms/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtEYlVmDaqidOCejnf1WGjCzEMntg", "sentTime": -1.000000, "len": 144286, "from": "0xb83d6750",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 7226.224166, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 7226.264254, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 7226.264625, "len": 61990}}
+{"ReceivedChunk": {"receivedTime": 7226.264970, "len": 49528}}
+{"Resource": {"id": 11, "url": "https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.CqFrPIKIxF4.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_SqGYjlKSpzsbc2UGyTC5n3Z0ZtQ/cb=gapi.loaded_0", "sentTime": -1.000000, "len": 142160, "from": "0xb83d6750",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 7226.338960, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 7226.375615, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 7226.375742, "len": 61287}}
+{"ReceivedChunk": {"receivedTime": 7226.375871, "len": 48105}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.fr/?gws_rd=ssl", "code": "0xb82cfdb0", "row": 0, "column": 341, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.fr/?gws_rd=ssl", "code": "0xb82cf060", "row": 9, "column": 2940, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.fr/?gws_rd=ssl", "code": "0xb840aa80", "row": 12, "column": 42, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.fr/?gws_rd=ssl", "code": "0xb840a9c0", "row": 12, "column": 1871, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.fr/?gws_rd=ssl", "code": "0xb840a150", "row": 12, "column": 2723, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.fr/?gws_rd=ssl", "code": "0xb840a390", "row": 52, "column": 377, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.fr/?gws_rd=ssl", "code": "0xb83a6d80", "row": 52, "column": 1522, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.fr/?gws_rd=ssl", "code": "0xb83a6810", "row": 52, "column": 2210, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.fr/?gws_rd=ssl", "code": "0xb83a6180", "row": 54, "column": 24, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.fr/?gws_rd=ssl", "code": "0xb83d6a20", "row": 54, "column": 532, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.fr/?gws_rd=ssl", "code": "0xb839e150", "row": 57, "column": 3557, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.fr/?gws_rd=ssl", "code": "0xb84358a0", "row": 57, "column": 4117, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.fr/?gws_rd=ssl", "code": "0xb84359c0", "row": 57, "column": 4340, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.fr/?gws_rd=ssl", "code": "0xb8435180", "row": 57, "column": 4757, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.fr/?gws_rd=ssl", "code": "0xb844bae0", "row": 57, "column": 9504, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.fr/?gws_rd=ssl", "code": "0xb844bc30", "row": 57, "column": 9607, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.fr/?gws_rd=ssl", "code": "0xb844bd80", "row": 58, "column": 41, "url": "https://www.google.fr/xjs/_/js/k=xjs.s.fr.wx3DOsiW6vQ.O/m=sx,c,sb,cdos,cr,elog,epb,jsa,r,hsm,qsm,j,p,d,csi/am=AJS0CgoS8fchgGwhrCA1YGBB/rt=j/d=1/t=zcms/rs=ACT90oFq2hYt4_LWpQTz318oeaUnC_l4HQ"}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.fr/?gws_rd=ssl", "code": "0xb873c8a0", "row": 267, "column": 6928, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.fr/?gws_rd=ssl", "code": "0xb82cf7b0", "row": 267, "column": 22102, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.fr/?gws_rd=ssl", "code": "0xb844b8a0", "row": 268, "column": 41, "url": ""}}
+{"Computation": {"type": "execScript", "code": "0xb82cfd20", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.545013, "endTime": 7225.570453, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb840a000", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.586611, "endTime": 7225.594612, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb83a69f0", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.595243, "endTime": 7225.595282, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb83a6de0", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.595440, "endTime": 7225.606612, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb83a6de0", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.595713, "endTime": 7225.606572, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb83a6de0", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.606384, "endTime": 7225.606422, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb83a6de0", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.606428, "endTime": 7225.606563, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb82cf990", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.607357, "endTime": 7225.607886, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb82cf990", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.607687, "endTime": 7225.607749, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb8435900", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.616712, "endTime": 7225.620344, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb84351e0", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.634296, "endTime": 7225.637586, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb844bb40", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.638810, "endTime": 7225.639339, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb844bd80", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.653514, "endTime": 7225.653514, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb844bd80", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.653515, "endTime": 7225.654607, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb844bd80", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.654616, "endTime": 7225.654617, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb844bd80", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.654618, "endTime": 7225.654672, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb844bd80", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.654675, "endTime": 7225.654676, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb844bd80", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.654677, "endTime": 7225.654688, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb844bd80", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.654691, "endTime": 7225.654691, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb844bd80", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.654692, "endTime": 7225.654739, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb844bd80", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.654742, "endTime": 7225.654743, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb844bd80", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.654743, "endTime": 7225.654773, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb844bd80", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.654777, "endTime": 7225.654777, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb844bd80", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.654778, "endTime": 7225.654901, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb844bd80", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.654905, "endTime": 7225.654906, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb844bd80", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.654906, "endTime": 7225.654939, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb844bd80", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.654943, "endTime": 7225.654944, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb844bd80", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.654945, "endTime": 7225.654957, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb844bd80", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.690332, "endTime": 7225.695229, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb82cf5d0", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.715336, "endTime": 7225.833342, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb8435e70", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.862999, "endTime": 7225.869530, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8435e70", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.877150, "endTime": 7225.877329, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb8435e70", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.877341, "endTime": 7225.877344, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8435e70", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.877345, "endTime": 7225.877439, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8435e70", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.877448, "endTime": 7225.877448, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8435e70", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.877449, "endTime": 7225.897828, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8435e70", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.897834, "endTime": 7225.897835, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8435e70", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.897836, "endTime": 7225.898221, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb82cf780", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.898644, "endTime": 7225.899248, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.908794, "endTime": 7225.908795, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.908796, "endTime": 7225.912750, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.909309, "endTime": 7225.909950, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.911045, "endTime": 7225.911146, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.911959, "endTime": 7225.912110, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.912752, "endTime": 7225.912753, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.923473, "endTime": 7225.923639, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7225.934558, "endTime": 7226.136631, "urlRecalcStyle": "https://www.google.fr/xjs/_/js/k=xjs.s.fr.wx3DOsiW6vQ.O/m=sx,c,sb,cdos,cr,elog,epb,jsa,r,hsm,qsm,j,p,d,csi/am=AJS0CgoS8fchgGwhrCA1YGBB/rt=j/d=1/t=zcms/rs=ACT90oFq2hYt4_LWpQTz318oeaUnC_l4HQ"}}
+{"Computation": {"type": "layout", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.091562, "endTime": 7226.092071, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.095844, "endTime": 7226.095976, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.120297, "endTime": 7226.123696, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.136647, "endTime": 7226.136648, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.136649, "endTime": 7226.136771, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.136774, "endTime": 7226.136776, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.219111, "endTime": 7226.219255, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.219299, "endTime": 7226.219300, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.219301, "endTime": 7226.219487, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.219788, "endTime": 7226.219914, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.227221, "endTime": 7226.258701, "urlRecalcStyle": "https://www.google.fr/xjs/_/js/k=xjs.s.fr.wx3DOsiW6vQ.O/m=sy31,sy37,em2,em1,sy39,em0,sy253,aa,abd,sy63,sy62,sy61,sy64,em13,async,erh,sy66,foot,fpe,idck,ipv6,sy128,sy254,lu,m,sf,sy208,sy209,sy46,sy35,sy108,sy210,sy211,sy43,sy47,sy105,sy138,sy212,sy269,sy270,sy267,sy205,sy268,sy96,sy274,sy214,sy271,sy289,em8,em9,sy36,sy97,em12,em10,em6,em11,sy290,skp,vm/am=AJS0CgoS8fchgGwhrCA1YGBB/rt=j/d=0/t=zcms/rs=ACT90oFq2hYt4_LWpQTz318oeaUnC_l4HQ"}}
+{"Computation": {"type": "fireEvent", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.258711, "endTime": 7226.258712, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.258713, "endTime": 7226.258801, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.258802, "endTime": 7226.258803, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.268030, "endTime": 7226.354769, "urlRecalcStyle": "https://www.gstatic.com/og/_/js/k=og.og2.en_US.ijp-IvDYjzk.O/rt=j/t=zcms/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtEYlVmDaqidOCejnf1WGjCzEMntg"}}
+{"Computation": {"type": "layout", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.348675, "endTime": 7226.349848, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.354409, "endTime": 7226.354513, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.354777, "endTime": 7226.354778, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.354779, "endTime": 7226.354819, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.354820, "endTime": 7226.354920, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.354973, "endTime": 7226.355035, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.378180, "endTime": 7226.441484, "urlRecalcStyle": "https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.CqFrPIKIxF4.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_SqGYjlKSpzsbc2UGyTC5n3Z0ZtQ/cb=gapi.loaded_0"}}
+{"Computation": {"type": "fireEvent", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.441494, "endTime": 7226.441495, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.441496, "endTime": 7226.441529, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb83d6750", "docUrl": "https://www.google.fr/?gws_rd=ssl", "startTime": 7226.457842, "endTime": 7226.458473, "urlRecalcStyle": ""}}
+{"Complete': "www.google.fr_?gws_rd=ssl"}
+Killed
