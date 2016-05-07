@@ -1,0 +1,844 @@
+[8105:8115:15211558172:ERROR:web_data_service.cc(657)] Cannot initialize the web database: 2
+[8105:8105:15212787550:ERROR:CONSOLE(1)] "Uncaught ReferenceError: InspectorFrontendAPI is not defined", source:  (1)
+{"page": "www.ask.com_"}
+{"DOMLoad": 15213.239590}
+{"Resource": {"id": 1, "url": "http://www.ask.com/", "sentTime": -1.000000, "len": 39227, "from": "(nil)",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 59, "connReused": 0, "cached": 0,                            "requestTime": 15212.134500, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 0, "dnsEnd": 16, "connectStart": 5, "connectEnd": 22, "sendStart": 23, "sendEnd": 27, "receiveHeadersEnd": 123, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 15212.264997, "len": 784}}
+{"ReceivedChunk": {"receivedTime": 15212.293822, "len": 10981}}
+{"ReceivedChunk": {"receivedTime": 15212.381273, "len": 27462}}
+{"WprofHTMLTag": {"code": "0xb96c7bd0", "doc": "http://www.ask.com/", "row": 4, "column": 47, "tagName": "html", "time": 15212.266061, "url": "", "pos": 237, "chunkLen": 784, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96c7d20", "doc": "http://www.ask.com/", "row": 5, "column": 6, "tagName": "head", "time": 15212.266405, "url": "", "pos": 261, "chunkLen": 784, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96c7d80", "doc": "http://www.ask.com/", "row": 6, "column": 7, "tagName": "title", "time": 15212.266427, "url": "", "pos": 269, "chunkLen": 784, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96e7ab0", "doc": "http://www.ask.com/", "row": 6, "column": 46, "tagName": "title", "time": 15212.293717, "url": "", "pos": 308, "chunkLen": 784, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb96e7b10", "doc": "http://www.ask.com/", "row": 7, "column": 31, "tagName": "script", "time": 15212.293731, "url": "", "pos": 340, "chunkLen": 784, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96e7a80", "doc": "http://www.ask.com/", "row": 33, "column": 9, "tagName": "script", "time": 15212.293933, "url": "", "pos": 983, "chunkLen": 11765, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb96e7db0", "doc": "http://www.ask.com/", "row": 34, "column": 31, "tagName": "script", "time": 15212.364169, "url": "", "pos": 231, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96e7b70", "doc": "http://www.ask.com/", "row": 35, "column": 9, "tagName": "script", "time": 15212.364194, "url": "", "pos": 241, "chunkLen": 10981, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb96e7e70", "doc": "http://www.ask.com/", "row": 35, "column": 32, "tagName": "meta", "time": 15212.364223, "url": "", "pos": 264, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96e7f00", "doc": "http://www.ask.com/", "row": 36, "column": 105, "tagName": "meta", "time": 15212.364233, "url": "", "pos": 370, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96e7f90", "doc": "http://www.ask.com/", "row": 37, "column": 160, "tagName": "meta", "time": 15212.364252, "url": "", "pos": 531, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96e7420", "doc": "http://www.ask.com/", "row": 38, "column": 59, "tagName": "link", "time": 15212.364258, "url": "http://www.ask.com/favicon.ico", "pos": 591, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96e74b0", "doc": "http://www.ask.com/", "row": 39, "column": 119, "tagName": "link", "time": 15212.368053, "url": "http://www.ask.com/ask-search.xml", "pos": 711, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96e7540", "doc": "http://www.ask.com/", "row": 40, "column": 71, "tagName": "link", "time": 15212.368082, "url": "http://www.ask.com/apple-touch-icon.png", "pos": 783, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96e75d0", "doc": "http://www.ask.com/", "row": 41, "column": 91, "tagName": "link", "time": 15212.368093, "url": "http://www.ask.com/apple-touch-icon-76x76.png", "pos": 875, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96e76c0", "doc": "http://www.ask.com/", "row": 42, "column": 95, "tagName": "link", "time": 15212.368111, "url": "http://www.ask.com/apple-touch-icon-120x120.png", "pos": 971, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96e77b0", "doc": "http://www.ask.com/", "row": 43, "column": 95, "tagName": "link", "time": 15212.368120, "url": "http://www.ask.com/apple-touch-icon-152x152.png", "pos": 1067, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96e78a0", "doc": "http://www.ask.com/", "row": 44, "column": 95, "tagName": "link", "time": 15212.368127, "url": "http://www.ask.com/apple-touch-icon-180x180.png", "pos": 1163, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96e79c0", "doc": "http://www.ask.com/", "row": 44, "column": 178, "tagName": "link", "time": 15212.368144, "url": "http://www.ask.com/st/c/css/ask_home.min.343c9b0a.css", "pos": 1246, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96e70f0", "doc": "http://www.ask.com/", "row": 45, "column": 23, "tagName": "style", "time": 15212.370717, "url": "", "pos": 1270, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96e7e10", "doc": "http://www.ask.com/", "row": 68, "column": 8, "tagName": "style", "time": 15212.370754, "url": "", "pos": 2104, "chunkLen": 10981, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb967a870", "doc": "http://www.ask.com/", "row": 68, "column": 53, "tagName": "link", "time": 15212.370900, "url": "http://www.ask.com/", "pos": 2149, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb967a930", "doc": "http://www.ask.com/", "row": 69, "column": 58, "tagName": "link", "time": 15212.370917, "url": "http://www.ask.com/", "pos": 2208, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb967a9f0", "doc": "http://www.ask.com/", "row": 70, "column": 60, "tagName": "link", "time": 15212.370933, "url": "http://au.ask.com/", "pos": 2269, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb967aab0", "doc": "http://www.ask.com/", "row": 71, "column": 60, "tagName": "link", "time": 15212.370940, "url": "http://uk.ask.com/", "pos": 2330, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb967ab70", "doc": "http://www.ask.com/", "row": 72, "column": 57, "tagName": "link", "time": 15212.370945, "url": "http://fr.ask.com/", "pos": 2388, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb967ac30", "doc": "http://www.ask.com/", "row": 73, "column": 57, "tagName": "link", "time": 15212.370951, "url": "http://ru.ask.com/", "pos": 2446, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb967acf0", "doc": "http://www.ask.com/", "row": 74, "column": 60, "tagName": "link", "time": 15212.370956, "url": "http://br.ask.com/", "pos": 2507, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb967adb0", "doc": "http://www.ask.com/", "row": 75, "column": 57, "tagName": "link", "time": 15212.370962, "url": "http://pt.ask.com/", "pos": 2565, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb967a270", "doc": "http://www.ask.com/", "row": 76, "column": 57, "tagName": "link", "time": 15212.370968, "url": "http://de.ask.com/", "pos": 2623, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb967a330", "doc": "http://www.ask.com/", "row": 77, "column": 60, "tagName": "link", "time": 15212.370974, "url": "http://at.ask.com/", "pos": 2684, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb967a3f0", "doc": "http://www.ask.com/", "row": 78, "column": 57, "tagName": "link", "time": 15212.370980, "url": "http://it.ask.com/", "pos": 2742, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb967a4b0", "doc": "http://www.ask.com/", "row": 79, "column": 57, "tagName": "link", "time": 15212.370986, "url": "http://nl.ask.com/", "pos": 2800, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb967a570", "doc": "http://www.ask.com/", "row": 80, "column": 57, "tagName": "link", "time": 15212.370991, "url": "http://jp.ask.com/", "pos": 2858, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb967a630", "doc": "http://www.ask.com/", "row": 81, "column": 57, "tagName": "link", "time": 15212.370997, "url": "http://es.ask.com/", "pos": 2916, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb967a6f0", "doc": "http://www.ask.com/", "row": 82, "column": 60, "tagName": "link", "time": 15212.371009, "url": "http://ar.ask.com/", "pos": 2977, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb967a7b0", "doc": "http://www.ask.com/", "row": 83, "column": 60, "tagName": "link", "time": 15212.371015, "url": "http://mx.ask.com/", "pos": 3038, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb967a060", "doc": "http://www.ask.com/", "row": 84, "column": 60, "tagName": "link", "time": 15212.371021, "url": "http://cl.ask.com/", "pos": 3099, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb967a150", "doc": "http://www.ask.com/", "row": 85, "column": 101, "tagName": "meta", "time": 15212.371029, "url": "", "pos": 3201, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb967a1e0", "doc": "http://www.ask.com/", "row": 86, "column": 168, "tagName": "meta", "time": 15212.371036, "url": "", "pos": 3370, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96f7a50", "doc": "http://www.ask.com/", "row": 87, "column": 69, "tagName": "meta", "time": 15212.371047, "url": "", "pos": 3440, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96f7ae0", "doc": "http://www.ask.com/", "row": 88, "column": 47, "tagName": "meta", "time": 15212.371052, "url": "", "pos": 3488, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96f7ba0", "doc": "http://www.ask.com/", "row": 89, "column": 49, "tagName": "meta", "time": 15212.371055, "url": "", "pos": 3538, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96f7c60", "doc": "http://www.ask.com/", "row": 90, "column": 53, "tagName": "meta", "time": 15212.371058, "url": "", "pos": 3592, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96f7cf0", "doc": "http://www.ask.com/", "row": 91, "column": 46, "tagName": "meta", "time": 15212.371062, "url": "", "pos": 3639, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96f7db0", "doc": "http://www.ask.com/", "row": 92, "column": 49, "tagName": "meta", "time": 15212.371066, "url": "", "pos": 3689, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96f7e10", "doc": "http://www.ask.com/", "row": 93, "column": 94, "tagName": "meta", "time": 15212.371071, "url": "", "pos": 3784, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96f7e70", "doc": "http://www.ask.com/", "row": 94, "column": 94, "tagName": "meta", "time": 15212.371074, "url": "", "pos": 3879, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96f7ed0", "doc": "http://www.ask.com/", "row": 95, "column": 94, "tagName": "meta", "time": 15212.371080, "url": "", "pos": 3974, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96f7f30", "doc": "http://www.ask.com/", "row": 96, "column": 94, "tagName": "meta", "time": 15212.371084, "url": "", "pos": 4069, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96f7f90", "doc": "http://www.ask.com/", "row": 97, "column": 94, "tagName": "meta", "time": 15212.371088, "url": "", "pos": 4164, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96f73f0", "doc": "http://www.ask.com/", "row": 98, "column": 94, "tagName": "meta", "time": 15212.371091, "url": "", "pos": 4259, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96f7450", "doc": "http://www.ask.com/", "row": 99, "column": 94, "tagName": "meta", "time": 15212.371096, "url": "", "pos": 4354, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96f74b0", "doc": "http://www.ask.com/", "row": 100, "column": 94, "tagName": "meta", "time": 15212.371100, "url": "", "pos": 4449, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96f7510", "doc": "http://www.ask.com/", "row": 101, "column": 94, "tagName": "meta", "time": 15212.371103, "url": "", "pos": 4544, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96f7570", "doc": "http://www.ask.com/", "row": 102, "column": 94, "tagName": "meta", "time": 15212.371114, "url": "", "pos": 4639, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96f75d0", "doc": "http://www.ask.com/", "row": 102, "column": 102, "tagName": "head", "time": 15212.371118, "url": "", "pos": 4647, "chunkLen": 10981, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb96f7630", "doc": "http://www.ask.com/", "row": 103, "column": 18, "tagName": "body", "time": 15212.371123, "url": "", "pos": 4666, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96f76c0", "doc": "http://www.ask.com/", "row": 104, "column": 31, "tagName": "script", "time": 15212.371172, "url": "", "pos": 4698, "chunkLen": 10981, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96e7150", "doc": "http://www.ask.com/", "row": 114, "column": 9, "tagName": "script", "time": 15212.371188, "url": "", "pos": 4840, "chunkLen": 10981, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9722000", "doc": "http://www.ask.com/", "row": 115, "column": 10, "tagName": "noscript", "time": 15212.392078, "url": "", "pos": 4851, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96f7720", "doc": "http://www.ask.com/", "row": 115, "column": 153, "tagName": "noscript", "time": 15212.392126, "url": "", "pos": 4994, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97220c0", "doc": "http://www.ask.com/", "row": 116, "column": 8, "tagName": "script", "time": 15212.392130, "url": "", "pos": 5003, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9722060", "doc": "http://www.ask.com/", "row": 116, "column": 347, "tagName": "script", "time": 15212.392146, "url": "http://www.googletagmanager.com/gtm.js?id=GTM-T3KVMC", "pos": 5342, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97222a0", "doc": "http://www.ask.com/", "row": 117, "column": 85, "tagName": "img", "time": 15212.401542, "url": "", "pos": 5428, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9722330", "doc": "http://www.ask.com/", "row": 118, "column": 39, "tagName": "div", "time": 15212.401860, "url": "", "pos": 5468, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97389f0", "doc": "http://www.ask.com/", "row": 119, "column": 20, "tagName": "div", "time": 15212.401988, "url": "", "pos": 5489, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9738a80", "doc": "http://www.ask.com/", "row": 120, "column": 41, "tagName": "div", "time": 15212.402065, "url": "", "pos": 5531, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9738b70", "doc": "http://www.ask.com/", "row": 121, "column": 29, "tagName": "div", "time": 15212.402118, "url": "", "pos": 5561, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9738c60", "doc": "http://www.ask.com/", "row": 122, "column": 21, "tagName": "div", "time": 15212.402167, "url": "", "pos": 5583, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9738cf0", "doc": "http://www.ask.com/", "row": 123, "column": 28, "tagName": "ul", "time": 15212.402223, "url": "", "pos": 5612, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9738d80", "doc": "http://www.ask.com/", "row": 124, "column": 26, "tagName": "li", "time": 15212.402292, "url": "", "pos": 5639, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9738e10", "doc": "http://www.ask.com/", "row": 125, "column": 215, "tagName": "a", "time": 15212.402788, "url": "", "pos": 5855, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9738f90", "doc": "http://www.ask.com/", "row": 125, "column": 230, "tagName": "a", "time": 15212.403146, "url": "", "pos": 5870, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97383f0", "doc": "http://www.ask.com/", "row": 126, "column": 5, "tagName": "li", "time": 15212.403170, "url": "", "pos": 5876, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9738450", "doc": "http://www.ask.com/", "row": 127, "column": 26, "tagName": "li", "time": 15212.403187, "url": "", "pos": 5903, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97384b0", "doc": "http://www.ask.com/", "row": 128, "column": 201, "tagName": "a", "time": 15212.403236, "url": "", "pos": 6105, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9738540", "doc": "http://www.ask.com/", "row": 128, "column": 209, "tagName": "a", "time": 15212.403596, "url": "", "pos": 6113, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97385a0", "doc": "http://www.ask.com/", "row": 129, "column": 5, "tagName": "li", "time": 15212.403606, "url": "", "pos": 6119, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9738600", "doc": "http://www.ask.com/", "row": 130, "column": 26, "tagName": "li", "time": 15212.403615, "url": "", "pos": 6146, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9738660", "doc": "http://www.ask.com/", "row": 131, "column": 214, "tagName": "a", "time": 15212.403649, "url": "", "pos": 6361, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9738750", "doc": "http://www.ask.com/", "row": 131, "column": 231, "tagName": "a", "time": 15212.403698, "url": "", "pos": 6378, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97387b0", "doc": "http://www.ask.com/", "row": 132, "column": 5, "tagName": "li", "time": 15212.403705, "url": "", "pos": 6384, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9738810", "doc": "http://www.ask.com/", "row": 133, "column": 26, "tagName": "li", "time": 15212.403712, "url": "", "pos": 6411, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9738870", "doc": "http://www.ask.com/", "row": 134, "column": 222, "tagName": "a", "time": 15212.403737, "url": "", "pos": 6634, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9738960", "doc": "http://www.ask.com/", "row": 134, "column": 235, "tagName": "a", "time": 15212.403776, "url": "", "pos": 6647, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97389c0", "doc": "http://www.ask.com/", "row": 135, "column": 5, "tagName": "li", "time": 15212.403782, "url": "", "pos": 6653, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9738030", "doc": "http://www.ask.com/", "row": 136, "column": 26, "tagName": "li", "time": 15212.403790, "url": "", "pos": 6680, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9738090", "doc": "http://www.ask.com/", "row": 137, "column": 214, "tagName": "a", "time": 15212.403814, "url": "", "pos": 6895, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9738180", "doc": "http://www.ask.com/", "row": 137, "column": 225, "tagName": "a", "time": 15212.403850, "url": "", "pos": 6906, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97381e0", "doc": "http://www.ask.com/", "row": 138, "column": 5, "tagName": "li", "time": 15212.403856, "url": "", "pos": 6912, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9738240", "doc": "http://www.ask.com/", "row": 139, "column": 26, "tagName": "li", "time": 15212.403862, "url": "", "pos": 6939, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97382a0", "doc": "http://www.ask.com/", "row": 140, "column": 208, "tagName": "a", "time": 15212.403884, "url": "", "pos": 7148, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9738330", "doc": "http://www.ask.com/", "row": 140, "column": 217, "tagName": "a", "time": 15212.403920, "url": "", "pos": 7157, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9738390", "doc": "http://www.ask.com/", "row": 141, "column": 5, "tagName": "li", "time": 15212.403926, "url": "", "pos": 7163, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb973c9f0", "doc": "http://www.ask.com/", "row": 142, "column": 39, "tagName": "li", "time": 15212.403932, "url": "", "pos": 7203, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb973ca80", "doc": "http://www.ask.com/", "row": 143, "column": 138, "tagName": "span", "time": 15212.404007, "url": "", "pos": 7342, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb973cb10", "doc": "http://www.ask.com/", "row": 143, "column": 149, "tagName": "span", "time": 15212.404058, "url": "", "pos": 7353, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb973cb70", "doc": "http://www.ask.com/", "row": 144, "column": 125, "tagName": "span", "time": 15212.404072, "url": "", "pos": 7479, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb973cc60", "doc": "http://www.ask.com/", "row": 144, "column": 132, "tagName": "span", "time": 15212.404192, "url": "", "pos": 7486, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb973ccc0", "doc": "http://www.ask.com/", "row": 145, "column": 5, "tagName": "li", "time": 15212.404204, "url": "", "pos": 7492, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb973cd20", "doc": "http://www.ask.com/", "row": 146, "column": 5, "tagName": "ul", "time": 15212.404209, "url": "", "pos": 7498, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb973cd80", "doc": "http://www.ask.com/", "row": 147, "column": 6, "tagName": "div", "time": 15212.404213, "url": "", "pos": 7505, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb973cde0", "doc": "http://www.ask.com/", "row": 148, "column": 6, "tagName": "div", "time": 15212.404217, "url": "", "pos": 7512, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb973ce40", "doc": "http://www.ask.com/", "row": 149, "column": 6, "tagName": "div", "time": 15212.404220, "url": "", "pos": 7519, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb973cea0", "doc": "http://www.ask.com/", "row": 150, "column": 43, "tagName": "div", "time": 15212.404226, "url": "", "pos": 7563, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb973cf60", "doc": "http://www.ask.com/", "row": 151, "column": 35, "tagName": "div", "time": 15212.424986, "url": "", "pos": 7599, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb973c3f0", "doc": "http://www.ask.com/", "row": 152, "column": 36, "tagName": "div", "time": 15212.425012, "url": "", "pos": 7636, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb973c480", "doc": "http://www.ask.com/", "row": 153, "column": 4, "tagName": "ul", "time": 15212.425074, "url": "", "pos": 7641, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb973c4e0", "doc": "http://www.ask.com/", "row": 154, "column": 4, "tagName": "li", "time": 15212.425083, "url": "", "pos": 7646, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb973c540", "doc": "http://www.ask.com/", "row": 155, "column": 178, "tagName": "a", "time": 15212.425106, "url": "", "pos": 7825, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb973c5d0", "doc": "http://www.ask.com/", "row": 155, "column": 198, "tagName": "a", "time": 15212.425150, "url": "", "pos": 7845, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb973c630", "doc": "http://www.ask.com/", "row": 156, "column": 5, "tagName": "li", "time": 15212.425155, "url": "", "pos": 7851, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb973c690", "doc": "http://www.ask.com/", "row": 157, "column": 4, "tagName": "li", "time": 15212.425159, "url": "", "pos": 7856, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb973c6f0", "doc": "http://www.ask.com/", "row": 158, "column": 178, "tagName": "a", "time": 15212.425171, "url": "", "pos": 8035, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb973c780", "doc": "http://www.ask.com/", "row": 158, "column": 198, "tagName": "a", "time": 15212.425185, "url": "", "pos": 8055, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb973c7e0", "doc": "http://www.ask.com/", "row": 159, "column": 5, "tagName": "li", "time": 15212.425188, "url": "", "pos": 8061, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb973c840", "doc": "http://www.ask.com/", "row": 160, "column": 4, "tagName": "li", "time": 15212.425191, "url": "", "pos": 8066, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb973c8a0", "doc": "http://www.ask.com/", "row": 161, "column": 180, "tagName": "a", "time": 15212.425204, "url": "", "pos": 8247, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb973c930", "doc": "http://www.ask.com/", "row": 161, "column": 202, "tagName": "a", "time": 15212.425217, "url": "", "pos": 8269, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb973c990", "doc": "http://www.ask.com/", "row": 162, "column": 5, "tagName": "li", "time": 15212.425221, "url": "", "pos": 8275, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb973c000", "doc": "http://www.ask.com/", "row": 163, "column": 4, "tagName": "li", "time": 15212.425224, "url": "", "pos": 8280, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb973c060", "doc": "http://www.ask.com/", "row": 164, "column": 173, "tagName": "a", "time": 15212.425238, "url": "", "pos": 8454, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb973c120", "doc": "http://www.ask.com/", "row": 164, "column": 186, "tagName": "a", "time": 15212.425251, "url": "", "pos": 8467, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb973c180", "doc": "http://www.ask.com/", "row": 165, "column": 5, "tagName": "li", "time": 15212.425254, "url": "", "pos": 8473, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb973c1e0", "doc": "http://www.ask.com/", "row": 166, "column": 5, "tagName": "ul", "time": 15212.425257, "url": "", "pos": 8479, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb973c240", "doc": "http://www.ask.com/", "row": 167, "column": 4, "tagName": "ul", "time": 15212.425260, "url": "", "pos": 8484, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb973c2a0", "doc": "http://www.ask.com/", "row": 168, "column": 4, "tagName": "li", "time": 15212.425264, "url": "", "pos": 8489, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb973c300", "doc": "http://www.ask.com/", "row": 169, "column": 170, "tagName": "a", "time": 15212.425276, "url": "", "pos": 8660, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb973c390", "doc": "http://www.ask.com/", "row": 169, "column": 180, "tagName": "a", "time": 15212.425289, "url": "", "pos": 8670, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97449f0", "doc": "http://www.ask.com/", "row": 170, "column": 5, "tagName": "li", "time": 15212.425292, "url": "", "pos": 8676, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9744a50", "doc": "http://www.ask.com/", "row": 171, "column": 4, "tagName": "li", "time": 15212.425312, "url": "", "pos": 8681, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9744ab0", "doc": "http://www.ask.com/", "row": 172, "column": 168, "tagName": "a", "time": 15212.425326, "url": "", "pos": 8850, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9744b40", "doc": "http://www.ask.com/", "row": 172, "column": 176, "tagName": "a", "time": 15212.425340, "url": "", "pos": 8858, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9744ba0", "doc": "http://www.ask.com/", "row": 173, "column": 5, "tagName": "li", "time": 15212.425344, "url": "", "pos": 8864, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9744c00", "doc": "http://www.ask.com/", "row": 174, "column": 4, "tagName": "li", "time": 15212.425347, "url": "", "pos": 8869, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9744c60", "doc": "http://www.ask.com/", "row": 175, "column": 173, "tagName": "a", "time": 15212.425360, "url": "", "pos": 9043, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9744d20", "doc": "http://www.ask.com/", "row": 175, "column": 186, "tagName": "a", "time": 15212.425373, "url": "", "pos": 9056, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9744d80", "doc": "http://www.ask.com/", "row": 176, "column": 5, "tagName": "li", "time": 15212.425376, "url": "", "pos": 9062, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9744de0", "doc": "http://www.ask.com/", "row": 177, "column": 4, "tagName": "li", "time": 15212.425379, "url": "", "pos": 9067, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9744e40", "doc": "http://www.ask.com/", "row": 178, "column": 183, "tagName": "a", "time": 15212.425392, "url": "", "pos": 9251, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9744ed0", "doc": "http://www.ask.com/", "row": 178, "column": 208, "tagName": "a", "time": 15212.425407, "url": "", "pos": 9276, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9744f30", "doc": "http://www.ask.com/", "row": 179, "column": 5, "tagName": "li", "time": 15212.425411, "url": "", "pos": 9282, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9744f90", "doc": "http://www.ask.com/", "row": 180, "column": 5, "tagName": "ul", "time": 15212.425413, "url": "", "pos": 9288, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97443f0", "doc": "http://www.ask.com/", "row": 181, "column": 4, "tagName": "ul", "time": 15212.425416, "url": "", "pos": 9293, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9744450", "doc": "http://www.ask.com/", "row": 182, "column": 4, "tagName": "li", "time": 15212.425421, "url": "", "pos": 9298, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97444b0", "doc": "http://www.ask.com/", "row": 183, "column": 170, "tagName": "a", "time": 15212.425434, "url": "", "pos": 9469, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9744540", "doc": "http://www.ask.com/", "row": 183, "column": 180, "tagName": "a", "time": 15212.425448, "url": "", "pos": 9479, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97445a0", "doc": "http://www.ask.com/", "row": 184, "column": 5, "tagName": "li", "time": 15212.425452, "url": "", "pos": 9485, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9744600", "doc": "http://www.ask.com/", "row": 185, "column": 4, "tagName": "li", "time": 15212.425455, "url": "", "pos": 9490, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9744660", "doc": "http://www.ask.com/", "row": 186, "column": 171, "tagName": "a", "time": 15212.425468, "url": "", "pos": 9662, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9744720", "doc": "http://www.ask.com/", "row": 186, "column": 182, "tagName": "a", "time": 15212.425481, "url": "", "pos": 9673, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9744780", "doc": "http://www.ask.com/", "row": 187, "column": 5, "tagName": "li", "time": 15212.425485, "url": "", "pos": 9679, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97447e0", "doc": "http://www.ask.com/", "row": 188, "column": 4, "tagName": "li", "time": 15212.425487, "url": "", "pos": 9684, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9744840", "doc": "http://www.ask.com/", "row": 189, "column": 177, "tagName": "a", "time": 15212.425504, "url": "", "pos": 9862, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97448d0", "doc": "http://www.ask.com/", "row": 189, "column": 196, "tagName": "a", "time": 15212.425518, "url": "", "pos": 9881, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9744930", "doc": "http://www.ask.com/", "row": 190, "column": 5, "tagName": "li", "time": 15212.425522, "url": "", "pos": 9887, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9744990", "doc": "http://www.ask.com/", "row": 191, "column": 4, "tagName": "li", "time": 15212.425525, "url": "", "pos": 9892, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9744000", "doc": "http://www.ask.com/", "row": 192, "column": 185, "tagName": "a", "time": 15212.425539, "url": "", "pos": 10078, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9744090", "doc": "http://www.ask.com/", "row": 192, "column": 212, "tagName": "a", "time": 15212.425553, "url": "", "pos": 10105, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97440f0", "doc": "http://www.ask.com/", "row": 193, "column": 5, "tagName": "li", "time": 15212.425556, "url": "", "pos": 10111, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9744150", "doc": "http://www.ask.com/", "row": 194, "column": 5, "tagName": "ul", "time": 15212.425558, "url": "", "pos": 10117, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97441b0", "doc": "http://www.ask.com/", "row": 195, "column": 4, "tagName": "ul", "time": 15212.425560, "url": "", "pos": 10122, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9744210", "doc": "http://www.ask.com/", "row": 196, "column": 4, "tagName": "li", "time": 15212.425565, "url": "", "pos": 10127, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9744270", "doc": "http://www.ask.com/", "row": 197, "column": 175, "tagName": "a", "time": 15212.425578, "url": "", "pos": 10303, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9744330", "doc": "http://www.ask.com/", "row": 197, "column": 192, "tagName": "a", "time": 15212.425592, "url": "", "pos": 10320, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9744390", "doc": "http://www.ask.com/", "row": 198, "column": 5, "tagName": "li", "time": 15212.425596, "url": "", "pos": 10326, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97459f0", "doc": "http://www.ask.com/", "row": 199, "column": 4, "tagName": "li", "time": 15212.425599, "url": "", "pos": 10331, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9745a50", "doc": "http://www.ask.com/", "row": 200, "column": 168, "tagName": "a", "time": 15212.425635, "url": "", "pos": 10500, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9745ae0", "doc": "http://www.ask.com/", "row": 200, "column": 176, "tagName": "a", "time": 15212.425743, "url": "", "pos": 10508, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9745b40", "doc": "http://www.ask.com/", "row": 201, "column": 5, "tagName": "li", "time": 15212.425751, "url": "", "pos": 10514, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9745ba0", "doc": "http://www.ask.com/", "row": 202, "column": 4, "tagName": "li", "time": 15212.425755, "url": "", "pos": 10519, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9745c00", "doc": "http://www.ask.com/", "row": 203, "column": 176, "tagName": "a", "time": 15212.425788, "url": "", "pos": 10696, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9745cc0", "doc": "http://www.ask.com/", "row": 203, "column": 194, "tagName": "a", "time": 15212.425869, "url": "", "pos": 10714, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9745d20", "doc": "http://www.ask.com/", "row": 204, "column": 5, "tagName": "li", "time": 15212.425874, "url": "", "pos": 10720, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9745d80", "doc": "http://www.ask.com/", "row": 205, "column": 4, "tagName": "li", "time": 15212.425876, "url": "", "pos": 10725, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9745de0", "doc": "http://www.ask.com/", "row": 206, "column": 171, "tagName": "a", "time": 15212.425888, "url": "", "pos": 10897, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9745ea0", "doc": "http://www.ask.com/", "row": 206, "column": 182, "tagName": "a", "time": 15212.425898, "url": "", "pos": 10908, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9745f00", "doc": "http://www.ask.com/", "row": 207, "column": 5, "tagName": "li", "time": 15212.425900, "url": "", "pos": 10914, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9745f60", "doc": "http://www.ask.com/", "row": 208, "column": 5, "tagName": "ul", "time": 15212.425902, "url": "", "pos": 10920, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9745fc0", "doc": "http://www.ask.com/", "row": 209, "column": 4, "tagName": "ul", "time": 15212.425904, "url": "", "pos": 10925, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9745420", "doc": "http://www.ask.com/", "row": 210, "column": 4, "tagName": "li", "time": 15212.425909, "url": "", "pos": 10930, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9745480", "doc": "http://www.ask.com/", "row": 211, "column": 187, "tagName": "a", "time": 15212.425918, "url": "", "pos": 11118, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9745510", "doc": "http://www.ask.com/", "row": 211, "column": 216, "tagName": "a", "time": 15212.425927, "url": "", "pos": 11147, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9745570", "doc": "http://www.ask.com/", "row": 212, "column": 5, "tagName": "li", "time": 15212.425929, "url": "", "pos": 11153, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97455d0", "doc": "http://www.ask.com/", "row": 213, "column": 4, "tagName": "li", "time": 15212.425931, "url": "", "pos": 11158, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9745630", "doc": "http://www.ask.com/", "row": 214, "column": 174, "tagName": "a", "time": 15212.425939, "url": "", "pos": 11333, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97456f0", "doc": "http://www.ask.com/", "row": 214, "column": 188, "tagName": "a", "time": 15212.425946, "url": "", "pos": 11347, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9745750", "doc": "http://www.ask.com/", "row": 215, "column": 5, "tagName": "li", "time": 15212.425948, "url": "", "pos": 11353, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97457b0", "doc": "http://www.ask.com/", "row": 216, "column": 4, "tagName": "li", "time": 15212.425950, "url": "", "pos": 11358, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9745810", "doc": "http://www.ask.com/", "row": 217, "column": 172, "tagName": "a", "time": 15212.425958, "url": "", "pos": 11531, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97458d0", "doc": "http://www.ask.com/", "row": 217, "column": 184, "tagName": "a", "time": 15212.425965, "url": "", "pos": 11543, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9745930", "doc": "http://www.ask.com/", "row": 218, "column": 5, "tagName": "li", "time": 15212.425966, "url": "", "pos": 11549, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9745990", "doc": "http://www.ask.com/", "row": 219, "column": 4, "tagName": "li", "time": 15212.425968, "url": "", "pos": 11554, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9745000", "doc": "http://www.ask.com/", "row": 220, "column": 174, "tagName": "a", "time": 15212.425977, "url": "", "pos": 11729, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97450c0", "doc": "http://www.ask.com/", "row": 220, "column": 188, "tagName": "a", "time": 15212.425986, "url": "", "pos": 11743, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9745120", "doc": "http://www.ask.com/", "row": 221, "column": 5, "tagName": "li", "time": 15212.425987, "url": "", "pos": 11749, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9745180", "doc": "http://www.ask.com/", "row": 222, "column": 5, "tagName": "ul", "time": 15212.425989, "url": "", "pos": 11755, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97451e0", "doc": "http://www.ask.com/", "row": 223, "column": 6, "tagName": "div", "time": 15212.425991, "url": "", "pos": 11762, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9745240", "doc": "http://www.ask.com/", "row": 224, "column": 6, "tagName": "div", "time": 15212.425993, "url": "", "pos": 11769, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97452a0", "doc": "http://www.ask.com/", "row": 225, "column": 6, "tagName": "div", "time": 15212.425994, "url": "", "pos": 11776, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9745300", "doc": "http://www.ask.com/", "row": 226, "column": 30, "tagName": "div", "time": 15212.426008, "url": "", "pos": 11807, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97453c0", "doc": "http://www.ask.com/", "row": 227, "column": 67, "tagName": "div", "time": 15212.426065, "url": "", "pos": 11875, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9748ab0", "doc": "http://www.ask.com/", "row": 228, "column": 26, "tagName": "div", "time": 15212.426095, "url": "", "pos": 11902, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9748b40", "doc": "http://www.ask.com/", "row": 228, "column": 32, "tagName": "div", "time": 15212.426123, "url": "", "pos": 11908, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9748ba0", "doc": "http://www.ask.com/", "row": 229, "column": 32, "tagName": "div", "time": 15212.426129, "url": "", "pos": 11941, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9748c30", "doc": "http://www.ask.com/", "row": 230, "column": 20, "tagName": "div", "time": 15212.426145, "url": "", "pos": 11962, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9748d20", "doc": "http://www.ask.com/", "row": 231, "column": 77, "tagName": "form", "time": 15212.426168, "url": "", "pos": 12040, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9748db0", "doc": "http://www.ask.com/", "row": 232, "column": 28, "tagName": "span", "time": 15212.426216, "url": "", "pos": 12069, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9748e40", "doc": "http://www.ask.com/", "row": 232, "column": 130, "tagName": "input", "time": 15212.426234, "url": "", "pos": 12171, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9748e10", "doc": "http://www.ask.com/", "row": 232, "column": 137, "tagName": "span", "time": 15212.444968, "url": "", "pos": 12178, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9748600", "doc": "http://www.ask.com/", "row": 233, "column": 79, "tagName": "input", "time": 15212.444988, "url": "", "pos": 12258, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9748720", "doc": "http://www.ask.com/", "row": 234, "column": 60, "tagName": "input", "time": 15212.445381, "url": "", "pos": 12319, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9748810", "doc": "http://www.ask.com/", "row": 235, "column": 59, "tagName": "input", "time": 15212.445454, "url": "", "pos": 12379, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97488a0", "doc": "http://www.ask.com/", "row": 236, "column": 64, "tagName": "input", "time": 15212.445489, "url": "", "pos": 12444, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9748960", "doc": "http://www.ask.com/", "row": 237, "column": 72, "tagName": "input", "time": 15212.445529, "url": "", "pos": 12517, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9748000", "doc": "http://www.ask.com/", "row": 238, "column": 7, "tagName": "form", "time": 15212.445558, "url": "", "pos": 12525, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9748060", "doc": "http://www.ask.com/", "row": 239, "column": 49, "tagName": "span", "time": 15212.445563, "url": "", "pos": 12575, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97480c0", "doc": "http://www.ask.com/", "row": 239, "column": 56, "tagName": "span", "time": 15212.445583, "url": "", "pos": 12582, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9748120", "doc": "http://www.ask.com/", "row": 240, "column": 6, "tagName": "div", "time": 15212.445588, "url": "", "pos": 12589, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9748180", "doc": "http://www.ask.com/", "row": 241, "column": 6, "tagName": "div", "time": 15212.445590, "url": "", "pos": 12596, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97481e0", "doc": "http://www.ask.com/", "row": 242, "column": 6, "tagName": "div", "time": 15212.445591, "url": "", "pos": 12603, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9748240", "doc": "http://www.ask.com/", "row": 243, "column": 6, "tagName": "div", "time": 15212.445594, "url": "", "pos": 12610, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97482a0", "doc": "http://www.ask.com/", "row": 243, "column": 47, "tagName": "div", "time": 15212.445598, "url": "", "pos": 12651, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9748360", "doc": "http://www.ask.com/", "row": 244, "column": 23, "tagName": "div", "time": 15212.445615, "url": "", "pos": 12675, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97659f0", "doc": "http://www.ask.com/", "row": 245, "column": 132, "tagName": "div", "time": 15212.445630, "url": "", "pos": 12808, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9765ae0", "doc": "http://www.ask.com/", "row": 245, "column": 138, "tagName": "div", "time": 15212.458493, "url": "", "pos": 12814, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9765b40", "doc": "http://www.ask.com/", "row": 246, "column": 30, "tagName": "div", "time": 15212.458511, "url": "", "pos": 12845, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9765c00", "doc": "http://www.ask.com/", "row": 247, "column": 27, "tagName": "h2", "time": 15212.458568, "url": "", "pos": 12873, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9765cc0", "doc": "http://www.ask.com/", "row": 248, "column": 30, "tagName": "span", "time": 15212.458595, "url": "", "pos": 12904, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9765d50", "doc": "http://www.ask.com/", "row": 248, "column": 56, "tagName": "span", "time": 15212.458621, "url": "", "pos": 12930, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9765db0", "doc": "http://www.ask.com/", "row": 249, "column": 5, "tagName": "h2", "time": 15212.458624, "url": "", "pos": 12936, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9765e10", "doc": "http://www.ask.com/", "row": 250, "column": 6, "tagName": "div", "time": 15212.458627, "url": "", "pos": 12943, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9765e70", "doc": "http://www.ask.com/", "row": 251, "column": 29, "tagName": "div", "time": 15212.458630, "url": "", "pos": 12973, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9765f30", "doc": "http://www.ask.com/", "row": 252, "column": 35, "tagName": "div", "time": 15212.458661, "url": "", "pos": 13009, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9765c60", "doc": "http://www.ask.com/", "row": 253, "column": 27, "tagName": "div", "time": 15212.458700, "url": "", "pos": 13037, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9765ed0", "doc": "http://www.ask.com/", "row": 254, "column": 39, "tagName": "span", "time": 15212.458713, "url": "", "pos": 13077, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9748a20", "doc": "http://www.ask.com/", "row": 254, "column": 48, "tagName": "span", "time": 15212.458731, "url": "", "pos": 13086, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9765f90", "doc": "http://www.ask.com/", "row": 255, "column": 39, "tagName": "div", "time": 15212.458734, "url": "", "pos": 13126, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9765420", "doc": "http://www.ask.com/", "row": 256, "column": 245, "tagName": "a", "time": 15212.458770, "url": "", "pos": 13372, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9765510", "doc": "http://www.ask.com/", "row": 256, "column": 273, "tagName": "a", "time": 15212.458831, "url": "", "pos": 13400, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9765570", "doc": "http://www.ask.com/", "row": 257, "column": 6, "tagName": "div", "time": 15212.458835, "url": "", "pos": 13407, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97655d0", "doc": "http://www.ask.com/", "row": 258, "column": 6, "tagName": "div", "time": 15212.458837, "url": "", "pos": 13414, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9765630", "doc": "http://www.ask.com/", "row": 259, "column": 34, "tagName": "div", "time": 15212.458840, "url": "", "pos": 13449, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97656f0", "doc": "http://www.ask.com/", "row": 260, "column": 30, "tagName": "ul", "time": 15212.458857, "url": "", "pos": 13480, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9765780", "doc": "http://www.ask.com/", "row": 261, "column": 36, "tagName": "li", "time": 15212.458871, "url": "", "pos": 13517, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9765090", "doc": "http://www.ask.com/", "row": 262, "column": 241, "tagName": "a", "time": 15212.458907, "url": "", "pos": 13759, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9765150", "doc": "http://www.ask.com/", "row": 262, "column": 250, "tagName": "a", "time": 15212.458959, "url": "", "pos": 13768, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb976b9f0", "doc": "http://www.ask.com/", "row": 263, "column": 5, "tagName": "li", "time": 15212.458963, "url": "", "pos": 13774, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb976ba50", "doc": "http://www.ask.com/", "row": 264, "column": 36, "tagName": "li", "time": 15212.458975, "url": "", "pos": 13811, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb976bae0", "doc": "http://www.ask.com/", "row": 265, "column": 241, "tagName": "a", "time": 15212.458996, "url": "", "pos": 14053, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb976bb70", "doc": "http://www.ask.com/", "row": 265, "column": 251, "tagName": "a", "time": 15212.459042, "url": "", "pos": 14063, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb976bbd0", "doc": "http://www.ask.com/", "row": 266, "column": 5, "tagName": "li", "time": 15212.459046, "url": "", "pos": 14069, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb976bc30", "doc": "http://www.ask.com/", "row": 267, "column": 36, "tagName": "li", "time": 15212.459049, "url": "", "pos": 14106, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb976bcc0", "doc": "http://www.ask.com/", "row": 268, "column": 241, "tagName": "a", "time": 15212.459068, "url": "", "pos": 14348, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb976bd50", "doc": "http://www.ask.com/", "row": 268, "column": 251, "tagName": "a", "time": 15212.459102, "url": "", "pos": 14358, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb976bdb0", "doc": "http://www.ask.com/", "row": 269, "column": 5, "tagName": "li", "time": 15212.459106, "url": "", "pos": 14364, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb976be10", "doc": "http://www.ask.com/", "row": 270, "column": 36, "tagName": "li", "time": 15212.459109, "url": "", "pos": 14401, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb976bea0", "doc": "http://www.ask.com/", "row": 271, "column": 241, "tagName": "a", "time": 15212.459125, "url": "", "pos": 14643, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb976bf30", "doc": "http://www.ask.com/", "row": 271, "column": 251, "tagName": "a", "time": 15212.459166, "url": "", "pos": 14653, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb976bf90", "doc": "http://www.ask.com/", "row": 272, "column": 5, "tagName": "li", "time": 15212.459170, "url": "", "pos": 14659, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb976b3f0", "doc": "http://www.ask.com/", "row": 273, "column": 5, "tagName": "ul", "time": 15212.459172, "url": "", "pos": 14665, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb976b450", "doc": "http://www.ask.com/", "row": 274, "column": 17, "tagName": "div", "time": 15212.459175, "url": "", "pos": 14683, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb976b4b0", "doc": "http://www.ask.com/", "row": 274, "column": 23, "tagName": "div", "time": 15212.459187, "url": "", "pos": 14689, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb976b510", "doc": "http://www.ask.com/", "row": 275, "column": 6, "tagName": "div", "time": 15212.459189, "url": "", "pos": 14696, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb976b570", "doc": "http://www.ask.com/", "row": 276, "column": 36, "tagName": "div", "time": 15212.459192, "url": "", "pos": 14733, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb976b600", "doc": "http://www.ask.com/", "row": 277, "column": 29, "tagName": "span", "time": 15212.459222, "url": "", "pos": 14763, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb976b6f0", "doc": "http://www.ask.com/", "row": 277, "column": 48, "tagName": "span", "time": 15212.459248, "url": "", "pos": 14782, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb976b750", "doc": "http://www.ask.com/", "row": 278, "column": 26, "tagName": "ul", "time": 15212.459253, "url": "", "pos": 14809, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb976b810", "doc": "http://www.ask.com/", "row": 279, "column": 26, "tagName": "li", "time": 15212.459270, "url": "", "pos": 14836, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb976b8d0", "doc": "http://www.ask.com/", "row": 280, "column": 254, "tagName": "a", "time": 15212.459292, "url": "", "pos": 15091, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb976b000", "doc": "http://www.ask.com/", "row": 280, "column": 274, "tagName": "a", "time": 15212.459320, "url": "", "pos": 15111, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb976b060", "doc": "http://www.ask.com/", "row": 281, "column": 5, "tagName": "li", "time": 15212.459324, "url": "", "pos": 15117, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb976b0c0", "doc": "http://www.ask.com/", "row": 282, "column": 5, "tagName": "ul", "time": 15212.459327, "url": "", "pos": 15123, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb976b120", "doc": "http://www.ask.com/", "row": 283, "column": 34, "tagName": "span", "time": 15212.459331, "url": "", "pos": 15158, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb976b1b0", "doc": "http://www.ask.com/", "row": 283, "column": 54, "tagName": "span", "time": 15212.459360, "url": "", "pos": 15178, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb976b210", "doc": "http://www.ask.com/", "row": 284, "column": 6, "tagName": "div", "time": 15212.459365, "url": "", "pos": 15185, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb976b270", "doc": "http://www.ask.com/", "row": 285, "column": 29, "tagName": "div", "time": 15212.459368, "url": "", "pos": 15215, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb976b300", "doc": "http://www.ask.com/", "row": 285, "column": 77, "tagName": "div", "time": 15212.459386, "url": "", "pos": 15263, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb976b360", "doc": "http://www.ask.com/", "row": 286, "column": 6, "tagName": "div", "time": 15212.459389, "url": "", "pos": 15270, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb976b3c0", "doc": "http://www.ask.com/", "row": 287, "column": 6, "tagName": "div", "time": 15212.459391, "url": "", "pos": 15277, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9770a20", "doc": "http://www.ask.com/", "row": 288, "column": 6, "tagName": "div", "time": 15212.459401, "url": "", "pos": 15284, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9770a80", "doc": "http://www.ask.com/", "row": 289, "column": 6, "tagName": "div", "time": 15212.459404, "url": "", "pos": 15291, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9770ae0", "doc": "http://www.ask.com/", "row": 290, "column": 6, "tagName": "div", "time": 15212.459406, "url": "", "pos": 15298, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9770b40", "doc": "http://www.ask.com/", "row": 291, "column": 29, "tagName": "div", "time": 15212.459409, "url": "", "pos": 15328, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9770c00", "doc": "http://www.ask.com/", "row": 292, "column": 27, "tagName": "div", "time": 15212.459424, "url": "", "pos": 15356, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9770c90", "doc": "http://www.ask.com/", "row": 293, "column": 39, "tagName": "div", "time": 15212.459437, "url": "", "pos": 15396, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9770d20", "doc": "http://www.ask.com/", "row": 294, "column": 33, "tagName": "h2", "time": 15212.459445, "url": "", "pos": 15430, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9770db0", "doc": "http://www.ask.com/", "row": 295, "column": 25, "tagName": "span", "time": 15212.459461, "url": "", "pos": 15456, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9770e70", "doc": "http://www.ask.com/", "row": 295, "column": 46, "tagName": "span", "time": 15212.459471, "url": "", "pos": 15477, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9770ed0", "doc": "http://www.ask.com/", "row": 296, "column": 5, "tagName": "h2", "time": 15212.459474, "url": "", "pos": 15483, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9770f30", "doc": "http://www.ask.com/", "row": 297, "column": 6, "tagName": "div", "time": 15212.459476, "url": "", "pos": 15490, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9770f90", "doc": "http://www.ask.com/", "row": 298, "column": 34, "tagName": "div", "time": 15212.459478, "url": "", "pos": 15525, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9770420", "doc": "http://www.ask.com/", "row": 299, "column": 36, "tagName": "div", "time": 15212.459488, "url": "", "pos": 15562, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97704b0", "doc": "http://www.ask.com/", "row": 300, "column": 34, "tagName": "div", "time": 15212.459499, "url": "", "pos": 15597, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9770570", "doc": "http://www.ask.com/", "row": 301, "column": 294, "tagName": "a", "time": 15212.459516, "url": "", "pos": 15892, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9770630", "doc": "http://www.ask.com/", "row": 301, "column": 379, "tagName": "img", "time": 15212.459553, "url": "", "pos": 15977, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9770660", "doc": "http://www.ask.com/", "row": 301, "column": 383, "tagName": "a", "time": 15212.459637, "url": "", "pos": 15981, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97706f0", "doc": "http://www.ask.com/", "row": 302, "column": 41, "tagName": "div", "time": 15212.459645, "url": "", "pos": 16023, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9770780", "doc": "http://www.ask.com/", "row": 303, "column": 35, "tagName": "div", "time": 15212.459664, "url": "", "pos": 16059, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9770810", "doc": "http://www.ask.com/", "row": 304, "column": 6, "tagName": "span", "time": 15212.459686, "url": "", "pos": 16066, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9770870", "doc": "http://www.ask.com/", "row": 304, "column": 15, "tagName": "span", "time": 15212.459690, "url": "", "pos": 16075, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97708a0", "doc": "http://www.ask.com/", "row": 304, "column": 20, "tagName": "div", "time": 15212.459692, "url": "", "pos": 16080, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97708d0", "doc": "http://www.ask.com/", "row": 304, "column": 295, "tagName": "a", "time": 15212.459702, "url": "", "pos": 16355, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9770960", "doc": "http://www.ask.com/", "row": 304, "column": 318, "tagName": "a", "time": 15212.459716, "url": "", "pos": 16378, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9770990", "doc": "http://www.ask.com/", "row": 304, "column": 324, "tagName": "div", "time": 15212.459718, "url": "", "pos": 16384, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9770000", "doc": "http://www.ask.com/", "row": 305, "column": 6, "tagName": "div", "time": 15212.459720, "url": "", "pos": 16391, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9770060", "doc": "http://www.ask.com/", "row": 306, "column": 33, "tagName": "div", "time": 15212.459723, "url": "", "pos": 16425, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97700f0", "doc": "http://www.ask.com/", "row": 307, "column": 6, "tagName": "span", "time": 15212.459737, "url": "", "pos": 16432, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9770150", "doc": "http://www.ask.com/", "row": 307, "column": 15, "tagName": "span", "time": 15212.459741, "url": "", "pos": 16441, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9770180", "doc": "http://www.ask.com/", "row": 307, "column": 20, "tagName": "div", "time": 15212.459742, "url": "", "pos": 16446, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97701b0", "doc": "http://www.ask.com/", "row": 307, "column": 23, "tagName": "p", "time": 15212.459745, "url": "", "pos": 16449, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9770210", "doc": "http://www.ask.com/", "row": 307, "column": 202, "tagName": "p", "time": 15212.459756, "url": "", "pos": 16628, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9770240", "doc": "http://www.ask.com/", "row": 307, "column": 208, "tagName": "div", "time": 15212.459757, "url": "", "pos": 16634, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97702a0", "doc": "http://www.ask.com/", "row": 308, "column": 6, "tagName": "div", "time": 15212.459759, "url": "", "pos": 16641, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9770300", "doc": "http://www.ask.com/", "row": 309, "column": 6, "tagName": "div", "time": 15212.459761, "url": "", "pos": 16648, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9770360", "doc": "http://www.ask.com/", "row": 310, "column": 31, "tagName": "div", "time": 15212.459764, "url": "", "pos": 16680, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9775a20", "doc": "http://www.ask.com/", "row": 311, "column": 275, "tagName": "a", "time": 15212.459795, "url": "", "pos": 16956, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9775ab0", "doc": "http://www.ask.com/", "row": 311, "column": 294, "tagName": "a", "time": 15212.459808, "url": "", "pos": 16975, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9775b10", "doc": "http://www.ask.com/", "row": 312, "column": 6, "tagName": "div", "time": 15212.459810, "url": "", "pos": 16982, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9775b70", "doc": "http://www.ask.com/", "row": 313, "column": 29, "tagName": "div", "time": 15212.459813, "url": "", "pos": 17012, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9775c00", "doc": "http://www.ask.com/", "row": 314, "column": 29, "tagName": "span", "time": 15212.459830, "url": "", "pos": 17042, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9775c90", "doc": "http://www.ask.com/", "row": 314, "column": 48, "tagName": "span", "time": 15212.459834, "url": "", "pos": 17061, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9775d20", "doc": "http://www.ask.com/", "row": 315, "column": 28, "tagName": "span", "time": 15212.459836, "url": "", "pos": 17090, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9775db0", "doc": "http://www.ask.com/", "row": 316, "column": 299, "tagName": "a", "time": 15212.459846, "url": "", "pos": 17390, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9775e40", "doc": "http://www.ask.com/", "row": 318, "column": 4, "tagName": "a", "time": 15212.459856, "url": "", "pos": 17412, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9775ea0", "doc": "http://www.ask.com/", "row": 319, "column": 7, "tagName": "span", "time": 15212.459859, "url": "", "pos": 17420, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9775f00", "doc": "http://www.ask.com/", "row": 320, "column": 6, "tagName": "div", "time": 15212.459860, "url": "", "pos": 17427, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9775f60", "doc": "http://www.ask.com/", "row": 321, "column": 6, "tagName": "div", "time": 15212.459862, "url": "", "pos": 17434, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9775fc0", "doc": "http://www.ask.com/", "row": 322, "column": 6, "tagName": "div", "time": 15212.459864, "url": "", "pos": 17441, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9775420", "doc": "http://www.ask.com/", "row": 323, "column": 36, "tagName": "div", "time": 15212.459867, "url": "", "pos": 17478, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9775480", "doc": "http://www.ask.com/", "row": 324, "column": 34, "tagName": "div", "time": 15212.459881, "url": "", "pos": 17513, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97754e0", "doc": "http://www.ask.com/", "row": 325, "column": 300, "tagName": "a", "time": 15212.459896, "url": "", "pos": 17814, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9775540", "doc": "http://www.ask.com/", "row": 325, "column": 391, "tagName": "img", "time": 15212.459923, "url": "", "pos": 17905, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9775570", "doc": "http://www.ask.com/", "row": 325, "column": 395, "tagName": "a", "time": 15212.459977, "url": "", "pos": 17909, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9775600", "doc": "http://www.ask.com/", "row": 326, "column": 41, "tagName": "div", "time": 15212.459984, "url": "", "pos": 17951, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9775660", "doc": "http://www.ask.com/", "row": 327, "column": 35, "tagName": "div", "time": 15212.459996, "url": "", "pos": 17987, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97756c0", "doc": "http://www.ask.com/", "row": 328, "column": 6, "tagName": "span", "time": 15212.460003, "url": "", "pos": 17994, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9775720", "doc": "http://www.ask.com/", "row": 328, "column": 15, "tagName": "span", "time": 15212.460006, "url": "", "pos": 18003, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9775750", "doc": "http://www.ask.com/", "row": 328, "column": 20, "tagName": "div", "time": 15212.460007, "url": "", "pos": 18008, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9775780", "doc": "http://www.ask.com/", "row": 328, "column": 301, "tagName": "a", "time": 15212.460016, "url": "", "pos": 18289, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9775810", "doc": "http://www.ask.com/", "row": 328, "column": 325, "tagName": "a", "time": 15212.460029, "url": "", "pos": 18313, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9775840", "doc": "http://www.ask.com/", "row": 328, "column": 331, "tagName": "div", "time": 15212.460030, "url": "", "pos": 18319, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97758a0", "doc": "http://www.ask.com/", "row": 329, "column": 6, "tagName": "div", "time": 15212.460032, "url": "", "pos": 18326, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9775900", "doc": "http://www.ask.com/", "row": 330, "column": 33, "tagName": "div", "time": 15212.460035, "url": "", "pos": 18360, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9775960", "doc": "http://www.ask.com/", "row": 331, "column": 6, "tagName": "span", "time": 15212.460041, "url": "", "pos": 18367, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97759c0", "doc": "http://www.ask.com/", "row": 331, "column": 15, "tagName": "span", "time": 15212.460044, "url": "", "pos": 18376, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9775000", "doc": "http://www.ask.com/", "row": 331, "column": 20, "tagName": "div", "time": 15212.460045, "url": "", "pos": 18381, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9775030", "doc": "http://www.ask.com/", "row": 331, "column": 23, "tagName": "p", "time": 15212.460047, "url": "", "pos": 18384, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9775060", "doc": "http://www.ask.com/", "row": 331, "column": 31, "tagName": "strong", "time": 15212.460050, "url": "", "pos": 18392, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97750c0", "doc": "http://www.ask.com/", "row": 331, "column": 152, "tagName": "strong", "time": 15212.460054, "url": "", "pos": 18513, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9775120", "doc": "http://www.ask.com/", "row": 331, "column": 252, "tagName": "p", "time": 15212.460056, "url": "", "pos": 18613, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9775150", "doc": "http://www.ask.com/", "row": 331, "column": 258, "tagName": "div", "time": 15212.460057, "url": "", "pos": 18619, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97751b0", "doc": "http://www.ask.com/", "row": 332, "column": 6, "tagName": "div", "time": 15212.460059, "url": "", "pos": 18626, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9775210", "doc": "http://www.ask.com/", "row": 333, "column": 6, "tagName": "div", "time": 15212.460061, "url": "", "pos": 18633, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9775270", "doc": "http://www.ask.com/", "row": 334, "column": 31, "tagName": "div", "time": 15212.460063, "url": "", "pos": 18665, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97752d0", "doc": "http://www.ask.com/", "row": 335, "column": 281, "tagName": "a", "time": 15212.460074, "url": "", "pos": 18947, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9775360", "doc": "http://www.ask.com/", "row": 335, "column": 300, "tagName": "a", "time": 15212.460084, "url": "", "pos": 18966, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97753c0", "doc": "http://www.ask.com/", "row": 336, "column": 6, "tagName": "div", "time": 15212.460086, "url": "", "pos": 18973, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9779a20", "doc": "http://www.ask.com/", "row": 337, "column": 29, "tagName": "div", "time": 15212.460096, "url": "", "pos": 19003, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9779a80", "doc": "http://www.ask.com/", "row": 338, "column": 29, "tagName": "span", "time": 15212.460106, "url": "", "pos": 19033, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9779b10", "doc": "http://www.ask.com/", "row": 338, "column": 48, "tagName": "span", "time": 15212.460110, "url": "", "pos": 19052, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9779b70", "doc": "http://www.ask.com/", "row": 339, "column": 28, "tagName": "span", "time": 15212.460112, "url": "", "pos": 19081, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9779bd0", "doc": "http://www.ask.com/", "row": 340, "column": 299, "tagName": "a", "time": 15212.460127, "url": "", "pos": 19381, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9779c60", "doc": "http://www.ask.com/", "row": 342, "column": 4, "tagName": "a", "time": 15212.460143, "url": "", "pos": 19403, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9779cc0", "doc": "http://www.ask.com/", "row": 343, "column": 7, "tagName": "span", "time": 15212.460145, "url": "", "pos": 19411, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9779d20", "doc": "http://www.ask.com/", "row": 344, "column": 6, "tagName": "div", "time": 15212.460147, "url": "", "pos": 19418, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9779d80", "doc": "http://www.ask.com/", "row": 345, "column": 6, "tagName": "div", "time": 15212.460149, "url": "", "pos": 19425, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9779de0", "doc": "http://www.ask.com/", "row": 346, "column": 6, "tagName": "div", "time": 15212.460150, "url": "", "pos": 19432, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9779e40", "doc": "http://www.ask.com/", "row": 347, "column": 36, "tagName": "div", "time": 15212.460153, "url": "", "pos": 19469, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9779ea0", "doc": "http://www.ask.com/", "row": 348, "column": 34, "tagName": "div", "time": 15212.460163, "url": "", "pos": 19504, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9779f00", "doc": "http://www.ask.com/", "row": 349, "column": 304, "tagName": "a", "time": 15212.460186, "url": "", "pos": 19809, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9779f60", "doc": "http://www.ask.com/", "row": 349, "column": 399, "tagName": "img", "time": 15212.460213, "url": "", "pos": 19904, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9779f90", "doc": "http://www.ask.com/", "row": 349, "column": 403, "tagName": "a", "time": 15212.460251, "url": "", "pos": 19908, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9779420", "doc": "http://www.ask.com/", "row": 350, "column": 41, "tagName": "div", "time": 15212.460258, "url": "", "pos": 19950, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9779480", "doc": "http://www.ask.com/", "row": 351, "column": 35, "tagName": "div", "time": 15212.460277, "url": "", "pos": 19986, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97794e0", "doc": "http://www.ask.com/", "row": 352, "column": 6, "tagName": "span", "time": 15212.460285, "url": "", "pos": 19993, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9779540", "doc": "http://www.ask.com/", "row": 352, "column": 15, "tagName": "span", "time": 15212.460288, "url": "", "pos": 20002, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9779570", "doc": "http://www.ask.com/", "row": 352, "column": 20, "tagName": "div", "time": 15212.460289, "url": "", "pos": 20007, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97795a0", "doc": "http://www.ask.com/", "row": 352, "column": 305, "tagName": "a", "time": 15212.460299, "url": "", "pos": 20292, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9779630", "doc": "http://www.ask.com/", "row": 352, "column": 337, "tagName": "a", "time": 15212.460312, "url": "", "pos": 20324, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9779660", "doc": "http://www.ask.com/", "row": 352, "column": 343, "tagName": "div", "time": 15212.460314, "url": "", "pos": 20330, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97796c0", "doc": "http://www.ask.com/", "row": 353, "column": 6, "tagName": "div", "time": 15212.460316, "url": "", "pos": 20337, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9779720", "doc": "http://www.ask.com/", "row": 354, "column": 33, "tagName": "div", "time": 15212.460318, "url": "", "pos": 20371, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9779780", "doc": "http://www.ask.com/", "row": 355, "column": 6, "tagName": "span", "time": 15212.460324, "url": "", "pos": 20378, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97797e0", "doc": "http://www.ask.com/", "row": 355, "column": 15, "tagName": "span", "time": 15212.460327, "url": "", "pos": 20387, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9779810", "doc": "http://www.ask.com/", "row": 355, "column": 20, "tagName": "div", "time": 15212.460328, "url": "", "pos": 20392, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9779840", "doc": "http://www.ask.com/", "row": 355, "column": 23, "tagName": "p", "time": 15212.460330, "url": "", "pos": 20395, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97798a0", "doc": "http://www.ask.com/", "row": 355, "column": 260, "tagName": "p", "time": 15212.460334, "url": "", "pos": 20632, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97798d0", "doc": "http://www.ask.com/", "row": 355, "column": 266, "tagName": "div", "time": 15212.460335, "url": "", "pos": 20638, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9779930", "doc": "http://www.ask.com/", "row": 356, "column": 6, "tagName": "div", "time": 15212.460337, "url": "", "pos": 20645, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9779990", "doc": "http://www.ask.com/", "row": 357, "column": 6, "tagName": "div", "time": 15212.460339, "url": "", "pos": 20652, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9779000", "doc": "http://www.ask.com/", "row": 358, "column": 31, "tagName": "div", "time": 15212.460341, "url": "", "pos": 20684, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9779060", "doc": "http://www.ask.com/", "row": 359, "column": 285, "tagName": "a", "time": 15212.460354, "url": "", "pos": 20970, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97790f0", "doc": "http://www.ask.com/", "row": 359, "column": 304, "tagName": "a", "time": 15212.460363, "url": "", "pos": 20989, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9779150", "doc": "http://www.ask.com/", "row": 360, "column": 6, "tagName": "div", "time": 15212.460365, "url": "", "pos": 20996, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97791b0", "doc": "http://www.ask.com/", "row": 361, "column": 29, "tagName": "div", "time": 15212.460368, "url": "", "pos": 21026, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9779210", "doc": "http://www.ask.com/", "row": 362, "column": 29, "tagName": "span", "time": 15212.460375, "url": "", "pos": 21056, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97792a0", "doc": "http://www.ask.com/", "row": 362, "column": 48, "tagName": "span", "time": 15212.460379, "url": "", "pos": 21075, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9779300", "doc": "http://www.ask.com/", "row": 363, "column": 28, "tagName": "span", "time": 15212.460381, "url": "", "pos": 21104, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9779360", "doc": "http://www.ask.com/", "row": 364, "column": 299, "tagName": "a", "time": 15212.460391, "url": "", "pos": 21404, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb977c9f0", "doc": "http://www.ask.com/", "row": 366, "column": 4, "tagName": "a", "time": 15212.460400, "url": "", "pos": 21426, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb977ca50", "doc": "http://www.ask.com/", "row": 367, "column": 7, "tagName": "span", "time": 15212.460411, "url": "", "pos": 21434, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb977cab0", "doc": "http://www.ask.com/", "row": 368, "column": 6, "tagName": "div", "time": 15212.460413, "url": "", "pos": 21441, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb977cb10", "doc": "http://www.ask.com/", "row": 369, "column": 6, "tagName": "div", "time": 15212.460415, "url": "", "pos": 21448, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb977cb70", "doc": "http://www.ask.com/", "row": 370, "column": 6, "tagName": "div", "time": 15212.460417, "url": "", "pos": 21455, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb977cbd0", "doc": "http://www.ask.com/", "row": 371, "column": 6, "tagName": "div", "time": 15212.460419, "url": "", "pos": 21462, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb977cc30", "doc": "http://www.ask.com/", "row": 372, "column": 6, "tagName": "div", "time": 15212.460420, "url": "", "pos": 21469, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb977cc90", "doc": "http://www.ask.com/", "row": 373, "column": 6, "tagName": "div", "time": 15212.460422, "url": "", "pos": 21476, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb977cd20", "doc": "http://www.ask.com/", "row": 374, "column": 24, "tagName": "div", "time": 15212.460427, "url": "", "pos": 21501, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97651b0", "doc": "http://www.ask.com/", "row": 375, "column": 30, "tagName": "div", "time": 15212.460463, "url": "", "pos": 21532, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9770ba0", "doc": "http://www.ask.com/", "row": 376, "column": 35, "tagName": "div", "time": 15212.460477, "url": "", "pos": 21568, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9765210", "doc": "http://www.ask.com/", "row": 377, "column": 36, "tagName": "div", "time": 15212.460490, "url": "", "pos": 21605, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9765030", "doc": "http://www.ask.com/", "row": 378, "column": 4, "tagName": "ul", "time": 15212.460499, "url": "", "pos": 21610, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9765390", "doc": "http://www.ask.com/", "row": 379, "column": 4, "tagName": "li", "time": 15212.460510, "url": "", "pos": 21615, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9765330", "doc": "http://www.ask.com/", "row": 380, "column": 230, "tagName": "a", "time": 15212.460534, "url": "", "pos": 21846, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb976b870", "doc": "http://www.ask.com/", "row": 380, "column": 250, "tagName": "a", "time": 15212.460559, "url": "", "pos": 21866, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb977cdb0", "doc": "http://www.ask.com/", "row": 381, "column": 5, "tagName": "li", "time": 15212.460563, "url": "", "pos": 21872, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb977c5d0", "doc": "http://www.ask.com/", "row": 382, "column": 4, "tagName": "li", "time": 15212.460565, "url": "", "pos": 21877, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb977c630", "doc": "http://www.ask.com/", "row": 383, "column": 230, "tagName": "a", "time": 15212.460582, "url": "", "pos": 22108, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb977c6c0", "doc": "http://www.ask.com/", "row": 383, "column": 250, "tagName": "a", "time": 15212.460613, "url": "", "pos": 22128, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb977c720", "doc": "http://www.ask.com/", "row": 384, "column": 5, "tagName": "li", "time": 15212.460617, "url": "", "pos": 22134, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb977c780", "doc": "http://www.ask.com/", "row": 385, "column": 4, "tagName": "li", "time": 15212.460619, "url": "", "pos": 22139, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb977c7e0", "doc": "http://www.ask.com/", "row": 386, "column": 232, "tagName": "a", "time": 15212.460642, "url": "", "pos": 22372, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb977c870", "doc": "http://www.ask.com/", "row": 386, "column": 254, "tagName": "a", "time": 15212.460667, "url": "", "pos": 22394, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb977c8d0", "doc": "http://www.ask.com/", "row": 387, "column": 5, "tagName": "li", "time": 15212.460671, "url": "", "pos": 22400, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb977c930", "doc": "http://www.ask.com/", "row": 388, "column": 4, "tagName": "li", "time": 15212.460673, "url": "", "pos": 22405, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb977c990", "doc": "http://www.ask.com/", "row": 389, "column": 225, "tagName": "a", "time": 15212.460690, "url": "", "pos": 22631, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb977c090", "doc": "http://www.ask.com/", "row": 389, "column": 238, "tagName": "a", "time": 15212.460714, "url": "", "pos": 22644, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb977c0f0", "doc": "http://www.ask.com/", "row": 390, "column": 5, "tagName": "li", "time": 15212.460718, "url": "", "pos": 22650, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb977c150", "doc": "http://www.ask.com/", "row": 391, "column": 5, "tagName": "ul", "time": 15212.460720, "url": "", "pos": 22656, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb977c1b0", "doc": "http://www.ask.com/", "row": 392, "column": 4, "tagName": "ul", "time": 15212.460722, "url": "", "pos": 22661, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb977c210", "doc": "http://www.ask.com/", "row": 393, "column": 4, "tagName": "li", "time": 15212.460728, "url": "", "pos": 22666, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb977c270", "doc": "http://www.ask.com/", "row": 394, "column": 222, "tagName": "a", "time": 15212.460749, "url": "", "pos": 22889, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb977c300", "doc": "http://www.ask.com/", "row": 394, "column": 232, "tagName": "a", "time": 15212.460774, "url": "", "pos": 22899, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb977c360", "doc": "http://www.ask.com/", "row": 395, "column": 5, "tagName": "li", "time": 15212.460777, "url": "", "pos": 22905, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb977c3c0", "doc": "http://www.ask.com/", "row": 396, "column": 4, "tagName": "li", "time": 15212.460780, "url": "", "pos": 22910, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9784a20", "doc": "http://www.ask.com/", "row": 397, "column": 220, "tagName": "a", "time": 15212.460803, "url": "", "pos": 23131, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9784ab0", "doc": "http://www.ask.com/", "row": 397, "column": 228, "tagName": "a", "time": 15212.460826, "url": "", "pos": 23139, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9784b10", "doc": "http://www.ask.com/", "row": 398, "column": 5, "tagName": "li", "time": 15212.460830, "url": "", "pos": 23145, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9784b70", "doc": "http://www.ask.com/", "row": 399, "column": 4, "tagName": "li", "time": 15212.460832, "url": "", "pos": 23150, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9784bd0", "doc": "http://www.ask.com/", "row": 400, "column": 225, "tagName": "a", "time": 15212.460848, "url": "", "pos": 23376, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9784cc0", "doc": "http://www.ask.com/", "row": 400, "column": 238, "tagName": "a", "time": 15212.460865, "url": "", "pos": 23389, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9784d20", "doc": "http://www.ask.com/", "row": 401, "column": 5, "tagName": "li", "time": 15212.460868, "url": "", "pos": 23395, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9784d80", "doc": "http://www.ask.com/", "row": 402, "column": 4, "tagName": "li", "time": 15212.460870, "url": "", "pos": 23400, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9784de0", "doc": "http://www.ask.com/", "row": 403, "column": 235, "tagName": "a", "time": 15212.460884, "url": "", "pos": 23636, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9784e70", "doc": "http://www.ask.com/", "row": 403, "column": 260, "tagName": "a", "time": 15212.460910, "url": "", "pos": 23661, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9784ed0", "doc": "http://www.ask.com/", "row": 404, "column": 5, "tagName": "li", "time": 15212.460914, "url": "", "pos": 23667, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9784f30", "doc": "http://www.ask.com/", "row": 405, "column": 5, "tagName": "ul", "time": 15212.460916, "url": "", "pos": 23673, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9784f90", "doc": "http://www.ask.com/", "row": 406, "column": 4, "tagName": "ul", "time": 15212.460919, "url": "", "pos": 23678, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97843f0", "doc": "http://www.ask.com/", "row": 407, "column": 4, "tagName": "li", "time": 15212.460924, "url": "", "pos": 23683, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9784450", "doc": "http://www.ask.com/", "row": 408, "column": 222, "tagName": "a", "time": 15212.460940, "url": "", "pos": 23906, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97844e0", "doc": "http://www.ask.com/", "row": 408, "column": 232, "tagName": "a", "time": 15212.460963, "url": "", "pos": 23916, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9784540", "doc": "http://www.ask.com/", "row": 409, "column": 5, "tagName": "li", "time": 15212.460966, "url": "", "pos": 23922, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97845a0", "doc": "http://www.ask.com/", "row": 410, "column": 4, "tagName": "li", "time": 15212.460969, "url": "", "pos": 23927, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9784600", "doc": "http://www.ask.com/", "row": 411, "column": 223, "tagName": "a", "time": 15212.460984, "url": "", "pos": 24151, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97846f0", "doc": "http://www.ask.com/", "row": 411, "column": 234, "tagName": "a", "time": 15212.461002, "url": "", "pos": 24162, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9784750", "doc": "http://www.ask.com/", "row": 412, "column": 5, "tagName": "li", "time": 15212.461005, "url": "", "pos": 24168, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97847b0", "doc": "http://www.ask.com/", "row": 413, "column": 4, "tagName": "li", "time": 15212.461007, "url": "", "pos": 24173, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9784810", "doc": "http://www.ask.com/", "row": 414, "column": 229, "tagName": "a", "time": 15212.461022, "url": "", "pos": 24403, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97848a0", "doc": "http://www.ask.com/", "row": 414, "column": 248, "tagName": "a", "time": 15212.461039, "url": "", "pos": 24422, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9784900", "doc": "http://www.ask.com/", "row": 415, "column": 5, "tagName": "li", "time": 15212.461042, "url": "", "pos": 24428, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9784960", "doc": "http://www.ask.com/", "row": 416, "column": 4, "tagName": "li", "time": 15212.461044, "url": "", "pos": 24433, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97849c0", "doc": "http://www.ask.com/", "row": 417, "column": 237, "tagName": "a", "time": 15212.461059, "url": "", "pos": 24671, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9784060", "doc": "http://www.ask.com/", "row": 417, "column": 264, "tagName": "a", "time": 15212.461075, "url": "", "pos": 24698, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97840c0", "doc": "http://www.ask.com/", "row": 418, "column": 5, "tagName": "li", "time": 15212.461078, "url": "", "pos": 24704, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9784120", "doc": "http://www.ask.com/", "row": 419, "column": 5, "tagName": "ul", "time": 15212.461080, "url": "", "pos": 24710, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9784180", "doc": "http://www.ask.com/", "row": 420, "column": 4, "tagName": "ul", "time": 15212.461083, "url": "", "pos": 24715, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97841e0", "doc": "http://www.ask.com/", "row": 421, "column": 4, "tagName": "li", "time": 15212.461088, "url": "", "pos": 24720, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9784240", "doc": "http://www.ask.com/", "row": 422, "column": 227, "tagName": "a", "time": 15212.461101, "url": "", "pos": 24948, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9784330", "doc": "http://www.ask.com/", "row": 422, "column": 244, "tagName": "a", "time": 15212.461117, "url": "", "pos": 24965, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9784390", "doc": "http://www.ask.com/", "row": 423, "column": 5, "tagName": "li", "time": 15212.461120, "url": "", "pos": 24971, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97869f0", "doc": "http://www.ask.com/", "row": 424, "column": 4, "tagName": "li", "time": 15212.461122, "url": "", "pos": 24976, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9786a50", "doc": "http://www.ask.com/", "row": 425, "column": 220, "tagName": "a", "time": 15212.461147, "url": "", "pos": 25197, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9786ae0", "doc": "http://www.ask.com/", "row": 425, "column": 228, "tagName": "a", "time": 15212.461170, "url": "", "pos": 25205, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9786b40", "doc": "http://www.ask.com/", "row": 426, "column": 5, "tagName": "li", "time": 15212.461174, "url": "", "pos": 25211, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9786ba0", "doc": "http://www.ask.com/", "row": 427, "column": 4, "tagName": "li", "time": 15212.461176, "url": "", "pos": 25216, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9786c00", "doc": "http://www.ask.com/", "row": 428, "column": 228, "tagName": "a", "time": 15212.461199, "url": "", "pos": 25445, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9786cf0", "doc": "http://www.ask.com/", "row": 428, "column": 246, "tagName": "a", "time": 15212.461223, "url": "", "pos": 25463, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9786d50", "doc": "http://www.ask.com/", "row": 429, "column": 5, "tagName": "li", "time": 15212.461227, "url": "", "pos": 25469, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9786db0", "doc": "http://www.ask.com/", "row": 430, "column": 4, "tagName": "li", "time": 15212.461229, "url": "", "pos": 25474, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9786e10", "doc": "http://www.ask.com/", "row": 431, "column": 223, "tagName": "a", "time": 15212.461245, "url": "", "pos": 25698, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9786f00", "doc": "http://www.ask.com/", "row": 431, "column": 234, "tagName": "a", "time": 15212.461268, "url": "", "pos": 25709, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9786f60", "doc": "http://www.ask.com/", "row": 432, "column": 5, "tagName": "li", "time": 15212.461272, "url": "", "pos": 25715, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9786fc0", "doc": "http://www.ask.com/", "row": 433, "column": 5, "tagName": "ul", "time": 15212.461274, "url": "", "pos": 25721, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9786420", "doc": "http://www.ask.com/", "row": 434, "column": 4, "tagName": "ul", "time": 15212.461277, "url": "", "pos": 25726, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9786480", "doc": "http://www.ask.com/", "row": 435, "column": 4, "tagName": "li", "time": 15212.461283, "url": "", "pos": 25731, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97864e0", "doc": "http://www.ask.com/", "row": 436, "column": 239, "tagName": "a", "time": 15212.484282, "url": "", "pos": 25971, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9786570", "doc": "http://www.ask.com/", "row": 436, "column": 268, "tagName": "a", "time": 15212.484350, "url": "", "pos": 26000, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97865d0", "doc": "http://www.ask.com/", "row": 437, "column": 5, "tagName": "li", "time": 15212.484356, "url": "", "pos": 26006, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9786630", "doc": "http://www.ask.com/", "row": 438, "column": 4, "tagName": "li", "time": 15212.484359, "url": "", "pos": 26011, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9786690", "doc": "http://www.ask.com/", "row": 439, "column": 226, "tagName": "a", "time": 15212.484380, "url": "", "pos": 26238, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9786780", "doc": "http://www.ask.com/", "row": 439, "column": 240, "tagName": "a", "time": 15212.484407, "url": "", "pos": 26252, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97867e0", "doc": "http://www.ask.com/", "row": 440, "column": 5, "tagName": "li", "time": 15212.484411, "url": "", "pos": 26258, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9786840", "doc": "http://www.ask.com/", "row": 441, "column": 4, "tagName": "li", "time": 15212.484413, "url": "", "pos": 26263, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97868a0", "doc": "http://www.ask.com/", "row": 442, "column": 224, "tagName": "a", "time": 15212.484430, "url": "", "pos": 26488, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9786990", "doc": "http://www.ask.com/", "row": 442, "column": 236, "tagName": "a", "time": 15212.484454, "url": "", "pos": 26500, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9786000", "doc": "http://www.ask.com/", "row": 443, "column": 5, "tagName": "li", "time": 15212.484458, "url": "", "pos": 26506, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9786060", "doc": "http://www.ask.com/", "row": 444, "column": 4, "tagName": "li", "time": 15212.484461, "url": "", "pos": 26511, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97860c0", "doc": "http://www.ask.com/", "row": 445, "column": 226, "tagName": "a", "time": 15212.484478, "url": "", "pos": 26738, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97861b0", "doc": "http://www.ask.com/", "row": 445, "column": 240, "tagName": "a", "time": 15212.484496, "url": "", "pos": 26752, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9786210", "doc": "http://www.ask.com/", "row": 446, "column": 5, "tagName": "li", "time": 15212.484499, "url": "", "pos": 26758, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9786270", "doc": "http://www.ask.com/", "row": 447, "column": 5, "tagName": "ul", "time": 15212.484501, "url": "", "pos": 26764, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97862d0", "doc": "http://www.ask.com/", "row": 448, "column": 6, "tagName": "div", "time": 15212.484504, "url": "", "pos": 26771, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9786330", "doc": "http://www.ask.com/", "row": 449, "column": 6, "tagName": "div", "time": 15212.484505, "url": "", "pos": 26778, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9786390", "doc": "http://www.ask.com/", "row": 450, "column": 6, "tagName": "div", "time": 15212.484508, "url": "", "pos": 26785, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97899f0", "doc": "http://www.ask.com/", "row": 451, "column": 33, "tagName": "div", "time": 15212.484511, "url": "", "pos": 26819, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9789ab0", "doc": "http://www.ask.com/", "row": 452, "column": 25, "tagName": "ul", "time": 15212.484564, "url": "", "pos": 26845, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9789b10", "doc": "http://www.ask.com/", "row": 453, "column": 4, "tagName": "li", "time": 15212.484584, "url": "", "pos": 26850, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9789ba0", "doc": "http://www.ask.com/", "row": 454, "column": 222, "tagName": "a", "time": 15212.484606, "url": "", "pos": 27073, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9789c60", "doc": "http://www.ask.com/", "row": 454, "column": 231, "tagName": "a", "time": 15212.484635, "url": "", "pos": 27082, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9789cc0", "doc": "http://www.ask.com/", "row": 455, "column": 5, "tagName": "li", "time": 15212.484639, "url": "", "pos": 27088, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9789d20", "doc": "http://www.ask.com/", "row": 456, "column": 4, "tagName": "li", "time": 15212.484641, "url": "", "pos": 27093, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9789d80", "doc": "http://www.ask.com/", "row": 457, "column": 222, "tagName": "a", "time": 15212.484666, "url": "", "pos": 27316, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9789e40", "doc": "http://www.ask.com/", "row": 457, "column": 233, "tagName": "a", "time": 15212.484692, "url": "", "pos": 27327, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9789ea0", "doc": "http://www.ask.com/", "row": 458, "column": 5, "tagName": "li", "time": 15212.484696, "url": "", "pos": 27333, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9789f00", "doc": "http://www.ask.com/", "row": 459, "column": 4, "tagName": "li", "time": 15212.484698, "url": "", "pos": 27338, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9789f90", "doc": "http://www.ask.com/", "row": 460, "column": 242, "tagName": "a", "time": 15212.484718, "url": "", "pos": 27581, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9789450", "doc": "http://www.ask.com/", "row": 460, "column": 251, "tagName": "a", "time": 15212.484746, "url": "", "pos": 27590, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97894b0", "doc": "http://www.ask.com/", "row": 461, "column": 5, "tagName": "li", "time": 15212.484749, "url": "", "pos": 27596, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9789510", "doc": "http://www.ask.com/", "row": 462, "column": 4, "tagName": "li", "time": 15212.484752, "url": "", "pos": 27601, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9789570", "doc": "http://www.ask.com/", "row": 463, "column": 219, "tagName": "a", "time": 15212.484772, "url": "", "pos": 27821, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9789630", "doc": "http://www.ask.com/", "row": 463, "column": 230, "tagName": "a", "time": 15212.484798, "url": "", "pos": 27832, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9789690", "doc": "http://www.ask.com/", "row": 464, "column": 5, "tagName": "li", "time": 15212.484802, "url": "", "pos": 27838, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97896f0", "doc": "http://www.ask.com/", "row": 465, "column": 4, "tagName": "li", "time": 15212.484804, "url": "", "pos": 27843, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9789750", "doc": "http://www.ask.com/", "row": 466, "column": 215, "tagName": "a", "time": 15212.484822, "url": "", "pos": 28059, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97897e0", "doc": "http://www.ask.com/", "row": 466, "column": 223, "tagName": "a", "time": 15212.484840, "url": "", "pos": 28067, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9789840", "doc": "http://www.ask.com/", "row": 467, "column": 5, "tagName": "li", "time": 15212.484843, "url": "", "pos": 28073, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97898a0", "doc": "http://www.ask.com/", "row": 468, "column": 4, "tagName": "li", "time": 15212.484846, "url": "", "pos": 28078, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9789900", "doc": "http://www.ask.com/", "row": 469, "column": 219, "tagName": "a", "time": 15212.484862, "url": "", "pos": 28298, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97899c0", "doc": "http://www.ask.com/", "row": 469, "column": 231, "tagName": "a", "time": 15212.484878, "url": "", "pos": 28310, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9789030", "doc": "http://www.ask.com/", "row": 470, "column": 5, "tagName": "li", "time": 15212.484881, "url": "", "pos": 28316, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9789090", "doc": "http://www.ask.com/", "row": 471, "column": 4, "tagName": "li", "time": 15212.484883, "url": "", "pos": 28321, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97890f0", "doc": "http://www.ask.com/", "row": 472, "column": 227, "tagName": "a", "time": 15212.484900, "url": "", "pos": 28549, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97891b0", "doc": "http://www.ask.com/", "row": 472, "column": 238, "tagName": "a", "time": 15212.484915, "url": "", "pos": 28560, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9789210", "doc": "http://www.ask.com/", "row": 473, "column": 5, "tagName": "li", "time": 15212.484947, "url": "", "pos": 28566, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9789270", "doc": "http://www.ask.com/", "row": 474, "column": 4, "tagName": "li", "time": 15212.484950, "url": "", "pos": 28571, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9789300", "doc": "http://www.ask.com/", "row": 475, "column": 29, "tagName": "span", "time": 15212.484963, "url": "", "pos": 28601, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9789390", "doc": "http://www.ask.com/", "row": 475, "column": 55, "tagName": "span", "time": 15212.484990, "url": "", "pos": 28627, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb978c9f0", "doc": "http://www.ask.com/", "row": 476, "column": 5, "tagName": "li", "time": 15212.484993, "url": "", "pos": 28633, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb978ca50", "doc": "http://www.ask.com/", "row": 477, "column": 5, "tagName": "ul", "time": 15212.485003, "url": "", "pos": 28639, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb978cab0", "doc": "http://www.ask.com/", "row": 478, "column": 17, "tagName": "div", "time": 15212.485007, "url": "", "pos": 28657, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb978cae0", "doc": "http://www.ask.com/", "row": 478, "column": 23, "tagName": "div", "time": 15212.485023, "url": "", "pos": 28663, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb978cb40", "doc": "http://www.ask.com/", "row": 479, "column": 6, "tagName": "div", "time": 15212.485026, "url": "", "pos": 28670, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb978cba0", "doc": "http://www.ask.com/", "row": 479, "column": 13, "tagName": "div", "time": 15212.485029, "url": "", "pos": 28677, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb978cc00", "doc": "http://www.ask.com/", "row": 480, "column": 6, "tagName": "div", "time": 15212.485031, "url": "", "pos": 28684, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb978cc60", "doc": "http://www.ask.com/", "row": 481, "column": 71, "tagName": "script", "time": 15212.485036, "url": "http://www.ask.com/st/c/js/ask_home.min.2c30daba.js", "pos": 28756, "chunkLen": 38444, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb978cc90", "doc": "http://www.ask.com/", "row": 481, "column": 80, "tagName": "script", "time": 15212.485044, "url": "", "pos": 28765, "chunkLen": 38444, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb978cf00", "doc": "http://www.ask.com/", "row": 0, "column": 9, "tagName": "link", "time": 15212.552004, "url": "", "pos": 9, "chunkLen": 66, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb978cf30", "doc": "http://www.ask.com/", "row": 0, "column": 16, "tagName": "table", "time": 15212.552014, "url": "", "pos": 16, "chunkLen": 66, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb978cf60", "doc": "http://www.ask.com/", "row": 0, "column": 24, "tagName": "table", "time": 15212.552021, "url": "", "pos": 24, "chunkLen": 66, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb978cf90", "doc": "http://www.ask.com/", "row": 0, "column": 37, "tagName": "a", "time": 15212.552026, "url": "", "pos": 37, "chunkLen": 66, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb978c330", "doc": "http://www.ask.com/", "row": 0, "column": 42, "tagName": "a", "time": 15212.552034, "url": "", "pos": 42, "chunkLen": 66, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb978c360", "doc": "http://www.ask.com/", "row": 0, "column": 66, "tagName": "input", "time": 15212.552038, "url": "", "pos": 66, "chunkLen": 66, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb978cdb0", "doc": "http://www.ask.com/", "row": 0, "column": 12, "tagName": "a", "time": 15212.574677, "url": "", "pos": 12, "chunkLen": 16, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb978cd80", "doc": "http://www.ask.com/", "row": 0, "column": 16, "tagName": "a", "time": 15212.574694, "url": "", "pos": 16, "chunkLen": 16, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb978cde0", "doc": "http://www.ask.com/", "row": 0, "column": 8, "tagName": "select", "time": 15212.574743, "url": "", "pos": 8, "chunkLen": 17, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb978ce10", "doc": "http://www.ask.com/", "row": 0, "column": 17, "tagName": "select", "time": 15212.574753, "url": "", "pos": 17, "chunkLen": 17, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb967af00", "doc": "http://www.ask.com/", "row": 0, "column": 22, "tagName": "div", "time": 15212.574793, "url": "", "pos": 22, "chunkLen": 54, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb967ae70", "doc": "http://www.ask.com/", "row": 0, "column": 28, "tagName": "div", "time": 15212.574799, "url": "", "pos": 28, "chunkLen": 54, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb96e7030", "doc": "http://www.ask.com/", "row": 0, "column": 48, "tagName": "div", "time": 15212.574802, "url": "", "pos": 48, "chunkLen": 54, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb978c030", "doc": "http://www.ask.com/", "row": 0, "column": 54, "tagName": "div", "time": 15212.574804, "url": "", "pos": 54, "chunkLen": 54, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb978c090", "doc": "http://www.ask.com/", "row": 0, "column": 36, "tagName": "a", "time": 15212.574900, "url": "", "pos": 36, "chunkLen": 84, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb978c0c0", "doc": "http://www.ask.com/", "row": 0, "column": 40, "tagName": "a", "time": 15212.574905, "url": "", "pos": 40, "chunkLen": 84, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb978c0f0", "doc": "http://www.ask.com/", "row": 0, "column": 78, "tagName": "div", "time": 15212.574907, "url": "", "pos": 78, "chunkLen": 84, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb978c120", "doc": "http://www.ask.com/", "row": 0, "column": 84, "tagName": "div", "time": 15212.574910, "url": "", "pos": 84, "chunkLen": 84, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb978c150", "doc": "http://www.ask.com/", "row": 0, "column": 8, "tagName": "select", "time": 15212.576302, "url": "", "pos": 8, "chunkLen": 46, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb978c180", "doc": "http://www.ask.com/", "row": 0, "column": 28, "tagName": "option", "time": 15212.576313, "url": "", "pos": 28, "chunkLen": 46, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb978c1b0", "doc": "http://www.ask.com/", "row": 0, "column": 37, "tagName": "option", "time": 15212.576329, "url": "", "pos": 37, "chunkLen": 46, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb978c1e0", "doc": "http://www.ask.com/", "row": 0, "column": 46, "tagName": "select", "time": 15212.576331, "url": "", "pos": 46, "chunkLen": 46, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb978c270", "doc": "http://www.ask.com/", "row": 0, "column": 11, "tagName": "p", "time": 15212.576411, "url": "", "pos": 11, "chunkLen": 15, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb978c2a0", "doc": "http://www.ask.com/", "row": 0, "column": 15, "tagName": "p", "time": 15212.576416, "url": "", "pos": 15, "chunkLen": 15, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb978c300", "doc": "http://www.ask.com/", "row": 0, "column": 22, "tagName": "input", "time": 15212.576436, "url": "", "pos": 22, "chunkLen": 22, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97a2c00", "doc": "http://www.ask.com/", "row": 482, "column": 31, "tagName": "script", "time": 15212.597452, "url": "", "pos": 17816, "chunkLen": 27463, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9722120", "doc": "http://www.ask.com/", "row": 485, "column": 9, "tagName": "script", "time": 15212.597488, "url": "", "pos": 18042, "chunkLen": 27463, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97a2f90", "doc": "http://www.ask.com/", "row": 486, "column": 64, "tagName": "script", "time": 15212.618719, "url": "http://sp.ask.com/sh/ads/ads.js", "pos": 18107, "chunkLen": 27463, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97a2c60", "doc": "http://www.ask.com/", "row": 487, "column": 9, "tagName": "script", "time": 15212.618745, "url": "", "pos": 18117, "chunkLen": 27463, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb96f73c0", "doc": "http://www.ask.com/", "row": 488, "column": 31, "tagName": "script", "time": 15212.661481, "url": "", "pos": 18149, "chunkLen": 27463, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97a23f0", "doc": "http://www.ask.com/", "row": 504, "column": 9, "tagName": "script", "time": 15212.661518, "url": "", "pos": 18550, "chunkLen": 27463, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9765960", "doc": "http://www.ask.com/", "row": 505, "column": 74, "tagName": "script", "time": 15212.661601, "url": "http://www.ask.com/st/c/js/ask_unified.min.c7f61e55.js", "pos": 18625, "chunkLen": 27463, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97659c0", "doc": "http://www.ask.com/", "row": 505, "column": 83, "tagName": "script", "time": 15212.661613, "url": "", "pos": 18634, "chunkLen": 27463, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97a25d0", "doc": "http://www.ask.com/", "row": 506, "column": 31, "tagName": "script", "time": 15212.679021, "url": "", "pos": 18666, "chunkLen": 27463, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9765840", "doc": "http://www.ask.com/", "row": 601, "column": 9, "tagName": "script", "time": 15212.679095, "url": "", "pos": 22316, "chunkLen": 27463, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97a2780", "doc": "http://www.ask.com/", "row": 602, "column": 8, "tagName": "script", "time": 15212.683391, "url": "", "pos": 22325, "chunkLen": 27463, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97a2690", "doc": "http://www.ask.com/", "row": 635, "column": 9, "tagName": "script", "time": 15212.683431, "url": "", "pos": 23225, "chunkLen": 27463, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97a28d0", "doc": "http://www.ask.com/", "row": 635, "column": 18, "tagName": "script", "time": 15212.684400, "url": "", "pos": 23234, "chunkLen": 27463, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97a27e0", "doc": "http://www.ask.com/", "row": 690, "column": 9, "tagName": "script", "time": 15212.684445, "url": "http://ad.crwdcntrl.net/5/c=4736/pe=y/var=ccauds", "pos": 25218, "chunkLen": 27463, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97a2090", "doc": "http://www.ask.com/", "row": 691, "column": 8, "tagName": "script", "time": 15212.686913, "url": "", "pos": 25227, "chunkLen": 27463, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97a2930", "doc": "http://www.ask.com/", "row": 700, "column": 9, "tagName": "script", "time": 15212.686970, "url": "http://b.scorecardresearch.com/beacon.js", "pos": 25606, "chunkLen": 27463, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97a2210", "doc": "http://www.ask.com/", "row": 701, "column": 10, "tagName": "noscript", "time": 15212.689732, "url": "", "pos": 25617, "chunkLen": 27463, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97a20f0", "doc": "http://www.ask.com/", "row": 704, "column": 11, "tagName": "noscript", "time": 15212.689785, "url": "", "pos": 25726, "chunkLen": 27463, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97a22d0", "doc": "http://www.ask.com/", "row": 704, "column": 20, "tagName": "script", "time": 15212.689792, "url": "", "pos": 25735, "chunkLen": 27463, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97a2270", "doc": "http://www.ask.com/", "row": 709, "column": 9, "tagName": "script", "time": 15212.689822, "url": "http://tags.crwdcntrl.net/c/4737/cc.js?ns=_cc4737", "pos": 26183, "chunkLen": 27463, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98aaa80", "doc": "http://www.ask.com/", "row": 710, "column": 31, "tagName": "script", "time": 15212.694421, "url": "", "pos": 26215, "chunkLen": 27463, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97a2330", "doc": "http://www.ask.com/", "row": 733, "column": 9, "tagName": "script", "time": 15212.694466, "url": "", "pos": 26913, "chunkLen": 27463, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98aab70", "doc": "http://www.ask.com/", "row": 734, "column": 31, "tagName": "script", "time": 15212.694729, "url": "", "pos": 26945, "chunkLen": 27463, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98aaae0", "doc": "http://www.ask.com/", "row": 758, "column": 9, "tagName": "script", "time": 15212.694754, "url": "", "pos": 27445, "chunkLen": 27463, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98aac30", "doc": "http://www.ask.com/", "row": 759, "column": 7, "tagName": "body", "time": 15212.694852, "url": "", "pos": 27453, "chunkLen": 27463, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98aac60", "doc": "http://www.ask.com/", "row": 760, "column": 7, "tagName": "html", "time": 15212.694858, "url": "", "pos": 27461, "chunkLen": 27463, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98aad20", "doc": "http://www.ask.com/", "row": 0, "column": 7, "tagName": "table", "time": 15212.695536, "url": "", "pos": 7, "chunkLen": 43, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98aad50", "doc": "http://www.ask.com/", "row": 0, "column": 11, "tagName": "tr", "time": 15212.695548, "url": "", "pos": 11, "chunkLen": 43, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98aad80", "doc": "http://www.ask.com/", "row": 0, "column": 15, "tagName": "td", "time": 15212.695561, "url": "", "pos": 15, "chunkLen": 43, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98aadb0", "doc": "http://www.ask.com/", "row": 0, "column": 20, "tagName": "td", "time": 15212.695568, "url": "", "pos": 20, "chunkLen": 43, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98aade0", "doc": "http://www.ask.com/", "row": 0, "column": 24, "tagName": "td", "time": 15212.695570, "url": "", "pos": 24, "chunkLen": 43, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98aae40", "doc": "http://www.ask.com/", "row": 0, "column": 30, "tagName": "td", "time": 15212.695574, "url": "", "pos": 30, "chunkLen": 43, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98aae70", "doc": "http://www.ask.com/", "row": 0, "column": 35, "tagName": "tr", "time": 15212.695575, "url": "", "pos": 35, "chunkLen": 43, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98aaea0", "doc": "http://www.ask.com/", "row": 0, "column": 43, "tagName": "table", "time": 15212.695576, "url": "", "pos": 43, "chunkLen": 43, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98aa150", "doc": "http://www.ask.com/", "row": 0, "column": 5, "tagName": "div", "time": 15212.702433, "url": "", "pos": 5, "chunkLen": 11, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98aa180", "doc": "http://www.ask.com/", "row": 0, "column": 11, "tagName": "div", "time": 15212.702447, "url": "", "pos": 11, "chunkLen": 11, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9eb4e10", "doc": "http://www.ask.com/", "row": 0, "column": 24, "tagName": "div", "time": 15212.750237, "url": "", "pos": 24, "chunkLen": 30, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9eb4e70", "doc": "http://www.ask.com/", "row": 0, "column": 30, "tagName": "div", "time": 15212.750249, "url": "", "pos": 30, "chunkLen": 30, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9eb4900", "doc": "http://www.ask.com/", "row": 0, "column": 24, "tagName": "div", "time": 15212.765688, "url": "", "pos": 24, "chunkLen": 30, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9eb4930", "doc": "http://www.ask.com/", "row": 0, "column": 30, "tagName": "div", "time": 15212.765697, "url": "http://www.google-analytics.com/analytics.js", "pos": 30, "chunkLen": 30, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98aa900", "doc": "http://www.ask.com/", "row": 0, "column": 6, "tagName": "div", "time": 15212.893933, "url": "", "pos": 6, "chunkLen": 266, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb97a2030", "doc": "http://www.ask.com/", "row": 0, "column": 36, "tagName": "script", "time": 15212.893944, "url": "", "pos": 36, "chunkLen": 266, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98aa840", "doc": "http://www.ask.com/", "row": 0, "column": 260, "tagName": "script", "time": 15212.893958, "url": "", "pos": 260, "chunkLen": 266, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb97a23c0", "doc": "http://www.ask.com/", "row": 0, "column": 266, "tagName": "div", "time": 15212.893960, "url": "", "pos": 266, "chunkLen": 266, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9eebe10", "doc": "http://www.ask.com/", "row": 0, "column": 6, "tagName": "div", "time": 15212.895933, "url": "", "pos": 6, "chunkLen": 585, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9eebe40", "doc": "http://www.ask.com/", "row": 0, "column": 36, "tagName": "script", "time": 15212.895959, "url": "", "pos": 36, "chunkLen": 585, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9eebea0", "doc": "http://www.ask.com/", "row": 0, "column": 579, "tagName": "script", "time": 15212.896006, "url": "", "pos": 579, "chunkLen": 585, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9eebed0", "doc": "http://www.ask.com/", "row": 0, "column": 585, "tagName": "div", "time": 15212.896013, "url": "", "pos": 585, "chunkLen": 585, "isStartTag": 0}}
+{"Resource": {"id": 2, "url": "http://www.ask.com/st/c/css/ask_home.min.343c9b0a.css", "sentTime": -1.000000, "len": 10120, "from": "0xb96e79c0",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 15212.386981, "len": 10120}}
+{"Resource": {"id": 3, "url": "http://www.ask.com/st/c/js/ask_home.min.2c30daba.js", "sentTime": -1.000000, "len": 122444, "from": "0xb978cc60",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 15212.497188, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 15212.497276, "len": 58259}}
+{"ReceivedChunk": {"receivedTime": 15212.497392, "len": 31417}}
+{"Resource": {"id": 4, "url": "http://sp.ask.com/sh/ads/ads.js", "sentTime": -1.000000, "len": 21, "from": "(nil)",                            "mimeType": "application/x-javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 15212.597694, "len": 21}}
+{"Resource": {"id": 5, "url": "http://www.ask.com/st/c/js/ask_unified.min.c7f61e55.js", "sentTime": -1.000000, "len": 14839, "from": "(nil)",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 15212.597848, "len": 14839}}
+{"Resource": {"id": 6, "url": "http://www.googletagmanager.com/gtm.js?id=GTM-T3KVMC", "sentTime": -1.000000, "len": 55861, "from": "0xb9722060",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 15212.618837, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 15212.618886, "len": 23093}}
+{"Resource": {"id": 8, "url": "http://cx.aos.ask.com/question/aq/fast-bees-fly_f1ebf4189184a41f.jpg", "sentTime": -1.000000, "len": 77935, "from": "0xb97659f0",                            "mimeType": "image/jpeg", "contentLength": 77935, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 15212.619000, "len": 65536}}
+{"ReceivedChunk": {"receivedTime": 15212.619177, "len": 12399}}
+{"Resource": {"id": 9, "url": "http://cx.aos.ask.com/question/aq/300px-300px/bees-knees_5abc8b2215027540.jpg", "sentTime": -1.000000, "len": 12819, "from": "0xb9770630",                            "mimeType": "image/jpeg", "contentLength": 12819, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 15212.619262, "len": 12819}}
+{"Resource": {"id": 10, "url": "http://cx.aos.ask.com/question/aq/300px-300px/bumblebees-sting_a07ec27cf1f30042.jpg", "sentTime": -1.000000, "len": 11569, "from": "0xb9775540",                            "mimeType": "image/jpeg", "contentLength": 11569, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 15212.619377, "len": 11569}}
+{"Resource": {"id": 11, "url": "http://cx.aos.ask.com/question/aq/300px-300px/long-honey-bees-live_9bdffa0e91069880.jpg", "sentTime": -1.000000, "len": 10477, "from": "0xb9779f60",                            "mimeType": "image/jpeg", "contentLength": 10477, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 15212.619475, "len": 10477}}
+{"Resource": {"id": 7, "url": "http://sp.ask.com/sh/i/images/homepage-sprite-1.0.2.png", "sentTime": -1.000000, "len": 7056, "from": "0xb973cb70",                            "mimeType": "image/png", "contentLength": 7056, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 15212.619573, "len": 7056}}
+{"Resource": {"id": 14, "url": "http://b.scorecardresearch.com/beacon.js", "sentTime": -1.000000, "len": 1495, "from": "0xb97a2930",                            "mimeType": "application/x-javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 15212.849295, "len": 1495}}
+{"Resource": {"id": 15, "url": "http://tags.crwdcntrl.net/c/4737/cc.js?ns=_cc4737", "sentTime": -1.000000, "len": 66049, "from": "0xb97a2270",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 15212.849451, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 15212.849520, "len": 33281}}
+{"Resource": {"id": 12, "url": "http://www.ask.com/ulog?anxuu=7646779B-58E8-472D-AC3A-38B94E37B171&anxa=T2_AskUS&anxv=9a1bb25&anxd=2016-05-06T00%3A06%3A00Z&anxsn=askus011iad.io.askjeeves.info&anxu=http%3A%2F%2Fwww.ask.com%2F&anxl=en-us&anxlv=1462604508036&anxrd=none&anxrk=-&anxsq=2&pl_cm=true&anxi=DE91B1C4-5F00-42D4-BE07-EB0E40B25AE2&pl_as=false&anxe=BackFill&anxr=501954908", "sentTime": -1.000000, "len": 0, "from": "0xb9765840",                            "mimeType": "text/plain", "contentLength": 0, "httpStatus": 204, "connId": 0, "connReused": 0, "cached": 0}}
+{"Resource": {"id": 13, "url": "http://ad.crwdcntrl.net/5/c=4736/pe=y/var=ccauds", "sentTime": -1.000000, "len": 70, "from": "0xb97a27e0",                            "mimeType": "application/javascript", "contentLength": 70, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 15212.849702, "len": 70}}
+{"Resource": {"id": 16, "url": "https://www.google-analytics.com/analytics.js", "sentTime": -1.000000, "len": 26299, "from": "(nil)",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 15212.935975, "len": 26299}}
+{"Resource": {"id": 17, "url": "http://b.scorecardresearch.com/b2?c1=2&c2=6034776&c3=&c4=&ns__t=1462603546124&ns_c=UTF-8&cv=3.1&c8=Ask.com%20-%20What's%20Your%20Question%3F&c7=http%3A%2F%2Fwww.ask.com%2F&c9=", "sentTime": -1.000000, "len": 0, "from": "(nil)",                            "mimeType": "text/plain", "contentLength": 0, "httpStatus": 204, "connId": 0, "connReused": 0, "cached": 0}}
+{"Resource": {"id": 18, "url": "https://www.google-analytics.com/collect?v=1&_v=j41&a=1438119324&t=pageview&_s=1&dl=http%3A%2F%2Fwww.ask.com%2F&dp=%2F&ul=en-us&de=UTF-8&dt=Ask.com%20-%20What's%20Your%20Question%3F&sd=24-bit&sr=1024x768&vp=944x631&je=1&_u=QGAAgAQ~&jid=405924441&cid=592947832.1462603546&tid=UA-64450717-1&gtm=GTM-T3KVMC&cd2=1462603546116.yr4j6ixczyqfr&cd3=2016-05-07T02%3A45%3A46.116-04%3A00&cd4=0&cd5=2&cd9=home&cd11=752663576&cd12=1&cd14=dirN&cd15=&z=1879716487", "sentTime": -1.000000, "len": 35, "from": "(nil)",                            "mimeType": "image/gif", "contentLength": 35, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 15213.234884, "len": 35}}
+{"Resource": {"id": 19, "url": "https://stats.g.doubleclick.net/r/collect?t=dc&aip=1&_r=3&v=1&_v=j41&tid=UA-64450717-1&cid=592947832.1462603546&jid=405924441&_u=QGAAgAQ~&z=752583398", "sentTime": -1.000000, "len": 35, "from": "0xb9eebed0",                            "mimeType": "image/gif", "contentLength": 35, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 15213.238870, "len": 35}}
+{"HOL": {"type": 1, "docUrl": "http://www.ask.com/", "code": "0xb96e7b10", "row": 7, "column": 31, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.ask.com/", "code": "0xb96e7db0", "row": 34, "column": 31, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "http://www.ask.com/", "code": "0xb96e79c0", "row": 44, "column": 178, "url": "http://www.ask.com/st/c/css/ask_home.min.343c9b0a.css"}}
+{"HOL": {"type": 4, "docUrl": "http://www.ask.com/", "code": "0xb96e70f0", "row": 45, "column": 23, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.ask.com/", "code": "0xb96f76c0", "row": 104, "column": 31, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.ask.com/", "code": "0xb97220c0", "row": 116, "column": 8, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.ask.com/", "code": "0xb978cc60", "row": 481, "column": 71, "url": "http://www.ask.com/st/c/js/ask_home.min.2c30daba.js"}}
+{"HOL": {"type": 1, "docUrl": "http://www.ask.com/", "code": "0xb97a2c00", "row": 482, "column": 31, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.ask.com/", "code": "0xb97a2f90", "row": 486, "column": 64, "url": "http://sp.ask.com/sh/ads/ads.js"}}
+{"HOL": {"type": 1, "docUrl": "http://www.ask.com/", "code": "0xb96f73c0", "row": 488, "column": 31, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.ask.com/", "code": "0xb9765960", "row": 505, "column": 74, "url": "http://www.ask.com/st/c/js/ask_unified.min.c7f61e55.js"}}
+{"HOL": {"type": 1, "docUrl": "http://www.ask.com/", "code": "0xb97a25d0", "row": 506, "column": 31, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.ask.com/", "code": "0xb97a2780", "row": 602, "column": 8, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.ask.com/", "code": "0xb97a28d0", "row": 635, "column": 18, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.ask.com/", "code": "0xb97a2090", "row": 691, "column": 8, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.ask.com/", "code": "0xb97a22d0", "row": 704, "column": 20, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.ask.com/", "code": "0xb98aaa80", "row": 710, "column": 31, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.ask.com/", "code": "0xb98aab70", "row": 734, "column": 31, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.ask.com/", "code": "0xb97a2030", "row": 0, "column": 36, "url": ""}}
+{"Computation": {"type": "execScript", "code": "0xb96e7a80", "docUrl": "http://www.ask.com/", "startTime": 15212.293948, "endTime": 15212.364150, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb96e7b70", "docUrl": "http://www.ask.com/", "startTime": 15212.364203, "endTime": 15212.364218, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb96e7150", "docUrl": "http://www.ask.com/", "startTime": 15212.371198, "endTime": -1.000000, "urlRecalcStyle": ""}}
+{"Computation": {"type": "recalcStyle", "code": "0xb96e7150", "docUrl": "http://www.ask.com/", "startTime": 15212.387028, "endTime": 15212.485083, "urlRecalcStyle": "http://www.ask.com/st/c/css/ask_home.min.343c9b0a.css"}}
+{"Computation": {"type": "execScript", "code": "0xb96e7150", "docUrl": "http://www.ask.com/", "startTime": 15212.388095, "endTime": 15212.392054, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb9722060", "docUrl": "http://www.ask.com/", "startTime": 15212.392152, "endTime": 15212.401501, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb978cc90", "docUrl": "http://www.ask.com/", "startTime": 15212.485072, "endTime": -1.000000, "urlRecalcStyle": "http://www.ask.com/st/c/js/ask_home.min.2c30daba.js"}}
+{"Computation": {"type": "execScript", "code": "0xb978cc90", "docUrl": "http://www.ask.com/", "startTime": 15212.497447, "endTime": 15212.597422, "urlRecalcStyle": "http://www.ask.com/st/c/js/ask_home.min.2c30daba.js"}}
+{"Computation": {"type": "fireEvent", "code": "0xb978c300", "docUrl": "http://www.ask.com/", "startTime": 15212.597416, "endTime": 15212.597417, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9722120", "docUrl": "http://www.ask.com/", "startTime": 15212.597919, "endTime": 15212.597920, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb9722120", "docUrl": "http://www.ask.com/", "startTime": 15212.597925, "endTime": 15212.618581, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9722120", "docUrl": "http://www.ask.com/", "startTime": 15212.618458, "endTime": 15212.618514, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb9722120", "docUrl": "http://www.ask.com/", "startTime": 15212.618595, "endTime": 15212.618694, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb97a2c60", "docUrl": "http://www.ask.com/", "startTime": 15212.619817, "endTime": 15212.619914, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb97a2c60", "docUrl": "http://www.ask.com/", "startTime": 15212.659847, "endTime": 15212.661448, "urlRecalcStyle": "http://sp.ask.com/sh/ads/ads.js"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97a2c60", "docUrl": "http://www.ask.com/", "startTime": 15212.661444, "endTime": 15212.661445, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb97a23f0", "docUrl": "http://www.ask.com/", "startTime": 15212.661528, "endTime": 15212.661589, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb97659c0", "docUrl": "http://www.ask.com/", "startTime": 15212.661634, "endTime": 15212.678992, "urlRecalcStyle": "http://www.ask.com/st/c/js/ask_unified.min.c7f61e55.js"}}
+{"Computation": {"type": "fireEvent", "code": "0xb97659c0", "docUrl": "http://www.ask.com/", "startTime": 15212.678988, "endTime": 15212.678989, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb9765840", "docUrl": "http://www.ask.com/", "startTime": 15212.679106, "endTime": 15212.683349, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb97a2690", "docUrl": "http://www.ask.com/", "startTime": 15212.683438, "endTime": 15212.684376, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb97a27e0", "docUrl": "http://www.ask.com/", "startTime": 15212.684451, "endTime": 15212.686861, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb97a2930", "docUrl": "http://www.ask.com/", "startTime": 15212.686984, "endTime": 15212.689692, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb97a2270", "docUrl": "http://www.ask.com/", "startTime": 15212.689827, "endTime": 15212.694383, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb97a2330", "docUrl": "http://www.ask.com/", "startTime": 15212.694480, "endTime": 15212.694711, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb98aaae0", "docUrl": "http://www.ask.com/", "startTime": 15212.694762, "endTime": 15212.694844, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb98aac60", "docUrl": "http://www.ask.com/", "startTime": 15212.694877, "endTime": 15212.694878, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb98aac60", "docUrl": "http://www.ask.com/", "startTime": 15212.694879, "endTime": 15212.788840, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0xb98aaea0", "docUrl": "http://www.ask.com/", "startTime": 15212.698595, "endTime": 15212.698851, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb98aaea0", "docUrl": "http://www.ask.com/", "startTime": 15212.698994, "endTime": 15212.699092, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb98aaea0", "docUrl": "http://www.ask.com/", "startTime": 15212.699286, "endTime": 15212.699357, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb98aaea0", "docUrl": "http://www.ask.com/", "startTime": 15212.699643, "endTime": 15212.699731, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb98aaea0", "docUrl": "http://www.ask.com/", "startTime": 15212.700220, "endTime": 15212.700365, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb98aa180", "docUrl": "http://www.ask.com/", "startTime": 15212.702571, "endTime": 15212.702668, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb98aa180", "docUrl": "http://www.ask.com/", "startTime": 15212.716831, "endTime": 15212.716992, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb98aa180", "docUrl": "http://www.ask.com/", "startTime": 15212.734794, "endTime": 15212.734940, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb98aa180", "docUrl": "http://www.ask.com/", "startTime": 15212.735267, "endTime": 15212.735365, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb98aa180", "docUrl": "http://www.ask.com/", "startTime": 15212.741951, "endTime": 15212.745827, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4e70", "docUrl": "http://www.ask.com/", "startTime": 15212.751446, "endTime": 15212.751687, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4e70", "docUrl": "http://www.ask.com/", "startTime": 15212.752146, "endTime": 15212.752338, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4e70", "docUrl": "http://www.ask.com/", "startTime": 15212.759434, "endTime": 15212.759672, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4e70", "docUrl": "http://www.ask.com/", "startTime": 15212.760112, "endTime": 15212.760297, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4e70", "docUrl": "http://www.ask.com/", "startTime": 15212.760464, "endTime": 15212.760650, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4e70", "docUrl": "http://www.ask.com/", "startTime": 15212.760720, "endTime": 15212.760884, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4e70", "docUrl": "http://www.ask.com/", "startTime": 15212.761001, "endTime": 15212.761159, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4e70", "docUrl": "http://www.ask.com/", "startTime": 15212.761240, "endTime": 15212.761376, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4e70", "docUrl": "http://www.ask.com/", "startTime": 15212.761428, "endTime": 15212.761575, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4e70", "docUrl": "http://www.ask.com/", "startTime": 15212.761655, "endTime": 15212.761814, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4e70", "docUrl": "http://www.ask.com/", "startTime": 15212.761874, "endTime": 15212.762007, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4e70", "docUrl": "http://www.ask.com/", "startTime": 15212.762052, "endTime": 15212.762202, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4e70", "docUrl": "http://www.ask.com/", "startTime": 15212.762263, "endTime": 15212.762410, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4e70", "docUrl": "http://www.ask.com/", "startTime": 15212.762483, "endTime": 15212.762619, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4e70", "docUrl": "http://www.ask.com/", "startTime": 15212.762998, "endTime": 15212.763170, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4e70", "docUrl": "http://www.ask.com/", "startTime": 15212.763249, "endTime": 15212.763396, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4e70", "docUrl": "http://www.ask.com/", "startTime": 15212.763457, "endTime": 15212.763591, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4e70", "docUrl": "http://www.ask.com/", "startTime": 15212.763636, "endTime": 15212.763820, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4e70", "docUrl": "http://www.ask.com/", "startTime": 15212.764970, "endTime": 15212.765229, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.766240, "endTime": 15212.766457, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.766613, "endTime": 15212.766810, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.766992, "endTime": 15212.767174, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.767457, "endTime": 15212.767634, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.767716, "endTime": 15212.767877, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.767957, "endTime": 15212.768097, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.768151, "endTime": 15212.768310, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.768383, "endTime": 15212.768538, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.768602, "endTime": 15212.768735, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.768788, "endTime": 15212.768939, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.768999, "endTime": 15212.769143, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.769212, "endTime": 15212.769348, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.769404, "endTime": 15212.769554, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.769616, "endTime": 15212.769759, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.769960, "endTime": 15212.770105, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.770160, "endTime": 15212.770315, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.770817, "endTime": 15212.771057, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.771575, "endTime": 15212.771779, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.771922, "endTime": 15212.772115, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.772340, "endTime": 15212.772534, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.772622, "endTime": 15212.772935, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.773024, "endTime": 15212.773165, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.773214, "endTime": 15212.773375, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.773456, "endTime": 15212.773613, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.773684, "endTime": 15212.773822, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.773875, "endTime": 15212.774021, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.774082, "endTime": 15212.774236, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.774313, "endTime": 15212.774452, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.774499, "endTime": 15212.774651, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.774780, "endTime": 15212.774933, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.774995, "endTime": 15212.775128, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.775174, "endTime": 15212.775322, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.775410, "endTime": 15212.775563, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.775625, "endTime": 15212.775757, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.776778, "endTime": 15212.776954, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.777047, "endTime": 15212.777205, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.777273, "endTime": 15212.777410, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.777458, "endTime": 15212.777606, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.777952, "endTime": 15212.778147, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.778955, "endTime": 15212.779136, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.779409, "endTime": 15212.779604, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.780255, "endTime": 15212.780432, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.780719, "endTime": 15212.780914, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.781429, "endTime": 15212.781600, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.788843, "endTime": 15212.788844, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.793388, "endTime": 15212.793682, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.793735, "endTime": 15212.793808, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.855681, "endTime": 15212.855682, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.855683, "endTime": 15212.855684, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.855685, "endTime": 15212.855687, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.855691, "endTime": 15212.855691, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.855692, "endTime": 15212.855692, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.855693, "endTime": 15212.855694, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.855696, "endTime": 15212.855697, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.855697, "endTime": 15212.855698, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.855699, "endTime": 15212.855700, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.855701, "endTime": 15212.855702, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb9eb4930", "docUrl": "http://www.ask.com/", "startTime": 15212.856161, "endTime": 15212.897117, "urlRecalcStyle": "http://www.googletagmanager.com/gtm.js?id=GTM-T3KVMC"}}
+{"Computation": {"type": "execScript", "code": "0xb97a23c0", "docUrl": "http://www.ask.com/", "startTime": 15212.894159, "endTime": 15212.894331, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb9eebed0", "docUrl": "http://www.ask.com/", "startTime": 15212.896404, "endTime": 15212.896961, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb9eebed0", "docUrl": "http://www.ask.com/", "startTime": 15212.897129, "endTime": 15212.897131, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb9eebed0", "docUrl": "http://www.ask.com/", "startTime": 15212.897149, "endTime": 15212.900994, "urlRecalcStyle": "http://b.scorecardresearch.com/beacon.js"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9eebed0", "docUrl": "http://www.ask.com/", "startTime": 15212.901012, "endTime": 15212.901014, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb9eebed0", "docUrl": "http://www.ask.com/", "startTime": 15212.901039, "endTime": 15212.923123, "urlRecalcStyle": "http://tags.crwdcntrl.net/c/4737/cc.js?ns=_cc4737"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9eebed0", "docUrl": "http://www.ask.com/", "startTime": 15212.923134, "endTime": 15212.923135, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9eebed0", "docUrl": "http://www.ask.com/", "startTime": 15212.923136, "endTime": 15212.923277, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb9eebed0", "docUrl": "http://www.ask.com/", "startTime": 15212.923291, "endTime": 15212.923335, "urlRecalcStyle": "http://ad.crwdcntrl.net/5/c=4736/pe=y/var=ccauds"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9eebed0", "docUrl": "http://www.ask.com/", "startTime": 15212.923339, "endTime": 15212.923341, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9eebed0", "docUrl": "http://www.ask.com/", "startTime": 15212.923342, "endTime": 15212.923429, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb9eebed0", "docUrl": "http://www.ask.com/", "startTime": 15212.936062, "endTime": 15213.069044, "urlRecalcStyle": "http://www.google-analytics.com/analytics.js"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9eebed0", "docUrl": "http://www.ask.com/", "startTime": 15213.069055, "endTime": 15213.069057, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9eebed0", "docUrl": "http://www.ask.com/", "startTime": 15213.069058, "endTime": 15213.069094, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9eebed0", "docUrl": "http://www.ask.com/", "startTime": 15213.234998, "endTime": 15213.235242, "urlRecalcStyle": "load"}}
+{"Preload": {"code": "0xb96e7150", "docUrl": "http://www.ask.com/", "url": "http://sp.ask.com/sh/i/images/homepage-sprite-1.0.2.png", "time": 15212.371213}}
+{"Preload": {"code": "0xb96e7150", "docUrl": "http://www.ask.com/", "url": "http://cx.aos.ask.com/question/aq/300px-300px/bees-knees_5abc8b2215027540.jpg", "time": 15212.381478}}
+{"Preload": {"code": "0xb96e7150", "docUrl": "http://www.ask.com/", "url": "http://cx.aos.ask.com/question/aq/300px-300px/bumblebees-sting_a07ec27cf1f30042.jpg", "time": 15212.381514}}
+{"Preload": {"code": "0xb96e7150", "docUrl": "http://www.ask.com/", "url": "http://cx.aos.ask.com/question/aq/300px-300px/long-honey-bees-live_9bdffa0e91069880.jpg", "time": 15212.381546}}
+{"Preload": {"code": "0xb96e7150", "docUrl": "http://www.ask.com/", "url": "http://www.ask.com/st/c/js/ask_home.min.2c30daba.js", "time": 15212.381700}}
+{"Preload": {"code": "0xb96e7150", "docUrl": "http://www.ask.com/", "url": "http://sp.ask.com/sh/ads/ads.js", "time": 15212.383645}}
+{"Preload": {"code": "0xb96e7150", "docUrl": "http://www.ask.com/", "url": "http://www.ask.com/st/c/js/ask_unified.min.c7f61e55.js", "time": 15212.384723}}
+{"Complete': "www.ask.com_"}
+{"page": "bcp.crwdcntrl.net_5_ct=y_c=4737_rand=186257721_pv=y_rt=ifr"}
+{"DOMLoad": 15213.415534}
+{"Resource": {"id": 20, "url": "https://www.google-analytics.com/r/collect?v=1&_v=j41&a=1438119324&t=event&ni=1&_s=1&dl=http%3A%2F%2Fwww.ask.com%2F&ul=en-us&de=UTF-8&dt=Ask.com%20-%20What's%20Your%20Question%3F&sd=24-bit&sr=1024x768&vp=944x631&je=1&ec=undefined&ea=undefined&_u=SHCAAAQAI~&jid=133538427&cid=592947832.1462603546&tid=UA-64450717-1&_r=1&gtm=GTM-T3KVMC&cd1=592947832.1462603546&z=2069291437", "sentTime": -1.000000, "len": 35, "from": "(nil)",                            "mimeType": "image/gif", "contentLength": 35, "httpStatus": 200, "connId": 188, "connReused": 1, "cached": 0,                            "requestTime": 15213.337959, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 1, "connectEnd": 1, "sendStart": 1, "sendEnd": 1, "receiveHeadersEnd": 27, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 15213.407756, "len": 35}}
+{"Resource": {"id": 22, "url": "http://www.ask.com/ulog?anxuu=7646779B-58E8-472D-AC3A-38B94E37B171&anxa=T2_AskUS&anxv=9a1bb25&anxd=2016-05-06T00%3A06%3A00Z&anxsn=askus011iad.io.askjeeves.info&anxu=http%3A%2F%2Fwww.ask.com%2F&anxl=en-us&anxlv=1462603545905&anxrd=none&anxrk=-&anxsq=3&pl_edata=%7B%22navInfo%22%3A%7B%22navigationStart%22%3A0%2C%22unloadEventStart%22%3A0%2C%22unloadEventEnd%22%3A0%2C%22redirectStart%22%3A0%2C%22redirectEnd%22%3A0%2C%22fetchStart%22%3A48%2C%22domainLookupStart%22%3A49%2C%22domainLookupEnd%22%3A65%2C%22connectStart%22%3A65%2C%22connectEnd%22%3A71%2C%22secureConnectionStart%22%3A0%2C%22requestStart%22%3A72%2C%22responseStart%22%3A172%2C%22responseEnd%22%3A185%2C%22domLoading%22%3A180%2C%22domInteractive%22%3A609%2C%22domContentLoadedEventStart%22%3A609%2C%22domContentLoadedEventEnd%22%3A703%2C%22domComplete%22%3A1153%2C%22loadEventStart%22%3A1181%2C%22loadEventEnd%22%3A1226%2C%22redirectCount%22%3A0%2C%22navType%22%3A0%7D%7D&presentation=%5Bobject%20Object%5D&provider=%5Bobject%20Object%5D&pl_bfj=%7B%22pl_edata%22%3A%7B%7D%2C%22presentation%22%3A%7B%22count%22%3A0%7D%2C%22provider%22%3A%7B%7D%7D&anxi=DE91B1C4-5F00-42D4-BE07-EB0E40B25AE2&anxe=BackFill&anxr=1018223271", "sentTime": -1.000000, "len": 0, "from": "0xb9eebed0",                            "mimeType": "text/plain", "contentLength": 0, "httpStatus": 204, "connId": 59, "connReused": 1, "cached": 0,                            "requestTime": 15213.335883, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 1, "connectEnd": 1, "sendStart": 1, "sendEnd": 2, "receiveHeadersEnd": 32, "sslStart": -1, "sslEnd": -1}}
+{"Resource": {"id": 21, "url": "http://bcp.crwdcntrl.net/5/ct=y/c=4737/rand=186257721/pv=y/rt=ifr", "sentTime": -1.000000, "len": 163, "from": "(nil)",                            "mimeType": "text/html", "contentLength": 163, "httpStatus": 200, "connId": 228, "connReused": 0, "cached": 0,                            "requestTime": 15213.353629, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 1, "connectEnd": 1, "sendStart": 1, "sendEnd": 1, "receiveHeadersEnd": 27, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 15213.408362, "len": 105}}
+{"ReceivedChunk": {"receivedTime": 15213.414464, "len": 58}}
+{"WprofHTMLTag": {"code": "0xb989c8d0", "doc": "http://bcp.crwdcntrl.net/5/ct=y/c=4737/rand=186257721/pv=y/rt=ifr", "row": 0, "column": 6, "tagName": "html", "time": 15213.413820, "url": "", "pos": 6, "chunkLen": 105, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb989c840", "doc": "http://bcp.crwdcntrl.net/5/ct=y/c=4737/rand=186257721/pv=y/rt=ifr", "row": 1, "column": 139, "tagName": "body", "time": 15213.414503, "url": "", "pos": 146, "chunkLen": 163, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9eebf30", "doc": "http://bcp.crwdcntrl.net/5/ct=y/c=4737/rand=186257721/pv=y/rt=ifr", "row": 3, "column": 7, "tagName": "body", "time": 15213.414650, "url": "", "pos": 155, "chunkLen": 163, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ee2090", "doc": "http://bcp.crwdcntrl.net/5/ct=y/c=4737/rand=186257721/pv=y/rt=ifr", "row": 4, "column": 7, "tagName": "html", "time": 15213.414655, "url": "", "pos": 163, "chunkLen": 163, "isStartTag": 0}}
+{"Computation": {"type": "layout", "code": "0xb9eebed0", "docUrl": "http://www.ask.com/", "startTime": 15213.312575, "endTime": 15213.312747, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eebed0", "docUrl": "http://www.ask.com/", "startTime": 15213.312724, "endTime": 15213.312742, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9eebed0", "docUrl": "http://www.ask.com/", "startTime": 15213.312744, "endTime": 15213.312747, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb9ee2090", "docUrl": "http://bcp.crwdcntrl.net/5/ct=y/c=4737/rand=186257721/pv=y/rt=ifr", "startTime": 15213.415085, "endTime": 15213.415087, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9ee2090", "docUrl": "http://bcp.crwdcntrl.net/5/ct=y/c=4737/rand=186257721/pv=y/rt=ifr", "startTime": 15213.415088, "endTime": 15213.415089, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Complete': "bcp.crwdcntrl.net_5_ct=y_c=4737_rand=186257721_pv=y_rt=ifr"}
+Killed
