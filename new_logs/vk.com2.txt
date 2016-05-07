@@ -1,0 +1,705 @@
+[21761:21771:4702337801:ERROR:web_data_service.cc(657)] Cannot initialize the web database: 2
+[21761:21761:4703383154:ERROR:CONSOLE(1)] "Uncaught ReferenceError: InspectorFrontendAPI is not defined", source:  (1)
+{"page": "vk.com_"}
+{"DOMLoad": 4704.723180}
+{"Resource": {"id": 1, "url": "http://vk.com/", "sentTime": -1.000000, "len": 17706, "from": "(nil)",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 16, "connReused": 0, "cached": 0,                            "requestTime": 4702.833596, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 6, "connectEnd": 8, "sendStart": 8, "sendEnd": 9, "receiveHeadersEnd": 175, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 4703.009398, "len": 10496}}
+{"ReceivedChunk": {"receivedTime": 4703.140349, "len": 7210}}
+{"WprofHTMLTag": {"code": "0xb8a56870", "doc": "http://vk.com/", "row": 1, "column": 67, "tagName": "html", "time": 4703.011441, "url": "", "pos": 177, "chunkLen": 10496, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8a56960", "doc": "http://vk.com/", "row": 2, "column": 6, "tagName": "head", "time": 4703.011614, "url": "", "pos": 184, "chunkLen": 10496, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8a569f0", "doc": "http://vk.com/", "row": 3, "column": 55, "tagName": "meta", "time": 4703.011764, "url": "", "pos": 240, "chunkLen": 10496, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8a56a80", "doc": "http://vk.com/", "row": 4, "column": 60, "tagName": "link", "time": 4703.011843, "url": "http://vk.com/images/favicon_vk.ico?3", "pos": 301, "chunkLen": 10496, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8a56b40", "doc": "http://vk.com/", "row": 6, "column": 58, "tagName": "link", "time": 4703.011946, "url": "http://vk.com/images/safari_60.png", "pos": 361, "chunkLen": 10496, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8a56bd0", "doc": "http://vk.com/", "row": 7, "column": 72, "tagName": "link", "time": 4703.011963, "url": "http://vk.com/images/safari_76.png", "pos": 434, "chunkLen": 10496, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8a56cc0", "doc": "http://vk.com/", "row": 8, "column": 75, "tagName": "link", "time": 4703.011979, "url": "http://vk.com/images/safari_120.png", "pos": 510, "chunkLen": 10496, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8a56db0", "doc": "http://vk.com/", "row": 9, "column": 75, "tagName": "link", "time": 4703.011986, "url": "http://vk.com/images/safari_152.png", "pos": 586, "chunkLen": 10496, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8a562a0", "doc": "http://vk.com/", "row": 11, "column": 76, "tagName": "meta", "time": 4703.011994, "url": "", "pos": 664, "chunkLen": 10496, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8a56330", "doc": "http://vk.com/", "row": 12, "column": 204, "tagName": "meta", "time": 4703.012014, "url": "", "pos": 869, "chunkLen": 10496, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8a56390", "doc": "http://vk.com/", "row": 15, "column": 7, "tagName": "title", "time": 4703.012020, "url": "", "pos": 879, "chunkLen": 10496, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8aa6480", "doc": "http://vk.com/", "row": 15, "column": 32, "tagName": "title", "time": 4703.043137, "url": "", "pos": 904, "chunkLen": 10496, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8aa64e0", "doc": "http://vk.com/", "row": 17, "column": 10, "tagName": "noscript", "time": 4703.043160, "url": "", "pos": 916, "chunkLen": 10496, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8aa6450", "doc": "http://vk.com/", "row": 17, "column": 81, "tagName": "noscript", "time": 4703.043184, "url": "", "pos": 987, "chunkLen": 10496, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8aa65a0", "doc": "http://vk.com/", "row": 19, "column": 31, "tagName": "script", "time": 4703.043191, "url": "", "pos": 1020, "chunkLen": 10496, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8aa6540", "doc": "http://vk.com/", "row": 67, "column": 9, "tagName": "script", "time": 4703.043248, "url": "", "pos": 2453, "chunkLen": 10496, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8aa6840", "doc": "http://vk.com/", "row": 69, "column": 73, "tagName": "script", "time": 4703.075766, "url": "http://vk.com/js/3rdparty/rbadman-html5.js", "pos": 2528, "chunkLen": 10496, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8aa6870", "doc": "http://vk.com/", "row": 69, "column": 82, "tagName": "script", "time": 4703.075782, "url": "", "pos": 2537, "chunkLen": 10496, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8aa69c0", "doc": "http://vk.com/", "row": 71, "column": 71, "tagName": "link", "time": 4703.128334, "url": "http://vk.com/css/al/common.css?513", "pos": 2610, "chunkLen": 10496, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8aa6210", "doc": "http://vk.com/", "row": 74, "column": 67, "tagName": "link", "time": 4703.130040, "url": "http://vk.com/css/al/index.css?27", "pos": 2944, "chunkLen": 10496, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8aa6360", "doc": "http://vk.com/", "row": 74, "column": 74, "tagName": "link", "time": 4703.130843, "url": "", "pos": 2951, "chunkLen": 10496, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8aa6390", "doc": "http://vk.com/", "row": 74, "column": 144, "tagName": "link", "time": 4703.130849, "url": "http://vk.com/css/ui_controls.css?66", "pos": 3021, "chunkLen": 10496, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8a1f8d0", "doc": "http://vk.com/", "row": 74, "column": 151, "tagName": "link", "time": 4703.132159, "url": "", "pos": 3028, "chunkLen": 10496, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8a1f900", "doc": "http://vk.com/", "row": 74, "column": 213, "tagName": "script", "time": 4703.132167, "url": "http://vk.com/js/loader_nav19305_3.js", "pos": 3090, "chunkLen": 10496, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8a1f930", "doc": "http://vk.com/", "row": 74, "column": 222, "tagName": "script", "time": 4703.132178, "url": "", "pos": 3099, "chunkLen": 10496, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8a1ffc0", "doc": "http://vk.com/", "row": 74, "column": 285, "tagName": "script", "time": 4703.238518, "url": "http://vk.com/js/al/common.js?1132_195", "pos": 3162, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8b8cde0", "doc": "http://vk.com/", "row": 74, "column": 294, "tagName": "script", "time": 4703.238540, "url": "", "pos": 3171, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8b138a0", "doc": "http://vk.com/", "row": 74, "column": 351, "tagName": "script", "time": 4703.418911, "url": "http://vk.com/js/lang3_0.js?3587", "pos": 3228, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8b8cbd0", "doc": "http://vk.com/", "row": 74, "column": 360, "tagName": "script", "time": 4703.418931, "url": "", "pos": 3237, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8b2e210", "doc": "http://vk.com/", "row": 74, "column": 416, "tagName": "script", "time": 4703.422529, "url": "http://vk.com/js/lib/px.js?ch=1", "pos": 3293, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8b8c090", "doc": "http://vk.com/", "row": 74, "column": 425, "tagName": "script", "time": 4703.422543, "url": "", "pos": 3302, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8a1fab0", "doc": "http://vk.com/", "row": 74, "column": 481, "tagName": "script", "time": 4703.449403, "url": "http://vk.com/js/lib/px.js?ch=2", "pos": 3358, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8a1fb10", "doc": "http://vk.com/", "row": 74, "column": 490, "tagName": "script", "time": 4703.449428, "url": "", "pos": 3367, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8a1fb40", "doc": "http://vk.com/", "row": 74, "column": 581, "tagName": "link", "time": 4703.451879, "url": "http://m.vk.com/", "pos": 3458, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8a1fb70", "doc": "http://vk.com/", "row": 74, "column": 668, "tagName": "link", "time": 4703.451912, "url": "android-app://com.vkontakte.android/vkontakte/m.vk.com/", "pos": 3545, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8a1fae0", "doc": "http://vk.com/", "row": 74, "column": 724, "tagName": "script", "time": 4703.451922, "url": "http://vk.com/js/al/index.js?33", "pos": 3601, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8b8c0c0", "doc": "http://vk.com/", "row": 74, "column": 733, "tagName": "script", "time": 4703.451929, "url": "", "pos": 3610, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8b2e330", "doc": "http://vk.com/", "row": 74, "column": 797, "tagName": "script", "time": 4703.465318, "url": "http://vk.com/js/lib/ui_controls.js?192", "pos": 3674, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8a1fbd0", "doc": "http://vk.com/", "row": 74, "column": 806, "tagName": "script", "time": 4703.465352, "url": "", "pos": 3683, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8a1fcf0", "doc": "http://vk.com/", "row": 76, "column": 7, "tagName": "head", "time": 4703.485205, "url": "", "pos": 3692, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8a1fc00", "doc": "http://vk.com/", "row": 78, "column": 66, "tagName": "body", "time": 4703.485217, "url": "", "pos": 3760, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8c0eb40", "doc": "http://vk.com/", "row": 79, "column": 37, "tagName": "div", "time": 4703.485329, "url": "", "pos": 3798, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8c0eba0", "doc": "http://vk.com/", "row": 79, "column": 43, "tagName": "div", "time": 4703.485366, "url": "", "pos": 3804, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8c0ec00", "doc": "http://vk.com/", "row": 80, "column": 18, "tagName": "div", "time": 4703.485371, "url": "", "pos": 3823, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8c0ec30", "doc": "http://vk.com/", "row": 80, "column": 24, "tagName": "div", "time": 4703.485396, "url": "", "pos": 3829, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8c0ec90", "doc": "http://vk.com/", "row": 82, "column": 35, "tagName": "div", "time": 4703.485401, "url": "", "pos": 3866, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8c0ecc0", "doc": "http://vk.com/", "row": 82, "column": 41, "tagName": "div", "time": 4703.485419, "url": "", "pos": 3872, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8c0ecf0", "doc": "http://vk.com/", "row": 82, "column": 92, "tagName": "div", "time": 4703.485422, "url": "", "pos": 3923, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8c0ed80", "doc": "http://vk.com/", "row": 82, "column": 108, "tagName": "div", "time": 4703.485433, "url": "", "pos": 3939, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8c0edb0", "doc": "http://vk.com/", "row": 82, "column": 114, "tagName": "div", "time": 4703.485436, "url": "", "pos": 3945, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8c0ede0", "doc": "http://vk.com/", "row": 82, "column": 120, "tagName": "div", "time": 4703.485437, "url": "", "pos": 3951, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8c0ee40", "doc": "http://vk.com/", "row": 83, "column": 39, "tagName": "div", "time": 4703.485440, "url": "", "pos": 3991, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8c0eea0", "doc": "http://vk.com/", "row": 83, "column": 45, "tagName": "div", "time": 4703.485455, "url": "", "pos": 3997, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8c0eed0", "doc": "http://vk.com/", "row": 83, "column": 100, "tagName": "div", "time": 4703.485458, "url": "", "pos": 4052, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8c0ef30", "doc": "http://vk.com/", "row": 83, "column": 120, "tagName": "div", "time": 4703.485476, "url": "", "pos": 4072, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8c0ef60", "doc": "http://vk.com/", "row": 83, "column": 141, "tagName": "div", "time": 4703.485480, "url": "", "pos": 4093, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8c0ef90", "doc": "http://vk.com/", "row": 83, "column": 161, "tagName": "div", "time": 4703.485483, "url": "", "pos": 4113, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8c0e3f0", "doc": "http://vk.com/", "row": 83, "column": 167, "tagName": "div", "time": 4703.485486, "url": "", "pos": 4119, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8c0e420", "doc": "http://vk.com/", "row": 83, "column": 185, "tagName": "div", "time": 4703.485488, "url": "", "pos": 4137, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8c0e480", "doc": "http://vk.com/", "row": 83, "column": 191, "tagName": "div", "time": 4703.485490, "url": "", "pos": 4143, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8c0e4b0", "doc": "http://vk.com/", "row": 83, "column": 197, "tagName": "div", "time": 4703.485491, "url": "", "pos": 4149, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8c0e4e0", "doc": "http://vk.com/", "row": 83, "column": 203, "tagName": "div", "time": 4703.485492, "url": "", "pos": 4155, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8c0e510", "doc": "http://vk.com/", "row": 83, "column": 209, "tagName": "div", "time": 4703.485493, "url": "", "pos": 4161, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8c0e570", "doc": "http://vk.com/", "row": 85, "column": 21, "tagName": "div", "time": 4703.485496, "url": "", "pos": 4184, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8c0e5a0", "doc": "http://vk.com/", "row": 85, "column": 27, "tagName": "div", "time": 4703.485510, "url": "", "pos": 4190, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8c0e5d0", "doc": "http://vk.com/", "row": 85, "column": 46, "tagName": "div", "time": 4703.485512, "url": "", "pos": 4209, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8c0e600", "doc": "http://vk.com/", "row": 85, "column": 52, "tagName": "div", "time": 4703.485519, "url": "", "pos": 4215, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8c0e660", "doc": "http://vk.com/", "row": 87, "column": 33, "tagName": "script", "time": 4703.485522, "url": "", "pos": 4250, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8aa6600", "doc": "http://vk.com/", "row": 87, "column": 55, "tagName": "script", "time": 4703.485533, "url": "", "pos": 4272, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ccbc90", "doc": "http://vk.com/", "row": 0, "column": 17, "tagName": "div", "time": 4703.504011, "url": "", "pos": 17, "chunkLen": 55, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ccbcc0", "doc": "http://vk.com/", "row": 0, "column": 37, "tagName": "nobr", "time": 4703.504020, "url": "", "pos": 37, "chunkLen": 55, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ccbd20", "doc": "http://vk.com/", "row": 0, "column": 49, "tagName": "nobr", "time": 4703.504029, "url": "", "pos": 49, "chunkLen": 55, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ccbd50", "doc": "http://vk.com/", "row": 0, "column": 55, "tagName": "div", "time": 4703.504030, "url": "", "pos": 55, "chunkLen": 55, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ccbe70", "doc": "http://vk.com/", "row": 89, "column": 46, "tagName": "div", "time": 4703.504442, "url": "", "pos": 4320, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ccbed0", "doc": "http://vk.com/", "row": 89, "column": 92, "tagName": "div", "time": 4703.504468, "url": "", "pos": 4366, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ccbfc0", "doc": "http://vk.com/", "row": 90, "column": 26, "tagName": "div", "time": 4703.504504, "url": "", "pos": 4393, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ccb450", "doc": "http://vk.com/", "row": 91, "column": 30, "tagName": "div", "time": 4703.504521, "url": "", "pos": 4424, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ccb4e0", "doc": "http://vk.com/", "row": 93, "column": 51, "tagName": "div", "time": 4703.504547, "url": "", "pos": 4553, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ccb540", "doc": "http://vk.com/", "row": 93, "column": 168, "tagName": "a", "time": 4703.504577, "url": "", "pos": 4670, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ccb630", "doc": "http://vk.com/", "row": 93, "column": 193, "tagName": "button", "time": 4703.504637, "url": "", "pos": 4695, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ccb690", "doc": "http://vk.com/", "row": 93, "column": 221, "tagName": "span", "time": 4703.504741, "url": "", "pos": 4723, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ccb750", "doc": "http://vk.com/", "row": 93, "column": 235, "tagName": "span", "time": 4703.504763, "url": "", "pos": 4737, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ccb780", "doc": "http://vk.com/", "row": 93, "column": 244, "tagName": "button", "time": 4703.504765, "url": "", "pos": 4746, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ccb7b0", "doc": "http://vk.com/", "row": 93, "column": 248, "tagName": "a", "time": 4703.504767, "url": "", "pos": 4750, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ccb7e0", "doc": "http://vk.com/", "row": 93, "column": 254, "tagName": "div", "time": 4703.504768, "url": "", "pos": 4756, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ccb840", "doc": "http://vk.com/", "row": 94, "column": 10, "tagName": "div", "time": 4703.504771, "url": "", "pos": 4767, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ccb8a0", "doc": "http://vk.com/", "row": 95, "column": 8, "tagName": "div", "time": 4703.504773, "url": "", "pos": 4776, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ccb900", "doc": "http://vk.com/", "row": 96, "column": 6, "tagName": "div", "time": 4703.504776, "url": "", "pos": 4783, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ccb960", "doc": "http://vk.com/", "row": 97, "column": 5, "tagName": "div", "time": 4703.504777, "url": "", "pos": 4789, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ccb990", "doc": "http://vk.com/", "row": 97, "column": 29, "tagName": "div", "time": 4703.504787, "url": "", "pos": 4813, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ccb030", "doc": "http://vk.com/", "row": 98, "column": 46, "tagName": "div", "time": 4703.504800, "url": "", "pos": 4860, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ccb090", "doc": "http://vk.com/", "row": 99, "column": 52, "tagName": "div", "time": 4703.504842, "url": "", "pos": 4913, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ccb180", "doc": "http://vk.com/", "row": 100, "column": 24, "tagName": "div", "time": 4703.504863, "url": "", "pos": 4938, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ccb1e0", "doc": "http://vk.com/", "row": 100, "column": 30, "tagName": "div", "time": 4703.504931, "url": "", "pos": 4944, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ccb210", "doc": "http://vk.com/", "row": 101, "column": 24, "tagName": "div", "time": 4703.504936, "url": "", "pos": 4969, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ccb2d0", "doc": "http://vk.com/", "row": 101, "column": 30, "tagName": "div", "time": 4703.504978, "url": "", "pos": 4975, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ccb300", "doc": "http://vk.com/", "row": 102, "column": 25, "tagName": "div", "time": 4703.504983, "url": "", "pos": 5001, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ccb390", "doc": "http://vk.com/", "row": 102, "column": 31, "tagName": "div", "time": 4703.505009, "url": "", "pos": 5007, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ccb3c0", "doc": "http://vk.com/", "row": 103, "column": 27, "tagName": "div", "time": 4703.505021, "url": "", "pos": 5035, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8accae0", "doc": "http://vk.com/", "row": 104, "column": 43, "tagName": "div", "time": 4703.505037, "url": "", "pos": 5079, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8accb70", "doc": "http://vk.com/", "row": 105, "column": 39, "tagName": "div", "time": 4703.505051, "url": "", "pos": 5119, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8accbd0", "doc": "http://vk.com/", "row": 105, "column": 45, "tagName": "div", "time": 4703.505088, "url": "", "pos": 5125, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8accc60", "doc": "http://vk.com/", "row": 106, "column": 147, "tagName": "a", "time": 4703.505096, "url": "", "pos": 5273, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8accc30", "doc": "http://vk.com/", "row": 106, "column": 151, "tagName": "a", "time": 4703.505122, "url": "", "pos": 5277, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8accd80", "doc": "http://vk.com/", "row": 107, "column": 22, "tagName": "div", "time": 4703.505127, "url": "", "pos": 5300, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8acce10", "doc": "http://vk.com/", "row": 108, "column": 50, "tagName": "div", "time": 4703.505141, "url": "", "pos": 5351, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8accf60", "doc": "http://vk.com/", "row": 109, "column": 198, "tagName": "a", "time": 4703.505159, "url": "", "pos": 5550, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8acc450", "doc": "http://vk.com/", "row": 109, "column": 209, "tagName": "a", "time": 4703.505189, "url": "", "pos": 5561, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8acc510", "doc": "http://vk.com/", "row": 110, "column": 190, "tagName": "a", "time": 4703.505201, "url": "", "pos": 5752, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8acc570", "doc": "http://vk.com/", "row": 110, "column": 211, "tagName": "a", "time": 4703.505227, "url": "", "pos": 5773, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8acc600", "doc": "http://vk.com/", "row": 111, "column": 10, "tagName": "div", "time": 4703.505230, "url": "", "pos": 5784, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8acc690", "doc": "http://vk.com/", "row": 112, "column": 140, "tagName": "a", "time": 4703.505235, "url": "", "pos": 5925, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8acc660", "doc": "http://vk.com/", "row": 112, "column": 144, "tagName": "a", "time": 4703.505296, "url": "", "pos": 5929, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8acc870", "doc": "http://vk.com/", "row": 113, "column": 8, "tagName": "div", "time": 4703.505301, "url": "", "pos": 5938, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8acc8d0", "doc": "http://vk.com/", "row": 114, "column": 6, "tagName": "div", "time": 4703.505303, "url": "", "pos": 5945, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8acc900", "doc": "http://vk.com/", "row": 115, "column": 12, "tagName": "div", "time": 4703.505305, "url": "", "pos": 5958, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8acc990", "doc": "http://vk.com/", "row": 116, "column": 10, "tagName": "div", "time": 4703.505307, "url": "", "pos": 5969, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8acc000", "doc": "http://vk.com/", "row": 118, "column": 45, "tagName": "div", "time": 4703.505310, "url": "", "pos": 6016, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8acc030", "doc": "http://vk.com/", "row": 119, "column": 28, "tagName": "div", "time": 4703.505339, "url": "", "pos": 6045, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8c0ee70", "doc": "http://vk.com/", "row": 120, "column": 171, "tagName": "form", "time": 4703.505377, "url": "", "pos": 6217, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8acc090", "doc": "http://vk.com/", "row": 121, "column": 52, "tagName": "input", "time": 4703.505451, "url": "", "pos": 6270, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8acc270", "doc": "http://vk.com/", "row": 122, "column": 56, "tagName": "input", "time": 4703.505568, "url": "", "pos": 6327, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8acc300", "doc": "http://vk.com/", "row": 123, "column": 74, "tagName": "input", "time": 4703.505601, "url": "", "pos": 6402, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8acc3c0", "doc": "http://vk.com/", "row": 124, "column": 78, "tagName": "input", "time": 4703.505629, "url": "", "pos": 6481, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d4fa80", "doc": "http://vk.com/", "row": 125, "column": 78, "tagName": "input", "time": 4703.505666, "url": "", "pos": 6560, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d4fb70", "doc": "http://vk.com/", "row": 126, "column": 64, "tagName": "input", "time": 4703.505701, "url": "", "pos": 6625, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d4fc00", "doc": "http://vk.com/", "row": 127, "column": 66, "tagName": "input", "time": 4703.505726, "url": "", "pos": 6692, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d4fc90", "doc": "http://vk.com/", "row": 128, "column": 66, "tagName": "input", "time": 4703.505751, "url": "", "pos": 6759, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d4fd20", "doc": "http://vk.com/", "row": 129, "column": 23, "tagName": "div", "time": 4703.505775, "url": "", "pos": 6783, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d4fde0", "doc": "http://vk.com/", "row": 129, "column": 43, "tagName": "div", "time": 4703.505792, "url": "", "pos": 6803, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8d4fe40", "doc": "http://vk.com/", "row": 130, "column": 25, "tagName": "div", "time": 4703.505795, "url": "", "pos": 6829, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d4fed0", "doc": "http://vk.com/", "row": 130, "column": 89, "tagName": "input", "time": 4703.505806, "url": "", "pos": 6893, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d4f630", "doc": "http://vk.com/", "row": 130, "column": 95, "tagName": "div", "time": 4703.513982, "url": "", "pos": 6899, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8d4f690", "doc": "http://vk.com/", "row": 131, "column": 23, "tagName": "div", "time": 4703.513999, "url": "", "pos": 6923, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d4f720", "doc": "http://vk.com/", "row": 131, "column": 37, "tagName": "div", "time": 4703.514022, "url": "", "pos": 6937, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8d4f780", "doc": "http://vk.com/", "row": 132, "column": 25, "tagName": "div", "time": 4703.514025, "url": "", "pos": 6963, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d4f810", "doc": "http://vk.com/", "row": 132, "column": 174, "tagName": "input", "time": 4703.514037, "url": "", "pos": 7112, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d4f7b0", "doc": "http://vk.com/", "row": 132, "column": 180, "tagName": "div", "time": 4703.514187, "url": "", "pos": 7118, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8d4f930", "doc": "http://vk.com/", "row": 133, "column": 42, "tagName": "input", "time": 4703.514194, "url": "", "pos": 7161, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d4f000", "doc": "http://vk.com/", "row": 134, "column": 9, "tagName": "form", "time": 4703.514295, "url": "", "pos": 7171, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8d4f060", "doc": "http://vk.com/", "row": 135, "column": 77, "tagName": "button", "time": 4703.514302, "url": "", "pos": 7249, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d4f150", "doc": "http://vk.com/", "row": 135, "column": 92, "tagName": "button", "time": 4703.514357, "url": "", "pos": 7264, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8d4f1b0", "doc": "http://vk.com/", "row": 136, "column": 163, "tagName": "button", "time": 4703.514364, "url": "", "pos": 7428, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d4f240", "doc": "http://vk.com/", "row": 136, "column": 179, "tagName": "button", "time": 4703.514418, "url": "", "pos": 7444, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8d4f300", "doc": "http://vk.com/", "row": 137, "column": 28, "tagName": "div", "time": 4703.514424, "url": "", "pos": 7473, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d4f3c0", "doc": "http://vk.com/", "row": 137, "column": 79, "tagName": "a", "time": 4703.514440, "url": "", "pos": 7524, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d61a50", "doc": "http://vk.com/", "row": 137, "column": 104, "tagName": "a", "time": 4703.514481, "url": "", "pos": 7549, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8d61ae0", "doc": "http://vk.com/", "row": 137, "column": 227, "tagName": "div", "time": 4703.514487, "url": "", "pos": 7672, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d61b70", "doc": "http://vk.com/", "row": 137, "column": 232, "tagName": "div", "time": 4703.514502, "url": "", "pos": 7677, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d61ba0", "doc": "http://vk.com/", "row": 137, "column": 238, "tagName": "div", "time": 4703.514505, "url": "", "pos": 7683, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8d61c00", "doc": "http://vk.com/", "row": 137, "column": 265, "tagName": "div", "time": 4703.514509, "url": "", "pos": 7710, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8d61c30", "doc": "http://vk.com/", "row": 137, "column": 271, "tagName": "div", "time": 4703.514510, "url": "", "pos": 7716, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8d61c90", "doc": "http://vk.com/", "row": 138, "column": 6, "tagName": "div", "time": 4703.514512, "url": "", "pos": 7723, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8d61cf0", "doc": "http://vk.com/", "row": 139, "column": 10, "tagName": "div", "time": 4703.514514, "url": "", "pos": 7734, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8d61d80", "doc": "http://vk.com/", "row": 141, "column": 59, "tagName": "div", "time": 4703.514518, "url": "", "pos": 7795, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d61e10", "doc": "http://vk.com/", "row": 142, "column": 29, "tagName": "div", "time": 4703.514541, "url": "", "pos": 7825, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d61e40", "doc": "http://vk.com/", "row": 143, "column": 31, "tagName": "div", "time": 4703.514559, "url": "", "pos": 7857, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d61f00", "doc": "http://vk.com/", "row": 144, "column": 36, "tagName": "div", "time": 4703.514572, "url": "", "pos": 7894, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d61f90", "doc": "http://vk.com/", "row": 145, "column": 27, "tagName": "h1", "time": 4703.514592, "url": "", "pos": 7922, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d61420", "doc": "http://vk.com/", "row": 145, "column": 44, "tagName": "h1", "time": 4703.514627, "url": "", "pos": 7939, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8d61450", "doc": "http://vk.com/", "row": 146, "column": 16, "tagName": "div", "time": 4703.514631, "url": "", "pos": 7956, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8d614b0", "doc": "http://vk.com/", "row": 147, "column": 14, "tagName": "div", "time": 4703.514633, "url": "", "pos": 7971, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8d61510", "doc": "http://vk.com/", "row": 148, "column": 12, "tagName": "div", "time": 4703.514634, "url": "", "pos": 7984, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8d61570", "doc": "http://vk.com/", "row": 149, "column": 29, "tagName": "div", "time": 4703.514637, "url": "", "pos": 8014, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d615d0", "doc": "http://vk.com/", "row": 149, "column": 35, "tagName": "div", "time": 4703.514648, "url": "", "pos": 8020, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8d61600", "doc": "http://vk.com/", "row": 150, "column": 22, "tagName": "div", "time": 4703.514651, "url": "", "pos": 8043, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d61660", "doc": "http://vk.com/", "row": 150, "column": 38, "tagName": "div", "time": 4703.514657, "url": "", "pos": 8059, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d616c0", "doc": "http://vk.com/", "row": 151, "column": 18, "tagName": "div", "time": 4703.514667, "url": "", "pos": 8078, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d61720", "doc": "http://vk.com/", "row": 152, "column": 22, "tagName": "div", "time": 4703.514677, "url": "", "pos": 8101, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d61750", "doc": "http://vk.com/", "row": 152, "column": 38, "tagName": "div", "time": 4703.514683, "url": "", "pos": 8117, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d617b0", "doc": "http://vk.com/", "row": 153, "column": 119, "tagName": "iframe", "time": 4703.514696, "url": "", "pos": 8237, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d61960", "doc": "http://vk.com/", "row": 153, "column": 128, "tagName": "iframe", "time": 4703.519733, "url": "", "pos": 8246, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8d619c0", "doc": "http://vk.com/", "row": 154, "column": 23, "tagName": "div", "time": 4703.519753, "url": "", "pos": 8270, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d61030", "doc": "http://vk.com/", "row": 155, "column": 7, "tagName": "p", "time": 4703.519797, "url": "", "pos": 8278, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d61060", "doc": "http://vk.com/", "row": 155, "column": 10, "tagName": "b", "time": 4703.519818, "url": "", "pos": 8281, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d610c0", "doc": "http://vk.com/", "row": 155, "column": 16, "tagName": "b", "time": 4703.519838, "url": "", "pos": 8287, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8d61120", "doc": "http://vk.com/", "row": 155, "column": 74, "tagName": "b", "time": 4703.519843, "url": "", "pos": 8345, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d611b0", "doc": "http://vk.com/", "row": 155, "column": 89, "tagName": "b", "time": 4703.519850, "url": "", "pos": 8360, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8d61240", "doc": "http://vk.com/", "row": 155, "column": 107, "tagName": "p", "time": 4703.519853, "url": "", "pos": 8378, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8d612a0", "doc": "http://vk.com/", "row": 157, "column": 8, "tagName": "h2", "time": 4703.519856, "url": "", "pos": 8388, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8d61330", "doc": "http://vk.com/", "row": 157, "column": 27, "tagName": "h2", "time": 4703.519873, "url": "", "pos": 8407, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8d61390", "doc": "http://vk.com/", "row": 159, "column": 33, "tagName": "div", "time": 4703.519878, "url": "", "pos": 8442, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cae9f0", "doc": "http://vk.com/", "row": 159, "column": 39, "tagName": "div", "time": 4703.519912, "url": "", "pos": 8448, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8caea50", "doc": "http://vk.com/", "row": 161, "column": 25, "tagName": "div", "time": 4703.519923, "url": "", "pos": 8475, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8caeab0", "doc": "http://vk.com/", "row": 162, "column": 30, "tagName": "div", "time": 4703.519937, "url": "", "pos": 8506, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8caeba0", "doc": "http://vk.com/", "row": 163, "column": 189, "tagName": "input", "time": 4703.519972, "url": "", "pos": 8696, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8caeb40", "doc": "http://vk.com/", "row": 164, "column": 12, "tagName": "div", "time": 4703.522234, "url": "", "pos": 8709, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8caedb0", "doc": "http://vk.com/", "row": 165, "column": 30, "tagName": "div", "time": 4703.522240, "url": "", "pos": 8740, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8caeea0", "doc": "http://vk.com/", "row": 166, "column": 187, "tagName": "input", "time": 4703.522259, "url": "", "pos": 8928, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8caee10", "doc": "http://vk.com/", "row": 167, "column": 12, "tagName": "div", "time": 4703.522448, "url": "", "pos": 8941, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cae420", "doc": "http://vk.com/", "row": 168, "column": 46, "tagName": "div", "time": 4703.522452, "url": "", "pos": 8988, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cae480", "doc": "http://vk.com/", "row": 169, "column": 57, "tagName": "input", "time": 4703.522477, "url": "", "pos": 9046, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cae4e0", "doc": "http://vk.com/", "row": 170, "column": 12, "tagName": "div", "time": 4703.522497, "url": "", "pos": 9059, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cae570", "doc": "http://vk.com/", "row": 171, "column": 14, "tagName": "center", "time": 4703.522500, "url": "", "pos": 9074, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cae5d0", "doc": "http://vk.com/", "row": 172, "column": 106, "tagName": "button", "time": 4703.522514, "url": "", "pos": 9181, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cae6c0", "doc": "http://vk.com/", "row": 173, "column": 36, "tagName": "span", "time": 4703.522571, "url": "", "pos": 9218, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cae7e0", "doc": "http://vk.com/", "row": 173, "column": 50, "tagName": "span", "time": 4703.522641, "url": "", "pos": 9232, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cae810", "doc": "http://vk.com/", "row": 174, "column": 17, "tagName": "button", "time": 4703.522647, "url": "", "pos": 9250, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cae870", "doc": "http://vk.com/", "row": 175, "column": 15, "tagName": "center", "time": 4703.522650, "url": "", "pos": 9266, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cae8d0", "doc": "http://vk.com/", "row": 176, "column": 29, "tagName": "div", "time": 4703.522652, "url": "", "pos": 9296, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cae930", "doc": "http://vk.com/", "row": 177, "column": 31, "tagName": "div", "time": 4703.522664, "url": "", "pos": 9328, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cae9c0", "doc": "http://vk.com/", "row": 178, "column": 32, "tagName": "div", "time": 4703.522670, "url": "", "pos": 9361, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cae060", "doc": "http://vk.com/", "row": 178, "column": 56, "tagName": "div", "time": 4703.522673, "url": "", "pos": 9385, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cae0c0", "doc": "http://vk.com/", "row": 178, "column": 62, "tagName": "div", "time": 4703.522676, "url": "", "pos": 9391, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cae0f0", "doc": "http://vk.com/", "row": 178, "column": 87, "tagName": "span", "time": 4703.522677, "url": "", "pos": 9416, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cae180", "doc": "http://vk.com/", "row": 178, "column": 96, "tagName": "span", "time": 4703.522681, "url": "", "pos": 9425, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cae1b0", "doc": "http://vk.com/", "row": 178, "column": 102, "tagName": "div", "time": 4703.522682, "url": "", "pos": 9431, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cae1e0", "doc": "http://vk.com/", "row": 179, "column": 18, "tagName": "center", "time": 4703.522684, "url": "", "pos": 9450, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cae2a0", "doc": "http://vk.com/", "row": 180, "column": 103, "tagName": "button", "time": 4703.522689, "url": "", "pos": 9554, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cae360", "doc": "http://vk.com/", "row": 181, "column": 41, "tagName": "div", "time": 4703.522699, "url": "", "pos": 9596, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cae3c0", "doc": "http://vk.com/", "row": 181, "column": 47, "tagName": "div", "time": 4703.522702, "url": "", "pos": 9602, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb8a20", "doc": "http://vk.com/", "row": 182, "column": 38, "tagName": "div", "time": 4703.522712, "url": "", "pos": 9641, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cb8ab0", "doc": "http://vk.com/", "row": 182, "column": 65, "tagName": "div", "time": 4703.522717, "url": "", "pos": 9668, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb8ae0", "doc": "http://vk.com/", "row": 183, "column": 21, "tagName": "button", "time": 4703.522719, "url": "", "pos": 9690, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb8b40", "doc": "http://vk.com/", "row": 184, "column": 19, "tagName": "center", "time": 4703.522721, "url": "", "pos": 9710, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb8ba0", "doc": "http://vk.com/", "row": 185, "column": 14, "tagName": "div", "time": 4703.522723, "url": "", "pos": 9725, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb8c00", "doc": "http://vk.com/", "row": 186, "column": 12, "tagName": "div", "time": 4703.522725, "url": "", "pos": 9738, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb8c90", "doc": "http://vk.com/", "row": 187, "column": 10, "tagName": "div", "time": 4703.522727, "url": "", "pos": 9749, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb8cf0", "doc": "http://vk.com/", "row": 189, "column": 8, "tagName": "h2", "time": 4703.522729, "url": "", "pos": 9759, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cb8d50", "doc": "http://vk.com/", "row": 189, "column": 35, "tagName": "h2", "time": 4703.522739, "url": "", "pos": 9786, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb8db0", "doc": "http://vk.com/", "row": 190, "column": 24, "tagName": "ul", "time": 4703.522742, "url": "", "pos": 9811, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cb8e10", "doc": "http://vk.com/", "row": 191, "column": 10, "tagName": "li", "time": 4703.522766, "url": "", "pos": 9822, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cb8e70", "doc": "http://vk.com/", "row": 191, "column": 16, "tagName": "span", "time": 4703.522795, "url": "", "pos": 9828, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cb8ed0", "doc": "http://vk.com/", "row": 191, "column": 91, "tagName": "span", "time": 4703.522809, "url": "", "pos": 9903, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb8f00", "doc": "http://vk.com/", "row": 191, "column": 96, "tagName": "li", "time": 4703.522810, "url": "", "pos": 9908, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb8f30", "doc": "http://vk.com/", "row": 192, "column": 10, "tagName": "li", "time": 4703.522813, "url": "", "pos": 9919, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cb8f90", "doc": "http://vk.com/", "row": 192, "column": 16, "tagName": "span", "time": 4703.522818, "url": "", "pos": 9925, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cb83f0", "doc": "http://vk.com/", "row": 192, "column": 79, "tagName": "span", "time": 4703.522825, "url": "", "pos": 9988, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb8420", "doc": "http://vk.com/", "row": 192, "column": 84, "tagName": "li", "time": 4703.522827, "url": "", "pos": 9993, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb8450", "doc": "http://vk.com/", "row": 193, "column": 10, "tagName": "li", "time": 4703.522829, "url": "", "pos": 10004, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cb84b0", "doc": "http://vk.com/", "row": 193, "column": 16, "tagName": "span", "time": 4703.522833, "url": "", "pos": 10010, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cb8510", "doc": "http://vk.com/", "row": 193, "column": 53, "tagName": "span", "time": 4703.522839, "url": "", "pos": 10047, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb8540", "doc": "http://vk.com/", "row": 193, "column": 58, "tagName": "li", "time": 4703.522840, "url": "", "pos": 10052, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb85a0", "doc": "http://vk.com/", "row": 194, "column": 9, "tagName": "ul", "time": 4703.522842, "url": "", "pos": 10062, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb8600", "doc": "http://vk.com/", "row": 195, "column": 8, "tagName": "div", "time": 4703.522844, "url": "", "pos": 10071, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb8660", "doc": "http://vk.com/", "row": 196, "column": 19, "tagName": "div", "time": 4703.522847, "url": "", "pos": 10091, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cb86f0", "doc": "http://vk.com/", "row": 197, "column": 59, "tagName": "table", "time": 4703.522861, "url": "", "pos": 10151, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cb8750", "doc": "http://vk.com/", "row": 197, "column": 63, "tagName": "tr", "time": 4703.522910, "url": "", "pos": 10155, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cb8780", "doc": "http://vk.com/", "row": 198, "column": 10, "tagName": "td", "time": 4703.522946, "url": "", "pos": 10166, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cb87e0", "doc": "http://vk.com/", "row": 198, "column": 60, "tagName": "a", "time": 4703.522978, "url": "", "pos": 10216, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cb8870", "doc": "http://vk.com/", "row": 198, "column": 118, "tagName": "img", "time": 4703.522997, "url": "", "pos": 10274, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cb88d0", "doc": "http://vk.com/", "row": 198, "column": 122, "tagName": "a", "time": 4703.523051, "url": "", "pos": 10278, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb8900", "doc": "http://vk.com/", "row": 198, "column": 127, "tagName": "td", "time": 4703.523054, "url": "", "pos": 10283, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb8930", "doc": "http://vk.com/", "row": 199, "column": 10, "tagName": "td", "time": 4703.523061, "url": "", "pos": 10294, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cb8990", "doc": "http://vk.com/", "row": 199, "column": 60, "tagName": "a", "time": 4703.523072, "url": "", "pos": 10344, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cb8000", "doc": "http://vk.com/", "row": 199, "column": 118, "tagName": "img", "time": 4703.523085, "url": "", "pos": 10402, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cb8030", "doc": "http://vk.com/", "row": 199, "column": 122, "tagName": "a", "time": 4703.523105, "url": "", "pos": 10406, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb8060", "doc": "http://vk.com/", "row": 199, "column": 127, "tagName": "td", "time": 4703.523106, "url": "", "pos": 10411, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb8090", "doc": "http://vk.com/", "row": 200, "column": 10, "tagName": "td", "time": 4703.523108, "url": "", "pos": 10422, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cb80f0", "doc": "http://vk.com/", "row": 200, "column": 60, "tagName": "a", "time": 4703.523115, "url": "", "pos": 10472, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cb8150", "doc": "http://vk.com/", "row": 200, "column": 118, "tagName": "img", "time": 4703.523124, "url": "", "pos": 10530, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cb8180", "doc": "http://vk.com/", "row": 200, "column": 122, "tagName": "a", "time": 4703.523139, "url": "", "pos": 10534, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb81b0", "doc": "http://vk.com/", "row": 200, "column": 127, "tagName": "td", "time": 4703.523141, "url": "", "pos": 10539, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb81e0", "doc": "http://vk.com/", "row": 201, "column": 9, "tagName": "tr", "time": 4703.523143, "url": "", "pos": 10549, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb8240", "doc": "http://vk.com/", "row": 201, "column": 17, "tagName": "table", "time": 4703.523145, "url": "", "pos": 10557, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb82a0", "doc": "http://vk.com/", "row": 202, "column": 8, "tagName": "div", "time": 4703.523148, "url": "", "pos": 10566, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb8300", "doc": "http://vk.com/", "row": 203, "column": 6, "tagName": "div", "time": 4703.523150, "url": "", "pos": 10573, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb8330", "doc": "http://vk.com/", "row": 203, "column": 12, "tagName": "div", "time": 4703.523151, "url": "", "pos": 10579, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cb8390", "doc": "http://vk.com/", "row": 204, "column": 8, "tagName": "div", "time": 4703.523153, "url": "", "pos": 10588, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cbb9f0", "doc": "http://vk.com/", "row": 205, "column": 6, "tagName": "div", "time": 4703.523155, "url": "", "pos": 10595, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cbba20", "doc": "http://vk.com/", "row": 205, "column": 12, "tagName": "div", "time": 4703.523162, "url": "", "pos": 10601, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cbba80", "doc": "http://vk.com/", "row": 206, "column": 10, "tagName": "div", "time": 4703.523165, "url": "", "pos": 10612, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cbbb10", "doc": "http://vk.com/", "row": 208, "column": 61, "tagName": "div", "time": 4703.523170, "url": "", "pos": 10675, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cbbb40", "doc": "http://vk.com/", "row": 209, "column": 27, "tagName": "div", "time": 4703.523200, "url": "", "pos": 10703, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cbbbd0", "doc": "http://vk.com/", "row": 210, "column": 34, "tagName": "a", "time": 4703.523210, "url": "", "pos": 10738, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8acc120", "doc": "http://vk.com/", "row": 210, "column": 43, "tagName": "a", "time": 4703.523267, "url": "", "pos": 10747, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8acc0c0", "doc": "http://vk.com/", "row": 211, "column": 106, "tagName": "a", "time": 4703.523274, "url": "", "pos": 10854, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cbbd80", "doc": "http://vk.com/", "row": 211, "column": 114, "tagName": "a", "time": 4703.523306, "url": "", "pos": 10862, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cbbde0", "doc": "http://vk.com/", "row": 212, "column": 34, "tagName": "a", "time": 4703.523312, "url": "", "pos": 10897, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cbbe40", "doc": "http://vk.com/", "row": 212, "column": 43, "tagName": "a", "time": 4703.523330, "url": "", "pos": 10906, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cbbed0", "doc": "http://vk.com/", "row": 213, "column": 35, "tagName": "a", "time": 4703.523334, "url": "", "pos": 10942, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cbbf30", "doc": "http://vk.com/", "row": 213, "column": 45, "tagName": "a", "time": 4703.523348, "url": "", "pos": 10952, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cbbf90", "doc": "http://vk.com/", "row": 213, "column": 83, "tagName": "a", "time": 4703.523351, "url": "", "pos": 10990, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cbb420", "doc": "http://vk.com/", "row": 213, "column": 98, "tagName": "a", "time": 4703.523364, "url": "", "pos": 11005, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cbb480", "doc": "http://vk.com/", "row": 214, "column": 32, "tagName": "a", "time": 4703.523368, "url": "", "pos": 11038, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cbb510", "doc": "http://vk.com/", "row": 214, "column": 46, "tagName": "a", "time": 4703.523381, "url": "", "pos": 11052, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cbb570", "doc": "http://vk.com/", "row": 215, "column": 6, "tagName": "div", "time": 4703.523384, "url": "", "pos": 11059, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cbb5d0", "doc": "http://vk.com/", "row": 216, "column": 15, "tagName": "p", "time": 4703.523387, "url": "", "pos": 11075, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cbb660", "doc": "http://vk.com/", "row": 217, "column": 25, "tagName": "div", "time": 4703.523402, "url": "", "pos": 11101, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cbb6c0", "doc": "http://vk.com/", "row": 217, "column": 42, "tagName": "a", "time": 4703.523410, "url": "", "pos": 11118, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cbb750", "doc": "http://vk.com/", "row": 217, "column": 48, "tagName": "a", "time": 4703.523422, "url": "", "pos": 11124, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cbb7e0", "doc": "http://vk.com/", "row": 217, "column": 180, "tagName": "a", "time": 4703.523431, "url": "", "pos": 11256, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cbb8d0", "doc": "http://vk.com/", "row": 217, "column": 191, "tagName": "a", "time": 4703.523445, "url": "", "pos": 11267, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cbb900", "doc": "http://vk.com/", "row": 217, "column": 310, "tagName": "a", "time": 4703.523458, "url": "", "pos": 11386, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cbb9c0", "doc": "http://vk.com/", "row": 217, "column": 321, "tagName": "a", "time": 4703.523471, "url": "", "pos": 11397, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cbb000", "doc": "http://vk.com/", "row": 217, "column": 440, "tagName": "a", "time": 4703.523474, "url": "", "pos": 11516, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cbb0c0", "doc": "http://vk.com/", "row": 217, "column": 454, "tagName": "a", "time": 4703.523482, "url": "", "pos": 11530, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cbb0f0", "doc": "http://vk.com/", "row": 217, "column": 656, "tagName": "a", "time": 4703.523486, "url": "", "pos": 11732, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cbb180", "doc": "http://vk.com/", "row": 217, "column": 675, "tagName": "a", "time": 4703.523493, "url": "", "pos": 11751, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cbb1b0", "doc": "http://vk.com/", "row": 217, "column": 681, "tagName": "div", "time": 4703.523494, "url": "", "pos": 11757, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cbb210", "doc": "http://vk.com/", "row": 219, "column": 7, "tagName": "div", "time": 4703.523496, "url": "", "pos": 11768, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cbb2a0", "doc": "http://vk.com/", "row": 222, "column": 8, "tagName": "div", "time": 4703.523505, "url": "", "pos": 11787, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cbb300", "doc": "http://vk.com/", "row": 223, "column": 4, "tagName": "p", "time": 4703.523507, "url": "", "pos": 11792, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cbb360", "doc": "http://vk.com/", "row": 224, "column": 10, "tagName": "div", "time": 4703.523515, "url": "", "pos": 11803, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cbb3c0", "doc": "http://vk.com/", "row": 225, "column": 23, "tagName": "div", "time": 4703.523518, "url": "", "pos": 11827, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cf9a20", "doc": "http://vk.com/", "row": 225, "column": 29, "tagName": "div", "time": 4703.523546, "url": "", "pos": 11833, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cf9a80", "doc": "http://vk.com/", "row": 226, "column": 8, "tagName": "div", "time": 4703.523549, "url": "", "pos": 11842, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cf9ae0", "doc": "http://vk.com/", "row": 227, "column": 6, "tagName": "div", "time": 4703.523551, "url": "", "pos": 11849, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cf9b10", "doc": "http://vk.com/", "row": 227, "column": 12, "tagName": "div", "time": 4703.523552, "url": "", "pos": 11855, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cf9b40", "doc": "http://vk.com/", "row": 227, "column": 22, "tagName": "noscript", "time": 4703.523553, "url": "", "pos": 11865, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8c0e6f0", "doc": "http://vk.com/", "row": 229, "column": 17, "tagName": "noscript", "time": 4703.523563, "url": "", "pos": 12032, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cf9bd0", "doc": "http://vk.com/", "row": 229, "column": 23, "tagName": "div", "time": 4703.523564, "url": "", "pos": 12038, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cf9c30", "doc": "http://vk.com/", "row": 230, "column": 40, "tagName": "div", "time": 4703.523567, "url": "", "pos": 12079, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cf9c90", "doc": "http://vk.com/", "row": 230, "column": 46, "tagName": "div", "time": 4703.523637, "url": "", "pos": 12085, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cf9d20", "doc": "http://vk.com/", "row": 232, "column": 33, "tagName": "script", "time": 4703.523642, "url": "", "pos": 12120, "chunkLen": 17707, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cf9ba0", "doc": "http://vk.com/", "row": 373, "column": 11, "tagName": "script", "time": 4703.523751, "url": "", "pos": 17689, "chunkLen": 17707, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cf9420", "doc": "http://vk.com/", "row": 0, "column": 27, "tagName": "div", "time": 4703.536988, "url": "", "pos": 27, "chunkLen": 39, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cf9480", "doc": "http://vk.com/", "row": 0, "column": 32, "tagName": "br", "time": 4703.537017, "url": "", "pos": 32, "chunkLen": 39, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cf94e0", "doc": "http://vk.com/", "row": 0, "column": 39, "tagName": "div", "time": 4703.537021, "url": "http://vk.com/js/al/aes_light.js?108", "pos": 39, "chunkLen": 39, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cf9990", "doc": "http://vk.com/", "row": 0, "column": 39, "tagName": "div", "time": 4703.551688, "url": "", "pos": 39, "chunkLen": 390, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cf9000", "doc": "http://vk.com/", "row": 0, "column": 45, "tagName": "div", "time": 4703.551699, "url": "", "pos": 45, "chunkLen": 390, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8cf9030", "doc": "http://vk.com/", "row": 0, "column": 78, "tagName": "div", "time": 4703.551704, "url": "", "pos": 78, "chunkLen": 390, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cf9090", "doc": "http://vk.com/", "row": 0, "column": 107, "tagName": "div", "time": 4703.551707, "url": "", "pos": 107, "chunkLen": 390, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea9a20", "doc": "http://vk.com/", "row": 0, "column": 113, "tagName": "div", "time": 4703.551718, "url": "", "pos": 113, "chunkLen": 390, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea9a50", "doc": "http://vk.com/", "row": 0, "column": 119, "tagName": "div", "time": 4703.551719, "url": "", "pos": 119, "chunkLen": 390, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea9a80", "doc": "http://vk.com/", "row": 0, "column": 161, "tagName": "div", "time": 4703.551721, "url": "", "pos": 161, "chunkLen": 390, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea9ae0", "doc": "http://vk.com/", "row": 0, "column": 167, "tagName": "div", "time": 4703.551723, "url": "", "pos": 167, "chunkLen": 390, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea9b40", "doc": "http://vk.com/", "row": 0, "column": 269, "tagName": "a", "time": 4703.551728, "url": "", "pos": 269, "chunkLen": 390, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea9bd0", "doc": "http://vk.com/", "row": 0, "column": 296, "tagName": "div", "time": 4703.551746, "url": "", "pos": 296, "chunkLen": 390, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea9c30", "doc": "http://vk.com/", "row": 0, "column": 332, "tagName": "div", "time": 4703.551750, "url": "", "pos": 332, "chunkLen": 390, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea9c90", "doc": "http://vk.com/", "row": 0, "column": 338, "tagName": "div", "time": 4703.551752, "url": "", "pos": 338, "chunkLen": 390, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea9cc0", "doc": "http://vk.com/", "row": 0, "column": 374, "tagName": "div", "time": 4703.551754, "url": "", "pos": 374, "chunkLen": 390, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea9d20", "doc": "http://vk.com/", "row": 0, "column": 380, "tagName": "div", "time": 4703.551760, "url": "", "pos": 380, "chunkLen": 390, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea9d50", "doc": "http://vk.com/", "row": 0, "column": 386, "tagName": "div", "time": 4703.551761, "url": "", "pos": 386, "chunkLen": 390, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea9d80", "doc": "http://vk.com/", "row": 0, "column": 390, "tagName": "a", "time": 4703.551762, "url": "", "pos": 390, "chunkLen": 390, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea9f60", "doc": "http://vk.com/", "row": 0, "column": 62, "tagName": "table", "time": 4703.567341, "url": "", "pos": 62, "chunkLen": 897, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea9fc0", "doc": "http://vk.com/", "row": 0, "column": 70, "tagName": "tr", "time": 4703.567354, "url": "", "pos": 70, "chunkLen": 897, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea95a0", "doc": "http://vk.com/", "row": 0, "column": 97, "tagName": "td", "time": 4703.567364, "url": "", "pos": 97, "chunkLen": 897, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea9690", "doc": "http://vk.com/", "row": 0, "column": 136, "tagName": "div", "time": 4703.567370, "url": "", "pos": 136, "chunkLen": 897, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea9750", "doc": "http://vk.com/", "row": 0, "column": 177, "tagName": "div", "time": 4703.567373, "url": "", "pos": 177, "chunkLen": 897, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea9810", "doc": "http://vk.com/", "row": 0, "column": 222, "tagName": "div", "time": 4703.567377, "url": "", "pos": 222, "chunkLen": 897, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea9870", "doc": "http://vk.com/", "row": 0, "column": 228, "tagName": "div", "time": 4703.567379, "url": "", "pos": 228, "chunkLen": 897, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea98a0", "doc": "http://vk.com/", "row": 0, "column": 271, "tagName": "div", "time": 4703.567382, "url": "", "pos": 271, "chunkLen": 897, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea9930", "doc": "http://vk.com/", "row": 0, "column": 277, "tagName": "div", "time": 4703.567384, "url": "", "pos": 277, "chunkLen": 897, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea9960", "doc": "http://vk.com/", "row": 0, "column": 293, "tagName": "div", "time": 4703.567386, "url": "", "pos": 293, "chunkLen": 897, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea99c0", "doc": "http://vk.com/", "row": 0, "column": 307, "tagName": "div", "time": 4703.567387, "url": "", "pos": 307, "chunkLen": 897, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8acc6f0", "doc": "http://vk.com/", "row": 0, "column": 344, "tagName": "span", "time": 4703.567389, "url": "", "pos": 344, "chunkLen": 897, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cbbcf0", "doc": "http://vk.com/", "row": 0, "column": 351, "tagName": "span", "time": 4703.567406, "url": "", "pos": 351, "chunkLen": 897, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea9000", "doc": "http://vk.com/", "row": 0, "column": 419, "tagName": "input", "time": 4703.567411, "url": "", "pos": 419, "chunkLen": 897, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea9150", "doc": "http://vk.com/", "row": 0, "column": 503, "tagName": "input", "time": 4703.567448, "url": "", "pos": 503, "chunkLen": 897, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea92a0", "doc": "http://vk.com/", "row": 0, "column": 601, "tagName": "input", "time": 4703.567462, "url": "", "pos": 601, "chunkLen": 897, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea9360", "doc": "http://vk.com/", "row": 0, "column": 612, "tagName": "td", "time": 4703.567469, "url": "", "pos": 612, "chunkLen": 897, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea93c0", "doc": "http://vk.com/", "row": 0, "column": 657, "tagName": "td", "time": 4703.567471, "url": "", "pos": 657, "chunkLen": 897, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8ea9450", "doc": "http://vk.com/", "row": 0, "column": 668, "tagName": "td", "time": 4703.567482, "url": "", "pos": 668, "chunkLen": 897, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea9480", "doc": "http://vk.com/", "row": 0, "column": 677, "tagName": "tr", "time": 4703.567484, "url": "", "pos": 677, "chunkLen": 897, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ea94e0", "doc": "http://vk.com/", "row": 0, "column": 687, "tagName": "table", "time": 4703.567486, "url": "", "pos": 687, "chunkLen": 897, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8abc9f0", "doc": "http://vk.com/", "row": 0, "column": 720, "tagName": "div", "time": 4703.567490, "url": "", "pos": 720, "chunkLen": 897, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8abcab0", "doc": "http://vk.com/", "row": 0, "column": 771, "tagName": "div", "time": 4703.567500, "url": "", "pos": 771, "chunkLen": 897, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8abcb10", "doc": "http://vk.com/", "row": 0, "column": 777, "tagName": "div", "time": 4703.567512, "url": "", "pos": 777, "chunkLen": 897, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8abcb70", "doc": "http://vk.com/", "row": 0, "column": 813, "tagName": "div", "time": 4703.567521, "url": "", "pos": 813, "chunkLen": 897, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8abcc00", "doc": "http://vk.com/", "row": 0, "column": 840, "tagName": "div", "time": 4703.567525, "url": "", "pos": 840, "chunkLen": 897, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8abcc60", "doc": "http://vk.com/", "row": 0, "column": 846, "tagName": "div", "time": 4703.567527, "url": "", "pos": 846, "chunkLen": 897, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8abccc0", "doc": "http://vk.com/", "row": 0, "column": 873, "tagName": "div", "time": 4703.567529, "url": "", "pos": 873, "chunkLen": 897, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8abcd20", "doc": "http://vk.com/", "row": 0, "column": 879, "tagName": "div", "time": 4703.567530, "url": "", "pos": 879, "chunkLen": 897, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8abcd80", "doc": "http://vk.com/", "row": 0, "column": 889, "tagName": "div", "time": 4703.567532, "url": "", "pos": 889, "chunkLen": 897, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8abcde0", "doc": "http://vk.com/", "row": 0, "column": 897, "tagName": "div", "time": 4703.567533, "url": "", "pos": 897, "chunkLen": 897, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8abc870", "doc": "http://vk.com/", "row": 0, "column": 24, "tagName": "div", "time": 4703.575487, "url": "", "pos": 24, "chunkLen": 105, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8abc900", "doc": "http://vk.com/", "row": 0, "column": 78, "tagName": "div", "time": 4703.575498, "url": "", "pos": 78, "chunkLen": 105, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8abc990", "doc": "http://vk.com/", "row": 0, "column": 99, "tagName": "div", "time": 4703.575519, "url": "", "pos": 99, "chunkLen": 105, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8abc9c0", "doc": "http://vk.com/", "row": 0, "column": 105, "tagName": "div", "time": 4703.575521, "url": "", "pos": 105, "chunkLen": 105, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8caefc0", "doc": "http://vk.com/", "row": 0, "column": 24, "tagName": "div", "time": 4703.578889, "url": "", "pos": 24, "chunkLen": 104, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8abc180", "doc": "http://vk.com/", "row": 0, "column": 78, "tagName": "div", "time": 4703.578905, "url": "", "pos": 78, "chunkLen": 104, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8abc210", "doc": "http://vk.com/", "row": 0, "column": 98, "tagName": "div", "time": 4703.578931, "url": "", "pos": 98, "chunkLen": 104, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8abc240", "doc": "http://vk.com/", "row": 0, "column": 104, "tagName": "div", "time": 4703.578934, "url": "http://top-fwz1.mail.ru/js/code.js", "pos": 104, "chunkLen": 104, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebaa50", "doc": "http://vk.com/", "row": 374, "column": 7, "tagName": "body", "time": 4703.582804, "url": "", "pos": 7201, "chunkLen": 7211, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebaa80", "doc": "http://vk.com/", "row": 376, "column": 7, "tagName": "html", "time": 4703.582810, "url": "", "pos": 7210, "chunkLen": 7211, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8abc390", "doc": "http://vk.com/", "row": 0, "column": 137, "tagName": "a", "time": 4703.628861, "url": "", "pos": 137, "chunkLen": 1570, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8cf91e0", "doc": "http://vk.com/", "row": 0, "column": 169, "tagName": "span", "time": 4703.628898, "url": "", "pos": 169, "chunkLen": 1570, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8abc2a0", "doc": "http://vk.com/", "row": 0, "column": 176, "tagName": "span", "time": 4703.628905, "url": "", "pos": 176, "chunkLen": 1570, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8abc300", "doc": "http://vk.com/", "row": 0, "column": 222, "tagName": "span", "time": 4703.628911, "url": "", "pos": 222, "chunkLen": 1570, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8b8ccf0", "doc": "http://vk.com/", "row": 0, "column": 229, "tagName": "span", "time": 4703.628915, "url": "", "pos": 229, "chunkLen": 1570, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebae40", "doc": "http://vk.com/", "row": 0, "column": 233, "tagName": "a", "time": 4703.628916, "url": "", "pos": 233, "chunkLen": 1570, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8ebaf30", "doc": "http://vk.com/", "row": 0, "column": 362, "tagName": "a", "time": 4703.628920, "url": "", "pos": 362, "chunkLen": 1570, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8eba0c0", "doc": "http://vk.com/", "row": 0, "column": 394, "tagName": "span", "time": 4703.628927, "url": "", "pos": 394, "chunkLen": 1570, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8eba0f0", "doc": "http://vk.com/", "row": 0, "column": 401, "tagName": "span", "time": 4703.628930, "url": "", "pos": 401, "chunkLen": 1570, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8eba120", "doc": "http://vk.com/", "row": 0, "column": 447, "tagName": "span", "time": 4703.628932, "url": "", "pos": 447, "chunkLen": 1570, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8eba150", "doc": "http://vk.com/", "row": 0, "column": 454, "tagName": "span", "time": 4703.628934, "url": "", "pos": 454, "chunkLen": 1570, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8eba180", "doc": "http://vk.com/", "row": 0, "column": 458, "tagName": "a", "time": 4703.628935, "url": "", "pos": 458, "chunkLen": 1570, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8eba1b0", "doc": "http://vk.com/", "row": 0, "column": 593, "tagName": "a", "time": 4703.628938, "url": "", "pos": 593, "chunkLen": 1570, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8eba210", "doc": "http://vk.com/", "row": 0, "column": 625, "tagName": "span", "time": 4703.628943, "url": "", "pos": 625, "chunkLen": 1570, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8eba240", "doc": "http://vk.com/", "row": 0, "column": 632, "tagName": "span", "time": 4703.628945, "url": "", "pos": 632, "chunkLen": 1570, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8eba270", "doc": "http://vk.com/", "row": 0, "column": 679, "tagName": "span", "time": 4703.628947, "url": "", "pos": 679, "chunkLen": 1570, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8eba2a0", "doc": "http://vk.com/", "row": 0, "column": 686, "tagName": "span", "time": 4703.628949, "url": "", "pos": 686, "chunkLen": 1570, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8eba2d0", "doc": "http://vk.com/", "row": 0, "column": 690, "tagName": "a", "time": 4703.628950, "url": "", "pos": 690, "chunkLen": 1570, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8eba300", "doc": "http://vk.com/", "row": 0, "column": 807, "tagName": "a", "time": 4703.628953, "url": "", "pos": 807, "chunkLen": 1570, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8eba360", "doc": "http://vk.com/", "row": 0, "column": 839, "tagName": "span", "time": 4703.628958, "url": "", "pos": 839, "chunkLen": 1570, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8eba390", "doc": "http://vk.com/", "row": 0, "column": 846, "tagName": "span", "time": 4703.628973, "url": "", "pos": 846, "chunkLen": 1570, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8eba3c0", "doc": "http://vk.com/", "row": 0, "column": 893, "tagName": "span", "time": 4703.628977, "url": "", "pos": 893, "chunkLen": 1570, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8eba3f0", "doc": "http://vk.com/", "row": 0, "column": 900, "tagName": "span", "time": 4703.628980, "url": "", "pos": 900, "chunkLen": 1570, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8eba420", "doc": "http://vk.com/", "row": 0, "column": 904, "tagName": "a", "time": 4703.628981, "url": "", "pos": 904, "chunkLen": 1570, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8eba480", "doc": "http://vk.com/", "row": 0, "column": 1023, "tagName": "a", "time": 4703.628984, "url": "", "pos": 1023, "chunkLen": 1570, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8eba4e0", "doc": "http://vk.com/", "row": 0, "column": 1055, "tagName": "span", "time": 4703.628991, "url": "", "pos": 1055, "chunkLen": 1570, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8eba510", "doc": "http://vk.com/", "row": 0, "column": 1062, "tagName": "span", "time": 4703.628993, "url": "", "pos": 1062, "chunkLen": 1570, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8eba540", "doc": "http://vk.com/", "row": 0, "column": 1108, "tagName": "span", "time": 4703.628995, "url": "", "pos": 1108, "chunkLen": 1570, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8eba570", "doc": "http://vk.com/", "row": 0, "column": 1115, "tagName": "span", "time": 4703.628997, "url": "", "pos": 1115, "chunkLen": 1570, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8eba5a0", "doc": "http://vk.com/", "row": 0, "column": 1119, "tagName": "a", "time": 4703.628997, "url": "", "pos": 1119, "chunkLen": 1570, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8eba5d0", "doc": "http://vk.com/", "row": 0, "column": 1260, "tagName": "a", "time": 4703.629001, "url": "", "pos": 1260, "chunkLen": 1570, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8eba630", "doc": "http://vk.com/", "row": 0, "column": 1292, "tagName": "span", "time": 4703.629014, "url": "", "pos": 1292, "chunkLen": 1570, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8eba660", "doc": "http://vk.com/", "row": 0, "column": 1299, "tagName": "span", "time": 4703.629017, "url": "", "pos": 1299, "chunkLen": 1570, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8eba000", "doc": "http://vk.com/", "row": 0, "column": 1346, "tagName": "span", "time": 4703.629019, "url": "", "pos": 1346, "chunkLen": 1570, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8eba030", "doc": "http://vk.com/", "row": 0, "column": 1353, "tagName": "span", "time": 4703.629021, "url": "", "pos": 1353, "chunkLen": 1570, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8eba060", "doc": "http://vk.com/", "row": 0, "column": 1357, "tagName": "a", "time": 4703.629022, "url": "", "pos": 1357, "chunkLen": 1570, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f019f0", "doc": "http://vk.com/", "row": 0, "column": 1474, "tagName": "a", "time": 4703.629025, "url": "", "pos": 1474, "chunkLen": 1570, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f01a50", "doc": "http://vk.com/", "row": 0, "column": 1506, "tagName": "span", "time": 4703.629042, "url": "", "pos": 1506, "chunkLen": 1570, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f01a80", "doc": "http://vk.com/", "row": 0, "column": 1513, "tagName": "span", "time": 4703.629045, "url": "", "pos": 1513, "chunkLen": 1570, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f01ab0", "doc": "http://vk.com/", "row": 0, "column": 1559, "tagName": "span", "time": 4703.629047, "url": "", "pos": 1559, "chunkLen": 1570, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f01ae0", "doc": "http://vk.com/", "row": 0, "column": 1566, "tagName": "span", "time": 4703.629049, "url": "", "pos": 1566, "chunkLen": 1570, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f01b10", "doc": "http://vk.com/", "row": 0, "column": 1570, "tagName": "a", "time": 4703.629050, "url": "", "pos": 1570, "chunkLen": 1570, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8eba960", "doc": "http://vk.com/", "row": 0, "column": 77, "tagName": "iframe", "time": 4703.710033, "url": "", "pos": 77, "chunkLen": 86, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8eba930", "doc": "http://vk.com/", "row": 0, "column": 86, "tagName": "iframe", "time": 4703.710063, "url": "http://connect.facebook.net/en_US/all.js", "pos": 86, "chunkLen": 86, "isStartTag": 0}}
+{"Resource": {"id": 2, "url": "http://vk.com/js/3rdparty/rbadman-html5.js", "sentTime": -1.000000, "len": 32674, "from": "0xb8aa6840",                            "mimeType": "application/x-javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4703.140820, "len": 32674}}
+{"Resource": {"id": 3, "url": "http://vk.com/css/al/common.css?513", "sentTime": -1.000000, "len": 76567, "from": "0xb8aa69c0",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4703.140984, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 4703.141174, "len": 43799}}
+{"Resource": {"id": 4, "url": "http://vk.com/css/al/index.css?27", "sentTime": -1.000000, "len": 6137, "from": "0xb8aa6210",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4703.195225, "len": 6137}}
+{"Resource": {"id": 5, "url": "http://vk.com/css/ui_controls.css?66", "sentTime": -1.000000, "len": 24149, "from": "0xb8aa6390",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4703.212472, "len": 24149}}
+{"Resource": {"id": 6, "url": "http://vk.com/js/loader_nav19305_3.js", "sentTime": -1.000000, "len": 13701, "from": "0xb8a1f900",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4703.229234, "len": 13701}}
+{"Resource": {"id": 7, "url": "http://vk.com/js/al/common.js?1132_195", "sentTime": -1.000000, "len": 263555, "from": "0xb8a1ffc0",                            "mimeType": "application/x-javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4703.248241, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 4703.248385, "len": 63372}}
+{"ReceivedChunk": {"receivedTime": 4703.248507, "len": 65536}}
+{"ReceivedChunk": {"receivedTime": 4703.352822, "len": 34801}}
+{"ReceivedChunk": {"receivedTime": 4703.353063, "len": 67078}}
+{"Resource": {"id": 8, "url": "http://vk.com/js/lang3_0.js?3587", "sentTime": -1.000000, "len": 29874, "from": "0xb8b138a0",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4703.420329, "len": 29874}}
+{"Resource": {"id": 9, "url": "http://vk.com/js/lib/px.js?ch=1", "sentTime": -1.000000, "len": 347, "from": "(nil)",                            "mimeType": "application/x-javascript", "contentLength": 347, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4703.446159, "len": 347}}
+{"Resource": {"id": 10, "url": "http://vk.com/js/lib/px.js?ch=2", "sentTime": -1.000000, "len": 347, "from": "(nil)",                            "mimeType": "application/x-javascript", "contentLength": 347, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4703.449603, "len": 347}}
+{"Resource": {"id": 11, "url": "http://vk.com/js/al/index.js?33", "sentTime": -1.000000, "len": 20324, "from": "(nil)",                            "mimeType": "application/x-javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4703.452050, "len": 20324}}
+{"Resource": {"id": 12, "url": "http://vk.com/js/lib/ui_controls.js?192", "sentTime": -1.000000, "len": 129739, "from": "(nil)",                            "mimeType": "application/x-javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4703.465600, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 4703.465720, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 4703.465803, "len": 51017}}
+{"ReceivedChunk": {"receivedTime": 4703.465896, "len": 13186}}
+{"Resource": {"id": 16, "url": "about:blank", "sentTime": -1.000000, "len": 0, "from": "(nil)",                            "mimeType": "text/html", "contentLength": 0, "httpStatus": 0, "connId": 0, "connReused": 0, "cached": 0}}
+{"Resource": {"id": 13, "url": "http://vk.com/images/join/prof_vk_m.png?4", "sentTime": -1.000000, "len": 24393, "from": "0xb8cb8870",                            "mimeType": "image/png", "contentLength": 24393, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4703.584679, "len": 24393}}
+{"Resource": {"id": 14, "url": "http://vk.com/images/join/news_vk_m.png?4", "sentTime": -1.000000, "len": 20981, "from": "0xb8cb8000",                            "mimeType": "image/png", "contentLength": 20981, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4703.589767, "len": 20981}}
+{"Resource": {"id": 15, "url": "http://vk.com/images/join/dial_vk_m.png?4", "sentTime": -1.000000, "len": 18599, "from": "0xb8cb8150",                            "mimeType": "image/png", "contentLength": 18599, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4703.590069, "len": 18599}}
+{"Resource": {"id": 21, "url": "http://vk.com/js/al/aes_light.js?108", "sentTime": -1.000000, "len": 52674, "from": "0xb8cf94e0",                            "mimeType": "application/x-javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4703.622416, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 4703.622513, "len": 19906}}
+{"Resource": {"id": 23, "url": "http://vk.com/js/al/fbsign.js?1", "sentTime": -1.000000, "len": 908, "from": "0xb8abc240",                            "mimeType": "application/x-javascript", "contentLength": 908, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4703.622711, "len": 908}}
+{"Resource": {"id": 24, "url": "http://top-fwz1.mail.ru/js/code.js", "sentTime": -1.000000, "len": 8803, "from": "0xb8abc240",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4703.622816, "len": 8803}}
+{"Resource": {"id": 17, "url": "http://vk.com/images/hatf_vk.gif?1", "sentTime": -1.000000, "len": 1798, "from": "0xb8accb70",                            "mimeType": "image/gif", "contentLength": 1798, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4703.696667, "len": 1798}}
+{"Resource": {"id": 18, "url": "http://vk.com/images/backlink.gif?4", "sentTime": -1.000000, "len": 963, "from": "0xb8cae6c0",                            "mimeType": "image/gif", "contentLength": 963, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4703.696842, "len": 963}}
+{"Resource": {"id": 20, "url": "http://vk.com/images/upload.gif", "sentTime": -1.000000, "len": 265, "from": "0xb8cf9c30",                            "mimeType": "image/gif", "contentLength": 265, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4703.696962, "len": 265}}
+{"Resource": {"id": 22, "url": "http://vk.com/images/darr_dd_out.gif", "sentTime": -1.000000, "len": 49, "from": "0xb8abcde0",                            "mimeType": "image/gif", "contentLength": 49, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4703.697108, "len": 49}}
+{"Resource": {"id": 25, "url": "http://vk.com/images/icons/facebook_btn_icon.png", "sentTime": -1.000000, "len": 285, "from": "0xb8ebaa80",                            "mimeType": "image/png", "contentLength": 285, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4703.697221, "len": 285}}
+{"Resource": {"id": 30, "url": "about:blank", "sentTime": -1.000000, "len": 0, "from": "(nil)",                            "mimeType": "text/html", "contentLength": 0, "httpStatus": 0, "connId": 0, "connReused": 0, "cached": 0}}
+{"Resource": {"id": 31, "url": "http://connect.facebook.net/en_US/all.js", "sentTime": -1.000000, "len": 188270, "from": "0xb8eba930",                            "mimeType": "application/x-javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4703.725350, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 4703.725434, "len": 65536}}
+{"ReceivedChunk": {"receivedTime": 4703.725532, "len": 4176}}
+{"ReceivedChunk": {"receivedTime": 4703.725578, "len": 85790}}
+{"Resource": {"id": 33, "url": "about:blank", "sentTime": -1.000000, "len": 0, "from": "0xb8eba930",                            "mimeType": "text/html", "contentLength": 0, "httpStatus": 0, "connId": 0, "connReused": 0, "cached": 0}}
+{"Resource": {"id": 34, "url": "about:blank", "sentTime": -1.000000, "len": 0, "from": "0xb8eba930",                            "mimeType": "text/html", "contentLength": 0, "httpStatus": 0, "connId": 0, "connReused": 0, "cached": 0}}
+{"Resource": {"id": 28, "url": "http://b.scorecardresearch.com/p2?c1=2&c2=13765216&c3=&c4=http%3A//vk.com/&c5=&c7=http%3A//vk.com/&c9=&c15=&cv=2.0&cj=1&rn=0.034234183141961694", "sentTime": -1.000000, "len": 43, "from": "(nil)",                            "mimeType": "image/gif", "contentLength": 43, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4704.048478, "len": 43}}
+{"Resource": {"id": 35, "url": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "sentTime": -1.000000, "len": 34893, "from": "0xb8eba930",                            "mimeType": "text/html", "contentLength": 34893, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 4704.138635, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 4704.150131, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 4704.167741, "len": 2125}}
+{"WprofHTMLTag": {"code": "0xb8f228d0", "doc": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 0, "column": 21, "tagName": "html", "time": 4704.166461, "url": "", "pos": 21, "chunkLen": 32768, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f601e0", "doc": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 0, "column": 27, "tagName": "head", "time": 4704.166643, "url": "", "pos": 27, "chunkLen": 32768, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f22840", "doc": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 0, "column": 34, "tagName": "title", "time": 4704.166666, "url": "", "pos": 34, "chunkLen": 32768, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f225d0", "doc": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 0, "column": 80, "tagName": "title", "time": 4704.166688, "url": "", "pos": 80, "chunkLen": 32768, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f225a0", "doc": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 0, "column": 87, "tagName": "head", "time": 4704.166691, "url": "", "pos": 87, "chunkLen": 32768, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f22570", "doc": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 0, "column": 93, "tagName": "body", "time": 4704.166693, "url": "", "pos": 93, "chunkLen": 32768, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f22540", "doc": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 0, "column": 101, "tagName": "script", "time": 4704.166712, "url": "", "pos": 101, "chunkLen": 32768, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f22600", "doc": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 47, "column": 3191, "tagName": "script", "time": 4704.167833, "url": "", "pos": 34069, "chunkLen": 34893, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f22150", "doc": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 47, "column": 3240, "tagName": "b", "time": 4704.223627, "url": "", "pos": 1350, "chunkLen": 2125, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f22f30", "doc": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 47, "column": 3813, "tagName": "a", "time": 4704.223707, "url": "", "pos": 1923, "chunkLen": 2125, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f22ed0", "doc": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 47, "column": 3837, "tagName": "a", "time": 4704.223743, "url": "", "pos": 1947, "chunkLen": 2125, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f22e10", "doc": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 47, "column": 3864, "tagName": "b", "time": 4704.223748, "url": "", "pos": 1974, "chunkLen": 2125, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f22de0", "doc": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 47, "column": 3872, "tagName": "script", "time": 4704.223750, "url": "", "pos": 1982, "chunkLen": 2125, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f221e0", "doc": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 47, "column": 4001, "tagName": "script", "time": 4704.223764, "url": "", "pos": 2111, "chunkLen": 2125, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f22d50", "doc": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 47, "column": 4008, "tagName": "body", "time": 4704.226760, "url": "", "pos": 2118, "chunkLen": 2125, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f22d20", "doc": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 47, "column": 4015, "tagName": "html", "time": 4704.226774, "url": "", "pos": 2125, "chunkLen": 2125, "isStartTag": 0}}
+{"Resource": {"id": 36, "url": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "sentTime": -1.000000, "len": 34893, "from": "0xb8eba930",                            "mimeType": "text/html", "contentLength": 34893, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 4704.147406, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 4704.228420, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 4704.251621, "len": 2125}}
+{"WprofHTMLTag": {"code": "0xb8f22ba0", "doc": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 0, "column": 21, "tagName": "html", "time": 4704.243794, "url": "", "pos": 21, "chunkLen": 32768, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f22b70", "doc": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 0, "column": 27, "tagName": "head", "time": 4704.249845, "url": "", "pos": 27, "chunkLen": 32768, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f22c30", "doc": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 0, "column": 34, "tagName": "title", "time": 4704.249890, "url": "", "pos": 34, "chunkLen": 32768, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f22b10", "doc": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 0, "column": 80, "tagName": "title", "time": 4704.249922, "url": "", "pos": 80, "chunkLen": 32768, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f22ae0", "doc": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 0, "column": 87, "tagName": "head", "time": 4704.249925, "url": "", "pos": 87, "chunkLen": 32768, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f22ab0", "doc": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 0, "column": 93, "tagName": "body", "time": 4704.249926, "url": "", "pos": 93, "chunkLen": 32768, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f22a80", "doc": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 0, "column": 101, "tagName": "script", "time": 4704.249963, "url": "", "pos": 101, "chunkLen": 32768, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f22b40", "doc": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 47, "column": 3191, "tagName": "script", "time": 4704.251732, "url": "", "pos": 34069, "chunkLen": 34893, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f20600", "doc": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 47, "column": 3240, "tagName": "b", "time": 4704.278080, "url": "", "pos": 1350, "chunkLen": 2125, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f20570", "doc": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 47, "column": 3813, "tagName": "a", "time": 4704.278177, "url": "", "pos": 1923, "chunkLen": 2125, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f20510", "doc": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 47, "column": 3837, "tagName": "a", "time": 4704.278197, "url": "", "pos": 1947, "chunkLen": 2125, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f20480", "doc": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 47, "column": 3864, "tagName": "b", "time": 4704.278201, "url": "", "pos": 1974, "chunkLen": 2125, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f20450", "doc": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 47, "column": 3872, "tagName": "script", "time": 4704.278203, "url": "", "pos": 1982, "chunkLen": 2125, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8f22bd0", "doc": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 47, "column": 4001, "tagName": "script", "time": 4704.278218, "url": "", "pos": 2111, "chunkLen": 2125, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f203c0", "doc": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 47, "column": 4008, "tagName": "body", "time": 4704.279146, "url": "", "pos": 2118, "chunkLen": 2125, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8f20390", "doc": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "row": 47, "column": 4015, "tagName": "html", "time": 4704.279162, "url": "", "pos": 2125, "chunkLen": 2125, "isStartTag": 0}}
+{"Resource": {"id": 27, "url": "http://www.tns-counter.ru/V13b***R%3E*vk_com/ru/UTF-8/tmsec=vksite_total/867301292", "sentTime": -1.000000, "len": 43, "from": "(nil)",                            "mimeType": "image/gif", "contentLength": 43, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4704.295850, "len": 43}}
+{"Resource": {"id": 26, "url": "http://counter.yadro.ru/hit?q;r;s1024*768*24;uhttp%3A//vk.com/;0.9787913190666586", "sentTime": -1.000000, "len": 43, "from": "(nil)",                            "mimeType": "image/gif", "contentLength": 43, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4704.296798, "len": 43}}
+{"Resource": {"id": 32, "url": "https://www.facebook.com/impression.php/f3c0459b0/?lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D", "sentTime": -1.000000, "len": 43, "from": "0xb8eba930",                            "mimeType": "image/gif", "contentLength": 43, "httpStatus": 200, "connId": 220, "connReused": 0, "cached": 0,                            "requestTime": 4704.034754, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 1, "connectEnd": 113, "sendStart": 126, "sendEnd": 130, "receiveHeadersEnd": 273, "sslStart": 23, "sslEnd": 113}}
+{"ReceivedChunk": {"receivedTime": 4704.308456, "len": 43}}
+{"Resource": {"id": 19, "url": "http://vk.com/login.php?act=slogin&auto=1&to=&s=0", "sentTime": -1.000000, "len": 450, "from": "(nil)",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 16, "connReused": 1, "cached": 0,                            "requestTime": 4704.366043, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 3, "connectEnd": 3, "sendStart": 3, "sendEnd": 3, "receiveHeadersEnd": 152, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 4704.519779, "len": 450}}
+{"WprofHTMLTag": {"code": "0xb91682d0", "doc": "http://vk.com/login.php?act=slogin&auto=1&to=&s=0", "row": 0, "column": 31, "tagName": "script", "time": 4704.523125, "url": "", "pos": 31, "chunkLen": 450, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb91682a0", "doc": "http://vk.com/login.php?act=slogin&auto=1&to=&s=0", "row": 14, "column": 9, "tagName": "script", "time": 4704.523310, "url": "http://vk.com/css/al/notifier.css?152", "pos": 450, "chunkLen": 450, "isStartTag": 0}}
+{"Resource": {"id": 37, "url": "http://vk.com/js/al/notifier.js?384", "sentTime": -1.000000, "len": 196332, "from": "0xb91682a0",                            "mimeType": "application/x-javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 4704.525349, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 4704.533263, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 4704.533531, "len": 65536}}
+{"ReceivedChunk": {"receivedTime": 4704.533794, "len": 17566}}
+{"ReceivedChunk": {"receivedTime": 4704.534012, "len": 80462}}
+{"Resource": {"id": 38, "url": "http://vk.com/css/al/notifier.css?152", "sentTime": -1.000000, "len": 33994, "from": "0xb91682a0",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 4704.529753, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 4704.535650, "len": 33994}}
+{"Resource": {"id": 29, "url": "https://top-fwz1.mail.ru/counter2?js=13;id=2579437;u=http%3A//vk.com/;st=1462593036871;pid=0;title=Welcome!%20%7C%20VK;s=1024*768;vp=944*646;touch=0;hds=1;flash=;sid=047a8aae;ver=60;_=0.13002515211701393", "sentTime": -1.000000, "len": 43, "from": "(nil)",                            "mimeType": "image/gif", "contentLength": 43, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 4704.722583, "len": 43}}
+{"HOL": {"type": 1, "docUrl": "http://vk.com/", "code": "0xb8aa65a0", "row": 19, "column": 31, "url": ""}}
+{"HOL": {"type": 3, "docUrl": "http://vk.com/", "code": "0xb8aa6840", "row": 69, "column": 73, "url": "http://vk.com/js/3rdparty/rbadman-html5.js"}}
+{"HOL": {"type": 4, "docUrl": "http://vk.com/", "code": "0xb8aa69c0", "row": 71, "column": 71, "url": "http://vk.com/css/al/common.css?513"}}
+{"HOL": {"type": 4, "docUrl": "http://vk.com/", "code": "0xb8aa6210", "row": 74, "column": 67, "url": "http://vk.com/css/al/index.css?27"}}
+{"HOL": {"type": 4, "docUrl": "http://vk.com/", "code": "0xb8aa6390", "row": 74, "column": 144, "url": "http://vk.com/css/ui_controls.css?66"}}
+{"HOL": {"type": 1, "docUrl": "http://vk.com/", "code": "0xb8a1f900", "row": 74, "column": 213, "url": "http://vk.com/js/loader_nav19305_3.js"}}
+{"HOL": {"type": 1, "docUrl": "http://vk.com/", "code": "0xb8a1ffc0", "row": 74, "column": 285, "url": "http://vk.com/js/al/common.js?1132_195"}}
+{"HOL": {"type": 1, "docUrl": "http://vk.com/", "code": "0xb8b138a0", "row": 74, "column": 351, "url": "http://vk.com/js/lang3_0.js?3587"}}
+{"HOL": {"type": 1, "docUrl": "http://vk.com/", "code": "0xb8b2e210", "row": 74, "column": 416, "url": "http://vk.com/js/lib/px.js?ch=1"}}
+{"HOL": {"type": 1, "docUrl": "http://vk.com/", "code": "0xb8a1fab0", "row": 74, "column": 481, "url": "http://vk.com/js/lib/px.js?ch=2"}}
+{"HOL": {"type": 1, "docUrl": "http://vk.com/", "code": "0xb8a1fae0", "row": 74, "column": 724, "url": "http://vk.com/js/al/index.js?33"}}
+{"HOL": {"type": 1, "docUrl": "http://vk.com/", "code": "0xb8b2e330", "row": 74, "column": 797, "url": "http://vk.com/js/lib/ui_controls.js?192"}}
+{"HOL": {"type": 1, "docUrl": "http://vk.com/", "code": "0xb8c0e660", "row": 87, "column": 33, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://vk.com/", "code": "0xb8cf9d20", "row": 232, "column": 33, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "code": "0xb8f22540", "row": 0, "column": 101, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "code": "0xb8f22de0", "row": 47, "column": 3872, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "code": "0xb8f22a80", "row": 0, "column": 101, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "code": "0xb8f20450", "row": 47, "column": 3872, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://vk.com/login.php?act=slogin&auto=1&to=&s=0", "code": "0xb91682d0", "row": 0, "column": 31, "url": ""}}
+{"Computation": {"type": "execScript", "code": "0xb8aa6540", "docUrl": "http://vk.com/", "startTime": 4703.043269, "endTime": 4703.075744, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb8a1f930", "docUrl": "http://vk.com/", "startTime": 4703.133079, "endTime": -1.000000, "urlRecalcStyle": "http://vk.com/js/loader_nav19305_3.js"}}
+{"Computation": {"type": "recalcStyle", "code": "0xb8a1f930", "docUrl": "http://vk.com/", "startTime": 4703.141243, "endTime": 4703.187556, "urlRecalcStyle": "http://vk.com/css/al/common.css?513"}}
+{"Computation": {"type": "recalcStyle", "code": "0xb8a1f930", "docUrl": "http://vk.com/", "startTime": 4703.195284, "endTime": 4703.195767, "urlRecalcStyle": "http://vk.com/css/al/index.css?27"}}
+{"Computation": {"type": "recalcStyle", "code": "0xb8a1f930", "docUrl": "http://vk.com/", "startTime": 4703.212576, "endTime": 4703.229052, "urlRecalcStyle": "http://vk.com/css/ui_controls.css?66"}}
+{"Computation": {"type": "execScript", "code": "0xb8a1f930", "docUrl": "http://vk.com/", "startTime": 4703.229047, "endTime": -1.000000, "urlRecalcStyle": "http://vk.com/js/loader_nav19305_3.js"}}
+{"Computation": {"type": "execScript", "code": "0xb8a1f930", "docUrl": "http://vk.com/", "startTime": 4703.229276, "endTime": 4703.238506, "urlRecalcStyle": "http://vk.com/js/loader_nav19305_3.js"}}
+{"Computation": {"type": "execScript", "code": "0xb8b8cde0", "docUrl": "http://vk.com/", "startTime": 4703.238574, "endTime": -1.000000, "urlRecalcStyle": "http://vk.com/js/al/common.js?1132_195"}}
+{"Computation": {"type": "execScript", "code": "0xb8b8cde0", "docUrl": "http://vk.com/", "startTime": 4703.248599, "endTime": 4703.352772, "urlRecalcStyle": "http://vk.com/js/3rdparty/rbadman-html5.js"}}
+{"Computation": {"type": "execScript", "code": "0xb8b8cde0", "docUrl": "http://vk.com/", "startTime": 4703.353162, "endTime": 4703.418901, "urlRecalcStyle": "http://vk.com/js/al/common.js?1132_195"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8b8cde0", "docUrl": "http://vk.com/", "startTime": 4703.418897, "endTime": 4703.418898, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb8b8cbd0", "docUrl": "http://vk.com/", "startTime": 4703.418964, "endTime": -1.000000, "urlRecalcStyle": "http://vk.com/js/lang3_0.js?3587"}}
+{"Computation": {"type": "execScript", "code": "0xb8b8cbd0", "docUrl": "http://vk.com/", "startTime": 4703.420387, "endTime": 4703.422521, "urlRecalcStyle": "http://vk.com/js/lang3_0.js?3587"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8b8cbd0", "docUrl": "http://vk.com/", "startTime": 4703.422519, "endTime": 4703.422519, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb8b8c090", "docUrl": "http://vk.com/", "startTime": 4703.422563, "endTime": -1.000000, "urlRecalcStyle": "http://vk.com/js/lib/px.js?ch=1"}}
+{"Computation": {"type": "execScript", "code": "0xb8b8c090", "docUrl": "http://vk.com/", "startTime": 4703.446215, "endTime": 4703.449391, "urlRecalcStyle": "http://vk.com/js/lib/px.js?ch=1"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8b8c090", "docUrl": "http://vk.com/", "startTime": 4703.449385, "endTime": 4703.449387, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb8a1fb10", "docUrl": "http://vk.com/", "startTime": 4703.449473, "endTime": -1.000000, "urlRecalcStyle": "http://vk.com/js/lib/px.js?ch=2"}}
+{"Computation": {"type": "execScript", "code": "0xb8a1fb10", "docUrl": "http://vk.com/", "startTime": 4703.449640, "endTime": 4703.451867, "urlRecalcStyle": "http://vk.com/js/lib/px.js?ch=2"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8a1fb10", "docUrl": "http://vk.com/", "startTime": 4703.451863, "endTime": 4703.451865, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb8b8c0c0", "docUrl": "http://vk.com/", "startTime": 4703.451954, "endTime": -1.000000, "urlRecalcStyle": "http://vk.com/js/al/index.js?33"}}
+{"Computation": {"type": "execScript", "code": "0xb8b8c0c0", "docUrl": "http://vk.com/", "startTime": 4703.452091, "endTime": 4703.465299, "urlRecalcStyle": "http://vk.com/js/al/index.js?33"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8b8c0c0", "docUrl": "http://vk.com/", "startTime": 4703.465285, "endTime": 4703.465287, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb8a1fbd0", "docUrl": "http://vk.com/", "startTime": 4703.465419, "endTime": -1.000000, "urlRecalcStyle": "http://vk.com/js/lib/ui_controls.js?192"}}
+{"Computation": {"type": "execScript", "code": "0xb8a1fbd0", "docUrl": "http://vk.com/", "startTime": 4703.465929, "endTime": 4703.485188, "urlRecalcStyle": "http://vk.com/js/lib/ui_controls.js?192"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8a1fbd0", "docUrl": "http://vk.com/", "startTime": 4703.485183, "endTime": 4703.485184, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb8aa6600", "docUrl": "http://vk.com/", "startTime": 4703.488993, "endTime": 4703.489152, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8aa6600", "docUrl": "http://vk.com/", "startTime": 4703.489114, "endTime": 4703.489147, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb8aa6600", "docUrl": "http://vk.com/", "startTime": 4703.490537, "endTime": 4703.490538, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8aa6600", "docUrl": "http://vk.com/", "startTime": 4703.490541, "endTime": 4703.490542, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8aa6600", "docUrl": "http://vk.com/", "startTime": 4703.490543, "endTime": 4703.490544, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb8aa6600", "docUrl": "http://vk.com/", "startTime": 4703.499814, "endTime": 4703.504430, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb8aa6600", "docUrl": "http://vk.com/", "startTime": 4703.503056, "endTime": 4703.503058, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8aa6600", "docUrl": "http://vk.com/", "startTime": 4703.503059, "endTime": 4703.503060, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8aa6600", "docUrl": "http://vk.com/", "startTime": 4703.503633, "endTime": 4703.503634, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8aa6600", "docUrl": "http://vk.com/", "startTime": 4703.503635, "endTime": 4703.503636, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8aa6600", "docUrl": "http://vk.com/", "startTime": 4703.503729, "endTime": 4703.503729, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8aa6600", "docUrl": "http://vk.com/", "startTime": 4703.503733, "endTime": 4703.503734, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8d617b0", "docUrl": "http://vk.com/", "startTime": 4703.514911, "endTime": 4703.514912, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8d617b0", "docUrl": "http://vk.com/", "startTime": 4703.514913, "endTime": 4703.514915, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "execScript", "code": "0xb8cf9ba0", "docUrl": "http://vk.com/", "startTime": 4703.523758, "endTime": 4703.582787, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8cf9ba0", "docUrl": "http://vk.com/", "startTime": 4703.524757, "endTime": 4703.533751, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8cf9ba0", "docUrl": "http://vk.com/", "startTime": 4703.533694, "endTime": 4703.533718, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8cf9ba0", "docUrl": "http://vk.com/", "startTime": 4703.533722, "endTime": 4703.533729, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8cf9ba0", "docUrl": "http://vk.com/", "startTime": 4703.533732, "endTime": 4703.533743, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8cf9ba0", "docUrl": "http://vk.com/", "startTime": 4703.533745, "endTime": 4703.533750, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8cf94e0", "docUrl": "http://vk.com/", "startTime": 4703.537258, "endTime": 4703.538548, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8cf94e0", "docUrl": "http://vk.com/", "startTime": 4703.537358, "endTime": 4703.538521, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8cf94e0", "docUrl": "http://vk.com/", "startTime": 4703.538498, "endTime": 4703.538516, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8cf94e0", "docUrl": "http://vk.com/", "startTime": 4703.540553, "endTime": 4703.540777, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8cf94e0", "docUrl": "http://vk.com/", "startTime": 4703.540565, "endTime": 4703.540756, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8cf94e0", "docUrl": "http://vk.com/", "startTime": 4703.540746, "endTime": 4703.540753, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8cf94e0", "docUrl": "http://vk.com/", "startTime": 4703.541418, "endTime": 4703.541572, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8cf94e0", "docUrl": "http://vk.com/", "startTime": 4703.541565, "endTime": 4703.541570, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8ea9d80", "docUrl": "http://vk.com/", "startTime": 4703.564661, "endTime": 4703.565339, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8abcde0", "docUrl": "http://vk.com/", "startTime": 4703.574709, "endTime": 4703.575255, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8abcde0", "docUrl": "http://vk.com/", "startTime": 4703.575040, "endTime": 4703.575226, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8abc9c0", "docUrl": "http://vk.com/", "startTime": 4703.576045, "endTime": 4703.578617, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8abc240", "docUrl": "http://vk.com/", "startTime": 4703.579410, "endTime": 4703.579620, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb8ebaa80", "docUrl": "http://vk.com/", "startTime": 4703.582826, "endTime": 4703.582827, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8ebaa80", "docUrl": "http://vk.com/", "startTime": 4703.582828, "endTime": 4703.582829, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8ebaa80", "docUrl": "http://vk.com/", "startTime": 4703.582830, "endTime": 4703.584259, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0xb8ebaa80", "docUrl": "http://vk.com/", "startTime": 4703.583698, "endTime": 4703.584006, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8ebaa80", "docUrl": "http://vk.com/", "startTime": 4703.590282, "endTime": 4703.590426, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8ebaa80", "docUrl": "http://vk.com/", "startTime": 4703.623389, "endTime": 4703.623629, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8ebaa80", "docUrl": "http://vk.com/", "startTime": 4703.623618, "endTime": 4703.623626, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb8f01b10", "docUrl": "http://vk.com/", "startTime": 4703.629490, "endTime": 4703.629492, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8f01b10", "docUrl": "http://vk.com/", "startTime": 4703.646610, "endTime": 4703.646611, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8f01b10", "docUrl": "http://vk.com/", "startTime": 4703.646612, "endTime": 4703.646614, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8f01b10", "docUrl": "http://vk.com/", "startTime": 4703.646618, "endTime": 4703.646618, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8f01b10", "docUrl": "http://vk.com/", "startTime": 4703.646619, "endTime": 4703.646620, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8f01b10", "docUrl": "http://vk.com/", "startTime": 4703.646622, "endTime": 4703.646623, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8f01b10", "docUrl": "http://vk.com/", "startTime": 4703.646624, "endTime": 4703.646624, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb8f01b10", "docUrl": "http://vk.com/", "startTime": 4703.646665, "endTime": 4703.674260, "urlRecalcStyle": "http://vk.com/js/al/aes_light.js?108"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8f01b10", "docUrl": "http://vk.com/", "startTime": 4703.674270, "endTime": 4703.674271, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb8f01b10", "docUrl": "http://vk.com/", "startTime": 4703.674284, "endTime": 4703.674376, "urlRecalcStyle": "http://vk.com/js/al/fbsign.js?1"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8f01b10", "docUrl": "http://vk.com/", "startTime": 4703.674379, "endTime": 4703.674380, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb8f01b10", "docUrl": "http://vk.com/", "startTime": 4703.674384, "endTime": 4703.696499, "urlRecalcStyle": "http://top-fwz1.mail.ru/js/code.js"}}
+{"Computation": {"type": "layout", "code": "0xb8f01b10", "docUrl": "http://vk.com/", "startTime": 4703.693724, "endTime": 4703.694508, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb8f01b10", "docUrl": "http://vk.com/", "startTime": 4703.696510, "endTime": 4703.696511, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4703.710750, "endTime": 4703.710751, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4703.710753, "endTime": 4703.710754, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4703.714974, "endTime": 4703.714975, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4703.714976, "endTime": 4703.714977, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4703.715131, "endTime": 4703.715133, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4703.715137, "endTime": 4703.715138, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4703.723585, "endTime": 4703.723804, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4703.723762, "endTime": 4703.723790, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4703.723793, "endTime": 4703.723801, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4703.725782, "endTime": 4703.884639, "urlRecalcStyle": "http://connect.facebook.net/en_US/all.js"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4703.884652, "endTime": 4703.884653, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4704.037290, "endTime": 4704.037291, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4704.037292, "endTime": 4704.037293, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4704.040753, "endTime": 4704.040754, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4704.040755, "endTime": 4704.040756, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4704.040920, "endTime": 4704.040921, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4704.040924, "endTime": 4704.040925, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4704.042076, "endTime": 4704.042077, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4704.042078, "endTime": 4704.042079, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4704.046546, "endTime": 4704.046547, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4704.046548, "endTime": 4704.046549, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4704.046720, "endTime": 4704.046721, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4704.046724, "endTime": 4704.046725, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4704.123462, "endTime": 4704.123651, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4704.123593, "endTime": 4704.123615, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4704.123618, "endTime": 4704.123625, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4704.123630, "endTime": 4704.123642, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8eba930", "docUrl": "http://vk.com/", "startTime": 4704.123643, "endTime": 4704.123648, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb8f22600", "docUrl": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "startTime": 4704.167840, "endTime": 4704.223616, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb8f221e0", "docUrl": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "startTime": 4704.223769, "endTime": 4704.226749, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb8f22d20", "docUrl": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "startTime": 4704.227207, "endTime": 4704.227210, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8f22d20", "docUrl": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "startTime": 4704.227211, "endTime": 4704.227213, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8f22d20", "docUrl": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "startTime": 4704.227705, "endTime": 4704.227706, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8f22d20", "docUrl": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "startTime": 4704.227710, "endTime": 4704.227711, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb8f22d20", "docUrl": "http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "startTime": 4704.227721, "endTime": 4704.227781, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb8f22b40", "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "startTime": 4704.251747, "endTime": 4704.278067, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb8f22bd0", "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "startTime": 4704.278222, "endTime": 4704.279133, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb8f20390", "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "startTime": 4704.279862, "endTime": 4704.279864, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8f20390", "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "startTime": 4704.279865, "endTime": 4704.279867, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8f20390", "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "startTime": 4704.280207, "endTime": 4704.280208, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8f20390", "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "startTime": 4704.280212, "endTime": 4704.280213, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb8f20390", "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "startTime": 4704.280223, "endTime": 4704.280286, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb8f20390", "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f1272b7c1c&origin=http%3A%2F%2Fvk.com", "startTime": 4704.348147, "endTime": 4704.352825, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb91682a0", "docUrl": "http://vk.com/login.php?act=slogin&auto=1&to=&s=0", "startTime": 4704.523320, "endTime": 4704.531029, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb91682a0", "docUrl": "http://vk.com/login.php?act=slogin&auto=1&to=&s=0", "startTime": 4704.531367, "endTime": 4704.531368, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb91682a0", "docUrl": "http://vk.com/login.php?act=slogin&auto=1&to=&s=0", "startTime": 4704.531369, "endTime": 4704.531370, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb91682a0", "docUrl": "http://vk.com/login.php?act=slogin&auto=1&to=&s=0", "startTime": 4704.531511, "endTime": 4704.531511, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb91682a0", "docUrl": "http://vk.com/login.php?act=slogin&auto=1&to=&s=0", "startTime": 4704.531515, "endTime": 4704.531516, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb91682a0", "docUrl": "http://vk.com/login.php?act=slogin&auto=1&to=&s=0", "startTime": 4704.531524, "endTime": 4704.531604, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb91682a0", "docUrl": "http://vk.com/login.php?act=slogin&auto=1&to=&s=0", "startTime": 4704.531577, "endTime": 4704.531599, "urlRecalcStyle": ""}}
+{"Computation": {"type": "recalcStyle", "code": "0xb91682a0", "docUrl": "http://vk.com/login.php?act=slogin&auto=1&to=&s=0", "startTime": 4704.536043, "endTime": 4704.539513, "urlRecalcStyle": "http://vk.com/css/al/notifier.css?152"}}
+{"Computation": {"type": "layout", "code": "0xb91682a0", "docUrl": "http://vk.com/login.php?act=slogin&auto=1&to=&s=0", "startTime": 4704.539964, "endTime": 4704.540241, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb91682a0", "docUrl": "http://vk.com/login.php?act=slogin&auto=1&to=&s=0", "startTime": 4704.549893, "endTime": 4704.560448, "urlRecalcStyle": "http://vk.com/js/al/notifier.js?384"}}
+{"Computation": {"type": "fireEvent", "code": "0xb91682a0", "docUrl": "http://vk.com/login.php?act=slogin&auto=1&to=&s=0", "startTime": 4704.560466, "endTime": 4704.560468, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb91682a0", "docUrl": "http://vk.com/login.php?act=slogin&auto=1&to=&s=0", "startTime": 4704.560501, "endTime": 4704.560503, "urlRecalcStyle": "load"}}
+{"Preload": {"code": "0xb8a1f930", "docUrl": "http://vk.com/", "url": "http://vk.com/js/al/common.js?1132_195", "time": 4703.133088}}
+{"Preload": {"code": "0xb8a1f930", "docUrl": "http://vk.com/", "url": "http://vk.com/js/lang3_0.js?3587", "time": 4703.134207}}
+{"Preload": {"code": "0xb8a1f930", "docUrl": "http://vk.com/", "url": "http://vk.com/js/lib/px.js?ch=1", "time": 4703.134342}}
+{"Preload": {"code": "0xb8a1f930", "docUrl": "http://vk.com/", "url": "http://vk.com/js/lib/px.js?ch=2", "time": 4703.134814}}
+{"Preload": {"code": "0xb8a1f930", "docUrl": "http://vk.com/", "url": "http://m.vk.com/", "time": 4703.134939}}
+{"Preload": {"code": "0xb8a1f930", "docUrl": "http://vk.com/", "url": "android-app://com.vkontakte.android/vkontakte/m.vk.com/", "time": 4703.134944}}
+{"Preload": {"code": "0xb8a1f930", "docUrl": "http://vk.com/", "url": "http://vk.com/js/al/index.js?33", "time": 4703.134947}}
+{"Preload": {"code": "0xb8a1f930", "docUrl": "http://vk.com/", "url": "http://vk.com/js/lib/ui_controls.js?192", "time": 4703.137381}}
+{"Preload": {"code": "0xb8a1f930", "docUrl": "http://vk.com/", "url": "http://vk.com/images/join/prof_vk_m.png?4", "time": 4703.138356}}
+{"Preload": {"code": "0xb8a1f930", "docUrl": "http://vk.com/", "url": "http://vk.com/images/join/news_vk_m.png?4", "time": 4703.138368}}
+{"Preload": {"code": "0xb8a1f930", "docUrl": "http://vk.com/", "url": "http://vk.com/images/join/dial_vk_m.png?4", "time": 4703.140420}}
+{"Complete': "vk.com_"}
+Killed

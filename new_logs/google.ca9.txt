@@ -1,0 +1,742 @@
+[29676:29686:13049705363:ERROR:web_data_service.cc(657)] Cannot initialize the web database: 2
+[29676:29676:13050751412:ERROR:CONSOLE(1)] "Uncaught ReferenceError: InspectorFrontendAPI is not defined", source:  (1)
+{"page": "www.google.ca_?gws_rd=ssl"}
+{"DOMLoad": 13051.757249}
+{"Resource": {"id": 1, "url": "https://www.google.ca/?gws_rd=ssl", "sentTime": -1.000000, "len": 177075, "from": "(nil)",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 68, "connReused": 0, "cached": 0,                            "requestTime": 13050.358186, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 9, "connectEnd": 217, "sendStart": 235, "sendEnd": 236, "receiveHeadersEnd": 311, "sslStart": 9, "sslEnd": 217}}
+{"ReceivedChunk": {"receivedTime": 13050.672561, "len": 835}}
+{"ReceivedChunk": {"receivedTime": 13050.680983, "len": 3208}}
+{"ReceivedChunk": {"receivedTime": 13050.684388, "len": 3245}}
+{"ReceivedChunk": {"receivedTime": 13050.684878, "len": 3212}}
+{"ReceivedChunk": {"receivedTime": 13050.687923, "len": 3564}}
+{"ReceivedChunk": {"receivedTime": 13050.774104, "len": 6138}}
+{"ReceivedChunk": {"receivedTime": 13050.774919, "len": 7056}}
+{"ReceivedChunk": {"receivedTime": 13050.776142, "len": 5900}}
+{"ReceivedChunk": {"receivedTime": 13050.776836, "len": 7352}}
+{"ReceivedChunk": {"receivedTime": 13050.780125, "len": 6621}}
+{"ReceivedChunk": {"receivedTime": 13050.797871, "len": 2321}}
+{"ReceivedChunk": {"receivedTime": 13050.799523, "len": 2277}}
+{"ReceivedChunk": {"receivedTime": 13050.800115, "len": 2589}}
+{"ReceivedChunk": {"receivedTime": 13050.800489, "len": 3039}}
+{"ReceivedChunk": {"receivedTime": 13050.800819, "len": 3291}}
+{"ReceivedChunk": {"receivedTime": 13050.801190, "len": 3247}}
+{"ReceivedChunk": {"receivedTime": 13050.801634, "len": 3686}}
+{"ReceivedChunk": {"receivedTime": 13050.835165, "len": 3776}}
+{"ReceivedChunk": {"receivedTime": 13050.863245, "len": 4471}}
+{"ReceivedChunk": {"receivedTime": 13050.869063, "len": 3361}}
+{"ReceivedChunk": {"receivedTime": 13050.872037, "len": 3320}}
+{"ReceivedChunk": {"receivedTime": 13050.876229, "len": 3681}}
+{"ReceivedChunk": {"receivedTime": 13050.880450, "len": 3826}}
+{"ReceivedChunk": {"receivedTime": 13050.881402, "len": 4201}}
+{"ReceivedChunk": {"receivedTime": 13050.884784, "len": 3879}}
+{"ReceivedChunk": {"receivedTime": 13050.925781, "len": 2039}}
+{"ReceivedChunk": {"receivedTime": 13050.926060, "len": 3676}}
+{"ReceivedChunk": {"receivedTime": 13050.926654, "len": 4087}}
+{"ReceivedChunk": {"receivedTime": 13050.927607, "len": 4199}}
+{"ReceivedChunk": {"receivedTime": 13050.930581, "len": 4522}}
+{"ReceivedChunk": {"receivedTime": 13050.931284, "len": 4134}}
+{"ReceivedChunk": {"receivedTime": 13050.931791, "len": 3539}}
+{"ReceivedChunk": {"receivedTime": 13050.932031, "len": 4114}}
+{"ReceivedChunk": {"receivedTime": 13050.932241, "len": 3968}}
+{"ReceivedChunk": {"receivedTime": 13050.932479, "len": 3716}}
+{"ReceivedChunk": {"receivedTime": 13050.932658, "len": 3828}}
+{"ReceivedChunk": {"receivedTime": 13050.932834, "len": 4096}}
+{"ReceivedChunk": {"receivedTime": 13050.933028, "len": 4137}}
+{"ReceivedChunk": {"receivedTime": 13050.933567, "len": 2285}}
+{"ReceivedChunk": {"receivedTime": 13050.933672, "len": 3632}}
+{"ReceivedChunk": {"receivedTime": 13051.157693, "len": 7532}}
+{"ReceivedChunk": {"receivedTime": 13051.162861, "len": 6379}}
+{"ReceivedChunk": {"receivedTime": 13051.163056, "len": 6376}}
+{"ReceivedChunk": {"receivedTime": 13051.163209, "len": 2720}}
+{"WprofHTMLTag": {"code": "0xb98fbab0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 0, "column": 84, "tagName": "html", "time": 13050.672987, "url": "", "pos": 84, "chunkLen": 835, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98fba20", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 0, "column": 90, "tagName": "head", "time": 13050.673127, "url": "", "pos": 90, "chunkLen": 835, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98fb9c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 0, "column": 184, "tagName": "meta", "time": 13050.673143, "url": "", "pos": 184, "chunkLen": 835, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98fbb70", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 0, "column": 263, "tagName": "link", "time": 13050.673154, "url": "https://www.google.ca/images/branding/product/ico/googleg_lodp.ico", "pos": 263, "chunkLen": 835, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98fbbd0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 0, "column": 312, "tagName": "meta", "time": 13050.673209, "url": "", "pos": 312, "chunkLen": 835, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98fbc00", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 0, "column": 319, "tagName": "title", "time": 13050.673214, "url": "", "pos": 319, "chunkLen": 835, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98a2cf0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 0, "column": 333, "tagName": "title", "time": 13050.675568, "url": "", "pos": 333, "chunkLen": 835, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98a2d50", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 0, "column": 344, "tagName": "script", "time": 13050.675578, "url": "", "pos": 344, "chunkLen": 835, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98a2cc0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 9, "column": 2933, "tagName": "script", "time": 13050.688030, "url": "", "pos": 12245, "chunkLen": 14064, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98a2000", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 9, "column": 2940, "tagName": "style", "time": 13050.768107, "url": "", "pos": 1752, "chunkLen": 3564, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98fbf90", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 12, "column": 8, "tagName": "style", "time": 13050.780650, "url": "", "pos": 36087, "chunkLen": 36631, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99daa50", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 12, "column": 42, "tagName": "style", "time": 13050.786659, "url": "", "pos": 36121, "chunkLen": 36631, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98a2870", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 12, "column": 1721, "tagName": "style", "time": 13050.797964, "url": "", "pos": 37800, "chunkLen": 38952, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99da900", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 12, "column": 1728, "tagName": "style", "time": 13050.798454, "url": "", "pos": 37807, "chunkLen": 38952, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98a28a0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 12, "column": 2572, "tagName": "style", "time": 13050.798481, "url": "", "pos": 38651, "chunkLen": 38952, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99da090", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 12, "column": 2580, "tagName": "script", "time": 13050.798649, "url": "", "pos": 38659, "chunkLen": 38952, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99da930", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 9, "tagName": "script", "time": 13050.801746, "url": "", "pos": 55667, "chunkLen": 57081, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98a2900", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 40, "tagName": "link", "time": 13050.820053, "url": "https://www.google.ca/", "pos": 2303, "chunkLen": 3686, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99da0c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 47, "tagName": "head", "time": 13050.820092, "url": "", "pos": 2310, "chunkLen": 3686, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99da120", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 268, "tagName": "body", "time": 13050.820113, "url": "", "pos": 2531, "chunkLen": 3686, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99da1b0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 301, "tagName": "div", "time": 13050.820215, "url": "", "pos": 2564, "chunkLen": 3686, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99da240", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 335, "tagName": "div", "time": 13050.820252, "url": "", "pos": 2598, "chunkLen": 3686, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99da270", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 341, "tagName": "div", "time": 13050.820261, "url": "", "pos": 2604, "chunkLen": 3686, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99da2a0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 370, "tagName": "div", "time": 13050.820264, "url": "", "pos": 2633, "chunkLen": 3686, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99da2d0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 377, "tagName": "style", "time": 13050.820276, "url": "", "pos": 2640, "chunkLen": 3686, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98a29c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 1188, "tagName": "style", "time": 13050.820299, "url": "", "pos": 3451, "chunkLen": 3686, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98c8ae0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 1194, "tagName": "div", "time": 13050.820484, "url": "", "pos": 3457, "chunkLen": 3686, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98c8b10", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 1349, "tagName": "a", "time": 13050.820494, "url": "", "pos": 3612, "chunkLen": 3686, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98c8ba0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 1412, "tagName": "a", "time": 13050.820587, "url": "", "pos": 3675, "chunkLen": 3686, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98a25a0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 1465, "tagName": "textarea", "time": 13050.835242, "url": "", "pos": 3728, "chunkLen": 7462, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98c8c30", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 1476, "tagName": "textarea", "time": 13050.835471, "url": "", "pos": 3739, "chunkLen": 7462, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98c8c60", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 1484, "tagName": "script", "time": 13050.835479, "url": "", "pos": 3747, "chunkLen": 7462, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98c8cf0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 1547, "tagName": "script", "time": 13050.835500, "url": "", "pos": 3810, "chunkLen": 7462, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98c8d50", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 1575, "tagName": "div", "time": 13050.840948, "url": "", "pos": 152, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98c8e70", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 1727, "tagName": "div", "time": 13050.841006, "url": "", "pos": 304, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98c8ed0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 1732, "tagName": "div", "time": 13050.841041, "url": "", "pos": 309, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98c8f30", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 1760, "tagName": "span", "time": 13050.841047, "url": "", "pos": 337, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98c8f90", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 1822, "tagName": "span", "time": 13050.841090, "url": "", "pos": 399, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98c8450", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 1939, "tagName": "a", "time": 13050.841099, "url": "", "pos": 516, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98c84b0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 1964, "tagName": "a", "time": 13050.841128, "url": "", "pos": 541, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98c8510", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 1970, "tagName": "div", "time": 13050.841130, "url": "", "pos": 547, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98c85a0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 2063, "tagName": "div", "time": 13050.841134, "url": "", "pos": 640, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98c8600", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 2076, "tagName": "div", "time": 13050.841158, "url": "", "pos": 653, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98c8660", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 2082, "tagName": "div", "time": 13050.841160, "url": "", "pos": 659, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98c8690", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 2088, "tagName": "div", "time": 13050.841161, "url": "", "pos": 665, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98c86c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 2121, "tagName": "div", "time": 13050.841165, "url": "", "pos": 698, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98c8720", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 52, "column": 2129, "tagName": "script", "time": 13050.841197, "url": "", "pos": 706, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98c8cc0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 54, "column": 14, "tagName": "script", "time": 13050.841210, "url": "", "pos": 895, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98c8090", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 54, "column": 24, "tagName": "style", "time": 13050.850080, "url": "", "pos": 905, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98c8780", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 54, "column": 492, "tagName": "style", "time": 13050.850114, "url": "", "pos": 1373, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb98c8270", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 54, "column": 506, "tagName": "div", "time": 13050.850270, "url": "", "pos": 1387, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98c8300", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 54, "column": 521, "tagName": "div", "time": 13050.850311, "url": "", "pos": 1402, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98c8360", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 54, "column": 532, "tagName": "script", "time": 13050.850320, "url": "", "pos": 1413, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98c80f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 9, "tagName": "script", "time": 13050.850332, "url": "", "pos": 1732, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9970a50", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 57, "tagName": "div", "time": 13050.850797, "url": "", "pos": 1780, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9970ab0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 100, "tagName": "div", "time": 13050.850835, "url": "", "pos": 1823, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9970b10", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 136, "tagName": "div", "time": 13050.850871, "url": "", "pos": 1859, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9970ba0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 159, "tagName": "div", "time": 13050.850887, "url": "", "pos": 1882, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9970c60", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 256, "tagName": "a", "time": 13050.850909, "url": "", "pos": 1979, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9970d20", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 265, "tagName": "a", "time": 13050.850956, "url": "", "pos": 1988, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9970d50", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 271, "tagName": "div", "time": 13050.850959, "url": "", "pos": 1994, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9970d80", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 294, "tagName": "div", "time": 13050.850962, "url": "", "pos": 2017, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9970de0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 423, "tagName": "a", "time": 13050.850980, "url": "", "pos": 2146, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9970e40", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 433, "tagName": "a", "time": 13050.851006, "url": "", "pos": 2156, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9970e70", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 439, "tagName": "div", "time": 13050.851008, "url": "", "pos": 2162, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9970ea0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 445, "tagName": "div", "time": 13050.851009, "url": "", "pos": 2168, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9970ed0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 475, "tagName": "div", "time": 13050.851011, "url": "", "pos": 2198, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9970f30", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 505, "tagName": "div", "time": 13050.851029, "url": "", "pos": 2228, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99703f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 511, "tagName": "div", "time": 13050.851066, "url": "", "pos": 2234, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9970450", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 551, "tagName": "div", "time": 13050.851070, "url": "", "pos": 2274, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99704e0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 570, "tagName": "div", "time": 13050.851099, "url": "", "pos": 2293, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9970600", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 713, "tagName": "a", "time": 13050.851113, "url": "", "pos": 2436, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9970540", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 717, "tagName": "a", "time": 13050.857039, "url": "", "pos": 2440, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99707b0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 736, "tagName": "div", "time": 13050.857108, "url": "", "pos": 2459, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9970840", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 742, "tagName": "div", "time": 13050.857199, "url": "", "pos": 2465, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99708a0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 761, "tagName": "div", "time": 13050.857205, "url": "", "pos": 2484, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9970930", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 767, "tagName": "div", "time": 13050.857221, "url": "", "pos": 2490, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9970990", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 773, "tagName": "div", "time": 13050.857223, "url": "", "pos": 2496, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99709c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 779, "tagName": "div", "time": 13050.857224, "url": "", "pos": 2502, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9970030", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 803, "tagName": "div", "time": 13050.857227, "url": "", "pos": 2526, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9970090", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 822, "tagName": "div", "time": 13050.857253, "url": "", "pos": 2545, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99700c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 998, "tagName": "a", "time": 13050.857273, "url": "", "pos": 2721, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fba50", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1009, "tagName": "a", "time": 13050.857374, "url": "", "pos": 2732, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fba80", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1028, "tagName": "div", "time": 13050.857378, "url": "", "pos": 2751, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fbab0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1034, "tagName": "div", "time": 13050.857387, "url": "", "pos": 2757, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fbae0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1053, "tagName": "div", "time": 13050.857389, "url": "", "pos": 2776, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fbb10", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1059, "tagName": "div", "time": 13050.857393, "url": "", "pos": 2782, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fbb40", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1065, "tagName": "div", "time": 13050.857394, "url": "", "pos": 2788, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fbb70", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1071, "tagName": "div", "time": 13050.857395, "url": "", "pos": 2794, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fbba0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1077, "tagName": "div", "time": 13050.857396, "url": "", "pos": 2800, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fbbd0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1083, "tagName": "div", "time": 13050.857397, "url": "", "pos": 2806, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fbc30", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1090, "tagName": "div", "time": 13050.857400, "url": "", "pos": 2813, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fbc90", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1097, "tagName": "div", "time": 13050.857402, "url": "", "pos": 2820, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fbcf0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1104, "tagName": "div", "time": 13050.857403, "url": "", "pos": 2827, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fbd80", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1159, "tagName": "div", "time": 13050.857407, "url": "", "pos": 2882, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fbde0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1178, "tagName": "div", "time": 13050.857445, "url": "", "pos": 2901, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fbe40", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1184, "tagName": "div", "time": 13050.857456, "url": "", "pos": 2907, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fbe70", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1190, "tagName": "div", "time": 13050.857457, "url": "", "pos": 2913, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fbed0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1325, "tagName": "form", "time": 13050.857464, "url": "", "pos": 3048, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fbf90", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1376, "tagName": "input", "time": 13050.857626, "url": "", "pos": 3099, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fb450", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1420, "tagName": "div", "time": 13050.858003, "url": "", "pos": 3143, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fb480", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1462, "tagName": "input", "time": 13050.858027, "url": "", "pos": 3185, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fb4b0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1508, "tagName": "input", "time": 13050.858069, "url": "", "pos": 3231, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fb510", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1514, "tagName": "div", "time": 13050.858096, "url": "", "pos": 3237, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fb570", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1533, "tagName": "div", "time": 13050.858100, "url": "", "pos": 3256, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fb630", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1575, "tagName": "div", "time": 13050.858139, "url": "", "pos": 3298, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fb6c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1579, "tagName": "h1", "time": 13050.858155, "url": "", "pos": 3302, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fb6f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1659, "tagName": "a", "time": 13050.858161, "url": "", "pos": 3382, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fb750", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1770, "tagName": "img", "time": 13050.858182, "url": "", "pos": 3493, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fb720", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1774, "tagName": "a", "time": 13050.858294, "url": "", "pos": 3497, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fb7b0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1779, "tagName": "h1", "time": 13050.858297, "url": "", "pos": 3502, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fb870", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1785, "tagName": "div", "time": 13050.858299, "url": "", "pos": 3508, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fb8d0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1806, "tagName": "div", "time": 13050.858301, "url": "", "pos": 3529, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fb930", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1834, "tagName": "div", "time": 13050.858326, "url": "", "pos": 3557, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99704b0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1854, "tagName": "div", "time": 13050.858357, "url": "", "pos": 3577, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9970db0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1890, "tagName": "div", "time": 13050.858367, "url": "", "pos": 3613, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fb5d0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1907, "tagName": "div", "time": 13050.858378, "url": "", "pos": 3630, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fb0f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1971, "tagName": "div", "time": 13050.858393, "url": "", "pos": 3694, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fb120", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1977, "tagName": "div", "time": 13050.858424, "url": "", "pos": 3700, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fb150", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1983, "tagName": "div", "time": 13050.858425, "url": "", "pos": 3706, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fb180", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 1989, "tagName": "div", "time": 13050.858426, "url": "", "pos": 3712, "chunkLen": 3776, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fb1b0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2008, "tagName": "div", "time": 13050.858428, "url": "", "pos": 3731, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fb210", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2027, "tagName": "div", "time": 13050.858439, "url": "", "pos": 3750, "chunkLen": 3776, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98c83c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2054, "tagName": "div", "time": 13050.863326, "url": "", "pos": 3777, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fb300", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2090, "tagName": "div", "time": 13050.863370, "url": "", "pos": 3813, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fe9f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2180, "tagName": "button", "time": 13050.863381, "url": "", "pos": 3903, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fea50", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2201, "tagName": "span", "time": 13050.863415, "url": "", "pos": 3924, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99feae0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2208, "tagName": "span", "time": 13050.863421, "url": "", "pos": 3931, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99feb40", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2218, "tagName": "button", "time": 13050.863424, "url": "", "pos": 3941, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99feba0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2225, "tagName": "div", "time": 13050.863426, "url": "", "pos": 3948, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fec00", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2232, "tagName": "div", "time": 13050.863428, "url": "", "pos": 3955, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fec60", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2239, "tagName": "div", "time": 13050.863429, "url": "", "pos": 3962, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fec90", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2245, "tagName": "div", "time": 13050.863430, "url": "", "pos": 3968, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fecc0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2276, "tagName": "div", "time": 13050.863432, "url": "", "pos": 3999, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fed50", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2426, "tagName": "input", "time": 13050.863495, "url": "", "pos": 4149, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99feed0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2433, "tagName": "div", "time": 13050.865152, "url": "", "pos": 4156, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fef00", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2439, "tagName": "div", "time": 13050.865158, "url": "", "pos": 4162, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fef30", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2445, "tagName": "div", "time": 13050.865161, "url": "", "pos": 4168, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fef60", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2450, "tagName": "div", "time": 13050.865163, "url": "", "pos": 4173, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fef90", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2532, "tagName": "div", "time": 13050.865187, "url": "", "pos": 4255, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fefc0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2548, "tagName": "div", "time": 13050.865240, "url": "", "pos": 4271, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fe3f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2554, "tagName": "span", "time": 13050.865244, "url": "", "pos": 4277, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fe420", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2560, "tagName": "span", "time": 13050.865249, "url": "", "pos": 4283, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fe480", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2573, "tagName": "span", "time": 13050.865252, "url": "", "pos": 4296, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fe4e0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2627, "tagName": "span", "time": 13050.865255, "url": "", "pos": 4350, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fe540", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2697, "tagName": "a", "time": 13050.865269, "url": "", "pos": 4420, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fe5d0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2711, "tagName": "a", "time": 13050.865275, "url": "", "pos": 4434, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fe600", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2717, "tagName": "div", "time": 13050.865277, "url": "", "pos": 4440, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fe630", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2733, "tagName": "div", "time": 13050.865278, "url": "", "pos": 4456, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fe660", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2739, "tagName": "span", "time": 13050.865281, "url": "", "pos": 4462, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fe6c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2752, "tagName": "span", "time": 13050.865284, "url": "", "pos": 4475, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fe720", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2821, "tagName": "div", "time": 13050.865286, "url": "", "pos": 4544, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fe750", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2837, "tagName": "div", "time": 13050.865287, "url": "", "pos": 4560, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fe7b0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2865, "tagName": "div", "time": 13050.865290, "url": "", "pos": 4588, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fe7e0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2871, "tagName": "div", "time": 13050.865291, "url": "", "pos": 4594, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fe810", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2877, "tagName": "div", "time": 13050.865292, "url": "", "pos": 4600, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fe840", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2883, "tagName": "div", "time": 13050.865293, "url": "", "pos": 4606, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fe870", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2925, "tagName": "div", "time": 13050.865295, "url": "", "pos": 4648, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fe8d0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 2933, "tagName": "center", "time": 13050.865313, "url": "", "pos": 4656, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fe960", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3033, "tagName": "input", "time": 13050.865336, "url": "", "pos": 4756, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fe030", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3141, "tagName": "input", "time": 13050.865456, "url": "", "pos": 4864, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fe900", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3150, "tagName": "center", "time": 13050.865491, "url": "", "pos": 4873, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fe0c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3156, "tagName": "div", "time": 13050.865492, "url": "", "pos": 4879, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fe990", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3162, "tagName": "div", "time": 13050.865493, "url": "", "pos": 4885, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fe0f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3169, "tagName": "form", "time": 13050.865494, "url": "", "pos": 4892, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fe120", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3175, "tagName": "div", "time": 13050.865496, "url": "", "pos": 4898, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fe180", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3195, "tagName": "div", "time": 13050.865498, "url": "", "pos": 4918, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fe1b0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3201, "tagName": "div", "time": 13050.865506, "url": "", "pos": 4924, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99fe1e0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3247, "tagName": "div", "time": 13050.865509, "url": "", "pos": 4970, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fe240", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3277, "tagName": "span", "time": 13050.865521, "url": "", "pos": 5000, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fe270", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3285, "tagName": "center", "time": 13050.865532, "url": "", "pos": 5008, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fe2a0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3336, "tagName": "div", "time": 13050.865538, "url": "", "pos": 5059, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fe2d0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3367, "tagName": "div", "time": 13050.865555, "url": "", "pos": 5090, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fe300", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3374, "tagName": "style", "time": 13050.865565, "url": "", "pos": 5097, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fe390", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3638, "tagName": "style", "time": 13050.865578, "url": "", "pos": 5361, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a0e9f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3769, "tagName": "div", "time": 13050.866165, "url": "", "pos": 5492, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a0ea20", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3795, "tagName": "div", "time": 13050.866269, "url": "", "pos": 5518, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a0eb70", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3807, "tagName": "div", "time": 13050.866291, "url": "", "pos": 5530, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a0eba0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3813, "tagName": "div", "time": 13050.866293, "url": "", "pos": 5536, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a0ebd0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3819, "tagName": "div", "time": 13050.866294, "url": "", "pos": 5542, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a0ec00", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3825, "tagName": "div", "time": 13050.866295, "url": "", "pos": 5548, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a0ec60", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3851, "tagName": "div", "time": 13050.866297, "url": "", "pos": 5574, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a0ec90", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3857, "tagName": "div", "time": 13050.866309, "url": "", "pos": 5580, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a0ecc0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3927, "tagName": "div", "time": 13050.866313, "url": "", "pos": 5650, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a0ecf0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 3934, "tagName": "style", "time": 13050.866323, "url": "", "pos": 5657, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99fe360", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 4149, "tagName": "style", "time": 13050.866334, "url": "", "pos": 5872, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a0ee10", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 4157, "tagName": "script", "time": 13050.866422, "url": "", "pos": 5880, "chunkLen": 8246, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a0ed50", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 4213, "tagName": "script", "time": 13050.866434, "url": "", "pos": 5936, "chunkLen": 8246, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a0ee70", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 4227, "tagName": "div", "time": 13050.866653, "url": "", "pos": 2174, "chunkLen": 4470, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a0eea0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 4242, "tagName": "div", "time": 13050.866670, "url": "", "pos": 2189, "chunkLen": 4470, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a0ef00", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 4424, "tagName": "a", "time": 13050.866694, "url": "", "pos": 2371, "chunkLen": 4470, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a0e3f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 4436, "tagName": "a", "time": 13050.866732, "url": "", "pos": 2383, "chunkLen": 4470, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a0e450", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 4443, "tagName": "div", "time": 13050.866738, "url": "", "pos": 2390, "chunkLen": 4470, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a0e480", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 4449, "tagName": "div", "time": 13050.866739, "url": "", "pos": 2396, "chunkLen": 4470, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a0e4b0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 4455, "tagName": "div", "time": 13050.866740, "url": "", "pos": 2402, "chunkLen": 4470, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a0e4e0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 4464, "tagName": "center", "time": 13050.866741, "url": "", "pos": 2411, "chunkLen": 4470, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a0e510", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 4471, "tagName": "span", "time": 13050.866742, "url": "", "pos": 2418, "chunkLen": 4470, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a0e540", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 4502, "tagName": "div", "time": 13050.866745, "url": "", "pos": 2449, "chunkLen": 4470, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a0e5a0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 4549, "tagName": "div", "time": 13050.866792, "url": "", "pos": 2496, "chunkLen": 4470, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a0e5d0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 4556, "tagName": "style", "time": 13050.866811, "url": "", "pos": 2503, "chunkLen": 4470, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a0ee40", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 6281, "tagName": "style", "time": 13050.866840, "url": "", "pos": 4228, "chunkLen": 4470, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a0e810", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 6300, "tagName": "div", "time": 13050.867151, "url": "", "pos": 4247, "chunkLen": 4470, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a0e8d0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 6335, "tagName": "div", "time": 13050.867180, "url": "", "pos": 4282, "chunkLen": 4470, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a0e960", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 6354, "tagName": "div", "time": 13050.867226, "url": "", "pos": 4301, "chunkLen": 4470, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a0e000", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 6372, "tagName": "span", "time": 13050.867244, "url": "", "pos": 4319, "chunkLen": 4470, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a0e060", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 6443, "tagName": "a", "time": 13050.867260, "url": "", "pos": 4390, "chunkLen": 4470, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a0e150", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 6454, "tagName": "a", "time": 13050.867320, "url": "", "pos": 4401, "chunkLen": 4470, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a0e1b0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 6522, "tagName": "a", "time": 13050.867327, "url": "", "pos": 4469, "chunkLen": 4470, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98a2600", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 6531, "tagName": "a", "time": 13050.869164, "url": "", "pos": 4478, "chunkLen": 7831, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a0e240", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 6588, "tagName": "span", "time": 13050.869198, "url": "", "pos": 4535, "chunkLen": 7831, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a0e2d0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 6741, "tagName": "a", "time": 13050.869269, "url": "", "pos": 4688, "chunkLen": 7831, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a0e390", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 6753, "tagName": "a", "time": 13050.869335, "url": "", "pos": 4700, "chunkLen": 7831, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a259f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 6792, "tagName": "span", "time": 13050.869340, "url": "", "pos": 4739, "chunkLen": 7831, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a25a20", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 6855, "tagName": "a", "time": 13050.869381, "url": "", "pos": 4802, "chunkLen": 7831, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a25ab0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 6874, "tagName": "a", "time": 13050.869386, "url": "", "pos": 4821, "chunkLen": 7831, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a25b10", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 6921, "tagName": "span", "time": 13050.869392, "url": "", "pos": 4868, "chunkLen": 7831, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a25b70", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 6967, "tagName": "a", "time": 13050.869397, "url": "", "pos": 4914, "chunkLen": 7831, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a25bd0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 6986, "tagName": "a", "time": 13050.869400, "url": "", "pos": 4933, "chunkLen": 7831, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a25c30", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 6994, "tagName": "span", "time": 13050.869402, "url": "", "pos": 4941, "chunkLen": 7831, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a25c90", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7039, "tagName": "a", "time": 13050.869404, "url": "", "pos": 4986, "chunkLen": 7831, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a25d20", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7053, "tagName": "a", "time": 13050.869407, "url": "", "pos": 5000, "chunkLen": 7831, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a25d80", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7136, "tagName": "a", "time": 13050.869411, "url": "", "pos": 5083, "chunkLen": 7831, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a25e10", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7151, "tagName": "a", "time": 13050.869414, "url": "", "pos": 5098, "chunkLen": 7831, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a25f00", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7298, "tagName": "a", "time": 13050.869420, "url": "", "pos": 5245, "chunkLen": 7831, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a25f60", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7318, "tagName": "a", "time": 13050.869423, "url": "", "pos": 5265, "chunkLen": 7831, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a25fc0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7327, "tagName": "span", "time": 13050.869425, "url": "", "pos": 5274, "chunkLen": 7831, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a25420", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7335, "tagName": "span", "time": 13050.869429, "url": "", "pos": 5282, "chunkLen": 7831, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a25480", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7345, "tagName": "span", "time": 13050.869432, "url": "", "pos": 5292, "chunkLen": 7831, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a254e0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7361, "tagName": "span", "time": 13050.869435, "url": "", "pos": 5308, "chunkLen": 7831, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a25540", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7418, "tagName": "a", "time": 13050.869449, "url": "", "pos": 5365, "chunkLen": 7831, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a255d0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7433, "tagName": "a", "time": 13050.869474, "url": "", "pos": 5380, "chunkLen": 7831, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a25630", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7487, "tagName": "a", "time": 13050.869479, "url": "", "pos": 5434, "chunkLen": 7831, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a256c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7499, "tagName": "a", "time": 13050.869496, "url": "", "pos": 5446, "chunkLen": 7831, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a25720", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7562, "tagName": "a", "time": 13050.869501, "url": "", "pos": 5509, "chunkLen": 7831, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a25780", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7571, "tagName": "a", "time": 13050.869516, "url": "", "pos": 5518, "chunkLen": 7831, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a257e0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7579, "tagName": "span", "time": 13050.869519, "url": "", "pos": 5526, "chunkLen": 7831, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a25840", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7586, "tagName": "div", "time": 13050.869521, "url": "", "pos": 5533, "chunkLen": 7831, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a258a0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7594, "tagName": "div", "time": 13050.869523, "url": "", "pos": 5541, "chunkLen": 7831, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a25900", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7601, "tagName": "div", "time": 13050.869525, "url": "", "pos": 5548, "chunkLen": 7831, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a25960", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7610, "tagName": "div", "time": 13050.869527, "url": "", "pos": 5557, "chunkLen": 7831, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a25990", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7616, "tagName": "div", "time": 13050.869528, "url": "", "pos": 5563, "chunkLen": 7831, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a259c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7661, "tagName": "div", "time": 13050.869530, "url": "", "pos": 5608, "chunkLen": 7831, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a25000", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7669, "tagName": "script", "time": 13050.869541, "url": "", "pos": 5616, "chunkLen": 7831, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a0e630", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7712, "tagName": "script", "time": 13050.869551, "url": "", "pos": 5659, "chunkLen": 7831, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a25090", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7728, "tagName": "div", "time": 13050.871154, "url": "", "pos": 1205, "chunkLen": 3361, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a250c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7743, "tagName": "div", "time": 13050.871188, "url": "", "pos": 1220, "chunkLen": 3361, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a250f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7749, "tagName": "div", "time": 13050.871208, "url": "", "pos": 1226, "chunkLen": 3361, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a25120", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7764, "tagName": "div", "time": 13050.871212, "url": "", "pos": 1241, "chunkLen": 3361, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a25150", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 57, "column": 7772, "tagName": "script", "time": 13050.871224, "url": "", "pos": 1249, "chunkLen": 3361, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a25060", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 58, "column": 9, "tagName": "script", "time": 13050.872235, "url": "", "pos": 4733, "chunkLen": 6681, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a251e0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 58, "column": 15, "tagName": "div", "time": 13050.873450, "url": "", "pos": 1378, "chunkLen": 3320, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a25210", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 58, "column": 21, "tagName": "div", "time": 13050.873464, "url": "", "pos": 1384, "chunkLen": 3320, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a25240", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 58, "column": 27, "tagName": "div", "time": 13050.873466, "url": "", "pos": 1390, "chunkLen": 3320, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a25270", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 58, "column": 33, "tagName": "div", "time": 13050.873468, "url": "", "pos": 1396, "chunkLen": 3320, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a252a0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 58, "column": 41, "tagName": "script", "time": 13050.873472, "url": "https://www.google.ca/xjs/_/js/k=xjs.s.en.3l3BxspEobw.O/m=sx,c,sb,cdos,cr,elog,jsa,r,hsm,qsm,j,p,d,csi/am=AJS0CgoS8fchIGwhrCA1YGBB/rt=j/d=1/t=zcms/rs=ACT90oFHL72-xWWnbsY19zrO0YE7I4zruQ", "pos": 1404, "chunkLen": 3320, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb98a2630", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 9, "tagName": "script", "time": 13050.933752, "url": "", "pos": 74864, "chunkLen": 74879, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb99701b0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 28, "tagName": "div", "time": 13051.157774, "url": "", "pos": 3636, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a743c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 117, "tagName": "div", "time": 13051.157831, "url": "", "pos": 3725, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a74360", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 164, "tagName": "ul", "time": 13051.157853, "url": "", "pos": 3772, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a742d0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 202, "tagName": "li", "time": 13051.157864, "url": "", "pos": 3810, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a74210", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 319, "tagName": "a", "time": 13051.157879, "url": "", "pos": 3927, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a74270", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 337, "tagName": "div", "time": 13051.157885, "url": "", "pos": 3945, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a74180", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 343, "tagName": "div", "time": 13051.157888, "url": "", "pos": 3951, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a74120", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 361, "tagName": "div", "time": 13051.157891, "url": "", "pos": 3969, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a746f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 367, "tagName": "div", "time": 13051.157893, "url": "", "pos": 3975, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a746c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 386, "tagName": "div", "time": 13051.157895, "url": "", "pos": 3994, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a74630", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 392, "tagName": "div", "time": 13051.157897, "url": "", "pos": 4000, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a74660", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 411, "tagName": "div", "time": 13051.157898, "url": "", "pos": 4019, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a74600", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 417, "tagName": "div", "time": 13051.157901, "url": "", "pos": 4025, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a74540", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 474, "tagName": "span", "time": 13051.157905, "url": "", "pos": 4082, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a745a0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 481, "tagName": "span", "time": 13051.157931, "url": "", "pos": 4089, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cfdc30", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 500, "tagName": "span", "time": 13051.157934, "url": "", "pos": 4108, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cfdcf0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 517, "tagName": "span", "time": 13051.157939, "url": "", "pos": 4125, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cfdd20", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 521, "tagName": "a", "time": 13051.157940, "url": "", "pos": 4129, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cfdd50", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 526, "tagName": "li", "time": 13051.157942, "url": "", "pos": 4134, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cfdd80", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 564, "tagName": "li", "time": 13051.157943, "url": "", "pos": 4172, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cfddb0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 692, "tagName": "a", "time": 13051.157954, "url": "", "pos": 4300, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cfdde0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 710, "tagName": "div", "time": 13051.157958, "url": "", "pos": 4318, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cfde10", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 716, "tagName": "div", "time": 13051.157960, "url": "", "pos": 4324, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cfde40", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 734, "tagName": "div", "time": 13051.157961, "url": "", "pos": 4342, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cfde70", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 740, "tagName": "div", "time": 13051.157963, "url": "", "pos": 4348, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cfdea0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 759, "tagName": "div", "time": 13051.157965, "url": "", "pos": 4367, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cfded0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 765, "tagName": "div", "time": 13051.157967, "url": "", "pos": 4373, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cfdf00", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 784, "tagName": "div", "time": 13051.157968, "url": "", "pos": 4392, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cfdf30", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 790, "tagName": "div", "time": 13051.157970, "url": "", "pos": 4398, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cfdf60", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 846, "tagName": "span", "time": 13051.157973, "url": "", "pos": 4454, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cfdf90", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 853, "tagName": "span", "time": 13051.157980, "url": "", "pos": 4461, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cfdfc0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 872, "tagName": "span", "time": 13051.157981, "url": "", "pos": 4480, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cfd0c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 885, "tagName": "span", "time": 13051.157986, "url": "", "pos": 4493, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cfd0f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 889, "tagName": "a", "time": 13051.157987, "url": "", "pos": 4497, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cfd120", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 894, "tagName": "li", "time": 13051.157988, "url": "", "pos": 4502, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cfd150", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 932, "tagName": "li", "time": 13051.157990, "url": "", "pos": 4540, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cfd1e0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1045, "tagName": "a", "time": 13051.157996, "url": "", "pos": 4653, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cfd180", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1063, "tagName": "div", "time": 13051.157999, "url": "", "pos": 4671, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cfd240", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1069, "tagName": "div", "time": 13051.158001, "url": "", "pos": 4677, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cfd270", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1087, "tagName": "div", "time": 13051.158003, "url": "", "pos": 4695, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cfd2a0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1093, "tagName": "div", "time": 13051.158005, "url": "", "pos": 4701, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cfd2d0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1112, "tagName": "div", "time": 13051.158006, "url": "", "pos": 4720, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cfd300", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1118, "tagName": "div", "time": 13051.158008, "url": "", "pos": 4726, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cfd330", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1137, "tagName": "div", "time": 13051.158009, "url": "", "pos": 4745, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cfd360", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1143, "tagName": "div", "time": 13051.158012, "url": "", "pos": 4751, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cfd390", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1198, "tagName": "span", "time": 13051.158013, "url": "", "pos": 4806, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cfd3c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1205, "tagName": "span", "time": 13051.158019, "url": "", "pos": 4813, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cfd3f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1224, "tagName": "span", "time": 13051.158020, "url": "", "pos": 4832, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cfd450", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1235, "tagName": "span", "time": 13051.158023, "url": "", "pos": 4843, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cfd480", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1239, "tagName": "a", "time": 13051.158024, "url": "", "pos": 4847, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cfd4b0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1244, "tagName": "li", "time": 13051.158025, "url": "", "pos": 4852, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cfd4e0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1282, "tagName": "li", "time": 13051.158027, "url": "", "pos": 4890, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cfd570", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1383, "tagName": "a", "time": 13051.158032, "url": "", "pos": 4991, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cfd510", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1401, "tagName": "div", "time": 13051.158035, "url": "", "pos": 5009, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cfd5d0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1407, "tagName": "div", "time": 13051.158038, "url": "", "pos": 5015, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cfd600", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1425, "tagName": "div", "time": 13051.158039, "url": "", "pos": 5033, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cfd630", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1431, "tagName": "div", "time": 13051.158041, "url": "", "pos": 5039, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cfd660", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1450, "tagName": "div", "time": 13051.158042, "url": "", "pos": 5058, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cfd000", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1456, "tagName": "div", "time": 13051.158045, "url": "", "pos": 5064, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cfd030", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1475, "tagName": "div", "time": 13051.158046, "url": "", "pos": 5083, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cfd060", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1481, "tagName": "div", "time": 13051.158048, "url": "", "pos": 5089, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a569f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1537, "tagName": "span", "time": 13051.158051, "url": "", "pos": 5145, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56a20", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1544, "tagName": "span", "time": 13051.158068, "url": "", "pos": 5152, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56a50", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1563, "tagName": "span", "time": 13051.158070, "url": "", "pos": 5171, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56ae0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1577, "tagName": "span", "time": 13051.158073, "url": "", "pos": 5185, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56b10", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1581, "tagName": "a", "time": 13051.158074, "url": "", "pos": 5189, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56b40", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1586, "tagName": "li", "time": 13051.158075, "url": "", "pos": 5194, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56b70", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1624, "tagName": "li", "time": 13051.158077, "url": "", "pos": 5232, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56c00", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1736, "tagName": "a", "time": 13051.158082, "url": "", "pos": 5344, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56ba0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1754, "tagName": "div", "time": 13051.158086, "url": "", "pos": 5362, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56c60", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1760, "tagName": "div", "time": 13051.158088, "url": "", "pos": 5368, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56c90", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1778, "tagName": "div", "time": 13051.158090, "url": "", "pos": 5386, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56cc0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1784, "tagName": "div", "time": 13051.158092, "url": "", "pos": 5392, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56cf0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1803, "tagName": "div", "time": 13051.158093, "url": "", "pos": 5411, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56d20", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1809, "tagName": "div", "time": 13051.158095, "url": "", "pos": 5417, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56d50", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1828, "tagName": "div", "time": 13051.158096, "url": "", "pos": 5436, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56d80", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1834, "tagName": "div", "time": 13051.158098, "url": "", "pos": 5442, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56db0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1891, "tagName": "span", "time": 13051.158100, "url": "", "pos": 5499, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56de0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1898, "tagName": "span", "time": 13051.158106, "url": "", "pos": 5506, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56e10", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1917, "tagName": "span", "time": 13051.158108, "url": "", "pos": 5525, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56e70", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1928, "tagName": "span", "time": 13051.158110, "url": "", "pos": 5536, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56ea0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1932, "tagName": "a", "time": 13051.158113, "url": "", "pos": 5540, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56ed0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1937, "tagName": "li", "time": 13051.158114, "url": "", "pos": 5545, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56f00", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 1975, "tagName": "li", "time": 13051.158115, "url": "", "pos": 5583, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56f30", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2114, "tagName": "a", "time": 13051.158122, "url": "", "pos": 5722, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56f60", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2132, "tagName": "div", "time": 13051.158125, "url": "", "pos": 5740, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56f90", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2138, "tagName": "div", "time": 13051.158127, "url": "", "pos": 5746, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56fc0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2156, "tagName": "div", "time": 13051.158128, "url": "", "pos": 5764, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a563f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2162, "tagName": "div", "time": 13051.158130, "url": "", "pos": 5770, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56420", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2181, "tagName": "div", "time": 13051.158132, "url": "", "pos": 5789, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56450", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2187, "tagName": "div", "time": 13051.158134, "url": "", "pos": 5795, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56480", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2206, "tagName": "div", "time": 13051.158135, "url": "", "pos": 5814, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a564b0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2212, "tagName": "div", "time": 13051.158137, "url": "", "pos": 5820, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a564e0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2269, "tagName": "span", "time": 13051.158139, "url": "", "pos": 5877, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56510", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2276, "tagName": "span", "time": 13051.158145, "url": "", "pos": 5884, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56540", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2295, "tagName": "span", "time": 13051.158146, "url": "", "pos": 5903, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a565a0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2306, "tagName": "span", "time": 13051.158149, "url": "", "pos": 5914, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a565d0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2310, "tagName": "a", "time": 13051.158150, "url": "", "pos": 5918, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56600", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2315, "tagName": "li", "time": 13051.158151, "url": "", "pos": 5923, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56630", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2353, "tagName": "li", "time": 13051.158153, "url": "", "pos": 5961, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a566c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2460, "tagName": "a", "time": 13051.158158, "url": "", "pos": 6068, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56660", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2478, "tagName": "div", "time": 13051.158160, "url": "", "pos": 6086, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56720", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2484, "tagName": "div", "time": 13051.158163, "url": "", "pos": 6092, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56750", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2502, "tagName": "div", "time": 13051.158164, "url": "", "pos": 6110, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56780", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2508, "tagName": "div", "time": 13051.158167, "url": "", "pos": 6116, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a567b0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2527, "tagName": "div", "time": 13051.158168, "url": "", "pos": 6135, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a567e0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2533, "tagName": "div", "time": 13051.158170, "url": "", "pos": 6141, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56810", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2552, "tagName": "div", "time": 13051.158172, "url": "", "pos": 6160, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56840", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2558, "tagName": "div", "time": 13051.158174, "url": "", "pos": 6166, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56870", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2614, "tagName": "span", "time": 13051.158176, "url": "", "pos": 6222, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a568a0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2621, "tagName": "span", "time": 13051.158182, "url": "", "pos": 6229, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a568d0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2640, "tagName": "span", "time": 13051.158183, "url": "", "pos": 6248, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56930", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2652, "tagName": "span", "time": 13051.158186, "url": "", "pos": 6260, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56960", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2656, "tagName": "a", "time": 13051.158187, "url": "", "pos": 6264, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56990", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2661, "tagName": "li", "time": 13051.158188, "url": "", "pos": 6269, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a569c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2699, "tagName": "li", "time": 13051.158189, "url": "", "pos": 6307, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56060", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2802, "tagName": "a", "time": 13051.158194, "url": "", "pos": 6410, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56000", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2820, "tagName": "div", "time": 13051.158197, "url": "", "pos": 6428, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a560c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2826, "tagName": "div", "time": 13051.158206, "url": "", "pos": 6434, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a560f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2844, "tagName": "div", "time": 13051.158208, "url": "", "pos": 6452, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56120", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2850, "tagName": "div", "time": 13051.158210, "url": "", "pos": 6458, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56150", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2869, "tagName": "div", "time": 13051.158212, "url": "", "pos": 6477, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56180", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2875, "tagName": "div", "time": 13051.158214, "url": "", "pos": 6483, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a561b0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2894, "tagName": "div", "time": 13051.158215, "url": "", "pos": 6502, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a561e0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2900, "tagName": "div", "time": 13051.158217, "url": "", "pos": 6508, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56210", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2957, "tagName": "span", "time": 13051.158219, "url": "", "pos": 6565, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56240", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2964, "tagName": "span", "time": 13051.158227, "url": "", "pos": 6572, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56270", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2983, "tagName": "span", "time": 13051.158228, "url": "", "pos": 6591, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a562d0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2995, "tagName": "span", "time": 13051.158231, "url": "", "pos": 6603, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56300", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 2999, "tagName": "a", "time": 13051.158232, "url": "", "pos": 6607, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56330", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3004, "tagName": "li", "time": 13051.158233, "url": "", "pos": 6612, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a56360", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3042, "tagName": "li", "time": 13051.158235, "url": "", "pos": 6650, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d019f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3151, "tagName": "a", "time": 13051.158240, "url": "", "pos": 6759, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a56390", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3169, "tagName": "div", "time": 13051.158258, "url": "", "pos": 6777, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01a50", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3175, "tagName": "div", "time": 13051.158261, "url": "", "pos": 6783, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01a80", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3193, "tagName": "div", "time": 13051.158262, "url": "", "pos": 6801, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01ab0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3199, "tagName": "div", "time": 13051.158264, "url": "", "pos": 6807, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01ae0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3218, "tagName": "div", "time": 13051.158266, "url": "", "pos": 6826, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01b10", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3224, "tagName": "div", "time": 13051.158268, "url": "", "pos": 6832, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01b40", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3243, "tagName": "div", "time": 13051.158269, "url": "", "pos": 6851, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01b70", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3249, "tagName": "div", "time": 13051.158271, "url": "", "pos": 6857, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01ba0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3306, "tagName": "span", "time": 13051.158273, "url": "", "pos": 6914, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01bd0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3313, "tagName": "span", "time": 13051.158280, "url": "", "pos": 6921, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01c00", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3332, "tagName": "span", "time": 13051.158282, "url": "", "pos": 6940, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01c90", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3347, "tagName": "span", "time": 13051.158285, "url": "", "pos": 6955, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01cc0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3351, "tagName": "a", "time": 13051.158286, "url": "", "pos": 6959, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01cf0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3356, "tagName": "li", "time": 13051.158287, "url": "", "pos": 6964, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01d20", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3394, "tagName": "li", "time": 13051.158288, "url": "", "pos": 7002, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01db0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3514, "tagName": "a", "time": 13051.158294, "url": "", "pos": 7122, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01d50", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3532, "tagName": "div", "time": 13051.158297, "url": "", "pos": 7140, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01e10", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3538, "tagName": "div", "time": 13051.158300, "url": "", "pos": 7146, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01e40", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3556, "tagName": "div", "time": 13051.158301, "url": "", "pos": 7164, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01e70", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3562, "tagName": "div", "time": 13051.158304, "url": "", "pos": 7170, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01ea0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3581, "tagName": "div", "time": 13051.158305, "url": "", "pos": 7189, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01ed0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3587, "tagName": "div", "time": 13051.158307, "url": "", "pos": 7195, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01f00", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3606, "tagName": "div", "time": 13051.158309, "url": "", "pos": 7214, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01f30", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3612, "tagName": "div", "time": 13051.158311, "url": "", "pos": 7220, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01f60", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3668, "tagName": "span", "time": 13051.158313, "url": "", "pos": 7276, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01f90", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3675, "tagName": "span", "time": 13051.158319, "url": "", "pos": 7283, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01fc0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3694, "tagName": "span", "time": 13051.158320, "url": "", "pos": 7302, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01450", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3708, "tagName": "span", "time": 13051.158324, "url": "", "pos": 7316, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01480", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3712, "tagName": "a", "time": 13051.158325, "url": "", "pos": 7320, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d014b0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3717, "tagName": "li", "time": 13051.158326, "url": "", "pos": 7325, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d014e0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3755, "tagName": "li", "time": 13051.158327, "url": "", "pos": 7363, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01570", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3871, "tagName": "a", "time": 13051.158333, "url": "", "pos": 7479, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01510", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3889, "tagName": "div", "time": 13051.158336, "url": "", "pos": 7497, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d015d0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3895, "tagName": "div", "time": 13051.158339, "url": "", "pos": 7503, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01600", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3913, "tagName": "div", "time": 13051.158340, "url": "", "pos": 7521, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01630", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3919, "tagName": "div", "time": 13051.158342, "url": "", "pos": 7527, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01660", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3938, "tagName": "div", "time": 13051.158343, "url": "", "pos": 7546, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01690", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3944, "tagName": "div", "time": 13051.158345, "url": "", "pos": 7552, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d016c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3963, "tagName": "div", "time": 13051.158347, "url": "", "pos": 7571, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d016f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 3969, "tagName": "div", "time": 13051.158349, "url": "", "pos": 7577, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01720", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4026, "tagName": "span", "time": 13051.158351, "url": "", "pos": 7634, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01750", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4033, "tagName": "span", "time": 13051.158356, "url": "", "pos": 7641, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01780", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4052, "tagName": "span", "time": 13051.158357, "url": "", "pos": 7660, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01810", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4068, "tagName": "span", "time": 13051.158360, "url": "", "pos": 7676, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01840", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4072, "tagName": "a", "time": 13051.158361, "url": "", "pos": 7680, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01870", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4077, "tagName": "li", "time": 13051.158362, "url": "", "pos": 7685, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d018a0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4115, "tagName": "li", "time": 13051.158364, "url": "", "pos": 7723, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01930", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4219, "tagName": "a", "time": 13051.158369, "url": "", "pos": 7827, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d018d0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4237, "tagName": "div", "time": 13051.158372, "url": "", "pos": 7845, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01990", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4243, "tagName": "div", "time": 13051.158375, "url": "", "pos": 7851, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d019c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4261, "tagName": "div", "time": 13051.158376, "url": "", "pos": 7869, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01000", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4267, "tagName": "div", "time": 13051.158378, "url": "", "pos": 7875, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01030", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4286, "tagName": "div", "time": 13051.158380, "url": "", "pos": 7894, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01060", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4292, "tagName": "div", "time": 13051.158382, "url": "", "pos": 7900, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01090", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4311, "tagName": "div", "time": 13051.158383, "url": "", "pos": 7919, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d010c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4317, "tagName": "div", "time": 13051.158385, "url": "", "pos": 7925, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d010f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4373, "tagName": "span", "time": 13051.158387, "url": "", "pos": 7981, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01120", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4380, "tagName": "span", "time": 13051.158393, "url": "", "pos": 7988, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01150", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4399, "tagName": "span", "time": 13051.158394, "url": "", "pos": 8007, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d011b0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4412, "tagName": "span", "time": 13051.158397, "url": "", "pos": 8020, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d011e0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4416, "tagName": "a", "time": 13051.158398, "url": "", "pos": 8024, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01210", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4421, "tagName": "li", "time": 13051.158399, "url": "", "pos": 8029, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01240", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4426, "tagName": "ul", "time": 13051.158400, "url": "", "pos": 8034, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d012a0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4525, "tagName": "a", "time": 13051.158403, "url": "", "pos": 8133, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d01330", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4533, "tagName": "a", "time": 13051.158406, "url": "", "pos": 8141, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d01360", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4553, "tagName": "span", "time": 13051.158408, "url": "", "pos": 8161, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d013c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4560, "tagName": "span", "time": 13051.158410, "url": "", "pos": 8168, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d02a20", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4607, "tagName": "ul", "time": 13051.158418, "url": "", "pos": 8215, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02a80", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4645, "tagName": "li", "time": 13051.158429, "url": "", "pos": 8253, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02b10", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4752, "tagName": "a", "time": 13051.158434, "url": "", "pos": 8360, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02ab0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4770, "tagName": "div", "time": 13051.158437, "url": "", "pos": 8378, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02b70", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4776, "tagName": "div", "time": 13051.158440, "url": "", "pos": 8384, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d02ba0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4794, "tagName": "div", "time": 13051.158441, "url": "", "pos": 8402, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02bd0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4800, "tagName": "div", "time": 13051.158443, "url": "", "pos": 8408, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d02c00", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4819, "tagName": "div", "time": 13051.158445, "url": "", "pos": 8427, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02c30", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4825, "tagName": "div", "time": 13051.158447, "url": "", "pos": 8433, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d02c60", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4844, "tagName": "div", "time": 13051.158448, "url": "", "pos": 8452, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02c90", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4850, "tagName": "div", "time": 13051.158450, "url": "", "pos": 8458, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d02cc0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4907, "tagName": "span", "time": 13051.158452, "url": "", "pos": 8515, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02cf0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4914, "tagName": "span", "time": 13051.158459, "url": "", "pos": 8522, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d02d20", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4933, "tagName": "span", "time": 13051.158461, "url": "", "pos": 8541, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02db0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4947, "tagName": "span", "time": 13051.158464, "url": "", "pos": 8555, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d02de0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4951, "tagName": "a", "time": 13051.158465, "url": "", "pos": 8559, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d02e10", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4956, "tagName": "li", "time": 13051.158466, "url": "", "pos": 8564, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d02e40", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 4994, "tagName": "li", "time": 13051.158468, "url": "", "pos": 8602, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02ed0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5111, "tagName": "a", "time": 13051.158473, "url": "", "pos": 8719, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02e70", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5129, "tagName": "div", "time": 13051.158477, "url": "", "pos": 8737, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02f30", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5135, "tagName": "div", "time": 13051.158480, "url": "", "pos": 8743, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d02f60", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5153, "tagName": "div", "time": 13051.158481, "url": "", "pos": 8761, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02f90", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5159, "tagName": "div", "time": 13051.158483, "url": "", "pos": 8767, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d02fc0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5178, "tagName": "div", "time": 13051.158484, "url": "", "pos": 8786, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d023f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5184, "tagName": "div", "time": 13051.158486, "url": "", "pos": 8792, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d02420", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5203, "tagName": "div", "time": 13051.158488, "url": "", "pos": 8811, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02450", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5209, "tagName": "div", "time": 13051.158491, "url": "", "pos": 8817, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d02480", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5265, "tagName": "span", "time": 13051.158492, "url": "", "pos": 8873, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d024b0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5272, "tagName": "span", "time": 13051.158498, "url": "", "pos": 8880, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d024e0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5291, "tagName": "span", "time": 13051.158499, "url": "", "pos": 8899, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02540", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5302, "tagName": "span", "time": 13051.158502, "url": "", "pos": 8910, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d02570", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5306, "tagName": "a", "time": 13051.158503, "url": "", "pos": 8914, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d025a0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5311, "tagName": "li", "time": 13051.158504, "url": "", "pos": 8919, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d025d0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5349, "tagName": "li", "time": 13051.158506, "url": "", "pos": 8957, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02600", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5491, "tagName": "a", "time": 13051.158512, "url": "", "pos": 9099, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02630", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5509, "tagName": "div", "time": 13051.158515, "url": "", "pos": 9117, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02660", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5515, "tagName": "div", "time": 13051.158517, "url": "", "pos": 9123, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d02690", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5533, "tagName": "div", "time": 13051.158519, "url": "", "pos": 9141, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d026c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5539, "tagName": "div", "time": 13051.158521, "url": "", "pos": 9147, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d026f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5558, "tagName": "div", "time": 13051.158522, "url": "", "pos": 9166, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02720", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5564, "tagName": "div", "time": 13051.158524, "url": "", "pos": 9172, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d02750", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5583, "tagName": "div", "time": 13051.158525, "url": "", "pos": 9191, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02780", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5589, "tagName": "div", "time": 13051.158527, "url": "", "pos": 9197, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d027b0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5646, "tagName": "span", "time": 13051.158529, "url": "", "pos": 9254, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d027e0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5653, "tagName": "span", "time": 13051.158543, "url": "", "pos": 9261, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d02810", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5672, "tagName": "span", "time": 13051.158545, "url": "", "pos": 9280, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02870", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5684, "tagName": "span", "time": 13051.158549, "url": "", "pos": 9292, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d028a0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5688, "tagName": "a", "time": 13051.158550, "url": "", "pos": 9296, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d028d0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5693, "tagName": "li", "time": 13051.158551, "url": "", "pos": 9301, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d02900", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5731, "tagName": "li", "time": 13051.158553, "url": "", "pos": 9339, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02990", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5833, "tagName": "a", "time": 13051.158558, "url": "", "pos": 9441, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02930", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5851, "tagName": "div", "time": 13051.158562, "url": "", "pos": 9459, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02000", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5857, "tagName": "div", "time": 13051.158564, "url": "", "pos": 9465, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d02030", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5875, "tagName": "div", "time": 13051.158565, "url": "", "pos": 9483, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02060", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5881, "tagName": "div", "time": 13051.158567, "url": "", "pos": 9489, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d02090", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5900, "tagName": "div", "time": 13051.158569, "url": "", "pos": 9508, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d020c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5906, "tagName": "div", "time": 13051.158571, "url": "", "pos": 9514, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d020f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5925, "tagName": "div", "time": 13051.158572, "url": "", "pos": 9533, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02120", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5931, "tagName": "div", "time": 13051.158574, "url": "", "pos": 9539, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d02150", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5988, "tagName": "span", "time": 13051.158576, "url": "", "pos": 9596, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02180", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 5995, "tagName": "span", "time": 13051.158581, "url": "", "pos": 9603, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d021b0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6014, "tagName": "span", "time": 13051.158583, "url": "", "pos": 9622, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02240", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6028, "tagName": "span", "time": 13051.158587, "url": "", "pos": 9636, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d02270", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6032, "tagName": "a", "time": 13051.158588, "url": "", "pos": 9640, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d022a0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6037, "tagName": "li", "time": 13051.158589, "url": "", "pos": 9645, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d022d0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6075, "tagName": "li", "time": 13051.158591, "url": "", "pos": 9683, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02360", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6195, "tagName": "a", "time": 13051.158596, "url": "", "pos": 9803, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d02300", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6213, "tagName": "div", "time": 13051.158599, "url": "", "pos": 9821, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d023c0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6219, "tagName": "div", "time": 13051.158601, "url": "", "pos": 9827, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d059f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6237, "tagName": "div", "time": 13051.158603, "url": "", "pos": 9845, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d05a20", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6243, "tagName": "div", "time": 13051.158612, "url": "", "pos": 9851, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d05a50", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6262, "tagName": "div", "time": 13051.158614, "url": "", "pos": 9870, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d05a80", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6268, "tagName": "div", "time": 13051.158617, "url": "", "pos": 9876, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d05ab0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6287, "tagName": "div", "time": 13051.158618, "url": "", "pos": 9895, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d05ae0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6293, "tagName": "div", "time": 13051.158621, "url": "", "pos": 9901, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d05b10", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6349, "tagName": "span", "time": 13051.158623, "url": "", "pos": 9957, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d05b40", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6356, "tagName": "span", "time": 13051.158629, "url": "", "pos": 9964, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d05b70", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6375, "tagName": "span", "time": 13051.158631, "url": "", "pos": 9983, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d05c00", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6390, "tagName": "span", "time": 13051.158634, "url": "", "pos": 9998, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d05c30", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6394, "tagName": "a", "time": 13051.158635, "url": "", "pos": 10002, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d05c60", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6399, "tagName": "li", "time": 13051.158636, "url": "", "pos": 10007, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d05c90", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6437, "tagName": "li", "time": 13051.162555, "url": "", "pos": 10045, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d05d20", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6538, "tagName": "a", "time": 13051.162594, "url": "", "pos": 10146, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d05cc0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6556, "tagName": "div", "time": 13051.162601, "url": "", "pos": 10164, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d05d80", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6562, "tagName": "div", "time": 13051.162605, "url": "", "pos": 10170, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d05db0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6580, "tagName": "div", "time": 13051.162608, "url": "", "pos": 10188, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d05de0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6586, "tagName": "div", "time": 13051.162610, "url": "", "pos": 10194, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d05e10", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6605, "tagName": "div", "time": 13051.162612, "url": "", "pos": 10213, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d05e40", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6611, "tagName": "div", "time": 13051.162614, "url": "", "pos": 10219, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d05e70", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6630, "tagName": "div", "time": 13051.162615, "url": "", "pos": 10238, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d05ea0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6636, "tagName": "div", "time": 13051.162618, "url": "", "pos": 10244, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d05ed0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6692, "tagName": "span", "time": 13051.162621, "url": "", "pos": 10300, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d05f00", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6699, "tagName": "span", "time": 13051.162646, "url": "", "pos": 10307, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d05f30", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6718, "tagName": "span", "time": 13051.162648, "url": "", "pos": 10326, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d05fc0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6733, "tagName": "span", "time": 13051.162654, "url": "", "pos": 10341, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d053f0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6737, "tagName": "a", "time": 13051.162655, "url": "", "pos": 10345, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d05420", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6742, "tagName": "li", "time": 13051.162657, "url": "", "pos": 10350, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d05450", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6747, "tagName": "ul", "time": 13051.162658, "url": "", "pos": 10355, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d054b0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6816, "tagName": "a", "time": 13051.162661, "url": "", "pos": 10424, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d05540", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6841, "tagName": "a", "time": 13051.162666, "url": "", "pos": 10449, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d05570", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6847, "tagName": "div", "time": 13051.162667, "url": "", "pos": 10455, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d055a0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6853, "tagName": "div", "time": 13051.162668, "url": "", "pos": 10461, "chunkLen": 11164, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d055d0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 6860, "tagName": "style", "time": 13051.162670, "url": "", "pos": 10468, "chunkLen": 11164, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9970240", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 22026, "tagName": "style", "time": 13051.163257, "url": "", "pos": 25634, "chunkLen": 26639, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a25360", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 267, "column": 22034, "tagName": "script", "time": 13051.166563, "url": "", "pos": 25642, "chunkLen": 26639, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9970270", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 268, "column": 33, "tagName": "script", "time": 13051.166756, "url": "", "pos": 25698, "chunkLen": 26639, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a25300", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 268, "column": 41, "tagName": "script", "time": 13051.166920, "url": "", "pos": 1787, "chunkLen": 2720, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a25390", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 269, "column": 359, "tagName": "script", "time": 13051.166949, "url": "", "pos": 2659, "chunkLen": 2720, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9af3e40", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 269, "column": 394, "tagName": "div", "time": 13051.170076, "url": "", "pos": 2694, "chunkLen": 2720, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9af3e70", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 269, "column": 400, "tagName": "div", "time": 13051.170120, "url": "", "pos": 2700, "chunkLen": 2720, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9af3ea0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 269, "column": 406, "tagName": "div", "time": 13051.170123, "url": "", "pos": 2706, "chunkLen": 2720, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9af3ed0", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 269, "column": 413, "tagName": "body", "time": 13051.170125, "url": "", "pos": 2713, "chunkLen": 2720, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9af3f00", "doc": "https://www.google.ca/?gws_rd=ssl", "row": 269, "column": 420, "tagName": "html", "time": 13051.170126, "url": "https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.CqFrPIKIxF4.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_SqGYjlKSpzsbc2UGyTC5n3Z0ZtQ/cb=gapi.loaded_0", "pos": 2720, "chunkLen": 2720, "isStartTag": 0}}
+{"Resource": {"id": 2, "url": "https://ssl.gstatic.com/gb/images/i1_1967ca6a.png", "sentTime": -1.000000, "len": 8056, "from": "0xb9970600",                            "mimeType": "image/png", "contentLength": 8056, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 13050.933414, "len": 8056}}
+{"Resource": {"id": 3, "url": "https://www.google.ca/images/nav_logo242.png", "sentTime": -1.000000, "len": 21909, "from": "0xb99fb750",                            "mimeType": "image/png", "contentLength": 21909, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 13051.182330, "len": 21909}}
+{"Resource": {"id": 4, "url": "https://www.google.ca/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png", "sentTime": -1.000000, "len": 5969, "from": "0xb9a0e9f0",                            "mimeType": "image/png", "contentLength": 5969, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 13051.182566, "len": 5969}}
+{"Resource": {"id": 5, "url": "https://www.google.ca/xjs/_/js/k=xjs.s.en.3l3BxspEobw.O/m=sx,c,sb,cdos,cr,elog,jsa,r,hsm,qsm,j,p,d,csi/am=AJS0CgoS8fchIGwhrCA1YGBB/rt=j/d=1/t=zcms/rs=ACT90oFHL72-xWWnbsY19zrO0YE7I4zruQ", "sentTime": -1.000000, "len": 386713, "from": "0xb9a252a0",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 13051.182747, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 13051.182831, "len": 65536}}
+{"ReceivedChunk": {"receivedTime": 13051.182951, "len": 2557}}
+{"ReceivedChunk": {"receivedTime": 13051.182994, "len": 89365}}
+{"ReceivedChunk": {"receivedTime": 13051.183146, "len": 98364}}
+{"ReceivedChunk": {"receivedTime": 13051.184613, "len": 95730}}
+{"ReceivedChunk": {"receivedTime": 13051.184789, "len": 2393}}
+{"Resource": {"id": 6, "url": "https://www.google.com/textinputassistant/tia.png", "sentTime": -1.000000, "len": 387, "from": "0xb9af3f00",                            "mimeType": "image/png", "contentLength": 387, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 13051.476107, "len": 387}}
+{"Resource": {"id": 7, "url": "data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw%3D%3D", "sentTime": -1.000000, "len": 43, "from": "0xb9af3f00",                            "mimeType": "image/gif", "contentLength": 43, "httpStatus": 0, "connId": 0, "connReused": 0, "cached": 0,                            "requestTime": 13051.476579, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 13051.476863, "len": 43}}
+{"Resource": {"id": 8, "url": "https://www.google.ca/xjs/_/js/k=xjs.s.en.3l3BxspEobw.O/m=sy31,sy37,em2,em1,sy39,em0,sy253,aa,abd,sy63,sy62,sy61,sy64,em13,async,erh,sy66,foot,fpe,idck,ipv6,sy128,sy254,lu,m,sf,sy208,sy209,sy46,sy35,sy108,sy210,sy211,sy43,sy47,sy105,sy138,sy212,sy269,sy270,sy267,sy205,sy268,sy96,sy274,sy214,sy271,sy289,em8,em9,sy36,sy97,em12,em10,em6,em11,sy290,skp,vm/am=AJS0CgoS8fchIGwhrCA1YGBB/rt=j/d=0/t=zcms/rs=ACT90oFHL72-xWWnbsY19zrO0YE7I4zruQ", "sentTime": -1.000000, "len": 59426, "from": "0xb9af3f00",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 13051.486282, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 13051.486462, "len": 26658}}
+{"Resource": {"id": 9, "url": "https://www.gstatic.com/og/_/js/k=og.og2.en_US.ijp-IvDYjzk.O/rt=j/t=zcms/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtEYlVmDaqidOCejnf1WGjCzEMntg", "sentTime": -1.000000, "len": 144286, "from": "0xb9af3f00",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 13051.491399, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 13051.540920, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 13051.541154, "len": 61990}}
+{"ReceivedChunk": {"receivedTime": 13051.541371, "len": 49528}}
+{"Resource": {"id": 10, "url": "https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.CqFrPIKIxF4.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_SqGYjlKSpzsbc2UGyTC5n3Z0ZtQ/cb=gapi.loaded_0", "sentTime": -1.000000, "len": 142160, "from": "0xb9af3f00",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 13051.619030, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 13051.668565, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 13051.668780, "len": 61287}}
+{"ReceivedChunk": {"receivedTime": 13051.668970, "len": 48105}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.ca/?gws_rd=ssl", "code": "0xb98a2d50", "row": 0, "column": 344, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.ca/?gws_rd=ssl", "code": "0xb98a2000", "row": 9, "column": 2940, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.ca/?gws_rd=ssl", "code": "0xb99daa50", "row": 12, "column": 42, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.ca/?gws_rd=ssl", "code": "0xb99da900", "row": 12, "column": 1728, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.ca/?gws_rd=ssl", "code": "0xb99da090", "row": 12, "column": 2580, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.ca/?gws_rd=ssl", "code": "0xb99da2d0", "row": 52, "column": 377, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.ca/?gws_rd=ssl", "code": "0xb98c8c60", "row": 52, "column": 1484, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.ca/?gws_rd=ssl", "code": "0xb98c8720", "row": 52, "column": 2129, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.ca/?gws_rd=ssl", "code": "0xb98c8090", "row": 54, "column": 24, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.ca/?gws_rd=ssl", "code": "0xb98c8360", "row": 54, "column": 532, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.ca/?gws_rd=ssl", "code": "0xb99fe300", "row": 57, "column": 3374, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.ca/?gws_rd=ssl", "code": "0xb9a0ecf0", "row": 57, "column": 3934, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.ca/?gws_rd=ssl", "code": "0xb9a0ee10", "row": 57, "column": 4157, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.ca/?gws_rd=ssl", "code": "0xb9a0e5d0", "row": 57, "column": 4556, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.ca/?gws_rd=ssl", "code": "0xb9a25000", "row": 57, "column": 7669, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.ca/?gws_rd=ssl", "code": "0xb9a25150", "row": 57, "column": 7772, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.ca/?gws_rd=ssl", "code": "0xb9a252a0", "row": 58, "column": 41, "url": "https://www.google.ca/xjs/_/js/k=xjs.s.en.3l3BxspEobw.O/m=sx,c,sb,cdos,cr,elog,jsa,r,hsm,qsm,j,p,d,csi/am=AJS0CgoS8fchIGwhrCA1YGBB/rt=j/d=1/t=zcms/rs=ACT90oFHL72-xWWnbsY19zrO0YE7I4zruQ"}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.ca/?gws_rd=ssl", "code": "0xb9d055d0", "row": 267, "column": 6860, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.ca/?gws_rd=ssl", "code": "0xb9a25360", "row": 267, "column": 22034, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.ca/?gws_rd=ssl", "code": "0xb9a25300", "row": 268, "column": 41, "url": ""}}
+{"Computation": {"type": "execScript", "code": "0xb98a2cc0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.688044, "endTime": 13050.768099, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb99da930", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.801762, "endTime": 13050.820036, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb98c8cf0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.835510, "endTime": 13050.840933, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb98c8cc0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.841217, "endTime": 13050.850061, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb98c8cc0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.841578, "endTime": 13050.850019, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb98c8cc0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.848114, "endTime": 13050.848150, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb98c8cc0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.848156, "endTime": 13050.850004, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb98c80f0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.850337, "endTime": 13050.850789, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb98c80f0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.850666, "endTime": 13050.850734, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb9a0ed50", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.866439, "endTime": 13050.866649, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb9a0e630", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.869559, "endTime": 13050.871146, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb9a25060", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.872250, "endTime": 13050.873437, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9a252a0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.885355, "endTime": 13050.894778, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb9a252a0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.913854, "endTime": 13050.913856, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9a252a0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.913857, "endTime": 13050.915164, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9a252a0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.915175, "endTime": 13050.915176, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9a252a0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.915177, "endTime": 13050.915241, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9a252a0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.915245, "endTime": 13050.915246, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9a252a0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.915247, "endTime": 13050.915260, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9a252a0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.915263, "endTime": 13050.915264, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9a252a0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.915265, "endTime": 13050.915316, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9a252a0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.915320, "endTime": 13050.915321, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9a252a0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.915322, "endTime": 13050.915355, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9a252a0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.915359, "endTime": 13050.915360, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9a252a0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.915361, "endTime": 13050.915516, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9a252a0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.915522, "endTime": 13050.915523, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9a252a0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.915523, "endTime": 13050.915563, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9a252a0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.915567, "endTime": 13050.915567, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9a252a0", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.915568, "endTime": 13050.915581, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb98a2630", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13050.933760, "endTime": 13051.154890, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb9970270", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.166768, "endTime": 13051.166917, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb9a25390", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.166952, "endTime": 13051.170064, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.170200, "endTime": 13051.170201, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.170202, "endTime": 13051.173927, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.170840, "endTime": 13051.170930, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.171978, "endTime": 13051.172072, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.173017, "endTime": 13051.173174, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.173929, "endTime": 13051.173931, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.174415, "endTime": 13051.174533, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.183281, "endTime": 13051.183283, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.183283, "endTime": 13051.183348, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.183499, "endTime": 13051.183631, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.183735, "endTime": 13051.183735, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.183736, "endTime": 13051.184095, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.184097, "endTime": 13051.184098, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.184099, "endTime": 13051.184508, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.192246, "endTime": 13051.193200, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.204229, "endTime": 13051.396131, "urlRecalcStyle": "https://www.google.ca/xjs/_/js/k=xjs.s.en.3l3BxspEobw.O/m=sx,c,sb,cdos,cr,elog,jsa,r,hsm,qsm,j,p,d,csi/am=AJS0CgoS8fchIGwhrCA1YGBB/rt=j/d=1/t=zcms/rs=ACT90oFHL72-xWWnbsY19zrO0YE7I4zruQ"}}
+{"Computation": {"type": "layout", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.356176, "endTime": 13051.356705, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.369635, "endTime": 13051.369793, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.383096, "endTime": 13051.383202, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.396152, "endTime": 13051.396156, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.396157, "endTime": 13051.396304, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.396306, "endTime": 13051.396307, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.486728, "endTime": 13051.486730, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.486731, "endTime": 13051.486900, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.494129, "endTime": 13051.524444, "urlRecalcStyle": "https://www.google.ca/xjs/_/js/k=xjs.s.en.3l3BxspEobw.O/m=sy31,sy37,em2,em1,sy39,em0,sy253,aa,abd,sy63,sy62,sy61,sy64,em13,async,erh,sy66,foot,fpe,idck,ipv6,sy128,sy254,lu,m,sf,sy208,sy209,sy46,sy35,sy108,sy210,sy211,sy43,sy47,sy105,sy138,sy212,sy269,sy270,sy267,sy205,sy268,sy96,sy274,sy214,sy271,sy289,em8,em9,sy36,sy97,em12,em10,em6,em11,sy290,skp,vm/am=AJS0CgoS8fchIGwhrCA1YGBB/rt=j/d=0/t=zcms/rs=ACT90oFHL72-xWWnbsY19zrO0YE7I4zruQ"}}
+{"Computation": {"type": "layout", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.519203, "endTime": 13051.522723, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.519256, "endTime": 13051.519321, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.524453, "endTime": 13051.524454, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.524455, "endTime": 13051.524542, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.524544, "endTime": 13051.524544, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.542320, "endTime": 13051.653365, "urlRecalcStyle": "https://www.gstatic.com/og/_/js/k=og.og2.en_US.ijp-IvDYjzk.O/rt=j/t=zcms/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtEYlVmDaqidOCejnf1WGjCzEMntg"}}
+{"Computation": {"type": "layout", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.644255, "endTime": 13051.646486, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.652491, "endTime": 13051.652597, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.653402, "endTime": 13051.653409, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.653413, "endTime": 13051.653779, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.653789, "endTime": 13051.654844, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.654926, "endTime": 13051.655035, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.670389, "endTime": 13051.735401, "urlRecalcStyle": "https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.CqFrPIKIxF4.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_SqGYjlKSpzsbc2UGyTC5n3Z0ZtQ/cb=gapi.loaded_0"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.735420, "endTime": 13051.735422, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.735422, "endTime": 13051.735485, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb9af3f00", "docUrl": "https://www.google.ca/?gws_rd=ssl", "startTime": 13051.749074, "endTime": 13051.749649, "urlRecalcStyle": ""}}
+{"Complete': "www.google.ca_?gws_rd=ssl"}
+Killed

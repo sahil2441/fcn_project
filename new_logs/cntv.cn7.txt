@@ -1,0 +1,208 @@
+[24407:24417:18614483001:ERROR:web_data_service.cc(657)] Cannot initialize the web database: 2
+{"page": "www.cntv.cn_"}
+{"DOMLoad": 18615.823921}
+{"Resource": {"id": 1, "url": "http://www.cntv.cn/", "sentTime": -1.000000, "len": 247, "from": "(nil)",                            "mimeType": "text/html", "contentLength": 247, "httpStatus": 200, "connId": 56, "connReused": 0, "cached": 0,                            "requestTime": 18615.386067, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 0, "dnsEnd": 7, "connectStart": 4, "connectEnd": 13, "sendStart": 13, "sendEnd": 31, "receiveHeadersEnd": 357, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 18615.745395, "len": 247}}
+{"WprofHTMLTag": {"code": "0xb99f7b40", "doc": "http://www.cntv.cn/", "row": 4, "column": 36, "tagName": "script", "time": 18615.745885, "url": "", "pos": 49, "chunkLen": 247, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb99f7c60", "doc": "http://www.cntv.cn/", "row": 10, "column": 9, "tagName": "script", "time": 18615.746078, "url": "", "pos": 234, "chunkLen": 247, "isStartTag": 0}}
+{"HOL": {"type": 1, "docUrl": "http://www.cntv.cn/", "code": "0xb99f7b40", "row": 4, "column": 36, "url": ""}}
+{"Computation": {"type": "execScript", "code": "0xb99f7c60", "docUrl": "http://www.cntv.cn/", "startTime": 18615.746094, "endTime": 18615.809637, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb99f7c60", "docUrl": "http://www.cntv.cn/", "startTime": 18615.809655, "endTime": 18615.809656, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb99f7c60", "docUrl": "http://www.cntv.cn/", "startTime": 18615.809657, "endTime": 18615.809658, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Complete': "www.cntv.cn_"}
+[24407:24407:18616073802:ERROR:CONSOLE(1)] "Uncaught ReferenceError: InspectorFrontendAPI is not defined", source:  (1)
+{"page": "www.cctv.com_default.shtml"}
+{"DOMLoad": 18616.129976}
+{"Resource": {"id": 2, "url": "http://www.cctv.com/default.shtml", "sentTime": -1.000000, "len": 5959, "from": "(nil)",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 69, "connReused": 0, "cached": 0,                            "requestTime": 18615.831983, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 2, "dnsEnd": 6, "connectStart": 2, "connectEnd": 9, "sendStart": 9, "sendEnd": 9, "receiveHeadersEnd": 21, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 18615.853392, "len": 5959}}
+{"WprofHTMLTag": {"code": "0xb99e1300", "doc": "http://www.cctv.com/default.shtml", "row": 5, "column": 43, "tagName": "html", "time": 18615.865705, "url": "", "pos": 183, "chunkLen": 5752, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a28ab0", "doc": "http://www.cctv.com/default.shtml", "row": 6, "column": 6, "tagName": "head", "time": 18615.866593, "url": "", "pos": 190, "chunkLen": 5752, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a28b40", "doc": "http://www.cctv.com/default.shtml", "row": 7, "column": 69, "tagName": "meta", "time": 18615.866631, "url": "", "pos": 260, "chunkLen": 5752, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a28bd0", "doc": "http://www.cctv.com/default.shtml", "row": 8, "column": 136, "tagName": "meta", "time": 18615.866644, "url": "", "pos": 397, "chunkLen": 5752, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a28c60", "doc": "http://www.cctv.com/default.shtml", "row": 9, "column": 65, "tagName": "link", "time": 18615.866648, "url": "http://www.cctv.com/www.cntv.cn/favicon.ico", "pos": 463, "chunkLen": 5752, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a28d20", "doc": "http://www.cctv.com/default.shtml", "row": 10, "column": 7, "tagName": "title", "time": 18615.867118, "url": "", "pos": 471, "chunkLen": 5752, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a5aa50", "doc": "http://www.cctv.com/default.shtml", "row": 10, "column": 18, "tagName": "title", "time": 18615.887967, "url": "", "pos": 482, "chunkLen": 5752, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a5ab10", "doc": "http://www.cctv.com/default.shtml", "row": 11, "column": 139, "tagName": "link", "time": 18615.887986, "url": "http://r.img.cctvpic.com/nettv/default.htmlstyle/style.css?796c5e3afe12aa75d3fad4689005baf5", "pos": 622, "chunkLen": 5752, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a5ac00", "doc": "http://www.cctv.com/default.shtml", "row": 11, "column": 243, "tagName": "script", "time": 18615.889061, "url": "http://r.img.cctvpic.com/photoAlbum/templet/js/jquery-1.7.2.min.js", "pos": 726, "chunkLen": 5752, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a5ac60", "doc": "http://www.cctv.com/default.shtml", "row": 11, "column": 252, "tagName": "script", "time": 18615.889073, "url": "", "pos": 735, "chunkLen": 5752, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a5ac30", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 10, "tagName": "link", "time": 18615.991152, "url": "", "pos": 10, "chunkLen": 107, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a43630", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 17, "tagName": "table", "time": 18615.991169, "url": "", "pos": 17, "chunkLen": 107, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a43660", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 25, "tagName": "table", "time": 18615.991177, "url": "", "pos": 25, "chunkLen": 107, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a43690", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 78, "tagName": "a", "time": 18615.991183, "url": "", "pos": 78, "chunkLen": 107, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a436f0", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 83, "tagName": "a", "time": 18615.991229, "url": "", "pos": 83, "chunkLen": 107, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a43720", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 107, "tagName": "input", "time": 18615.991233, "url": "", "pos": 107, "chunkLen": 107, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a43120", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 31, "tagName": "a", "time": 18616.002604, "url": "", "pos": 31, "chunkLen": 31, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a431b0", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 12, "tagName": "a", "time": 18616.002781, "url": "", "pos": 12, "chunkLen": 16, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a431e0", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 16, "tagName": "a", "time": 18616.002789, "url": "", "pos": 16, "chunkLen": 16, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a43210", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 16, "tagName": "p", "time": 18616.002898, "url": "", "pos": 16, "chunkLen": 20, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a43270", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 20, "tagName": "p", "time": 18616.002912, "url": "", "pos": 20, "chunkLen": 20, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a432d0", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 20, "tagName": "div", "time": 18616.003469, "url": "", "pos": 20, "chunkLen": 50, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a43330", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 26, "tagName": "div", "time": 18616.003476, "url": "", "pos": 26, "chunkLen": 50, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9a43360", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 44, "tagName": "div", "time": 18616.003478, "url": "", "pos": 44, "chunkLen": 50, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a433c0", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 50, "tagName": "div", "time": 18616.003480, "url": "", "pos": 50, "chunkLen": 50, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cd9b40", "doc": "http://www.cctv.com/default.shtml", "row": 12, "column": 23, "tagName": "style", "time": 18616.014390, "url": "", "pos": 759, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9a5aa20", "doc": "http://www.cctv.com/default.shtml", "row": 34, "column": 8, "tagName": "style", "time": 18616.014441, "url": "", "pos": 2506, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cd9d50", "doc": "http://www.cctv.com/default.shtml", "row": 35, "column": 7, "tagName": "head", "time": 18616.014698, "url": "", "pos": 2514, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cd9db0", "doc": "http://www.cctv.com/default.shtml", "row": 36, "column": 6, "tagName": "body", "time": 18616.014703, "url": "", "pos": 2521, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cd9e40", "doc": "http://www.cctv.com/default.shtml", "row": 37, "column": 17, "tagName": "div", "time": 18616.014772, "url": "", "pos": 2539, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cd9ea0", "doc": "http://www.cctv.com/default.shtml", "row": 37, "column": 35, "tagName": "div", "time": 18616.014798, "url": "", "pos": 2557, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cd93f0", "doc": "http://www.cctv.com/default.shtml", "row": 37, "column": 41, "tagName": "div", "time": 18616.020123, "url": "", "pos": 2563, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cd9420", "doc": "http://www.cctv.com/default.shtml", "row": 37, "column": 47, "tagName": "div", "time": 18616.020129, "url": "", "pos": 2569, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cd9480", "doc": "http://www.cctv.com/default.shtml", "row": 38, "column": 21, "tagName": "div", "time": 18616.020140, "url": "", "pos": 2591, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cd9540", "doc": "http://www.cctv.com/default.shtml", "row": 39, "column": 22, "tagName": "div", "time": 18616.020264, "url": "", "pos": 2614, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cd9600", "doc": "http://www.cctv.com/default.shtml", "row": 40, "column": 25, "tagName": "div", "time": 18616.020309, "url": "", "pos": 2640, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cd9690", "doc": "http://www.cctv.com/default.shtml", "row": 43, "column": 72, "tagName": "a", "time": 18616.020364, "url": "", "pos": 2729, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cd9720", "doc": "http://www.cctv.com/default.shtml", "row": 43, "column": 239, "tagName": "img", "time": 18616.020457, "url": "", "pos": 2896, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cd97b0", "doc": "http://www.cctv.com/default.shtml", "row": 43, "column": 243, "tagName": "a", "time": 18616.020541, "url": "", "pos": 2900, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cd9810", "doc": "http://www.cctv.com/default.shtml", "row": 44, "column": 96, "tagName": "a", "time": 18616.020564, "url": "", "pos": 2997, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cd9870", "doc": "http://www.cctv.com/default.shtml", "row": 44, "column": 265, "tagName": "img", "time": 18616.020679, "url": "", "pos": 3166, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cd98a0", "doc": "http://www.cctv.com/default.shtml", "row": 44, "column": 269, "tagName": "a", "time": 18616.020734, "url": "", "pos": 3170, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cd9930", "doc": "http://www.cctv.com/default.shtml", "row": 45, "column": 63, "tagName": "a", "time": 18616.020742, "url": "", "pos": 3234, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cd9990", "doc": "http://www.cctv.com/default.shtml", "row": 45, "column": 206, "tagName": "img", "time": 18616.020781, "url": "", "pos": 3377, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cd99c0", "doc": "http://www.cctv.com/default.shtml", "row": 45, "column": 210, "tagName": "a", "time": 18616.020838, "url": "", "pos": 3381, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cd9060", "doc": "http://www.cctv.com/default.shtml", "row": 46, "column": 67, "tagName": "a", "time": 18616.020849, "url": "", "pos": 3449, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cd90f0", "doc": "http://www.cctv.com/default.shtml", "row": 46, "column": 212, "tagName": "img", "time": 18616.020911, "url": "", "pos": 3594, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cd9120", "doc": "http://www.cctv.com/default.shtml", "row": 46, "column": 216, "tagName": "a", "time": 18616.021027, "url": "", "pos": 3598, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ce49f0", "doc": "http://www.cctv.com/default.shtml", "row": 47, "column": 63, "tagName": "a", "time": 18616.021040, "url": "", "pos": 3662, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ce4a50", "doc": "http://www.cctv.com/default.shtml", "row": 47, "column": 206, "tagName": "img", "time": 18616.021256, "url": "", "pos": 3805, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ce4a80", "doc": "http://www.cctv.com/default.shtml", "row": 47, "column": 210, "tagName": "a", "time": 18616.021342, "url": "", "pos": 3809, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ce4b10", "doc": "http://www.cctv.com/default.shtml", "row": 48, "column": 63, "tagName": "a", "time": 18616.021352, "url": "", "pos": 3873, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ce4b70", "doc": "http://www.cctv.com/default.shtml", "row": 48, "column": 206, "tagName": "img", "time": 18616.021394, "url": "", "pos": 4016, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ce4ba0", "doc": "http://www.cctv.com/default.shtml", "row": 48, "column": 210, "tagName": "a", "time": 18616.021440, "url": "", "pos": 4020, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ce4c30", "doc": "http://www.cctv.com/default.shtml", "row": 49, "column": 63, "tagName": "a", "time": 18616.021448, "url": "", "pos": 4084, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ce4c90", "doc": "http://www.cctv.com/default.shtml", "row": 49, "column": 206, "tagName": "img", "time": 18616.021483, "url": "", "pos": 4227, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ce4cc0", "doc": "http://www.cctv.com/default.shtml", "row": 49, "column": 210, "tagName": "a", "time": 18616.021533, "url": "", "pos": 4231, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ce4d50", "doc": "http://www.cctv.com/default.shtml", "row": 50, "column": 64, "tagName": "a", "time": 18616.021541, "url": "", "pos": 4296, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ce4de0", "doc": "http://www.cctv.com/default.shtml", "row": 50, "column": 209, "tagName": "img", "time": 18616.021576, "url": "", "pos": 4441, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ce4e10", "doc": "http://www.cctv.com/default.shtml", "row": 50, "column": 213, "tagName": "a", "time": 18616.021626, "url": "", "pos": 4445, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ce4ea0", "doc": "http://www.cctv.com/default.shtml", "row": 51, "column": 64, "tagName": "a", "time": 18616.021633, "url": "", "pos": 4510, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ce4f30", "doc": "http://www.cctv.com/default.shtml", "row": 51, "column": 209, "tagName": "img", "time": 18616.021667, "url": "", "pos": 4655, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ce4f60", "doc": "http://www.cctv.com/default.shtml", "row": 51, "column": 213, "tagName": "a", "time": 18616.021705, "url": "", "pos": 4659, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ce43f0", "doc": "http://www.cctv.com/default.shtml", "row": 52, "column": 59, "tagName": "a", "time": 18616.021712, "url": "", "pos": 4719, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ce4450", "doc": "http://www.cctv.com/default.shtml", "row": 52, "column": 202, "tagName": "img", "time": 18616.021738, "url": "", "pos": 4862, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ce4480", "doc": "http://www.cctv.com/default.shtml", "row": 52, "column": 206, "tagName": "a", "time": 18616.021773, "url": "", "pos": 4866, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ce4510", "doc": "http://www.cctv.com/default.shtml", "row": 53, "column": 63, "tagName": "a", "time": 18616.021795, "url": "", "pos": 4930, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ce4570", "doc": "http://www.cctv.com/default.shtml", "row": 53, "column": 206, "tagName": "img", "time": 18616.021829, "url": "", "pos": 5073, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ce45a0", "doc": "http://www.cctv.com/default.shtml", "row": 53, "column": 210, "tagName": "a", "time": 18616.021868, "url": "", "pos": 5077, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ce4630", "doc": "http://www.cctv.com/default.shtml", "row": 54, "column": 64, "tagName": "a", "time": 18616.021875, "url": "", "pos": 5142, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ce46c0", "doc": "http://www.cctv.com/default.shtml", "row": 54, "column": 209, "tagName": "img", "time": 18616.021912, "url": "", "pos": 5287, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ce46f0", "doc": "http://www.cctv.com/default.shtml", "row": 54, "column": 213, "tagName": "a", "time": 18616.021952, "url": "", "pos": 5291, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ce4780", "doc": "http://www.cctv.com/default.shtml", "row": 55, "column": 32, "tagName": "a", "time": 18616.021958, "url": "", "pos": 5324, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ce47e0", "doc": "http://www.cctv.com/default.shtml", "row": 55, "column": 175, "tagName": "img", "time": 18616.021981, "url": "", "pos": 5467, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ce4810", "doc": "http://www.cctv.com/default.shtml", "row": 55, "column": 179, "tagName": "a", "time": 18616.022028, "url": "", "pos": 5471, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ce48d0", "doc": "http://www.cctv.com/default.shtml", "row": 58, "column": 8, "tagName": "div", "time": 18616.022033, "url": "", "pos": 5489, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ce4930", "doc": "http://www.cctv.com/default.shtml", "row": 59, "column": 8, "tagName": "div", "time": 18616.022036, "url": "", "pos": 5498, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ce4990", "doc": "http://www.cctv.com/default.shtml", "row": 60, "column": 8, "tagName": "div", "time": 18616.022038, "url": "", "pos": 5507, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ce4000", "doc": "http://www.cctv.com/default.shtml", "row": 63, "column": 20, "tagName": "div", "time": 18616.022041, "url": "", "pos": 5545, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ce4060", "doc": "http://www.cctv.com/default.shtml", "row": 63, "column": 38, "tagName": "div", "time": 18616.022084, "url": "", "pos": 5563, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ce40c0", "doc": "http://www.cctv.com/default.shtml", "row": 63, "column": 42, "tagName": "h3", "time": 18616.022165, "url": "", "pos": 5567, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ce4120", "doc": "http://www.cctv.com/default.shtml", "row": 63, "column": 77, "tagName": "h3", "time": 18616.022203, "url": "", "pos": 5602, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ce4150", "doc": "http://www.cctv.com/default.shtml", "row": 63, "column": 80, "tagName": "p", "time": 18616.022207, "url": "", "pos": 5605, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ce41e0", "doc": "http://www.cctv.com/default.shtml", "row": 63, "column": 147, "tagName": "p", "time": 18616.022224, "url": "", "pos": 5672, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ce4210", "doc": "http://www.cctv.com/default.shtml", "row": 63, "column": 153, "tagName": "div", "time": 18616.022226, "url": "", "pos": 5678, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ce4240", "doc": "http://www.cctv.com/default.shtml", "row": 63, "column": 159, "tagName": "div", "time": 18616.022226, "url": "", "pos": 5684, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ce42d0", "doc": "http://www.cctv.com/default.shtml", "row": 64, "column": 28, "tagName": "script", "time": 18616.022230, "url": "http://www.cctv.com/js/uvstat.js", "pos": 5715, "chunkLen": 5753, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9ce4300", "doc": "http://www.cctv.com/default.shtml", "row": 64, "column": 37, "tagName": "script", "time": 18616.022240, "url": "", "pos": 5724, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cf6d20", "doc": "http://www.cctv.com/default.shtml", "row": 64, "column": 44, "tagName": "body", "time": 18616.108761, "url": "", "pos": 5731, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d13de0", "doc": "http://www.cctv.com/default.shtml", "row": 65, "column": 7, "tagName": "html", "time": 18616.108772, "url": "", "pos": 5739, "chunkLen": 5753, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ce4f90", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 7, "tagName": "table", "time": 18616.109823, "url": "", "pos": 7, "chunkLen": 92, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cf6cf0", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 11, "tagName": "tr", "time": 18616.109832, "url": "", "pos": 11, "chunkLen": 92, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d13d20", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 64, "tagName": "td", "time": 18616.109846, "url": "", "pos": 64, "chunkLen": 92, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cf6c00", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 69, "tagName": "td", "time": 18616.109868, "url": "", "pos": 69, "chunkLen": 92, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ce4e40", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 73, "tagName": "td", "time": 18616.109871, "url": "", "pos": 73, "chunkLen": 92, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9cf6120", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 79, "tagName": "td", "time": 18616.109874, "url": "", "pos": 79, "chunkLen": 92, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9cf6ba0", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 84, "tagName": "tr", "time": 18616.109875, "url": "", "pos": 84, "chunkLen": 92, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9ce4cf0", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 92, "tagName": "table", "time": 18616.109877, "url": "", "pos": 92, "chunkLen": 92, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d13180", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 24, "tagName": "div", "time": 18616.115574, "url": "", "pos": 24, "chunkLen": 30, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d131b0", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 30, "tagName": "div", "time": 18616.115589, "url": "", "pos": 30, "chunkLen": 30, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d131e0", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 121, "tagName": "div", "time": 18616.115769, "url": "", "pos": 121, "chunkLen": 372, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d13210", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 193, "tagName": "div", "time": 18616.115791, "url": "", "pos": 193, "chunkLen": 372, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d13240", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 199, "tagName": "div", "time": 18616.115803, "url": "", "pos": 199, "chunkLen": 372, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d13270", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 205, "tagName": "div", "time": 18616.115804, "url": "", "pos": 205, "chunkLen": 372, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d132a0", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 346, "tagName": "table", "time": 18616.115808, "url": "", "pos": 346, "chunkLen": 372, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d132d0", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 350, "tagName": "tr", "time": 18616.115832, "url": "", "pos": 350, "chunkLen": 372, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d13300", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 354, "tagName": "td", "time": 18616.115836, "url": "", "pos": 354, "chunkLen": 372, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb9d13330", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 359, "tagName": "td", "time": 18616.115838, "url": "", "pos": 359, "chunkLen": 372, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d13360", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 364, "tagName": "tr", "time": 18616.115840, "url": "", "pos": 364, "chunkLen": 372, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9d13390", "doc": "http://www.cctv.com/default.shtml", "row": 0, "column": 372, "tagName": "table", "time": 18616.115841, "url": "", "pos": 372, "chunkLen": 372, "isStartTag": 0}}
+{"Resource": {"id": 3, "url": "http://r.img.cctvpic.com/nettv/default.htmlstyle/style.css?796c5e3afe12aa75d3fad4689005baf5", "sentTime": -1.000000, "len": 1443, "from": "0xb9a5ab10",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 18615.897101, "len": 1443}}
+{"Resource": {"id": 4, "url": "http://r.img.cctvpic.com/photoAlbum/templet/js/jquery-1.7.2.min.js", "sentTime": -1.000000, "len": 94840, "from": "0xb9a5ac00",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 18615.897667, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 18615.897754, "len": 50951}}
+{"ReceivedChunk": {"receivedTime": 18615.898902, "len": 11121}}
+{"Resource": {"id": 6, "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/topXUQIU1023520140307.jpg", "sentTime": -1.000000, "len": 28661, "from": "0xb9cd9ea0",                            "mimeType": "image/jpeg", "contentLength": 28661, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 18616.087131, "len": 28661}}
+{"Resource": {"id": 7, "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/tileXUQIU1023520140307.jpg", "sentTime": -1.000000, "len": 819, "from": "0xb9ce4060",                            "mimeType": "image/jpeg", "contentLength": 819, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 18616.088464, "len": 819}}
+{"Resource": {"id": 8, "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang01XUQIU1023520140307.png", "sentTime": -1.000000, "len": 441, "from": "0xb9cd9720",                            "mimeType": "image/png", "contentLength": 441, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 18616.088779, "len": 441}}
+{"Resource": {"id": 9, "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang02XUQIU1023520140307.png", "sentTime": -1.000000, "len": 468, "from": "0xb9cd9870",                            "mimeType": "image/png", "contentLength": 468, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 18616.089030, "len": 468}}
+{"Resource": {"id": 10, "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang03XUQIU1023520140307.png", "sentTime": -1.000000, "len": 1511, "from": "0xb9cd9990",                            "mimeType": "image/png", "contentLength": 1511, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 18616.089196, "len": 1511}}
+{"Resource": {"id": 11, "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang04XUQIU1023520140307.png", "sentTime": -1.000000, "len": 878, "from": "0xb9cd90f0",                            "mimeType": "image/png", "contentLength": 878, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 18616.089358, "len": 878}}
+{"Resource": {"id": 12, "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang05XUQIU1023520140307.png", "sentTime": -1.000000, "len": 1487, "from": "0xb9ce4a50",                            "mimeType": "image/png", "contentLength": 1487, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 18616.089670, "len": 1487}}
+{"Resource": {"id": 13, "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang06XUQIU1023520140307.png", "sentTime": -1.000000, "len": 1366, "from": "0xb9ce4b70",                            "mimeType": "image/png", "contentLength": 1366, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 18616.091616, "len": 1366}}
+{"Resource": {"id": 14, "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang07XUQIU1023520140307.png", "sentTime": -1.000000, "len": 1076, "from": "0xb9ce4c90",                            "mimeType": "image/png", "contentLength": 1076, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 18616.096456, "len": 1076}}
+{"Resource": {"id": 15, "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang08XUQIU1023520140307.png", "sentTime": -1.000000, "len": 356, "from": "0xb9ce4de0",                            "mimeType": "image/png", "contentLength": 356, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 18616.098712, "len": 356}}
+{"Resource": {"id": 16, "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang09XUQIU1023520140307.png", "sentTime": -1.000000, "len": 394, "from": "0xb9ce4f30",                            "mimeType": "image/png", "contentLength": 394, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 18616.100346, "len": 394}}
+{"Resource": {"id": 17, "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang10XUQIU1023520140307.png", "sentTime": -1.000000, "len": 1210, "from": "0xb9ce4450",                            "mimeType": "image/png", "contentLength": 1210, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 18616.102291, "len": 1210}}
+{"Resource": {"id": 18, "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang11XUQIU1023520140307.png", "sentTime": -1.000000, "len": 2129, "from": "0xb9ce4570",                            "mimeType": "image/png", "contentLength": 2129, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 18616.104074, "len": 2129}}
+{"Resource": {"id": 19, "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang12XUQIU1023520140307.png", "sentTime": -1.000000, "len": 409, "from": "0xb9ce46c0",                            "mimeType": "image/png", "contentLength": 409, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 18616.104374, "len": 409}}
+{"Resource": {"id": 20, "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang13XUQIU1023520140307.png", "sentTime": -1.000000, "len": 742, "from": "0xb9ce47e0",                            "mimeType": "image/png", "contentLength": 742, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 18616.106550, "len": 742}}
+{"Resource": {"id": 5, "url": "http://www.cctv.com/js/uvstat.js", "sentTime": -1.000000, "len": 0, "from": "0xb9ce42d0",                            "mimeType": "text/html", "contentLength": 16, "httpStatus": 404, "connId": 0, "connReused": 0, "cached": 0}}
+{"HOL": {"type": 4, "docUrl": "http://www.cctv.com/default.shtml", "code": "0xb9a5ab10", "row": 11, "column": 139, "url": "http://r.img.cctvpic.com/nettv/default.htmlstyle/style.css?796c5e3afe12aa75d3fad4689005baf5"}}
+{"HOL": {"type": 1, "docUrl": "http://www.cctv.com/default.shtml", "code": "0xb9a5ac00", "row": 11, "column": 243, "url": "http://r.img.cctvpic.com/photoAlbum/templet/js/jquery-1.7.2.min.js"}}
+{"HOL": {"type": 4, "docUrl": "http://www.cctv.com/default.shtml", "code": "0xb9cd9b40", "row": 12, "column": 23, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.cctv.com/default.shtml", "code": "0xb9ce42d0", "row": 64, "column": 28, "url": "http://www.cctv.com/js/uvstat.js"}}
+{"Computation": {"type": "execScript", "code": "0xb9a5ac60", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18615.890621, "endTime": -1.000000, "urlRecalcStyle": "http://r.img.cctvpic.com/photoAlbum/templet/js/jquery-1.7.2.min.js"}}
+{"Computation": {"type": "recalcStyle", "code": "0xb9a5ac60", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18615.897168, "endTime": 18615.897483, "urlRecalcStyle": "http://r.img.cctvpic.com/nettv/default.htmlstyle/style.css?796c5e3afe12aa75d3fad4689005baf5"}}
+{"Computation": {"type": "execScript", "code": "0xb9a5ac60", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18615.897469, "endTime": -1.000000, "urlRecalcStyle": "http://r.img.cctvpic.com/photoAlbum/templet/js/jquery-1.7.2.min.js"}}
+{"Computation": {"type": "execScript", "code": "0xb9a5ac60", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18615.898942, "endTime": 18616.014373, "urlRecalcStyle": "http://r.img.cctvpic.com/photoAlbum/templet/js/jquery-1.7.2.min.js"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9a433c0", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18616.014369, "endTime": 18616.014370, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0xb9ce4300", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18616.022255, "endTime": -1.000000, "urlRecalcStyle": "http://www.cctv.com/js/uvstat.js"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9ce4300", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18616.029283, "endTime": 18616.029284, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9ce4300", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18616.029292, "endTime": 18616.029293, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb9ce4300", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18616.029466, "endTime": 18616.083048, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9ce4300", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18616.082982, "endTime": 18616.083007, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9ce4300", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18616.108413, "endTime": 18616.108623, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb9ce4300", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18616.108729, "endTime": 18616.108756, "urlRecalcStyle": "http://www.cctv.com/js/uvstat.js"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9d13de0", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18616.108785, "endTime": 18616.108785, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb9d13de0", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18616.108786, "endTime": 18616.128746, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0xb9ce4cf0", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18616.110145, "endTime": 18616.110291, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9ce4cf0", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18616.110375, "endTime": 18616.110415, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9ce4cf0", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18616.115154, "endTime": 18616.115216, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9ce4cf0", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18616.115484, "endTime": 18616.115540, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9d131b0", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18616.115660, "endTime": 18616.115724, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9d13390", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18616.119595, "endTime": 18616.119699, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9d13390", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18616.119780, "endTime": 18616.119806, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9d13390", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18616.119873, "endTime": 18616.119896, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb9d13390", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18616.119959, "endTime": 18616.119980, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb9d13390", "docUrl": "http://www.cctv.com/default.shtml", "startTime": 18616.128749, "endTime": 18616.128751, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Preload": {"code": "0xb9a5ac60", "docUrl": "http://www.cctv.com/default.shtml", "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang01XUQIU1023520140307.png", "time": 18615.890670}}
+{"Preload": {"code": "0xb9a5ac60", "docUrl": "http://www.cctv.com/default.shtml", "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang02XUQIU1023520140307.png", "time": 18615.890682}}
+{"Preload": {"code": "0xb9a5ac60", "docUrl": "http://www.cctv.com/default.shtml", "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang03XUQIU1023520140307.png", "time": 18615.890687}}
+{"Preload": {"code": "0xb9a5ac60", "docUrl": "http://www.cctv.com/default.shtml", "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang04XUQIU1023520140307.png", "time": 18615.890692}}
+{"Preload": {"code": "0xb9a5ac60", "docUrl": "http://www.cctv.com/default.shtml", "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang05XUQIU1023520140307.png", "time": 18615.890698}}
+{"Preload": {"code": "0xb9a5ac60", "docUrl": "http://www.cctv.com/default.shtml", "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang06XUQIU1023520140307.png", "time": 18615.890702}}
+{"Preload": {"code": "0xb9a5ac60", "docUrl": "http://www.cctv.com/default.shtml", "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang07XUQIU1023520140307.png", "time": 18615.890719}}
+{"Preload": {"code": "0xb9a5ac60", "docUrl": "http://www.cctv.com/default.shtml", "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang08XUQIU1023520140307.png", "time": 18615.890724}}
+{"Preload": {"code": "0xb9a5ac60", "docUrl": "http://www.cctv.com/default.shtml", "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang09XUQIU1023520140307.png", "time": 18615.890729}}
+{"Preload": {"code": "0xb9a5ac60", "docUrl": "http://www.cctv.com/default.shtml", "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang10XUQIU1023520140307.png", "time": 18615.890733}}
+{"Preload": {"code": "0xb9a5ac60", "docUrl": "http://www.cctv.com/default.shtml", "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang11XUQIU1023520140307.png", "time": 18615.890738}}
+{"Preload": {"code": "0xb9a5ac60", "docUrl": "http://www.cctv.com/default.shtml", "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang12XUQIU1023520140307.png", "time": 18615.890746}}
+{"Preload": {"code": "0xb9a5ac60", "docUrl": "http://www.cctv.com/default.shtml", "url": "http://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1394172481265187/lang13XUQIU1023520140307.png", "time": 18615.890752}}
+{"Preload": {"code": "0xb9a5ac60", "docUrl": "http://www.cctv.com/default.shtml", "url": "http://www.cctv.com/js/uvstat.js", "time": 18615.890758}}
+{"Complete': "www.cctv.com_default.shtml"}
+Killed

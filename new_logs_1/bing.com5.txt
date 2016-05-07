@@ -1,0 +1,492 @@
+[15307:15317:3361311942:ERROR:web_data_service.cc(657)] Cannot initialize the web database: 2
+[15307:15307:3362484478:ERROR:CONSOLE(1)] "Uncaught ReferenceError: InspectorFrontendAPI is not defined", source:  (1)
+{"page": "www.bing.com_"}
+{"DOMLoad": 3362.497601}
+{"Resource": {"id": 1, "url": "http://www.bing.com/", "sentTime": -1.000000, "len": 92224, "from": "(nil)",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 58, "connReused": 0, "cached": 0,                            "requestTime": 3362.022665, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 0, "dnsEnd": 7, "connectStart": 4, "connectEnd": 40, "sendStart": 40, "sendEnd": 40, "receiveHeadersEnd": 109, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 3362.177065, "len": 3189}}
+{"ReceivedChunk": {"receivedTime": 3362.283693, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 3362.310230, "len": 56267}}
+{"WprofHTMLTag": {"code": "0xb86d5330", "doc": "http://www.bing.com/", "row": 0, "column": 188, "tagName": "html", "time": 3362.177572, "url": "", "pos": 188, "chunkLen": 3189, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb86eca20", "doc": "http://www.bing.com/", "row": 0, "column": 219, "tagName": "script", "time": 3362.177698, "url": "", "pos": 219, "chunkLen": 3189, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb86ecb10", "doc": "http://www.bing.com/", "row": 2, "column": 14, "tagName": "script", "time": 3362.177731, "url": "", "pos": 263, "chunkLen": 3189, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb86ecd20", "doc": "http://www.bing.com/", "row": 2, "column": 20, "tagName": "head", "time": 3362.244333, "url": "", "pos": 269, "chunkLen": 3189, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb86ecd80", "doc": "http://www.bing.com/", "row": 2, "column": 88, "tagName": "meta", "time": 3362.244342, "url": "", "pos": 337, "chunkLen": 3189, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb86ecdb0", "doc": "http://www.bing.com/", "row": 2, "column": 119, "tagName": "script", "time": 3362.244358, "url": "", "pos": 368, "chunkLen": 3189, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb86ecae0", "doc": "http://www.bing.com/", "row": 4, "column": 14, "tagName": "script", "time": 3362.244373, "url": "", "pos": 886, "chunkLen": 3189, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb86ece70", "doc": "http://www.bing.com/", "row": 4, "column": 37, "tagName": "style", "time": 3362.244468, "url": "", "pos": 909, "chunkLen": 3189, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb86ece10", "doc": "http://www.bing.com/", "row": 4, "column": 26487, "tagName": "style", "time": 3362.289766, "url": "", "pos": 27359, "chunkLen": 35957, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8781b70", "doc": "http://www.bing.com/", "row": 4, "column": 26518, "tagName": "script", "time": 3362.292131, "url": "", "pos": 27390, "chunkLen": 35957, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb86eced0", "doc": "http://www.bing.com/", "row": 6, "column": 14, "tagName": "script", "time": 3362.311370, "url": "", "pos": 40273, "chunkLen": 92212, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8781d50", "doc": "http://www.bing.com/", "row": 6, "column": 21, "tagName": "title", "time": 3362.336195, "url": "", "pos": 4323, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8781c00", "doc": "http://www.bing.com/", "row": 6, "column": 33, "tagName": "title", "time": 3362.350553, "url": "", "pos": 4335, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87bbc30", "doc": "http://www.bing.com/", "row": 6, "column": 98, "tagName": "link", "time": 3362.350568, "url": "http://www.bing.com/fd/s/a/hp/bing.svg", "pos": 4400, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87bbd50", "doc": "http://www.bing.com/", "row": 6, "column": 142, "tagName": "meta", "time": 3362.350684, "url": "", "pos": 4444, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87bbdb0", "doc": "http://www.bing.com/", "row": 6, "column": 208, "tagName": "link", "time": 3362.350691, "url": "http://www.bing.com/sa/simg/bing_p_rr_teal_min.ico", "pos": 4510, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87bbe10", "doc": "http://www.bing.com/", "row": 6, "column": 348, "tagName": "meta", "time": 3362.350712, "url": "", "pos": 4650, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87bbe40", "doc": "http://www.bing.com/", "row": 6, "column": 385, "tagName": "meta", "time": 3362.350719, "url": "", "pos": 4687, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87bbe70", "doc": "http://www.bing.com/", "row": 6, "column": 392, "tagName": "head", "time": 3362.350721, "url": "", "pos": 4694, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87bbed0", "doc": "http://www.bing.com/", "row": 6, "column": 508, "tagName": "body", "time": 3362.350733, "url": "", "pos": 4810, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87bbf30", "doc": "http://www.bing.com/", "row": 6, "column": 539, "tagName": "script", "time": 3362.350822, "url": "", "pos": 4841, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87bbc00", "doc": "http://www.bing.com/", "row": 8, "column": 14, "tagName": "script", "time": 3362.350848, "url": "", "pos": 5569, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87bb510", "doc": "http://www.bing.com/", "row": 8, "column": 35, "tagName": "table", "time": 3362.352076, "url": "", "pos": 5590, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87bb540", "doc": "http://www.bing.com/", "row": 8, "column": 39, "tagName": "tr", "time": 3362.352195, "url": "", "pos": 5594, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87bb570", "doc": "http://www.bing.com/", "row": 8, "column": 76, "tagName": "td", "time": 3362.352249, "url": "", "pos": 5631, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87bb5d0", "doc": "http://www.bing.com/", "row": 8, "column": 114, "tagName": "div", "time": 3362.352323, "url": "", "pos": 5669, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87bb630", "doc": "http://www.bing.com/", "row": 8, "column": 130, "tagName": "div", "time": 3362.352366, "url": "", "pos": 5685, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87bb660", "doc": "http://www.bing.com/", "row": 8, "column": 150, "tagName": "div", "time": 3362.352395, "url": "", "pos": 5705, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87bb690", "doc": "http://www.bing.com/", "row": 8, "column": 156, "tagName": "div", "time": 3362.352417, "url": "", "pos": 5711, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87bb750", "doc": "http://www.bing.com/", "row": 8, "column": 263, "tagName": "video", "time": 3362.352433, "url": "", "pos": 5818, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b49f0", "doc": "http://www.bing.com/", "row": 8, "column": 269, "tagName": "div", "time": 3362.357694, "url": "", "pos": 5824, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b4a50", "doc": "http://www.bing.com/", "row": 8, "column": 327, "tagName": "div", "time": 3362.357718, "url": "", "pos": 5882, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b4ab0", "doc": "http://www.bing.com/", "row": 8, "column": 347, "tagName": "div", "time": 3362.357773, "url": "", "pos": 5902, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b4b10", "doc": "http://www.bing.com/", "row": 8, "column": 367, "tagName": "div", "time": 3362.357793, "url": "", "pos": 5922, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b4b70", "doc": "http://www.bing.com/", "row": 8, "column": 373, "tagName": "div", "time": 3362.357808, "url": "", "pos": 5928, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b4ba0", "doc": "http://www.bing.com/", "row": 8, "column": 379, "tagName": "div", "time": 3362.357810, "url": "", "pos": 5934, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b4bd0", "doc": "http://www.bing.com/", "row": 8, "column": 385, "tagName": "div", "time": 3362.357811, "url": "", "pos": 5940, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b4c30", "doc": "http://www.bing.com/", "row": 8, "column": 589, "tagName": "a", "time": 3362.357830, "url": "", "pos": 6144, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b4cc0", "doc": "http://www.bing.com/", "row": 8, "column": 592, "tagName": "p", "time": 3362.357915, "url": "", "pos": 6147, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b4cf0", "doc": "http://www.bing.com/", "row": 8, "column": 596, "tagName": "p", "time": 3362.357941, "url": "", "pos": 6151, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b4d20", "doc": "http://www.bing.com/", "row": 8, "column": 616, "tagName": "span", "time": 3362.357944, "url": "", "pos": 6171, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b4db0", "doc": "http://www.bing.com/", "row": 8, "column": 623, "tagName": "span", "time": 3362.357985, "url": "", "pos": 6178, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b4e10", "doc": "http://www.bing.com/", "row": 8, "column": 649, "tagName": "span", "time": 3362.358011, "url": "", "pos": 6204, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b4ea0", "doc": "http://www.bing.com/", "row": 8, "column": 662, "tagName": "span", "time": 3362.358033, "url": "", "pos": 6217, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b4ed0", "doc": "http://www.bing.com/", "row": 8, "column": 681, "tagName": "div", "time": 3362.358041, "url": "", "pos": 6236, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b4f30", "doc": "http://www.bing.com/", "row": 8, "column": 686, "tagName": "div", "time": 3362.358059, "url": "", "pos": 6241, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b4f60", "doc": "http://www.bing.com/", "row": 8, "column": 692, "tagName": "div", "time": 3362.358070, "url": "", "pos": 6247, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b4f90", "doc": "http://www.bing.com/", "row": 8, "column": 698, "tagName": "div", "time": 3362.358071, "url": "", "pos": 6253, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b4fc0", "doc": "http://www.bing.com/", "row": 8, "column": 702, "tagName": "a", "time": 3362.358072, "url": "", "pos": 6257, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b4420", "doc": "http://www.bing.com/", "row": 8, "column": 760, "tagName": "div", "time": 3362.358076, "url": "", "pos": 6315, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b4450", "doc": "http://www.bing.com/", "row": 8, "column": 780, "tagName": "div", "time": 3362.358099, "url": "", "pos": 6335, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b4480", "doc": "http://www.bing.com/", "row": 8, "column": 800, "tagName": "div", "time": 3362.358107, "url": "", "pos": 6355, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b44b0", "doc": "http://www.bing.com/", "row": 8, "column": 806, "tagName": "div", "time": 3362.358112, "url": "", "pos": 6361, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b44e0", "doc": "http://www.bing.com/", "row": 8, "column": 812, "tagName": "div", "time": 3362.358113, "url": "", "pos": 6367, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b4510", "doc": "http://www.bing.com/", "row": 8, "column": 818, "tagName": "div", "time": 3362.358114, "url": "", "pos": 6373, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b4570", "doc": "http://www.bing.com/", "row": 8, "column": 914, "tagName": "a", "time": 3362.358119, "url": "", "pos": 6469, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b45a0", "doc": "http://www.bing.com/", "row": 8, "column": 917, "tagName": "p", "time": 3362.358139, "url": "", "pos": 6472, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b45d0", "doc": "http://www.bing.com/", "row": 8, "column": 921, "tagName": "p", "time": 3362.358147, "url": "", "pos": 6476, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b4600", "doc": "http://www.bing.com/", "row": 8, "column": 941, "tagName": "span", "time": 3362.358149, "url": "", "pos": 6496, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b4630", "doc": "http://www.bing.com/", "row": 8, "column": 948, "tagName": "span", "time": 3362.358155, "url": "", "pos": 6503, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b4690", "doc": "http://www.bing.com/", "row": 8, "column": 974, "tagName": "span", "time": 3362.358161, "url": "", "pos": 6529, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b46f0", "doc": "http://www.bing.com/", "row": 8, "column": 987, "tagName": "span", "time": 3362.358167, "url": "", "pos": 6542, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b4720", "doc": "http://www.bing.com/", "row": 8, "column": 1006, "tagName": "div", "time": 3362.358168, "url": "", "pos": 6561, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b4750", "doc": "http://www.bing.com/", "row": 8, "column": 1011, "tagName": "div", "time": 3362.358175, "url": "", "pos": 6566, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b4780", "doc": "http://www.bing.com/", "row": 8, "column": 1017, "tagName": "div", "time": 3362.358180, "url": "", "pos": 6572, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b47b0", "doc": "http://www.bing.com/", "row": 8, "column": 1023, "tagName": "div", "time": 3362.358181, "url": "", "pos": 6578, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b47e0", "doc": "http://www.bing.com/", "row": 8, "column": 1027, "tagName": "a", "time": 3362.358182, "url": "", "pos": 6582, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b4840", "doc": "http://www.bing.com/", "row": 8, "column": 1085, "tagName": "div", "time": 3362.358184, "url": "", "pos": 6640, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b4870", "doc": "http://www.bing.com/", "row": 8, "column": 1105, "tagName": "div", "time": 3362.358209, "url": "", "pos": 6660, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b48a0", "doc": "http://www.bing.com/", "row": 8, "column": 1125, "tagName": "div", "time": 3362.358219, "url": "", "pos": 6680, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b48d0", "doc": "http://www.bing.com/", "row": 8, "column": 1131, "tagName": "div", "time": 3362.358224, "url": "", "pos": 6686, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b4900", "doc": "http://www.bing.com/", "row": 8, "column": 1137, "tagName": "div", "time": 3362.358225, "url": "", "pos": 6692, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b4930", "doc": "http://www.bing.com/", "row": 8, "column": 1143, "tagName": "div", "time": 3362.358226, "url": "", "pos": 6698, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b4990", "doc": "http://www.bing.com/", "row": 8, "column": 1325, "tagName": "a", "time": 3362.358233, "url": "", "pos": 6880, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b49c0", "doc": "http://www.bing.com/", "row": 8, "column": 1328, "tagName": "p", "time": 3362.358250, "url": "", "pos": 6883, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b4000", "doc": "http://www.bing.com/", "row": 8, "column": 1332, "tagName": "p", "time": 3362.358257, "url": "", "pos": 6887, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b4030", "doc": "http://www.bing.com/", "row": 8, "column": 1352, "tagName": "span", "time": 3362.358259, "url": "", "pos": 6907, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b4060", "doc": "http://www.bing.com/", "row": 8, "column": 1359, "tagName": "span", "time": 3362.358265, "url": "", "pos": 6914, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b40c0", "doc": "http://www.bing.com/", "row": 8, "column": 1385, "tagName": "span", "time": 3362.358270, "url": "", "pos": 6940, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b4120", "doc": "http://www.bing.com/", "row": 8, "column": 1398, "tagName": "span", "time": 3362.358291, "url": "", "pos": 6953, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b4150", "doc": "http://www.bing.com/", "row": 8, "column": 1417, "tagName": "div", "time": 3362.358293, "url": "", "pos": 6972, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b4180", "doc": "http://www.bing.com/", "row": 8, "column": 1422, "tagName": "div", "time": 3362.358299, "url": "", "pos": 6977, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b41b0", "doc": "http://www.bing.com/", "row": 8, "column": 1428, "tagName": "div", "time": 3362.358305, "url": "", "pos": 6983, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b41e0", "doc": "http://www.bing.com/", "row": 8, "column": 1434, "tagName": "div", "time": 3362.358306, "url": "", "pos": 6989, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b4210", "doc": "http://www.bing.com/", "row": 8, "column": 1438, "tagName": "a", "time": 3362.358307, "url": "", "pos": 6993, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b4240", "doc": "http://www.bing.com/", "row": 8, "column": 1484, "tagName": "div", "time": 3362.358310, "url": "", "pos": 7039, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b42a0", "doc": "http://www.bing.com/", "row": 8, "column": 1521, "tagName": "div", "time": 3362.358322, "url": "", "pos": 7076, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b4390", "doc": "http://www.bing.com/", "row": 8, "column": 1531, "tagName": "div", "time": 3362.358584, "url": "", "pos": 7086, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b99f0", "doc": "http://www.bing.com/", "row": 8, "column": 1560, "tagName": "div", "time": 3362.358589, "url": "", "pos": 7115, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b9ab0", "doc": "http://www.bing.com/", "row": 8, "column": 1622, "tagName": "a", "time": 3362.358613, "url": "", "pos": 7177, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b9b10", "doc": "http://www.bing.com/", "row": 8, "column": 1628, "tagName": "span", "time": 3362.358646, "url": "", "pos": 7183, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b9b40", "doc": "http://www.bing.com/", "row": 8, "column": 1635, "tagName": "span", "time": 3362.358653, "url": "", "pos": 7190, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b9b70", "doc": "http://www.bing.com/", "row": 8, "column": 1639, "tagName": "a", "time": 3362.358655, "url": "", "pos": 7194, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b9c00", "doc": "http://www.bing.com/", "row": 8, "column": 1762, "tagName": "form", "time": 3362.358660, "url": "", "pos": 7317, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b9c90", "doc": "http://www.bing.com/", "row": 8, "column": 1805, "tagName": "div", "time": 3362.358720, "url": "", "pos": 7360, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b9db0", "doc": "http://www.bing.com/", "row": 8, "column": 2005, "tagName": "input", "time": 3362.358778, "url": "", "pos": 7560, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b9570", "doc": "http://www.bing.com/", "row": 8, "column": 2107, "tagName": "input", "time": 3362.364753, "url": "", "pos": 7662, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b9510", "doc": "http://www.bing.com/", "row": 8, "column": 2161, "tagName": "input", "time": 3362.365147, "url": "", "pos": 7716, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b96f0", "doc": "http://www.bing.com/", "row": 8, "column": 2208, "tagName": "input", "time": 3362.365241, "url": "", "pos": 7763, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b9720", "doc": "http://www.bing.com/", "row": 8, "column": 2214, "tagName": "div", "time": 3362.365271, "url": "", "pos": 7769, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b9780", "doc": "http://www.bing.com/", "row": 8, "column": 2221, "tagName": "form", "time": 3362.365274, "url": "", "pos": 7776, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b97b0", "doc": "http://www.bing.com/", "row": 8, "column": 2227, "tagName": "div", "time": 3362.365276, "url": "", "pos": 7782, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b97e0", "doc": "http://www.bing.com/", "row": 8, "column": 2233, "tagName": "div", "time": 3362.365277, "url": "", "pos": 7788, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b9840", "doc": "http://www.bing.com/", "row": 8, "column": 2272, "tagName": "div", "time": 3362.365279, "url": "", "pos": 7827, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b98a0", "doc": "http://www.bing.com/", "row": 8, "column": 2291, "tagName": "div", "time": 3362.365312, "url": "", "pos": 7846, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b9930", "doc": "http://www.bing.com/", "row": 8, "column": 2352, "tagName": "ul", "time": 3362.365328, "url": "", "pos": 7907, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b99c0", "doc": "http://www.bing.com/", "row": 8, "column": 2376, "tagName": "li", "time": 3362.365349, "url": "", "pos": 7931, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b9630", "doc": "http://www.bing.com/", "row": 8, "column": 2535, "tagName": "a", "time": 3362.365387, "url": "", "pos": 8090, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b90f0", "doc": "http://www.bing.com/", "row": 8, "column": 2545, "tagName": "a", "time": 3362.366312, "url": "", "pos": 8100, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b9150", "doc": "http://www.bing.com/", "row": 8, "column": 2639, "tagName": "div", "time": 3362.366332, "url": "", "pos": 8194, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b9120", "doc": "http://www.bing.com/", "row": 8, "column": 2645, "tagName": "div", "time": 3362.366353, "url": "", "pos": 8200, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b91b0", "doc": "http://www.bing.com/", "row": 8, "column": 2650, "tagName": "li", "time": 3362.366355, "url": "", "pos": 8205, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b91e0", "doc": "http://www.bing.com/", "row": 8, "column": 2674, "tagName": "li", "time": 3362.366358, "url": "", "pos": 8229, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b9240", "doc": "http://www.bing.com/", "row": 8, "column": 2833, "tagName": "a", "time": 3362.366371, "url": "", "pos": 8388, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b92d0", "doc": "http://www.bing.com/", "row": 8, "column": 2843, "tagName": "a", "time": 3362.366408, "url": "", "pos": 8398, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b9330", "doc": "http://www.bing.com/", "row": 8, "column": 2937, "tagName": "div", "time": 3362.366411, "url": "", "pos": 8492, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87b9300", "doc": "http://www.bing.com/", "row": 8, "column": 2943, "tagName": "div", "time": 3362.366417, "url": "", "pos": 8498, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b9390", "doc": "http://www.bing.com/", "row": 8, "column": 2948, "tagName": "li", "time": 3362.366418, "url": "", "pos": 8503, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87b93c0", "doc": "http://www.bing.com/", "row": 8, "column": 2972, "tagName": "li", "time": 3362.366421, "url": "", "pos": 8527, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d8a20", "doc": "http://www.bing.com/", "row": 8, "column": 3130, "tagName": "a", "time": 3362.366438, "url": "", "pos": 8685, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d8ab0", "doc": "http://www.bing.com/", "row": 8, "column": 3138, "tagName": "a", "time": 3362.366465, "url": "", "pos": 8693, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87d8b10", "doc": "http://www.bing.com/", "row": 8, "column": 3232, "tagName": "div", "time": 3362.366469, "url": "", "pos": 8787, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d8ae0", "doc": "http://www.bing.com/", "row": 8, "column": 3238, "tagName": "div", "time": 3362.366474, "url": "", "pos": 8793, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87d8b70", "doc": "http://www.bing.com/", "row": 8, "column": 3243, "tagName": "li", "time": 3362.366476, "url": "", "pos": 8798, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87d8ba0", "doc": "http://www.bing.com/", "row": 8, "column": 3267, "tagName": "li", "time": 3362.366477, "url": "", "pos": 8822, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d8c00", "doc": "http://www.bing.com/", "row": 8, "column": 3423, "tagName": "a", "time": 3362.366485, "url": "", "pos": 8978, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d8c90", "doc": "http://www.bing.com/", "row": 8, "column": 3431, "tagName": "a", "time": 3362.366505, "url": "", "pos": 8986, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87d8cf0", "doc": "http://www.bing.com/", "row": 8, "column": 3525, "tagName": "div", "time": 3362.366509, "url": "", "pos": 9080, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d8cc0", "doc": "http://www.bing.com/", "row": 8, "column": 3531, "tagName": "div", "time": 3362.366516, "url": "", "pos": 9086, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87d8d50", "doc": "http://www.bing.com/", "row": 8, "column": 3536, "tagName": "li", "time": 3362.366517, "url": "", "pos": 9091, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87d8d80", "doc": "http://www.bing.com/", "row": 8, "column": 3560, "tagName": "li", "time": 3362.366519, "url": "", "pos": 9115, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d8de0", "doc": "http://www.bing.com/", "row": 8, "column": 3721, "tagName": "a", "time": 3362.366531, "url": "", "pos": 9276, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d8ea0", "doc": "http://www.bing.com/", "row": 8, "column": 3732, "tagName": "a", "time": 3362.366552, "url": "", "pos": 9287, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87d8f00", "doc": "http://www.bing.com/", "row": 8, "column": 3826, "tagName": "div", "time": 3362.366555, "url": "", "pos": 9381, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d8ed0", "doc": "http://www.bing.com/", "row": 8, "column": 3832, "tagName": "div", "time": 3362.366561, "url": "", "pos": 9387, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87d8f60", "doc": "http://www.bing.com/", "row": 8, "column": 3837, "tagName": "li", "time": 3362.366562, "url": "", "pos": 9392, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87d8f90", "doc": "http://www.bing.com/", "row": 8, "column": 3861, "tagName": "li", "time": 3362.366564, "url": "", "pos": 9416, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d83f0", "doc": "http://www.bing.com/", "row": 8, "column": 4031, "tagName": "a", "time": 3362.366572, "url": "", "pos": 9586, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d84b0", "doc": "http://www.bing.com/", "row": 8, "column": 4049, "tagName": "a", "time": 3362.366592, "url": "", "pos": 9604, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87d8510", "doc": "http://www.bing.com/", "row": 8, "column": 4143, "tagName": "div", "time": 3362.366596, "url": "", "pos": 9698, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d84e0", "doc": "http://www.bing.com/", "row": 8, "column": 4149, "tagName": "div", "time": 3362.366601, "url": "", "pos": 9704, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87d8570", "doc": "http://www.bing.com/", "row": 8, "column": 4154, "tagName": "li", "time": 3362.366602, "url": "", "pos": 9709, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87d85a0", "doc": "http://www.bing.com/", "row": 8, "column": 4171, "tagName": "li", "time": 3362.366604, "url": "", "pos": 9726, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d8600", "doc": "http://www.bing.com/", "row": 8, "column": 4182, "tagName": "li", "time": 3362.366630, "url": "", "pos": 9737, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87d8630", "doc": "http://www.bing.com/", "row": 8, "column": 4195, "tagName": "li", "time": 3362.366632, "url": "", "pos": 9750, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d86c0", "doc": "http://www.bing.com/", "row": 8, "column": 4352, "tagName": "a", "time": 3362.366642, "url": "", "pos": 9907, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d8750", "doc": "http://www.bing.com/", "row": 8, "column": 4359, "tagName": "a", "time": 3362.366674, "url": "", "pos": 9914, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87d8780", "doc": "http://www.bing.com/", "row": 8, "column": 4364, "tagName": "li", "time": 3362.366676, "url": "", "pos": 9919, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87d87b0", "doc": "http://www.bing.com/", "row": 8, "column": 4380, "tagName": "li", "time": 3362.366677, "url": "", "pos": 9935, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d8810", "doc": "http://www.bing.com/", "row": 8, "column": 4559, "tagName": "a", "time": 3362.366692, "url": "", "pos": 10114, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d88a0", "doc": "http://www.bing.com/", "row": 8, "column": 4576, "tagName": "a", "time": 3362.366717, "url": "", "pos": 10131, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87d8900", "doc": "http://www.bing.com/", "row": 8, "column": 4711, "tagName": "div", "time": 3362.366722, "url": "", "pos": 10266, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d88d0", "doc": "http://www.bing.com/", "row": 8, "column": 4726, "tagName": "ul", "time": 3362.366737, "url": "", "pos": 10281, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d8000", "doc": "http://www.bing.com/", "row": 8, "column": 4730, "tagName": "li", "time": 3362.366741, "url": "", "pos": 10285, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d80c0", "doc": "http://www.bing.com/", "row": 8, "column": 4876, "tagName": "a", "time": 3362.366747, "url": "", "pos": 10431, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d8030", "doc": "http://www.bing.com/", "row": 8, "column": 4881, "tagName": "div", "time": 3362.366755, "url": "", "pos": 10436, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d8120", "doc": "http://www.bing.com/", "row": 8, "column": 4927, "tagName": "div", "time": 3362.366758, "url": "", "pos": 10482, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d8180", "doc": "http://www.bing.com/", "row": 8, "column": 4933, "tagName": "div", "time": 3362.366762, "url": "", "pos": 10488, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87d81b0", "doc": "http://www.bing.com/", "row": 8, "column": 4955, "tagName": "div", "time": 3362.366764, "url": "", "pos": 10510, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d8270", "doc": "http://www.bing.com/", "row": 8, "column": 4972, "tagName": "div", "time": 3362.366767, "url": "", "pos": 10527, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87d82a0", "doc": "http://www.bing.com/", "row": 8, "column": 4978, "tagName": "div", "time": 3362.366768, "url": "", "pos": 10533, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87d82d0", "doc": "http://www.bing.com/", "row": 8, "column": 4982, "tagName": "a", "time": 3362.366769, "url": "", "pos": 10537, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87d8300", "doc": "http://www.bing.com/", "row": 8, "column": 4987, "tagName": "li", "time": 3362.366770, "url": "", "pos": 10542, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87d8330", "doc": "http://www.bing.com/", "row": 8, "column": 4991, "tagName": "li", "time": 3362.366771, "url": "", "pos": 10546, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dc9f0", "doc": "http://www.bing.com/", "row": 8, "column": 5140, "tagName": "a", "time": 3362.366776, "url": "", "pos": 10695, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87d8360", "doc": "http://www.bing.com/", "row": 8, "column": 5145, "tagName": "div", "time": 3362.366791, "url": "", "pos": 10700, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dca50", "doc": "http://www.bing.com/", "row": 8, "column": 5192, "tagName": "div", "time": 3362.366794, "url": "", "pos": 10747, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dca80", "doc": "http://www.bing.com/", "row": 8, "column": 5198, "tagName": "div", "time": 3362.366797, "url": "", "pos": 10753, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dcab0", "doc": "http://www.bing.com/", "row": 8, "column": 5220, "tagName": "div", "time": 3362.366798, "url": "", "pos": 10775, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dcb40", "doc": "http://www.bing.com/", "row": 8, "column": 5238, "tagName": "div", "time": 3362.366801, "url": "", "pos": 10793, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dcb70", "doc": "http://www.bing.com/", "row": 8, "column": 5244, "tagName": "div", "time": 3362.366802, "url": "", "pos": 10799, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dcba0", "doc": "http://www.bing.com/", "row": 8, "column": 5248, "tagName": "a", "time": 3362.366803, "url": "", "pos": 10803, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dcbd0", "doc": "http://www.bing.com/", "row": 8, "column": 5253, "tagName": "li", "time": 3362.366805, "url": "", "pos": 10808, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dcc00", "doc": "http://www.bing.com/", "row": 8, "column": 5257, "tagName": "li", "time": 3362.366806, "url": "", "pos": 10812, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dcc90", "doc": "http://www.bing.com/", "row": 8, "column": 5421, "tagName": "a", "time": 3362.366811, "url": "", "pos": 10976, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dcc30", "doc": "http://www.bing.com/", "row": 8, "column": 5426, "tagName": "div", "time": 3362.366817, "url": "", "pos": 10981, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dccf0", "doc": "http://www.bing.com/", "row": 8, "column": 5478, "tagName": "div", "time": 3362.366820, "url": "", "pos": 11033, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dcd20", "doc": "http://www.bing.com/", "row": 8, "column": 5484, "tagName": "div", "time": 3362.366823, "url": "", "pos": 11039, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dcd50", "doc": "http://www.bing.com/", "row": 8, "column": 5506, "tagName": "div", "time": 3362.366824, "url": "", "pos": 11061, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dcdb0", "doc": "http://www.bing.com/", "row": 8, "column": 5529, "tagName": "div", "time": 3362.366827, "url": "", "pos": 11084, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dcde0", "doc": "http://www.bing.com/", "row": 8, "column": 5535, "tagName": "div", "time": 3362.366828, "url": "", "pos": 11090, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dce10", "doc": "http://www.bing.com/", "row": 8, "column": 5539, "tagName": "a", "time": 3362.366829, "url": "", "pos": 11094, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dce40", "doc": "http://www.bing.com/", "row": 8, "column": 5544, "tagName": "li", "time": 3362.366830, "url": "", "pos": 11099, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dce70", "doc": "http://www.bing.com/", "row": 8, "column": 5548, "tagName": "li", "time": 3362.366831, "url": "", "pos": 11103, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dcf30", "doc": "http://www.bing.com/", "row": 8, "column": 5694, "tagName": "a", "time": 3362.366836, "url": "", "pos": 11249, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dcea0", "doc": "http://www.bing.com/", "row": 8, "column": 5699, "tagName": "div", "time": 3362.366840, "url": "", "pos": 11254, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dcf90", "doc": "http://www.bing.com/", "row": 8, "column": 5748, "tagName": "div", "time": 3362.366843, "url": "", "pos": 11303, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dcfc0", "doc": "http://www.bing.com/", "row": 8, "column": 5754, "tagName": "div", "time": 3362.366846, "url": "", "pos": 11309, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dc3f0", "doc": "http://www.bing.com/", "row": 8, "column": 5776, "tagName": "div", "time": 3362.366847, "url": "", "pos": 11331, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dc480", "doc": "http://www.bing.com/", "row": 8, "column": 5796, "tagName": "div", "time": 3362.366851, "url": "", "pos": 11351, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dc4b0", "doc": "http://www.bing.com/", "row": 8, "column": 5802, "tagName": "div", "time": 3362.366852, "url": "", "pos": 11357, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dc4e0", "doc": "http://www.bing.com/", "row": 8, "column": 5806, "tagName": "a", "time": 3362.366853, "url": "", "pos": 11361, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dc510", "doc": "http://www.bing.com/", "row": 8, "column": 5811, "tagName": "li", "time": 3362.366854, "url": "", "pos": 11366, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dc540", "doc": "http://www.bing.com/", "row": 8, "column": 5815, "tagName": "li", "time": 3362.366855, "url": "", "pos": 11370, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dc5d0", "doc": "http://www.bing.com/", "row": 8, "column": 5997, "tagName": "a", "time": 3362.366865, "url": "", "pos": 11552, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dc570", "doc": "http://www.bing.com/", "row": 8, "column": 6002, "tagName": "div", "time": 3362.366870, "url": "", "pos": 11557, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dc630", "doc": "http://www.bing.com/", "row": 8, "column": 6048, "tagName": "div", "time": 3362.366873, "url": "", "pos": 11603, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dc660", "doc": "http://www.bing.com/", "row": 8, "column": 6054, "tagName": "div", "time": 3362.366875, "url": "", "pos": 11609, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dc690", "doc": "http://www.bing.com/", "row": 8, "column": 6076, "tagName": "div", "time": 3362.366877, "url": "", "pos": 11631, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dc6f0", "doc": "http://www.bing.com/", "row": 8, "column": 6086, "tagName": "div", "time": 3362.366879, "url": "", "pos": 11641, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dc720", "doc": "http://www.bing.com/", "row": 8, "column": 6092, "tagName": "div", "time": 3362.366880, "url": "", "pos": 11647, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dc750", "doc": "http://www.bing.com/", "row": 8, "column": 6096, "tagName": "a", "time": 3362.366881, "url": "", "pos": 11651, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dc780", "doc": "http://www.bing.com/", "row": 8, "column": 6101, "tagName": "li", "time": 3362.366882, "url": "", "pos": 11656, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dc7b0", "doc": "http://www.bing.com/", "row": 8, "column": 6105, "tagName": "li", "time": 3362.366883, "url": "", "pos": 11660, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dc870", "doc": "http://www.bing.com/", "row": 8, "column": 6232, "tagName": "a", "time": 3362.366887, "url": "", "pos": 11787, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dc7e0", "doc": "http://www.bing.com/", "row": 8, "column": 6237, "tagName": "div", "time": 3362.366892, "url": "", "pos": 11792, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dc8d0", "doc": "http://www.bing.com/", "row": 8, "column": 6286, "tagName": "div", "time": 3362.366895, "url": "", "pos": 11841, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dc900", "doc": "http://www.bing.com/", "row": 8, "column": 6292, "tagName": "div", "time": 3362.366897, "url": "", "pos": 11847, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dc930", "doc": "http://www.bing.com/", "row": 8, "column": 6314, "tagName": "div", "time": 3362.366898, "url": "", "pos": 11869, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dc9c0", "doc": "http://www.bing.com/", "row": 8, "column": 6328, "tagName": "div", "time": 3362.366901, "url": "", "pos": 11883, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dc000", "doc": "http://www.bing.com/", "row": 8, "column": 6334, "tagName": "div", "time": 3362.366902, "url": "", "pos": 11889, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dc030", "doc": "http://www.bing.com/", "row": 8, "column": 6338, "tagName": "a", "time": 3362.366903, "url": "", "pos": 11893, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dc060", "doc": "http://www.bing.com/", "row": 8, "column": 6343, "tagName": "li", "time": 3362.366904, "url": "", "pos": 11898, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dc090", "doc": "http://www.bing.com/", "row": 8, "column": 6347, "tagName": "li", "time": 3362.366905, "url": "", "pos": 11902, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dc150", "doc": "http://www.bing.com/", "row": 8, "column": 6495, "tagName": "a", "time": 3362.366939, "url": "", "pos": 12050, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dc0c0", "doc": "http://www.bing.com/", "row": 8, "column": 6500, "tagName": "div", "time": 3362.366947, "url": "", "pos": 12055, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dc1b0", "doc": "http://www.bing.com/", "row": 8, "column": 6550, "tagName": "div", "time": 3362.366950, "url": "", "pos": 12105, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dc1e0", "doc": "http://www.bing.com/", "row": 8, "column": 6556, "tagName": "div", "time": 3362.366952, "url": "", "pos": 12111, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dc210", "doc": "http://www.bing.com/", "row": 8, "column": 6578, "tagName": "div", "time": 3362.366954, "url": "", "pos": 12133, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dc2a0", "doc": "http://www.bing.com/", "row": 8, "column": 6592, "tagName": "div", "time": 3362.366957, "url": "", "pos": 12147, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dc2d0", "doc": "http://www.bing.com/", "row": 8, "column": 6598, "tagName": "div", "time": 3362.366958, "url": "", "pos": 12153, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dc300", "doc": "http://www.bing.com/", "row": 8, "column": 6602, "tagName": "a", "time": 3362.366958, "url": "", "pos": 12157, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dc330", "doc": "http://www.bing.com/", "row": 8, "column": 6607, "tagName": "li", "time": 3362.366960, "url": "", "pos": 12162, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dc360", "doc": "http://www.bing.com/", "row": 8, "column": 6611, "tagName": "li", "time": 3362.366961, "url": "", "pos": 12166, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dea20", "doc": "http://www.bing.com/", "row": 8, "column": 6745, "tagName": "a", "time": 3362.366977, "url": "", "pos": 12300, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dc390", "doc": "http://www.bing.com/", "row": 8, "column": 6750, "tagName": "div", "time": 3362.366986, "url": "", "pos": 12305, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dea80", "doc": "http://www.bing.com/", "row": 8, "column": 6800, "tagName": "div", "time": 3362.366989, "url": "", "pos": 12355, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87deab0", "doc": "http://www.bing.com/", "row": 8, "column": 6806, "tagName": "div", "time": 3362.366992, "url": "", "pos": 12361, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87deae0", "doc": "http://www.bing.com/", "row": 8, "column": 6828, "tagName": "div", "time": 3362.366993, "url": "", "pos": 12383, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87deb70", "doc": "http://www.bing.com/", "row": 8, "column": 6842, "tagName": "div", "time": 3362.367002, "url": "", "pos": 12397, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87deba0", "doc": "http://www.bing.com/", "row": 8, "column": 6848, "tagName": "div", "time": 3362.367003, "url": "", "pos": 12403, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87debd0", "doc": "http://www.bing.com/", "row": 8, "column": 6852, "tagName": "a", "time": 3362.367004, "url": "", "pos": 12407, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dec00", "doc": "http://www.bing.com/", "row": 8, "column": 6857, "tagName": "li", "time": 3362.367005, "url": "", "pos": 12412, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dec30", "doc": "http://www.bing.com/", "row": 8, "column": 6861, "tagName": "li", "time": 3362.367006, "url": "", "pos": 12416, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87decc0", "doc": "http://www.bing.com/", "row": 8, "column": 6989, "tagName": "a", "time": 3362.367011, "url": "", "pos": 12544, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dec60", "doc": "http://www.bing.com/", "row": 8, "column": 6994, "tagName": "div", "time": 3362.367017, "url": "", "pos": 12549, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87ded20", "doc": "http://www.bing.com/", "row": 8, "column": 7042, "tagName": "div", "time": 3362.367020, "url": "", "pos": 12597, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87ded50", "doc": "http://www.bing.com/", "row": 8, "column": 7048, "tagName": "div", "time": 3362.367022, "url": "", "pos": 12603, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87ded80", "doc": "http://www.bing.com/", "row": 8, "column": 7070, "tagName": "div", "time": 3362.367023, "url": "", "pos": 12625, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87dede0", "doc": "http://www.bing.com/", "row": 8, "column": 7082, "tagName": "div", "time": 3362.367026, "url": "", "pos": 12637, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dee10", "doc": "http://www.bing.com/", "row": 8, "column": 7088, "tagName": "div", "time": 3362.367027, "url": "", "pos": 12643, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dee40", "doc": "http://www.bing.com/", "row": 8, "column": 7092, "tagName": "a", "time": 3362.367028, "url": "", "pos": 12647, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87dee70", "doc": "http://www.bing.com/", "row": 8, "column": 7097, "tagName": "li", "time": 3362.367029, "url": "", "pos": 12652, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87deea0", "doc": "http://www.bing.com/", "row": 8, "column": 7102, "tagName": "ul", "time": 3362.367029, "url": "", "pos": 12657, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87deed0", "doc": "http://www.bing.com/", "row": 8, "column": 7108, "tagName": "div", "time": 3362.367030, "url": "", "pos": 12663, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87def00", "doc": "http://www.bing.com/", "row": 8, "column": 7113, "tagName": "li", "time": 3362.367031, "url": "", "pos": 12668, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87def60", "doc": "http://www.bing.com/", "row": 8, "column": 7130, "tagName": "li", "time": 3362.367033, "url": "", "pos": 12685, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87defc0", "doc": "http://www.bing.com/", "row": 8, "column": 7318, "tagName": "a", "time": 3362.367043, "url": "", "pos": 12873, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87de450", "doc": "http://www.bing.com/", "row": 8, "column": 7333, "tagName": "a", "time": 3362.367067, "url": "", "pos": 12888, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87de480", "doc": "http://www.bing.com/", "row": 8, "column": 7338, "tagName": "li", "time": 3362.367069, "url": "", "pos": 12893, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87de4b0", "doc": "http://www.bing.com/", "row": 8, "column": 7343, "tagName": "ul", "time": 3362.367070, "url": "", "pos": 12898, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87de4e0", "doc": "http://www.bing.com/", "row": 8, "column": 7363, "tagName": "div", "time": 3362.367072, "url": "", "pos": 12918, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87de540", "doc": "http://www.bing.com/", "row": 8, "column": 7399, "tagName": "div", "time": 3362.367083, "url": "", "pos": 12954, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87de5a0", "doc": "http://www.bing.com/", "row": 8, "column": 7476, "tagName": "a", "time": 3362.367096, "url": "", "pos": 13031, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87de600", "doc": "http://www.bing.com/", "row": 8, "column": 7492, "tagName": "span", "time": 3362.367103, "url": "", "pos": 13047, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87de690", "doc": "http://www.bing.com/", "row": 8, "column": 7506, "tagName": "span", "time": 3362.367107, "url": "", "pos": 13061, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87de6c0", "doc": "http://www.bing.com/", "row": 8, "column": 7547, "tagName": "span", "time": 3362.367109, "url": "", "pos": 13102, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87de720", "doc": "http://www.bing.com/", "row": 8, "column": 7554, "tagName": "span", "time": 3362.367112, "url": "", "pos": 13109, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87de780", "doc": "http://www.bing.com/", "row": 8, "column": 7591, "tagName": "span", "time": 3362.367115, "url": "", "pos": 13146, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87de7b0", "doc": "http://www.bing.com/", "row": 8, "column": 7598, "tagName": "span", "time": 3362.367131, "url": "", "pos": 13153, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87de810", "doc": "http://www.bing.com/", "row": 8, "column": 7789, "tagName": "img", "time": 3362.367137, "url": "", "pos": 13344, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87de7e0", "doc": "http://www.bing.com/", "row": 8, "column": 7793, "tagName": "a", "time": 3362.380818, "url": "", "pos": 13348, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87de990", "doc": "http://www.bing.com/", "row": 8, "column": 7870, "tagName": "a", "time": 3362.380838, "url": "", "pos": 13425, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87de9c0", "doc": "http://www.bing.com/", "row": 8, "column": 7887, "tagName": "span", "time": 3362.380858, "url": "", "pos": 13442, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87de060", "doc": "http://www.bing.com/", "row": 8, "column": 7901, "tagName": "span", "time": 3362.380869, "url": "", "pos": 13456, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87de0c0", "doc": "http://www.bing.com/", "row": 8, "column": 7954, "tagName": "span", "time": 3362.380874, "url": "", "pos": 13509, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87de120", "doc": "http://www.bing.com/", "row": 8, "column": 7961, "tagName": "span", "time": 3362.380878, "url": "", "pos": 13516, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87de150", "doc": "http://www.bing.com/", "row": 8, "column": 7965, "tagName": "a", "time": 3362.380879, "url": "", "pos": 13520, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87de1b0", "doc": "http://www.bing.com/", "row": 8, "column": 8040, "tagName": "a", "time": 3362.380882, "url": "", "pos": 13595, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87de210", "doc": "http://www.bing.com/", "row": 8, "column": 8044, "tagName": "a", "time": 3362.380888, "url": "", "pos": 13599, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87de270", "doc": "http://www.bing.com/", "row": 8, "column": 8118, "tagName": "span", "time": 3362.380891, "url": "", "pos": 13673, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87de2a0", "doc": "http://www.bing.com/", "row": 8, "column": 8125, "tagName": "span", "time": 3362.380894, "url": "", "pos": 13680, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87de360", "doc": "http://www.bing.com/", "row": 8, "column": 8221, "tagName": "a", "time": 3362.380898, "url": "", "pos": 13776, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87de2d0", "doc": "http://www.bing.com/", "row": 8, "column": 8225, "tagName": "a", "time": 3362.380914, "url": "", "pos": 13780, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e0a20", "doc": "http://www.bing.com/", "row": 8, "column": 8276, "tagName": "span", "time": 3362.380918, "url": "", "pos": 13831, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e0a50", "doc": "http://www.bing.com/", "row": 8, "column": 8283, "tagName": "span", "time": 3362.380921, "url": "", "pos": 13838, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e0ab0", "doc": "http://www.bing.com/", "row": 8, "column": 8316, "tagName": "span", "time": 3362.380923, "url": "", "pos": 13871, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e0ae0", "doc": "http://www.bing.com/", "row": 8, "column": 8323, "tagName": "span", "time": 3362.380925, "url": "", "pos": 13878, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e0b10", "doc": "http://www.bing.com/", "row": 8, "column": 8329, "tagName": "div", "time": 3362.380927, "url": "", "pos": 13884, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e0b40", "doc": "http://www.bing.com/", "row": 8, "column": 8347, "tagName": "div", "time": 3362.380928, "url": "", "pos": 13902, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e0b70", "doc": "http://www.bing.com/", "row": 8, "column": 8353, "tagName": "div", "time": 3362.380949, "url": "", "pos": 13908, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e0ba0", "doc": "http://www.bing.com/", "row": 8, "column": 8359, "tagName": "div", "time": 3362.380950, "url": "", "pos": 13914, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e0bd0", "doc": "http://www.bing.com/", "row": 8, "column": 8365, "tagName": "div", "time": 3362.380951, "url": "", "pos": 13920, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e0c00", "doc": "http://www.bing.com/", "row": 8, "column": 8371, "tagName": "div", "time": 3362.380952, "url": "", "pos": 13926, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e0c30", "doc": "http://www.bing.com/", "row": 8, "column": 8395, "tagName": "div", "time": 3362.380954, "url": "", "pos": 13950, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e0c60", "doc": "http://www.bing.com/", "row": 8, "column": 8414, "tagName": "div", "time": 3362.380984, "url": "", "pos": 13969, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e0c90", "doc": "http://www.bing.com/", "row": 8, "column": 8432, "tagName": "div", "time": 3362.380996, "url": "", "pos": 13987, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e0d20", "doc": "http://www.bing.com/", "row": 8, "column": 8568, "tagName": "a", "time": 3362.381010, "url": "", "pos": 14123, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e0de0", "doc": "http://www.bing.com/", "row": 8, "column": 8601, "tagName": "div", "time": 3362.381060, "url": "", "pos": 14156, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e0e70", "doc": "http://www.bing.com/", "row": 8, "column": 8607, "tagName": "div", "time": 3362.381078, "url": "", "pos": 14162, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e0ea0", "doc": "http://www.bing.com/", "row": 8, "column": 8611, "tagName": "a", "time": 3362.381079, "url": "", "pos": 14166, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e0f60", "doc": "http://www.bing.com/", "row": 8, "column": 8733, "tagName": "a", "time": 3362.381083, "url": "", "pos": 14288, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e0ed0", "doc": "http://www.bing.com/", "row": 8, "column": 8765, "tagName": "div", "time": 3362.381102, "url": "", "pos": 14320, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e0480", "doc": "http://www.bing.com/", "row": 8, "column": 8771, "tagName": "div", "time": 3362.381124, "url": "", "pos": 14326, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e04b0", "doc": "http://www.bing.com/", "row": 8, "column": 8775, "tagName": "a", "time": 3362.381126, "url": "", "pos": 14330, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e0570", "doc": "http://www.bing.com/", "row": 8, "column": 8851, "tagName": "a", "time": 3362.381129, "url": "", "pos": 14406, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e0600", "doc": "http://www.bing.com/", "row": 8, "column": 8876, "tagName": "div", "time": 3362.381151, "url": "", "pos": 14431, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e0660", "doc": "http://www.bing.com/", "row": 8, "column": 8912, "tagName": "div", "time": 3362.381163, "url": "", "pos": 14467, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e06f0", "doc": "http://www.bing.com/", "row": 8, "column": 8918, "tagName": "div", "time": 3362.381182, "url": "", "pos": 14473, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e0720", "doc": "http://www.bing.com/", "row": 8, "column": 8924, "tagName": "div", "time": 3362.381184, "url": "", "pos": 14479, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e0750", "doc": "http://www.bing.com/", "row": 8, "column": 8928, "tagName": "a", "time": 3362.381185, "url": "", "pos": 14483, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e0810", "doc": "http://www.bing.com/", "row": 8, "column": 9001, "tagName": "a", "time": 3362.381188, "url": "", "pos": 14556, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e0840", "doc": "http://www.bing.com/", "row": 8, "column": 9026, "tagName": "div", "time": 3362.381209, "url": "", "pos": 14581, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e0870", "doc": "http://www.bing.com/", "row": 8, "column": 9058, "tagName": "div", "time": 3362.381221, "url": "", "pos": 14613, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e0900", "doc": "http://www.bing.com/", "row": 8, "column": 9064, "tagName": "div", "time": 3362.381236, "url": "", "pos": 14619, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e0930", "doc": "http://www.bing.com/", "row": 8, "column": 9070, "tagName": "div", "time": 3362.381237, "url": "", "pos": 14625, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e0960", "doc": "http://www.bing.com/", "row": 8, "column": 9074, "tagName": "a", "time": 3362.381238, "url": "", "pos": 14629, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e0030", "doc": "http://www.bing.com/", "row": 8, "column": 9271, "tagName": "a", "time": 3362.381249, "url": "", "pos": 14826, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e0990", "doc": "http://www.bing.com/", "row": 8, "column": 9276, "tagName": "div", "time": 3362.381263, "url": "", "pos": 14831, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e00f0", "doc": "http://www.bing.com/", "row": 8, "column": 9310, "tagName": "div", "time": 3362.381281, "url": "", "pos": 14865, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e0150", "doc": "http://www.bing.com/", "row": 8, "column": 9316, "tagName": "div", "time": 3362.381299, "url": "", "pos": 14871, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e0180", "doc": "http://www.bing.com/", "row": 8, "column": 9341, "tagName": "div", "time": 3362.381302, "url": "", "pos": 14896, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e0210", "doc": "http://www.bing.com/", "row": 8, "column": 9351, "tagName": "div", "time": 3362.381322, "url": "", "pos": 14906, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e0240", "doc": "http://www.bing.com/", "row": 8, "column": 9357, "tagName": "div", "time": 3362.381323, "url": "", "pos": 14912, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e0270", "doc": "http://www.bing.com/", "row": 8, "column": 9361, "tagName": "a", "time": 3362.381324, "url": "", "pos": 14916, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e02a0", "doc": "http://www.bing.com/", "row": 8, "column": 9367, "tagName": "div", "time": 3362.381325, "url": "", "pos": 14922, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e02d0", "doc": "http://www.bing.com/", "row": 8, "column": 9385, "tagName": "div", "time": 3362.381326, "url": "", "pos": 14940, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e0300", "doc": "http://www.bing.com/", "row": 8, "column": 9410, "tagName": "div", "time": 3362.381342, "url": "", "pos": 14965, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e0330", "doc": "http://www.bing.com/", "row": 8, "column": 9436, "tagName": "ul", "time": 3362.381347, "url": "", "pos": 14991, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e0360", "doc": "http://www.bing.com/", "row": 8, "column": 9440, "tagName": "li", "time": 3362.381351, "url": "", "pos": 14995, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e4ab0", "doc": "http://www.bing.com/", "row": 8, "column": 9643, "tagName": "a", "time": 3362.381370, "url": "", "pos": 15198, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e0390", "doc": "http://www.bing.com/", "row": 8, "column": 9648, "tagName": "div", "time": 3362.381375, "url": "", "pos": 15203, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e4b10", "doc": "http://www.bing.com/", "row": 8, "column": 9786, "tagName": "div", "time": 3362.381381, "url": "", "pos": 15341, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e4ba0", "doc": "http://www.bing.com/", "row": 8, "column": 9792, "tagName": "div", "time": 3362.381384, "url": "", "pos": 15347, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e4bd0", "doc": "http://www.bing.com/", "row": 8, "column": 9798, "tagName": "div", "time": 3362.381385, "url": "", "pos": 15353, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e4c00", "doc": "http://www.bing.com/", "row": 8, "column": 9802, "tagName": "a", "time": 3362.381386, "url": "", "pos": 15357, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e4c30", "doc": "http://www.bing.com/", "row": 8, "column": 9807, "tagName": "li", "time": 3362.381387, "url": "", "pos": 15362, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e4c60", "doc": "http://www.bing.com/", "row": 8, "column": 9811, "tagName": "li", "time": 3362.381389, "url": "", "pos": 15366, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e4d50", "doc": "http://www.bing.com/", "row": 8, "column": 10054, "tagName": "a", "time": 3362.381396, "url": "", "pos": 15609, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e4c90", "doc": "http://www.bing.com/", "row": 8, "column": 10059, "tagName": "div", "time": 3362.381399, "url": "", "pos": 15614, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e4db0", "doc": "http://www.bing.com/", "row": 8, "column": 10207, "tagName": "div", "time": 3362.381403, "url": "", "pos": 15762, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e4e10", "doc": "http://www.bing.com/", "row": 8, "column": 10213, "tagName": "div", "time": 3362.381406, "url": "", "pos": 15768, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e4e40", "doc": "http://www.bing.com/", "row": 8, "column": 10219, "tagName": "div", "time": 3362.381407, "url": "", "pos": 15774, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e4e70", "doc": "http://www.bing.com/", "row": 8, "column": 10223, "tagName": "a", "time": 3362.381408, "url": "", "pos": 15778, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e4ea0", "doc": "http://www.bing.com/", "row": 8, "column": 10228, "tagName": "li", "time": 3362.381409, "url": "", "pos": 15783, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e4ed0", "doc": "http://www.bing.com/", "row": 8, "column": 10232, "tagName": "li", "time": 3362.381410, "url": "", "pos": 15787, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e4f60", "doc": "http://www.bing.com/", "row": 8, "column": 10422, "tagName": "a", "time": 3362.381416, "url": "", "pos": 15977, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e4f00", "doc": "http://www.bing.com/", "row": 8, "column": 10427, "tagName": "div", "time": 3362.381419, "url": "", "pos": 15982, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e4fc0", "doc": "http://www.bing.com/", "row": 8, "column": 10571, "tagName": "div", "time": 3362.381423, "url": "", "pos": 16126, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e4420", "doc": "http://www.bing.com/", "row": 8, "column": 10577, "tagName": "div", "time": 3362.381427, "url": "", "pos": 16132, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e4450", "doc": "http://www.bing.com/", "row": 8, "column": 10583, "tagName": "div", "time": 3362.381428, "url": "", "pos": 16138, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e4480", "doc": "http://www.bing.com/", "row": 8, "column": 10587, "tagName": "a", "time": 3362.381429, "url": "", "pos": 16142, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e44b0", "doc": "http://www.bing.com/", "row": 8, "column": 10592, "tagName": "li", "time": 3362.381430, "url": "", "pos": 16147, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e44e0", "doc": "http://www.bing.com/", "row": 8, "column": 10597, "tagName": "ul", "time": 3362.381431, "url": "", "pos": 16152, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e4510", "doc": "http://www.bing.com/", "row": 8, "column": 10625, "tagName": "ul", "time": 3362.381432, "url": "", "pos": 16180, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e4540", "doc": "http://www.bing.com/", "row": 8, "column": 10629, "tagName": "li", "time": 3362.381434, "url": "", "pos": 16184, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e4570", "doc": "http://www.bing.com/", "row": 8, "column": 10634, "tagName": "div", "time": 3362.381436, "url": "", "pos": 16189, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e45a0", "doc": "http://www.bing.com/", "row": 8, "column": 10639, "tagName": "div", "time": 3362.381438, "url": "", "pos": 16194, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e46c0", "doc": "http://www.bing.com/", "row": 8, "column": 10992, "tagName": "a", "time": 3362.381448, "url": "", "pos": 16547, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e46f0", "doc": "http://www.bing.com/", "row": 8, "column": 10997, "tagName": "div", "time": 3362.381458, "url": "", "pos": 16552, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e4750", "doc": "http://www.bing.com/", "row": 8, "column": 11025, "tagName": "div", "time": 3362.381461, "url": "", "pos": 16580, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e4780", "doc": "http://www.bing.com/", "row": 8, "column": 11029, "tagName": "a", "time": 3362.381462, "url": "", "pos": 16584, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e47b0", "doc": "http://www.bing.com/", "row": 8, "column": 11035, "tagName": "div", "time": 3362.381463, "url": "", "pos": 16590, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e4810", "doc": "http://www.bing.com/", "row": 8, "column": 11054, "tagName": "div", "time": 3362.381465, "url": "", "pos": 16609, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e4840", "doc": "http://www.bing.com/", "row": 8, "column": 11084, "tagName": "div", "time": 3362.381468, "url": "", "pos": 16639, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e48d0", "doc": "http://www.bing.com/", "row": 8, "column": 11124, "tagName": "div", "time": 3362.381471, "url": "", "pos": 16679, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e4900", "doc": "http://www.bing.com/", "row": 8, "column": 11130, "tagName": "div", "time": 3362.381472, "url": "", "pos": 16685, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e4930", "doc": "http://www.bing.com/", "row": 8, "column": 11136, "tagName": "div", "time": 3362.381473, "url": "", "pos": 16691, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e4960", "doc": "http://www.bing.com/", "row": 8, "column": 11141, "tagName": "li", "time": 3362.381473, "url": "", "pos": 16696, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e4990", "doc": "http://www.bing.com/", "row": 8, "column": 11146, "tagName": "ul", "time": 3362.381474, "url": "", "pos": 16701, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e49c0", "doc": "http://www.bing.com/", "row": 8, "column": 11168, "tagName": "div", "time": 3362.381476, "url": "", "pos": 16723, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e4030", "doc": "http://www.bing.com/", "row": 8, "column": 11238, "tagName": "a", "time": 3362.381480, "url": "", "pos": 16793, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e4060", "doc": "http://www.bing.com/", "row": 8, "column": 11264, "tagName": "p", "time": 3362.381484, "url": "", "pos": 16819, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e4090", "doc": "http://www.bing.com/", "row": 8, "column": 11268, "tagName": "p", "time": 3362.381486, "url": "", "pos": 16823, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e40c0", "doc": "http://www.bing.com/", "row": 8, "column": 11272, "tagName": "a", "time": 3362.381487, "url": "", "pos": 16827, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e40f0", "doc": "http://www.bing.com/", "row": 8, "column": 11297, "tagName": "p", "time": 3362.381489, "url": "", "pos": 16852, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e4120", "doc": "http://www.bing.com/", "row": 8, "column": 11301, "tagName": "p", "time": 3362.381491, "url": "", "pos": 16856, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e4150", "doc": "http://www.bing.com/", "row": 8, "column": 11307, "tagName": "div", "time": 3362.381492, "url": "", "pos": 16862, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e4180", "doc": "http://www.bing.com/", "row": 8, "column": 11313, "tagName": "div", "time": 3362.381493, "url": "", "pos": 16868, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e41b0", "doc": "http://www.bing.com/", "row": 8, "column": 11319, "tagName": "div", "time": 3362.381494, "url": "", "pos": 16874, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e41e0", "doc": "http://www.bing.com/", "row": 8, "column": 11325, "tagName": "div", "time": 3362.381494, "url": "", "pos": 16880, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e4210", "doc": "http://www.bing.com/", "row": 8, "column": 11330, "tagName": "div", "time": 3362.381495, "url": "", "pos": 16885, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e42a0", "doc": "http://www.bing.com/", "row": 8, "column": 11367, "tagName": "div", "time": 3362.381503, "url": "", "pos": 16922, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e42d0", "doc": "http://www.bing.com/", "row": 8, "column": 11373, "tagName": "div", "time": 3362.381508, "url": "", "pos": 16928, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e4300", "doc": "http://www.bing.com/", "row": 8, "column": 11391, "tagName": "div", "time": 3362.381510, "url": "", "pos": 16946, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e4330", "doc": "http://www.bing.com/", "row": 8, "column": 11397, "tagName": "div", "time": 3362.381526, "url": "", "pos": 16952, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e4360", "doc": "http://www.bing.com/", "row": 8, "column": 11403, "tagName": "div", "time": 3362.381527, "url": "", "pos": 16958, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e4390", "doc": "http://www.bing.com/", "row": 8, "column": 11440, "tagName": "div", "time": 3362.381529, "url": "", "pos": 16995, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e69f0", "doc": "http://www.bing.com/", "row": 8, "column": 11458, "tagName": "ul", "time": 3362.381550, "url": "", "pos": 17013, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e6a50", "doc": "http://www.bing.com/", "row": 8, "column": 11462, "tagName": "li", "time": 3362.381578, "url": "", "pos": 17017, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e6a80", "doc": "http://www.bing.com/", "row": 8, "column": 11468, "tagName": "span", "time": 3362.381590, "url": "", "pos": 17023, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e6ae0", "doc": "http://www.bing.com/", "row": 8, "column": 11496, "tagName": "span", "time": 3362.381604, "url": "", "pos": 17051, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e6b40", "doc": "http://www.bing.com/", "row": 8, "column": 11504, "tagName": "li", "time": 3362.381607, "url": "", "pos": 17059, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e6b70", "doc": "http://www.bing.com/", "row": 8, "column": 11508, "tagName": "li", "time": 3362.381608, "url": "", "pos": 17063, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e6bd0", "doc": "http://www.bing.com/", "row": 8, "column": 11598, "tagName": "a", "time": 3362.381615, "url": "", "pos": 17153, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e6c60", "doc": "http://www.bing.com/", "row": 8, "column": 11621, "tagName": "a", "time": 3362.381656, "url": "", "pos": 17176, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e6cc0", "doc": "http://www.bing.com/", "row": 8, "column": 11629, "tagName": "li", "time": 3362.381659, "url": "", "pos": 17184, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e6cf0", "doc": "http://www.bing.com/", "row": 8, "column": 11633, "tagName": "li", "time": 3362.381660, "url": "", "pos": 17188, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e6d50", "doc": "http://www.bing.com/", "row": 8, "column": 11723, "tagName": "a", "time": 3362.381668, "url": "", "pos": 17278, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e6db0", "doc": "http://www.bing.com/", "row": 8, "column": 11732, "tagName": "a", "time": 3362.381684, "url": "", "pos": 17287, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e6e10", "doc": "http://www.bing.com/", "row": 8, "column": 11740, "tagName": "li", "time": 3362.381687, "url": "", "pos": 17295, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e6e40", "doc": "http://www.bing.com/", "row": 8, "column": 11744, "tagName": "li", "time": 3362.381688, "url": "", "pos": 17299, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e6ea0", "doc": "http://www.bing.com/", "row": 8, "column": 11813, "tagName": "a", "time": 3362.381693, "url": "", "pos": 17368, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e6f30", "doc": "http://www.bing.com/", "row": 8, "column": 11826, "tagName": "a", "time": 3362.381712, "url": "", "pos": 17381, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e6f90", "doc": "http://www.bing.com/", "row": 8, "column": 11834, "tagName": "li", "time": 3362.381715, "url": "", "pos": 17389, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e6fc0", "doc": "http://www.bing.com/", "row": 8, "column": 11838, "tagName": "li", "time": 3362.381716, "url": "", "pos": 17393, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e6420", "doc": "http://www.bing.com/", "row": 8, "column": 11943, "tagName": "a", "time": 3362.381725, "url": "", "pos": 17498, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e64b0", "doc": "http://www.bing.com/", "row": 8, "column": 11960, "tagName": "a", "time": 3362.381740, "url": "", "pos": 17515, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e6510", "doc": "http://www.bing.com/", "row": 8, "column": 11968, "tagName": "li", "time": 3362.381742, "url": "", "pos": 17523, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e6540", "doc": "http://www.bing.com/", "row": 8, "column": 11972, "tagName": "li", "time": 3362.381743, "url": "", "pos": 17527, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e65d0", "doc": "http://www.bing.com/", "row": 8, "column": 12076, "tagName": "a", "time": 3362.381749, "url": "", "pos": 17631, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e6630", "doc": "http://www.bing.com/", "row": 8, "column": 12084, "tagName": "a", "time": 3362.381769, "url": "", "pos": 17639, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e6690", "doc": "http://www.bing.com/", "row": 8, "column": 12092, "tagName": "li", "time": 3362.381772, "url": "", "pos": 17647, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e66c0", "doc": "http://www.bing.com/", "row": 8, "column": 12096, "tagName": "li", "time": 3362.381773, "url": "", "pos": 17651, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e6720", "doc": "http://www.bing.com/", "row": 8, "column": 12144, "tagName": "a", "time": 3362.381778, "url": "", "pos": 17699, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e67e0", "doc": "http://www.bing.com/", "row": 8, "column": 12156, "tagName": "a", "time": 3362.381798, "url": "", "pos": 17711, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e6810", "doc": "http://www.bing.com/", "row": 8, "column": 12161, "tagName": "li", "time": 3362.381799, "url": "", "pos": 17716, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e6840", "doc": "http://www.bing.com/", "row": 8, "column": 12166, "tagName": "ul", "time": 3362.381800, "url": "", "pos": 17721, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e6870", "doc": "http://www.bing.com/", "row": 8, "column": 12172, "tagName": "div", "time": 3362.381801, "url": "", "pos": 17727, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e68a0", "doc": "http://www.bing.com/", "row": 8, "column": 12178, "tagName": "div", "time": 3362.381802, "url": "", "pos": 17733, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e6900", "doc": "http://www.bing.com/", "row": 8, "column": 12185, "tagName": "div", "time": 3362.381804, "url": "", "pos": 17740, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e6930", "doc": "http://www.bing.com/", "row": 8, "column": 12190, "tagName": "td", "time": 3362.381805, "url": "", "pos": 17745, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e6960", "doc": "http://www.bing.com/", "row": 8, "column": 12195, "tagName": "tr", "time": 3362.381806, "url": "", "pos": 17750, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e6990", "doc": "http://www.bing.com/", "row": 8, "column": 12203, "tagName": "table", "time": 3362.381808, "url": "", "pos": 17758, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e69c0", "doc": "http://www.bing.com/", "row": 8, "column": 12234, "tagName": "script", "time": 3362.381810, "url": "", "pos": 17789, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87bbf90", "doc": "http://www.bing.com/", "row": 10, "column": 14, "tagName": "script", "time": 3362.382218, "url": "", "pos": 42410, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb87e6270", "doc": "http://www.bing.com/", "row": 10, "column": 34, "tagName": "div", "time": 3362.452879, "url": "", "pos": 42430, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e6330", "doc": "http://www.bing.com/", "row": 10, "column": 58, "tagName": "script", "time": 3362.452923, "url": "", "pos": 42454, "chunkLen": 56255, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e6030", "doc": "http://www.bing.com/", "row": 12, "column": 14, "tagName": "script", "time": 3362.468494, "url": "", "pos": 48956, "chunkLen": 56255, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8809ae0", "doc": "http://www.bing.com/", "row": 12, "column": 38, "tagName": "script", "time": 3362.483242, "url": "", "pos": 48980, "chunkLen": 56256, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb87e6390", "doc": "http://www.bing.com/", "row": 14, "column": 14, "tagName": "script", "time": 3362.483283, "url": "", "pos": 49251, "chunkLen": 56256, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8809a50", "doc": "http://www.bing.com/", "row": 14, "column": 38, "tagName": "script", "time": 3362.483287, "url": "", "pos": 49275, "chunkLen": 56256, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8809a80", "doc": "http://www.bing.com/", "row": 16, "column": 14, "tagName": "script", "time": 3362.483367, "url": "", "pos": 49760, "chunkLen": 56256, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb88099c0", "doc": "http://www.bing.com/", "row": 16, "column": 38, "tagName": "script", "time": 3362.483372, "url": "", "pos": 49784, "chunkLen": 56256, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb88099f0", "doc": "http://www.bing.com/", "row": 18, "column": 14, "tagName": "script", "time": 3362.483510, "url": "", "pos": 56160, "chunkLen": 56256, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8809930", "doc": "http://www.bing.com/", "row": 18, "column": 20, "tagName": "div", "time": 3362.483519, "url": "", "pos": 56166, "chunkLen": 56256, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8809900", "doc": "http://www.bing.com/", "row": 18, "column": 27, "tagName": "body", "time": 3362.483521, "url": "", "pos": 56173, "chunkLen": 56256, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb88098d0", "doc": "http://www.bing.com/", "row": 18, "column": 58, "tagName": "script", "time": 3362.483524, "url": "", "pos": 56204, "chunkLen": 56256, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb8809960", "doc": "http://www.bing.com/", "row": 20, "column": 14, "tagName": "script", "time": 3362.483540, "url": "", "pos": 56248, "chunkLen": 56256, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb8809840", "doc": "http://www.bing.com/", "row": 20, "column": 21, "tagName": "html", "time": 3362.484579, "url": "", "pos": 56255, "chunkLen": 56256, "isStartTag": 0}}
+{"Resource": {"id": 3, "url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7", "sentTime": -1.000000, "len": 42, "from": "0xb87de810",                            "mimeType": "image/gif", "contentLength": 42, "httpStatus": 0, "connId": 0, "connReused": 0, "cached": 0,                            "requestTime": 3362.493917, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 3362.493939, "len": 42}}
+{"Resource": {"id": 2, "url": "http://www.bing.com/s/a/hpc18.png", "sentTime": -1.000000, "len": 6660, "from": "0xb87b9570",                            "mimeType": "image/png", "contentLength": 6660, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0}}
+{"ReceivedChunk": {"receivedTime": 3362.497318, "len": 6660}}
+{"HOL": {"type": 1, "docUrl": "http://www.bing.com/", "code": "0xb86eca20", "row": 0, "column": 219, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.bing.com/", "code": "0xb86ecdb0", "row": 2, "column": 119, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "http://www.bing.com/", "code": "0xb86ece70", "row": 4, "column": 37, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.bing.com/", "code": "0xb8781b70", "row": 4, "column": 26518, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.bing.com/", "code": "0xb87bbf30", "row": 6, "column": 539, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.bing.com/", "code": "0xb87e69c0", "row": 8, "column": 12234, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.bing.com/", "code": "0xb87e6330", "row": 10, "column": 58, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.bing.com/", "code": "0xb8809ae0", "row": 12, "column": 38, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.bing.com/", "code": "0xb8809a50", "row": 14, "column": 38, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.bing.com/", "code": "0xb88099c0", "row": 16, "column": 38, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.bing.com/", "code": "0xb88098d0", "row": 18, "column": 58, "url": ""}}
+{"Computation": {"type": "execScript", "code": "0xb86ecb10", "docUrl": "http://www.bing.com/", "startTime": 3362.177741, "endTime": 3362.244326, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb86ecae0", "docUrl": "http://www.bing.com/", "startTime": 3362.244381, "endTime": 3362.244463, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb86eced0", "docUrl": "http://www.bing.com/", "startTime": 3362.311390, "endTime": 3362.336182, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb87bbc00", "docUrl": "http://www.bing.com/", "startTime": 3362.350857, "endTime": 3362.352061, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb87bbc00", "docUrl": "http://www.bing.com/", "startTime": 3362.351384, "endTime": 3362.351505, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb87bbc00", "docUrl": "http://www.bing.com/", "startTime": 3362.351471, "endTime": 3362.351499, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb87bbf90", "docUrl": "http://www.bing.com/", "startTime": 3362.382233, "endTime": 3362.452868, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb87bbf90", "docUrl": "http://www.bing.com/", "startTime": 3362.406227, "endTime": 3362.427885, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb87bbf90", "docUrl": "http://www.bing.com/", "startTime": 3362.423232, "endTime": 3362.427854, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb87bbf90", "docUrl": "http://www.bing.com/", "startTime": 3362.429007, "endTime": 3362.429107, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0xb87bbf90", "docUrl": "http://www.bing.com/", "startTime": 3362.451099, "endTime": 3362.451277, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb87e6030", "docUrl": "http://www.bing.com/", "startTime": 3362.475209, "endTime": 3362.475211, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0xb87e6030", "docUrl": "http://www.bing.com/", "startTime": 3362.475216, "endTime": 3362.483219, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb8809960", "docUrl": "http://www.bing.com/", "startTime": 3362.483545, "endTime": 3362.484573, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb8809840", "docUrl": "http://www.bing.com/", "startTime": 3362.484600, "endTime": 3362.484601, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8809840", "docUrl": "http://www.bing.com/", "startTime": 3362.484602, "endTime": 3362.484603, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb8809840", "docUrl": "http://www.bing.com/", "startTime": 3362.484604, "endTime": 3362.484605, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Complete': "www.bing.com_"}
+{"page": "www.bing.com_Passport.aspx?popup=1"}
+{"DOMLoad": 3364.886353}
+{"Resource": {"id": 58, "url": "http://www.bing.com/Passport.aspx?popup=1", "sentTime": -1.000000, "len": 314, "from": "(nil)",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 58, "connReused": 1, "cached": 0,                            "requestTime": 3364.828654, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 1, "connectEnd": 1, "sendStart": 1, "sendEnd": 1, "receiveHeadersEnd": 46, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 3364.875583, "len": 314}}
+{"WprofHTMLTag": {"code": "0xb96eb510", "doc": "http://www.bing.com/Passport.aspx?popup=1", "row": 0, "column": 6, "tagName": "html", "time": 3364.880006, "url": "", "pos": 6, "chunkLen": 314, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96ebf00", "doc": "http://www.bing.com/Passport.aspx?popup=1", "row": 0, "column": 12, "tagName": "head", "time": 3364.880287, "url": "", "pos": 12, "chunkLen": 314, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96ebb70", "doc": "http://www.bing.com/Passport.aspx?popup=1", "row": 0, "column": 19, "tagName": "title", "time": 3364.880311, "url": "", "pos": 19, "chunkLen": 314, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96ebe70", "doc": "http://www.bing.com/Passport.aspx?popup=1", "row": 0, "column": 31, "tagName": "title", "time": 3364.880341, "url": "", "pos": 31, "chunkLen": 314, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb9382090", "doc": "http://www.bing.com/Passport.aspx?popup=1", "row": 0, "column": 38, "tagName": "head", "time": 3364.880344, "url": "", "pos": 38, "chunkLen": 314, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb96ebd20", "doc": "http://www.bing.com/Passport.aspx?popup=1", "row": 0, "column": 44, "tagName": "body", "time": 3364.880345, "url": "", "pos": 44, "chunkLen": 314, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96ebc00", "doc": "http://www.bing.com/Passport.aspx?popup=1", "row": 0, "column": 85, "tagName": "script", "time": 3364.880387, "url": "", "pos": 85, "chunkLen": 314, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0xb96ebcc0", "doc": "http://www.bing.com/Passport.aspx?popup=1", "row": 2, "column": 14, "tagName": "script", "time": 3364.880404, "url": "", "pos": 300, "chunkLen": 314, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb93823c0", "doc": "http://www.bing.com/Passport.aspx?popup=1", "row": 2, "column": 21, "tagName": "body", "time": 3364.882151, "url": "", "pos": 307, "chunkLen": 314, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0xb93827b0", "doc": "http://www.bing.com/Passport.aspx?popup=1", "row": 2, "column": 28, "tagName": "html", "time": 3364.882158, "url": "", "pos": 314, "chunkLen": 314, "isStartTag": 0}}
+{"HOL": {"type": 1, "docUrl": "http://www.bing.com/Passport.aspx?popup=1", "code": "0xb96ebc00", "row": 0, "column": 85, "url": ""}}
+{"Computation": {"type": "layout", "code": "0xb91af510", "docUrl": "http://www.bing.com/", "startTime": 3364.515393, "endTime": 3364.515460, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0xb96ebcc0", "docUrl": "http://www.bing.com/Passport.aspx?popup=1", "startTime": 3364.880418, "endTime": 3364.882141, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0xb93827b0", "docUrl": "http://www.bing.com/Passport.aspx?popup=1", "startTime": 3364.885931, "endTime": 3364.885932, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0xb93827b0", "docUrl": "http://www.bing.com/Passport.aspx?popup=1", "startTime": 3364.885933, "endTime": 3364.885934, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Complete': "www.bing.com_Passport.aspx?popup=1"}
+Killed
